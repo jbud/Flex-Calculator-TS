@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'fontSmall';
+    src: url(../fonts/HoneywellMCDUSmall.ttf);
+}
+@font-face {
+    font-family: 'fontLarge';
+    src: url(../fonts/HoneywellMCDU.ttf);
+}
+#FMC {
+    background-color: black;
+    display: flex;
+    left: 0px;
+    margin: 8px;
+    width: 375px;
+    height: 325px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 8px black;
+    color: white;
+    font-size: 14pt;
+    -ms-user-select: None;
+    -moz-user-select: None;
+    -webkit-user-select: None;
+    user-select: None;
+    padding-right: 4px;
+    padding-bottom: 8px;
+    top: 0%;
+}
+
+.small {
+    font-size: 12pt;
+    vertical-align: bottom;
+    font-family: 'fontSmall';
+}
+
+.large {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    vertical-align: bottom;
+    line-height: 14px;
+    font-family: 'fontLarge';
+}
+
+.larger {
+    padding-top: 4px;
+    font-size: 17pt;
+    padding-bottom: 0px;
+    vertical-align: bottom;
+    line-height: 17px;
+    font-family: 'fontLarge';
+}
+
+table {
+    color: white;
+    width: 100%;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+tr {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: 0;
+}
+
+td {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: 0;
+}
+
+.orange {
+    color: #fe9a2e;
+}
+
+.green {
+    color: #04b404;
+}
+
+.blue {
+    color: #2eccfa;
+}
+
+.black {
+    color: #000000;
+}
+
+.red {
+    color: #ff3333;
+}
+.grey {
+    color: #5c5c5c;
+}
+.white {
+    color: #ffffff;
+}
