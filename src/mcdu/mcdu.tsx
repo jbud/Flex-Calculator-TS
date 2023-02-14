@@ -1,5 +1,5 @@
 import { useContext } from 'react';
-import { MCDUSettingsContextProvider } from '../vspeeds/vspeeds';
+import { MCDUSettingsContextProvider } from './mcduSettings';
 
 const MCDU = () => {
     const mcduSettings = useContext(MCDUSettingsContextProvider);

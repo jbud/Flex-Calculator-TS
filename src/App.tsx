@@ -1,9 +1,19 @@
 import { useContext, useState } from 'react';
+import { Box } from '@mui/system';
+import { ThemeProvider, createTheme } from '@mui/material/styles';
+import CssBaseline from '@mui/material/CssBaseline';
+import Form from './form/form';
+import MCDU from './mcdu/mcdu';
+import { MCDUSettingsContextProvider, mcduSettings } from './mcdu/mcduSettings';
+import { decode } from 'html-entities';
 import './mcdu/mcdu.css';
 import './App.css';
-import MCDU from './mcdu/mcdu';
-import { MCDUSettingsContextProvider, mcduSettings } from './vspeeds/vspeeds';
-import { decode } from 'html-entities';
+
+const darkTheme = createTheme({
+    palette: {
+        mode: 'dark',
+    },
+});
 
 function App() {
     const speeds = useContext(MCDUSettingsContextProvider);
@@ -35,12 +45,18 @@ function App() {
         }
     };
     return (
-        <div className="App">
-            <MCDUSettingsContextProvider.Provider value={speed}>
-                <MCDU />
-                <button onClick={test}>test</button>
-            </MCDUSettingsContextProvider.Provider>
-        </div>
+        <ThemeProvider theme={darkTheme}>
+            <CssBaseline />
+            <div className="App">
+                <MCDUSettingsContextProvider.Provider value={speed}>
+                    <Box display="flex">
+                        <Form />
+                        <MCDU />
+                    </Box>
+                    <button onClick={test}>test</button>
+                </MCDUSettingsContextProvider.Provider>
+            </div>
+        </ThemeProvider>
     );
 }
 
