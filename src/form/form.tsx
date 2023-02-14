@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import {
     Box,
     TextField,
@@ -10,25 +10,43 @@ import {
     Checkbox,
     Button,
 } from '@mui/material';
+import { Metar } from '@flybywiresim/api-client';
+import { parseMetar } from 'metar-taf-parser';
 
 const Form = () => {
     const [runways, setRunways] = useState([{ value: '' }]);
     const [rwDisabled, setRWDisabled] = useState(true);
     const [weightUnit, setWeightUnit] = React.useState('kg');
+    const [metar, setMetar] = useState({});
 
     const handleChangeWeightUnit = (
         event: React.ChangeEvent<HTMLInputElement>
     ) => {
         setWeightUnit(event.target.value);
     };
-
-    const handleApi = () => {
-        console.log('cool api stuff');
+    const getMETAR = async (icao: string) => {
+        Metar.get(icao, 'vatsim')
+            .then((data) => {
+                setMetar(parseMetar(data.metar));
+            })
+            .catch((err) => {
+                console.error(err);
+            });
+    };
+    const handleApi = (e: React.FocusEvent<HTMLTextAreaElement>) => {
+        getMETAR(e.target.value);
+        //todo: get runways from api
         setRunways(() => {
             return [{ value: '10L' }, { value: '10R' }];
         });
         setRWDisabled(false);
     };
+
+    useEffect(() => {
+        //todo: apply metar elements to takeoffInstance settings
+        console.log(metar);
+    }, [metar]);
+
     return (
         <Box
             component="form"
