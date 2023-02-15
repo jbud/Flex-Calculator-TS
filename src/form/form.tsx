@@ -14,10 +14,37 @@ import { Metar } from '@flybywiresim/api-client';
 import { parseMetar } from 'metar-taf-parser';
 
 const Form = () => {
-    const [runways, setRunways] = useState([{ value: '' }]);
+    const [runways, setRunways] = useState([
+        { value: '', heading: '', elevation: '' },
+    ]);
     const [rwDisabled, setRWDisabled] = useState(true);
+    const [calculateDisabled, setCalculateDisabled] = useState(true);
     const [weightUnit, setWeightUnit] = React.useState('kg');
-    const [metar, setMetar] = useState({});
+    const [metar, setMetar] = useState({
+        message: 'Select an ICAO to populate METAR and Runways',
+    });
+
+    const getRunways = async (icao: string) => {
+        fetch('/database/runways/' + icao + '.json')
+            .then((response) => response.json())
+            .then((data) => {
+                const rws = data.runways;
+                const rwList = [{ value: '', heading: '', elevation: '' }];
+                for (let i = 0; i < rws.length; i++) {
+                    rwList.push({
+                        value: rws[i].he_ident,
+                        heading: rws[i].he_heading_degT,
+                        elevation: data.elevation_ft,
+                    });
+                    rwList.push({
+                        value: rws[i].le_ident,
+                        heading: rws[i].le_heading_degT,
+                        elevation: data.elevation_ft,
+                    });
+                }
+                setRunways(rwList);
+            });
+    };
 
     const handleChangeWeightUnit = (
         event: React.ChangeEvent<HTMLInputElement>
@@ -35,12 +62,28 @@ const Form = () => {
     };
     const handleApi = (e: React.FocusEvent<HTMLTextAreaElement>) => {
         getMETAR(e.target.value);
-        //todo: get runways from api
-        setRunways(() => {
-            return [{ value: '10L' }, { value: '10R' }];
-        });
+        getRunways(e.target.value);
         setRWDisabled(false);
     };
+
+    const handleCalculate = () => {}; // todo: calculate takeoff performance and populate context for MCDU
+
+    const handleRunwayChange = () => {};
+
+    const handleWeightChange = () => {};
+
+    const handleCGChange = () => {};
+
+    const handleFlapsChange = () => {};
+
+    const handleAiceChange = () => {};
+
+    const handlePacksChange = () => {};
+
+    useEffect(() => {
+        // todo apply runway elements to takeoffInstance settings
+        console.log(runways);
+    }, [runways]);
 
     useEffect(() => {
         //todo: apply metar elements to takeoffInstance settings
@@ -62,8 +105,15 @@ const Form = () => {
                     required
                     id="outlined-required-icao"
                     label="ICAO"
-                    defaultValue="KPDX"
                     onBlur={handleApi}
+                />
+                <TextField
+                    id="outlined-textarea"
+                    label="METAR"
+                    placeholder="Select an ICAO to populate METAR and Runways"
+                    multiline
+                    disabled
+                    value={metar.message !== undefined ? metar.message : ''}
                 />
                 <TextField
                     id="outlined-select-runway"
@@ -72,6 +122,7 @@ const Form = () => {
                     label="Select a runway"
                     defaultValue=""
                     disabled={rwDisabled}
+                    onChange={handleRunwayChange}
                 >
                     {runways.map((option) => (
                         <MenuItem key={option.value} value={option.value}>
@@ -85,6 +136,7 @@ const Form = () => {
                         id="outlined-required"
                         label="Weight"
                         defaultValue=""
+                        onChange={handleWeightChange}
                     />
                     <RadioGroup
                         aria-labelledby="demo-controlled-radio-buttons-group"
@@ -98,7 +150,7 @@ const Form = () => {
                     >
                         <FormControlLabel
                             value="kgs"
-                            control={<Radio size="small" />}
+                            control={<Radio size="small" checked />}
                             label="KGS"
                         />
                         <FormControlLabel
@@ -114,6 +166,7 @@ const Form = () => {
                     id="outlined-required"
                     label="CG"
                     defaultValue=""
+                    onChange={handleCGChange}
                 />
                 <TextField
                     required
@@ -121,6 +174,7 @@ const Form = () => {
                     select
                     label="Flaps Conf"
                     defaultValue=""
+                    onChange={handleFlapsChange}
                 >
                     <MenuItem key="1" value="1">
                         1+F
@@ -151,14 +205,22 @@ const Form = () => {
                         control={<Checkbox defaultChecked />}
                         label="Anti-Ice On"
                         id="antiice"
+                        onChange={handleAiceChange}
                     />
                     <FormControlLabel
                         control={<Checkbox />}
                         label="AC On"
                         id="packs"
+                        onChange={handlePacksChange}
                     />
                 </FormGroup>
-                <Button variant="outlined">Calculate</Button>
+                <Button
+                    variant="outlined"
+                    disabled={calculateDisabled}
+                    onClick={handleCalculate}
+                >
+                    Calculate
+                </Button>
             </Box>
         </Box>
     );
