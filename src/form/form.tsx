@@ -193,57 +193,16 @@ const Form = () => {
 
     const handleWeightChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
         const MTOWk = 79000;
-        const MTOWl = 174165;
         const minTowk = 40000;
-        const minTowl = 88000;
         let w = parseInt(e.target.value);
-        if (settings.isKG) {
-            if (w > MTOWk) {
-                setFormValidation((valid) => {
-                    return {
-                        ...valid,
-                        weight: true,
-                    };
-                });
-            } else if (w < minTowk) {
-                setFormValidation((valid) => {
-                    return {
-                        ...valid,
-                        weight: true,
-                    };
-                });
-            } else {
-                setFormValidation((valid) => {
-                    return {
-                        ...valid,
-                        weight: false,
-                    };
-                });
-            }
-        } else {
-            if (w > MTOWl) {
-                setFormValidation((valid) => {
-                    return {
-                        ...valid,
-                        weight: true,
-                    };
-                });
-            } else if (w < minTowl) {
-                setFormValidation((valid) => {
-                    return {
-                        ...valid,
-                        weight: true,
-                    };
-                });
-            } else {
-                setFormValidation((valid) => {
-                    return {
-                        ...valid,
-                        weight: false,
-                    };
-                });
-            }
-        }
+        const weightValidation = FlexMath.parseWeight(w, settings.isKG);
+        const error = (weightValidation > MTOWK || weightValidation < minTowk);
+        setFormValidation((valid) => {
+            return {
+                ...valid,
+                weight: error,
+            };
+        });
         clearTimeout(tick);
         const newTick = setTimeout(() => {
             changeSettings('tow', parseInt(e.target.value));
@@ -265,21 +224,13 @@ const Form = () => {
             TrimMax: 3.8,
         };
         const cg = Number(e.target.value);
-        if (cg < cg320.CGMin || cg > cg320.CGMax) {
-            setFormValidation((valid) => {
-                return {
-                    ...valid,
-                    CG: true,
-                };
-            });
-        } else {
-            setFormValidation((valid) => {
-                return {
-                    ...valid,
-                    CG: false,
-                };
-            });
-        }
+        const error = (cg < cg320.CGMin || cg > cg320.CGMax)
+        setFormValidation((valid) => {
+            return {
+                ...valid,
+                CG: error,
+            };
+        });
         const magic1 =
             (cg320.TrimMin - cg320.TrimMax) / (cg320.CGMax - cg320.CGMin);
 
