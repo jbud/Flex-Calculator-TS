@@ -380,7 +380,7 @@ export class FlexMath {
     static calculateFlexDist(settings: TakeoffInstance) {
         let density =
             settings.runwayAltitude +
-            (BARO_SEA - settings.baro) * 27 +
+            (BARO_SEA - FlexMath.parseQNH(settings.baro, settings.isHP)) * 27 +
             (settings.oat - (15 - (settings.runwayAltitude / 1000) * 2)) * 120;
 
         let TREF = a20n.trefaice + (settings.runwayAltitude / 1000) * 2;
@@ -499,7 +499,7 @@ export class FlexMath {
             (trendWithModifiers[2] / 100) * flapWindAIPackCorrection,
             (trendWithModifiers[3] / 100) * flapWindAIPackCorrection,
             (trendWithModifiers[4] / 100) * flapWindAIPackCorrection,
-            settings.availRunway,
+            FlexMath.parseDist(settings.availRunway, settings.isMeters),
         ];
 
         let flexTrendTable = this.trend(

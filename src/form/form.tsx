@@ -20,6 +20,7 @@ import { RootState } from '../store/store';
 const Form = () => {
     const disp = useDispatch();
     const mcduSetting = useSelector((state: RootState) => state.mcdu);
+    const [weightChk, setWeightChk] = useState('kgs');
     const [runways, setRunways] = useState([
         { value: '', heading: '', elevation: '', length: '' },
     ]);
@@ -46,7 +47,7 @@ const Form = () => {
         windHeading: 0,
         windKts: 0,
         tow: 0,
-        isKG: false,
+        isKG: true,
         isHP: false,
         isMeters: false,
         baro: 0,
@@ -181,7 +182,8 @@ const Form = () => {
     };
 
     const handleChangeWeightUnit = (e: React.ChangeEvent<HTMLInputElement>) => {
-        changeSettings('isKG', e.target.value === 'kg');
+        setWeightChk(e.target.value);
+        changeSettings('isKG', e.target.value === 'kgs');
     };
 
     const handleCGChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -305,12 +307,22 @@ const Form = () => {
                     >
                         <FormControlLabel
                             value="kgs"
-                            control={<Radio size="small" checked />}
+                            control={
+                                <Radio
+                                    size="small"
+                                    checked={weightChk === 'kgs'}
+                                />
+                            }
                             label="KGS"
                         />
                         <FormControlLabel
                             value="lbs"
-                            control={<Radio size="small" />}
+                            control={
+                                <Radio
+                                    size="small"
+                                    checked={weightChk === 'lbs'}
+                                />
+                            }
                             label="LBS"
                         />
                     </RadioGroup>
