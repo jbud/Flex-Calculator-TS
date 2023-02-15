@@ -19,6 +19,7 @@ export type TakeoffInstance = {
     packs: boolean;
     togaRequiredRunway: number;
     toga: boolean;
+    runwayCondition: number;
 };
 
 type AircraftConfig = {
@@ -364,12 +365,18 @@ export class FlexMath {
         Weight: number,
         Flaps: number,
         RunwayAlt: number,
+        isMeters: boolean,
         ASD = 1621
     ) {
         const w = Weight / 1000;
         const v2 = FlexMath.v2Speed(w, Flaps, RunwayAlt);
         const vR = FlexMath.vRSpeed(v2);
-        const v1 = FlexMath.v1Speed(availRunway, requiredRunway, vR, ASD);
+        const v1 = FlexMath.v1Speed(
+            FlexMath.parseDist(availRunway, isMeters),
+            requiredRunway,
+            vR,
+            ASD
+        );
         return {
             v1: v1,
             vr: vR,

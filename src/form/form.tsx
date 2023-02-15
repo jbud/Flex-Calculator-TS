@@ -27,6 +27,12 @@ const Form = () => {
     const [rwDisabled, setRWDisabled] = useState(true);
     const [calculateDisabled, setCalculateDisabled] = useState(true);
     const [weightUnit] = useState('kg');
+    const [formValidation, setFormValidation] = useState({
+        ICAO: false,
+        weight: false,
+        CG: false,
+    });
+
     const [tick, setTick] = useState<NodeJS.Timeout | undefined>(undefined);
     const [metar, setMetar] = useState({
         message: 'Select an ICAO to populate METAR and Runways',
@@ -59,6 +65,7 @@ const Form = () => {
         packs: false,
         togaRequiredRunway: 0,
         toga: false,
+        runwayCondition: 0,
     });
 
     const changeSettings = (setting: string, set: number | boolean) => {
@@ -122,9 +129,20 @@ const Form = () => {
                     temperature:
                         mtar.temperature !== undefined ? mtar.temperature : 0,
                 });
+                setFormValidation((valid) => {
+                    return {
+                        ...valid,
+                        ICAO: false,
+                    };
+                });
             })
             .catch((err) => {
-                console.error(err);
+                setFormValidation((valid) => {
+                    return {
+                        ...valid,
+                        ICAO: true,
+                    };
+                });
             });
     };
     const handleApi = (e: React.FocusEvent<HTMLTextAreaElement>) => {
@@ -134,7 +152,8 @@ const Form = () => {
     };
 
     const handleCalculate = () => {
-        console.log(settings);
+        if (formValidation.ICAO || formValidation.weight || formValidation.CG)
+            return;
         const ret = FlexMath.calculateFlexDist(settings);
         const vSpeeds = FlexMath.CalculateVSpeeds(
             settings.availRunway,
@@ -142,9 +161,9 @@ const Form = () => {
             settings.tow,
             settings.flaps,
             settings.runwayAltitude,
-            1230
+            settings.isMeters,
+            settings.runwayCondition
         );
-        console.log(ret);
         disp(
             setMCDU({
                 ...mcduSetting,
@@ -173,6 +192,58 @@ const Form = () => {
     };
 
     const handleWeightChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
+        const MTOWk = 79000;
+        const MTOWl = 174165;
+        const minTowk = 40000;
+        const minTowl = 88000;
+        let w = parseInt(e.target.value);
+        if (settings.isKG) {
+            if (w > MTOWk) {
+                setFormValidation((valid) => {
+                    return {
+                        ...valid,
+                        weight: true,
+                    };
+                });
+            } else if (w < minTowk) {
+                setFormValidation((valid) => {
+                    return {
+                        ...valid,
+                        weight: true,
+                    };
+                });
+            } else {
+                setFormValidation((valid) => {
+                    return {
+                        ...valid,
+                        weight: false,
+                    };
+                });
+            }
+        } else {
+            if (w > MTOWl) {
+                setFormValidation((valid) => {
+                    return {
+                        ...valid,
+                        weight: true,
+                    };
+                });
+            } else if (w < minTowl) {
+                setFormValidation((valid) => {
+                    return {
+                        ...valid,
+                        weight: true,
+                    };
+                });
+            } else {
+                setFormValidation((valid) => {
+                    return {
+                        ...valid,
+                        weight: false,
+                    };
+                });
+            }
+        }
         clearTimeout(tick);
         const newTick = setTimeout(() => {
             changeSettings('tow', parseInt(e.target.value));
@@ -194,6 +265,21 @@ const Form = () => {
             TrimMax: 3.8,
         };
         const cg = Number(e.target.value);
+        if (cg < cg320.CGMin || cg > cg320.CGMax) {
+            setFormValidation((valid) => {
+                return {
+                    ...valid,
+                    CG: true,
+                };
+            });
+        } else {
+            setFormValidation((valid) => {
+                return {
+                    ...valid,
+                    CG: false,
+                };
+            });
+        }
         const magic1 =
             (cg320.TrimMin - cg320.TrimMax) / (cg320.CGMax - cg320.CGMin);
 
@@ -223,6 +309,10 @@ const Form = () => {
         );
     };
 
+    const handleRwCondChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
+        changeSettings('runwayCondition', e.target.value === '1' ? 250 : 850);
+    };
+
     const handleAiceChange = (e: React.SyntheticEvent<Element, Event>) => {
         changeSettings('antiIce', (e.target as HTMLInputElement).checked);
     };
@@ -232,13 +322,7 @@ const Form = () => {
     };
 
     useEffect(() => {
-        // todo apply runway elements to takeoffInstance settings
-        console.log(runways);
-    }, [runways]);
-
-    useEffect(() => {
         //todo: apply metar elements to takeoffInstance settings
-        console.log(metar);
         changeSettings('windHeading', metar.wind.degrees);
         changeSettings('windKts', metar.wind.speed);
         changeSettings('oat', metar.temperature);
@@ -259,6 +343,7 @@ const Form = () => {
         >
             <Box display="flex" flexDirection="column">
                 <TextField
+                    error={formValidation.ICAO}
                     required
                     id="outlined-required-icao"
                     label="ICAO"
@@ -289,6 +374,7 @@ const Form = () => {
                 </TextField>
                 <Box display="flex" flexDirection="row">
                     <TextField
+                        error={formValidation.weight}
                         required
                         id="outlined-required"
                         label="Weight"
@@ -329,6 +415,7 @@ const Form = () => {
                 </Box>
 
                 <TextField
+                    error={formValidation.CG}
                     required
                     id="outlined-required"
                     label="CG"
@@ -359,6 +446,7 @@ const Form = () => {
                     required
                     label="Runway Cond"
                     defaultValue=""
+                    onChange={handleRwCondChange}
                 >
                     <MenuItem key="1" value="1">
                         Dry
