@@ -1,6 +1,0 @@
-name: submodules-init
-on:
-  workflow_dispatch:
-jobs:
-  build:
-    uses: snickerbockers/submodules-init@v4
