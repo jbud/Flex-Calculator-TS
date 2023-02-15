@@ -75,7 +75,7 @@ const Form = () => {
     };
 
     const getRunways = async (icao: string) => {
-        fetch('/database/runways/' + icao + '.json')
+        fetch('./database/runways/' + icao + '.json')
             .then((response) => response.json())
             .then((data) => {
                 const rws = data.runways;
