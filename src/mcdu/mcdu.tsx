@@ -1,8 +1,8 @@
-import { useContext } from 'react';
-import { MCDUSettingsContextProvider } from './mcduSettings';
+import { RootState } from '../store/store';
+import { useSelector } from 'react-redux';
 
 const MCDU = () => {
-    const mcduSettings = useContext(MCDUSettingsContextProvider);
+    const mcduSettings = useSelector((state: RootState) => state.mcdu);
     return (
         <div id="FMC">
             <table>
@@ -12,7 +12,7 @@ const MCDU = () => {
                             <center>
                                 TAKE OFF <span id="isrwy">RWY </span>
                                 <span className="green">
-                                    <span id="rwy">10L</span>
+                                    <span id="rwy">{mcduSettings.rw}</span>
                                 </span>
                             </center>
                         </td>

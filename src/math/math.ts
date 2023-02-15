@@ -46,6 +46,45 @@ type AircraftConfig = {
     to8k: number;
 };
 
+const takeoff: { [key: string]: any } = {
+    '1': {
+        '40': 126,
+        '45': 126,
+        '50': 126,
+        '55': 128,
+        '60': 131,
+        '65': 136,
+        '70': 141,
+        '75': 146,
+        '80': 151,
+        '85': 155,
+    }, // Conf 1 + F
+    '2': {
+        '40': 126,
+        '45': 126,
+        '50': 126,
+        '55': 126,
+        '60': 128,
+        '65': 131,
+        '70': 136,
+        '75': 141,
+        '80': 146,
+        '85': 151,
+    }, // Conf 2
+    '3': {
+        '40': 125,
+        '45': 125,
+        '50': 125,
+        '55': 125,
+        '60': 125,
+        '65': 128,
+        '70': 132,
+        '75': 136,
+        '80': 140,
+        '85': 143,
+    }, // Conf 3
+};
+
 const a20n: AircraftConfig = {
     isaInc: 15,
     vrisa: 142,
@@ -96,7 +135,7 @@ export class FlexMath {
         return r;
     }
 
-    private calculateDensityCorrection(
+    static calculateDensityCorrection(
         density: number,
         AltCorrectionsTable: number[],
         perfDistDiffTable: number[]
@@ -118,7 +157,7 @@ export class FlexMath {
         return densityCorrection >= 0 ? densityCorrection : 0;
     }
 
-    private plantSeeds(perfWeight: number, a: AircraftConfig) {
+    static plantSeeds(perfWeight: number, a: AircraftConfig) {
         let seedModifierstd = 0;
         let seedModifierisa = 0;
 
@@ -173,7 +212,7 @@ export class FlexMath {
         return [seedModifierstd, seedModifierisa];
     }
 
-    private calculateFlapEffect(flaps: string | number, a: AircraftConfig) {
+    static calculateFlapEffect(flaps: string | number, a: AircraftConfig) {
         let fe: number = 0;
         switch (flaps) {
             default:
@@ -191,7 +230,7 @@ export class FlexMath {
         return fe;
     }
     // ported to js from https://stackoverflow.com/questions/7437660/
-    private lsft(known_y: number[], known_x: number[], offset_x = 0) {
+    static lsft(known_y: number[], known_x: number[], offset_x = 0) {
         if (known_y.length !== known_x.length) return [0, 0];
 
         let numPoints = known_y.length;
@@ -222,7 +261,7 @@ export class FlexMath {
     }
 
     // ported to js from https://stackoverflow.com/questions/7437660/
-    private trend(known_y: number[], known_x: number[], new_x: number[]) {
+    static trend(known_y: number[], known_x: number[], new_x: number[]) {
         let [m, b] = this.lsft(known_y, known_x);
 
         let new_y = [];
@@ -235,7 +274,7 @@ export class FlexMath {
     }
 
     // https://stackoverflow.com/a/14163874
-    private growth(
+    static growth(
         known_y: number[],
         known_x: number[],
         new_x: number[],
@@ -279,7 +318,66 @@ export class FlexMath {
         return new_y;
     }
 
-    public calculateFlexDist(settings: TakeoffInstance) {
+    static round5up(x: number) {
+        return Math.ceil(x / 5) * 5;
+    }
+
+    static round5down(x: number) {
+        return Math.floor(x / 5) * 5;
+    }
+
+    static distfrom5(x: number) {
+        return x - this.round5down(x);
+    }
+
+    static altcorr(a: number) {
+        return Math.abs(a * 2e-4);
+    }
+
+    static f2corr(f: number, a: number) {
+        return f === 2 ? Math.abs(a * 2e-4) : 0;
+    }
+
+    static v2Speed(w: number, f: number, a: any) {
+        let v2 = takeoff[f.toString()][FlexMath.round5down(w).toString()];
+        if (w < 55) {
+            return v2 + FlexMath.f2corr(f, a);
+        }
+        const v2diff =
+            v2 - takeoff[f.toString()][FlexMath.round5down(w).toString()];
+        const V2Speed = v2 + Math.ceil((v2diff / 5) * FlexMath.distfrom5(w));
+        return V2Speed;
+    }
+
+    static vRSpeed(v2: number) {
+        return v2 - 4;
+    }
+
+    static v1Speed(a: number, r: number, vR: number, asd = 1621) {
+        const v1 = (asd / 2 - (a - r)) / 50;
+        return v1 > 0 ? vR - Math.ceil(v1) : vR;
+    }
+
+    static CalculateVSpeeds(
+        availRunway: number,
+        requiredRunway: number,
+        Weight: number,
+        Flaps: number,
+        RunwayAlt: number,
+        ASD = 1621
+    ) {
+        const w = Weight / 1000;
+        const v2 = FlexMath.v2Speed(w, Flaps, RunwayAlt);
+        const vR = FlexMath.vRSpeed(v2);
+        const v1 = FlexMath.v1Speed(availRunway, requiredRunway, vR, ASD);
+        return {
+            v1: v1,
+            vr: vR,
+            v2: v2,
+        };
+    }
+
+    static calculateFlexDist(settings: TakeoffInstance) {
         let density =
             settings.runwayAltitude +
             (BARO_SEA - settings.baro) * 27 +

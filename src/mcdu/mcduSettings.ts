@@ -23,6 +23,6 @@ const defaultState: mcduSettings = {
 
 const MCDUSettingsContextProvider = createContext<mcduSettings>(defaultState);
 
-const useSpeedContext = () => {};
+const setMCDU = (state: mcduSettings) => {};
 
-export { MCDUSettingsContextProvider, useSpeedContext };
+export { MCDUSettingsContextProvider, setMCDU };
