@@ -1,0 +1,20 @@
+{
+    "id": "320754",
+    "ident": "ES-0099",
+    "type": "small_airport",
+    "name": "Moià Les Umbertes",
+    "latitude_deg": "41.7868167",
+    "longitude_deg": "2.129783",
+    "elevation_ft": "2231",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Moià",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.volxerpa.com/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

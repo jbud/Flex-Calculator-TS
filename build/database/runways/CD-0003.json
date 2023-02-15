@@ -1,0 +1,20 @@
+{
+    "id": "315128",
+    "ident": "CD-0003",
+    "type": "small_airport",
+    "name": "Nagero Airport",
+    "latitude_deg": "3.746155",
+    "longitude_deg": "29.509964",
+    "elevation_ft": "2437",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-HU",
+    "municipality": "Nagero",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Nagero, Garamba Park"
+}

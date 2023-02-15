@@ -1,0 +1,20 @@
+{
+    "id": "352938",
+    "ident": "PE-0022",
+    "type": "small_airport",
+    "name": "Camposol Chao Airport",
+    "latitude_deg": "-8.58173",
+    "longitude_deg": "-78.68142",
+    "elevation_ft": "228",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LAL",
+    "municipality": "Virú",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

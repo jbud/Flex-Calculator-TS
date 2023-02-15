@@ -1,0 +1,20 @@
+{
+    "id": "349750",
+    "ident": "MX-1868",
+    "type": "small_airport",
+    "name": "Santo Domingo Airstrip",
+    "latitude_deg": "30.4636",
+    "longitude_deg": "-110.534775",
+    "elevation_ft": "3560",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-SON",
+    "municipality": "Cucurpe",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SGU",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "335512",
+    "ident": "BR-0913",
+    "type": "small_airport",
+    "name": "Fazenda Capuame Airstrip",
+    "latitude_deg": "-12.691861",
+    "longitude_deg": "-38.198411",
+    "elevation_ft": "79",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Camaçari",
+    "scheduled_service": "no",
+    "gps_code": "SIJK",
+    "iata_code": "",
+    "local_code": "BA0088",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Cetrel"
+}

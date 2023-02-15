@@ -1,0 +1,20 @@
+{
+    "id": "39450",
+    "ident": "SLME",
+    "type": "small_airport",
+    "name": "Mandeyepecua Airport",
+    "latitude_deg": "-20.398000717163086",
+    "longitude_deg": "-63.140499114990234",
+    "elevation_ft": "1338",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Cordillera",
+    "scheduled_service": "no",
+    "gps_code": "SLME",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

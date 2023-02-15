@@ -1,0 +1,20 @@
+{
+    "id": "340304",
+    "ident": "LY-0008",
+    "type": "small_airport",
+    "name": "Ras Lanuf Highway Airport",
+    "latitude_deg": "30.4429",
+    "longitude_deg": "18.5808",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "LY",
+    "iso_region": "LY-SR",
+    "municipality": "Ras Lanuf",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

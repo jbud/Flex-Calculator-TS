@@ -1,0 +1,20 @@
+{
+    "id": "323222",
+    "ident": "HLZN",
+    "type": "small_airport",
+    "name": "Alzintan Airport",
+    "latitude_deg": "31.774878",
+    "longitude_deg": "12.25006",
+    "elevation_ft": "2080",
+    "continent": "AF",
+    "iso_country": "LY",
+    "iso_region": "LY-JG",
+    "municipality": "Zintan",
+    "scheduled_service": "no",
+    "gps_code": "HLZN",
+    "iata_code": "ZIS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Alzintan_Airport",
+    "keywords": ""
+}

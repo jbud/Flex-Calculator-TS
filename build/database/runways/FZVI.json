@@ -1,0 +1,20 @@
+{
+    "id": "31797",
+    "ident": "FZVI",
+    "type": "small_airport",
+    "name": "Lusambo Airport",
+    "latitude_deg": "-4.96167",
+    "longitude_deg": "23.3783",
+    "elevation_ft": "1407",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-SA",
+    "municipality": "Lusambo",
+    "scheduled_service": "no",
+    "gps_code": "FZVI",
+    "iata_code": "LBO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

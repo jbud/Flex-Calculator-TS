@@ -1,0 +1,20 @@
+{
+    "id": "28601",
+    "ident": "EDVL",
+    "type": "small_airport",
+    "name": "Flugplatz Hölleberg",
+    "latitude_deg": "51.610832",
+    "longitude_deg": "9.3975",
+    "elevation_ft": "837",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Trendelburg",
+    "scheduled_service": "no",
+    "gps_code": "EDVL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

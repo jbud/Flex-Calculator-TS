@@ -1,0 +1,20 @@
+{
+    "id": "43664",
+    "ident": "USDI",
+    "type": "small_airport",
+    "name": "Antipayuta Airport",
+    "latitude_deg": "69.092869",
+    "longitude_deg": "76.860989",
+    "elevation_ft": "69",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-YAN",
+    "municipality": "Antipayuta",
+    "scheduled_service": "no",
+    "gps_code": "USDI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "УСДИ, Аэропорт Антипаюта"
+}

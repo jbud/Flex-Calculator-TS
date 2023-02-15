@@ -1,0 +1,20 @@
+{
+    "id": "43754",
+    "ident": "EBMS",
+    "type": "heliport",
+    "name": "Bra heliport",
+    "latitude_deg": "50.321703",
+    "longitude_deg": "5.730894",
+    "elevation_ft": "1280",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-WLG",
+    "municipality": "Lierneu",
+    "scheduled_service": "no",
+    "gps_code": "EBMS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

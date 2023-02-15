@@ -1,0 +1,20 @@
+{
+    "id": "39478",
+    "ident": "SLYG",
+    "type": "small_airport",
+    "name": "Yabog Airport",
+    "latitude_deg": "-18.654499053955078",
+    "longitude_deg": "-63.1328010559082",
+    "elevation_ft": "1412",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Las Juntas",
+    "scheduled_service": "no",
+    "gps_code": "SLYG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

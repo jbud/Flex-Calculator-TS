@@ -1,0 +1,20 @@
+{
+    "id": "31702",
+    "ident": "HUJI",
+    "type": "small_airport",
+    "name": "Jinja Airport",
+    "latitude_deg": "0.453094",
+    "longitude_deg": "33.19356",
+    "elevation_ft": "3855",
+    "continent": "AF",
+    "iso_country": "UG",
+    "iso_region": "UG-E",
+    "municipality": "Jinja",
+    "scheduled_service": "no",
+    "gps_code": "HUJI",
+    "iata_code": "JIN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jinja_Airport",
+    "keywords": ""
+}

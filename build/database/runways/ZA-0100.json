@@ -1,0 +1,20 @@
+{
+    "id": "41844",
+    "ident": "ZA-0100",
+    "type": "small_airport",
+    "name": "Bapsfontein Airport",
+    "latitude_deg": "-25.99188889",
+    "longitude_deg": "28.41583333",
+    "elevation_ft": "5292",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-GT",
+    "municipality": "Bapsfontein",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "FA0004"
+}

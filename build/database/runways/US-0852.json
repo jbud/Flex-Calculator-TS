@@ -1,0 +1,20 @@
+{
+    "id": "327112",
+    "ident": "US-0852",
+    "type": "heliport",
+    "name": "St Elizabeth's Hospital Heliport",
+    "latitude_deg": "38.583295",
+    "longitude_deg": "-89.9341",
+    "elevation_ft": "546",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "O'Fallon",
+    "scheduled_service": "no",
+    "gps_code": "09IL",
+    "iata_code": "",
+    "local_code": "09IL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

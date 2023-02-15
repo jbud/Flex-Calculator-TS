@@ -1,0 +1,20 @@
+{
+    "id": "28722",
+    "ident": "EDTX",
+    "type": "small_airport",
+    "name": "Schwäbisch Hall-Weckrieden Airfield",
+    "latitude_deg": "49.124443",
+    "longitude_deg": "9.781111",
+    "elevation_ft": "1299",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Schwäbisch Hall",
+    "scheduled_service": "no",
+    "gps_code": "EDTX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

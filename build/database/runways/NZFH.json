@@ -1,0 +1,20 @@
+{
+    "id": "44807",
+    "ident": "NZFH",
+    "type": "heliport",
+    "name": "Fox Heliport",
+    "latitude_deg": "-43.4631",
+    "longitude_deg": "170",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-WTC",
+    "municipality": "Fox",
+    "scheduled_service": "no",
+    "gps_code": "NZFH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "FGL"
+}

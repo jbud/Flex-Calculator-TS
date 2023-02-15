@@ -1,0 +1,20 @@
+{
+    "id": "28420",
+    "ident": "CNS2",
+    "type": "seaplane_base",
+    "name": "Smoky Lake Seaplane Base",
+    "latitude_deg": "45.849998474121094",
+    "longitude_deg": "-80.2166976928711",
+    "elevation_ft": "725",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "CNS2",
+    "iata_code": "",
+    "local_code": "CNS2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

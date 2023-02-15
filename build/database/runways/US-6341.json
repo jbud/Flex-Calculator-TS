@@ -1,0 +1,20 @@
+{
+    "id": "351258",
+    "ident": "US-6341",
+    "type": "small_airport",
+    "name": "Loken Farm Airport",
+    "latitude_deg": "43.452918",
+    "longitude_deg": "-93.318601",
+    "elevation_ft": "1259",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Northwood",
+    "scheduled_service": "no",
+    "gps_code": "IA07",
+    "iata_code": "",
+    "local_code": "IA07",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

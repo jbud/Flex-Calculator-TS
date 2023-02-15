@@ -1,0 +1,20 @@
+{
+    "id": "32328",
+    "ident": "SMKA",
+    "type": "small_airport",
+    "name": "Kabalebo Airport",
+    "latitude_deg": "4.406617",
+    "longitude_deg": "-57.223678",
+    "elevation_ft": "535",
+    "continent": "SA",
+    "iso_country": "SR",
+    "iso_region": "SR-SI",
+    "municipality": "Kabalebo",
+    "scheduled_service": "no",
+    "gps_code": "SMKA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kabalebo_Airstrip",
+    "keywords": ""
+}

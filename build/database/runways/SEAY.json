@@ -1,0 +1,20 @@
+{
+    "id": "41104",
+    "ident": "SEAY",
+    "type": "small_airport",
+    "name": "Ayangue Airport",
+    "latitude_deg": "-1.9777779579162598",
+    "longitude_deg": "-80.73944091796875",
+    "elevation_ft": "18",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-G",
+    "municipality": "San Pedro",
+    "scheduled_service": "no",
+    "gps_code": "SEAY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

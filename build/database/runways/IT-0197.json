@@ -1,0 +1,20 @@
+{
+    "id": "317624",
+    "ident": "IT-0197",
+    "type": "small_airport",
+    "name": "Aviosuperficie \"Il Borro\"",
+    "latitude_deg": "43.536111",
+    "longitude_deg": "11.705",
+    "elevation_ft": "900",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-52",
+    "municipality": "San Giustino (AR)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ARBOR",
+    "home_link": "http://www.compagniavolatori.com",
+    "wikipedia_link": "",
+    "keywords": ""
+}

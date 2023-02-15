@@ -1,0 +1,20 @@
+{
+    "id": "698",
+    "ident": "CBL7",
+    "type": "heliport",
+    "name": "Cortes Island Heliport",
+    "latitude_deg": "50.05860137939453",
+    "longitude_deg": "-124.98200225830078",
+    "elevation_ft": "230",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Cortes Island",
+    "scheduled_service": "no",
+    "gps_code": "CBL7",
+    "iata_code": "",
+    "local_code": "CBL7",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "BL7"
+}

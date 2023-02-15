@@ -1,0 +1,20 @@
+{
+    "id": "335040",
+    "ident": "BR-0737",
+    "type": "small_airport",
+    "name": "Fazenda Santa Helena Airport",
+    "latitude_deg": "-30.135833",
+    "longitude_deg": "-52.628889",
+    "elevation_ft": "269",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Rio Pardo",
+    "scheduled_service": "no",
+    "gps_code": "SSHG",
+    "iata_code": "",
+    "local_code": "RS0120",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

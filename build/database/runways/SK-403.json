@@ -1,0 +1,20 @@
+{
+    "id": "40878",
+    "ident": "SK-403",
+    "type": "small_airport",
+    "name": "Boluca Airport",
+    "latitude_deg": "4.693611",
+    "longitude_deg": "-74.891944",
+    "elevation_ft": "988",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-TOL",
+    "municipality": "Venadillo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "BNI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

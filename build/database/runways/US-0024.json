@@ -1,0 +1,20 @@
+{
+    "id": "43076",
+    "ident": "US-0024",
+    "type": "small_airport",
+    "name": "Hess Airport",
+    "latitude_deg": "31.677900314299997",
+    "longitude_deg": "-97.1399993896",
+    "elevation_ft": "540",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Elm Mott",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

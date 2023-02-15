@@ -1,0 +1,20 @@
+{
+    "id": "315274",
+    "ident": "HUMO",
+    "type": "small_airport",
+    "name": "Moroto Airport",
+    "latitude_deg": "2.5051",
+    "longitude_deg": "34.5946",
+    "elevation_ft": "4170",
+    "continent": "AF",
+    "iso_country": "UG",
+    "iso_region": "UG-N",
+    "municipality": "Moroto",
+    "scheduled_service": "no",
+    "gps_code": "HUMO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Moroto_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40452",
+    "ident": "VE-0103",
+    "type": "small_airport",
+    "name": "Kavac Airport",
+    "latitude_deg": "5.71196",
+    "longitude_deg": "-62.409559",
+    "elevation_ft": "1600",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "44362",
+    "ident": "IN-0012",
+    "type": "small_airport",
+    "name": "Pakyong Airport",
+    "latitude_deg": "27.2313",
+    "longitude_deg": "88.587196",
+    "elevation_ft": "4590",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-SK",
+    "municipality": "Pakyong",
+    "scheduled_service": "no",
+    "gps_code": "VEPY",
+    "iata_code": "PYG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pakyong_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "30449",
+    "ident": "EPSU",
+    "type": "small_airport",
+    "name": "Suwałki Airfield",
+    "latitude_deg": "54.0728",
+    "longitude_deg": "22.8992",
+    "elevation_ft": "581",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-PD",
+    "municipality": "Suwałki",
+    "scheduled_service": "no",
+    "gps_code": "EPSU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

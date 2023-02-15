@@ -1,0 +1,20 @@
+{
+    "id": "318498",
+    "ident": "GQ-0001",
+    "type": "small_airport",
+    "name": "Mongomo Airport",
+    "latitude_deg": "1.636763",
+    "longitude_deg": "11.302458",
+    "elevation_ft": "2126",
+    "continent": "AF",
+    "iso_country": "GQ",
+    "iso_region": "GQ-WN",
+    "municipality": "Mongomo",
+    "scheduled_service": "no",
+    "gps_code": "FGMM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

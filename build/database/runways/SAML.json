@@ -1,0 +1,20 @@
+{
+    "id": "41554",
+    "ident": "SAML",
+    "type": "small_airport",
+    "name": "Punta De Vacas Airport",
+    "latitude_deg": "-32.854598999",
+    "longitude_deg": "-69.7604980469",
+    "elevation_ft": "7906",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-M",
+    "municipality": "Punta de Vacas",
+    "scheduled_service": "no",
+    "gps_code": "SAML",
+    "iata_code": "",
+    "local_code": "PDV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

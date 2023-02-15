@@ -1,0 +1,20 @@
+{
+    "id": "348786",
+    "ident": "KR-1055",
+    "type": "small_airport",
+    "name": "Goheung Airport",
+    "latitude_deg": "34.61128",
+    "longitude_deg": "127.20563",
+    "elevation_ft": "2",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-46",
+    "municipality": "Dodeok-myeon",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

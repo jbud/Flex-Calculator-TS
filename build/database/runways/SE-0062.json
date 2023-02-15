@@ -1,0 +1,20 @@
+{
+    "id": "345458",
+    "ident": "SE-0062",
+    "type": "small_airport",
+    "name": "Hellby Säteri Private Airstrip",
+    "latitude_deg": "59.71731",
+    "longitude_deg": "16.62933",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-U",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

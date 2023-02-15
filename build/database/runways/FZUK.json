@@ -1,0 +1,20 @@
+{
+    "id": "32478",
+    "ident": "FZUK",
+    "type": "small_airport",
+    "name": "Tshikapa Airport",
+    "latitude_deg": "-6.43833",
+    "longitude_deg": "20.794701",
+    "elevation_ft": "1595",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KI",
+    "municipality": "Tshikapa",
+    "scheduled_service": "yes",
+    "gps_code": "FZUK",
+    "iata_code": "TSH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tshikapa_Airport",
+    "keywords": ""
+}

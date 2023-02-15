@@ -1,0 +1,20 @@
+{
+    "id": "352138",
+    "ident": "US-6400",
+    "type": "closed",
+    "name": "Lambert Airport",
+    "latitude_deg": "34.20805",
+    "longitude_deg": "-90.29036",
+    "elevation_ft": "151",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Lambert",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

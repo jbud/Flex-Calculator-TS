@@ -1,0 +1,20 @@
+{
+    "id": "312682",
+    "ident": "SAM",
+    "type": "small_airport",
+    "name": "Salamo Airport",
+    "latitude_deg": "-9.6701",
+    "longitude_deg": "150.7903",
+    "elevation_ft": "30",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-MBA",
+    "municipality": "Salamo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "SAM",
+    "local_code": "SAO",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Salamo_Airport",
+    "keywords": "Fergusson Is."
+}

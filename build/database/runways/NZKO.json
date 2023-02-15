@@ -1,0 +1,20 @@
+{
+    "id": "30000",
+    "ident": "NZKO",
+    "type": "small_airport",
+    "name": "Kaikohe Airport",
+    "latitude_deg": "-35.451099",
+    "longitude_deg": "173.817001",
+    "elevation_ft": "571",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-NTL",
+    "municipality": "Kaikohe",
+    "scheduled_service": "no",
+    "gps_code": "NZKO",
+    "iata_code": "KKO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

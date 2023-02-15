@@ -1,0 +1,20 @@
+{
+    "id": "39643",
+    "ident": "SPPO",
+    "type": "small_airport",
+    "name": "Pozuzo Airport",
+    "latitude_deg": "-10.070099830627441",
+    "longitude_deg": "-75.55000305175781",
+    "elevation_ft": "2420",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-PAS",
+    "municipality": "Pozuzo",
+    "scheduled_service": "yes",
+    "gps_code": "SPPO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

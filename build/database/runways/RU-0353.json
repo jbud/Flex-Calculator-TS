@@ -1,0 +1,20 @@
+{
+    "id": "46220",
+    "ident": "RU-0353",
+    "type": "heliport",
+    "name": "Bunkovo Heliport",
+    "latitude_deg": "55.8802339278",
+    "longitude_deg": "36.8073749542",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-MOS",
+    "municipality": "Istra",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://vertolet.ru/filin.shtml",
+    "wikipedia_link": "",
+    "keywords": "Kryuchkovo Heliport, Вертодром Буньково, Вертодром Крючково"
+}

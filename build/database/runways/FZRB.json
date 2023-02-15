@@ -1,0 +1,20 @@
+{
+    "id": "30693",
+    "ident": "FZRB",
+    "type": "small_airport",
+    "name": "Moba Airport",
+    "latitude_deg": "-7.08488",
+    "longitude_deg": "29.737072",
+    "elevation_ft": "2953",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-TA",
+    "municipality": "Moba",
+    "scheduled_service": "no",
+    "gps_code": "FZRB",
+    "iata_code": "BDV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

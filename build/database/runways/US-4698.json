@@ -1,0 +1,20 @@
+{
+    "id": "346079",
+    "ident": "US-4698",
+    "type": "small_airport",
+    "name": "Hoff Private Airport",
+    "latitude_deg": "35.62417",
+    "longitude_deg": "-118.26155",
+    "elevation_ft": "2956",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Weldon",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

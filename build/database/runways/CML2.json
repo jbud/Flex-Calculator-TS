@@ -1,0 +1,20 @@
+{
+    "id": "1282",
+    "ident": "CML2",
+    "type": "small_airport",
+    "name": "Quamichan Lake (Raven Field) Airport",
+    "latitude_deg": "48.8119010925293",
+    "longitude_deg": "-123.6510009765625",
+    "elevation_ft": "130",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Quamichan Lake",
+    "scheduled_service": "no",
+    "gps_code": "CML2",
+    "iata_code": "",
+    "local_code": "CML2",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Quamichan_Lake_(Raven_Field)_Airport",
+    "keywords": "ML2"
+}

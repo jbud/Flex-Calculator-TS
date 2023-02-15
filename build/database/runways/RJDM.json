@@ -1,0 +1,20 @@
+{
+    "id": "30134",
+    "ident": "RJDM",
+    "type": "small_airport",
+    "name": "JGSDF Metabaru Airfield",
+    "latitude_deg": "33.325445",
+    "longitude_deg": "130.413787",
+    "elevation_ft": "49",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-41",
+    "municipality": "Yoshinogari",
+    "scheduled_service": "no",
+    "gps_code": "RJDM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

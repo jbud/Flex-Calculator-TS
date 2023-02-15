@@ -1,0 +1,20 @@
+{
+    "id": "312362",
+    "ident": "AOD",
+    "type": "small_airport",
+    "name": "Abou-Deïa Airport",
+    "latitude_deg": "11.4773",
+    "longitude_deg": "19.2874",
+    "elevation_ft": "1592",
+    "continent": "AF",
+    "iso_country": "TD",
+    "iso_region": "TD-SA",
+    "municipality": "Abou-Deïa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "AOD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Abou-De%C3%AFa_Airport",
+    "keywords": ""
+}

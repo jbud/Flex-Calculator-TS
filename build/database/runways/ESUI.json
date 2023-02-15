@@ -1,0 +1,20 @@
+{
+    "id": "30129",
+    "ident": "ESUI",
+    "type": "small_airport",
+    "name": "Mellansel Airport",
+    "latitude_deg": "63.391806",
+    "longitude_deg": "18.319471",
+    "elevation_ft": "269",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Y",
+    "municipality": "Mellansel",
+    "scheduled_service": "no",
+    "gps_code": "ESUI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

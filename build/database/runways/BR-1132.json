@@ -1,0 +1,20 @@
+{
+    "id": "336548",
+    "ident": "BR-1132",
+    "type": "heliport",
+    "name": "AGO Helipad",
+    "latitude_deg": "-22.971495",
+    "longitude_deg": "-43.362769",
+    "elevation_ft": "49",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Rio de Janeiro",
+    "scheduled_service": "no",
+    "gps_code": "SJGO",
+    "iata_code": "",
+    "local_code": "RJ0105",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

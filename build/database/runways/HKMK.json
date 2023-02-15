@@ -1,0 +1,20 @@
+{
+    "id": "42703",
+    "ident": "HKMK",
+    "type": "small_airport",
+    "name": "Mulika Lodge Airport",
+    "latitude_deg": "0.165083",
+    "longitude_deg": "38.195141",
+    "elevation_ft": "2000",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-400",
+    "municipality": "Meru-Kinna",
+    "scheduled_service": "yes",
+    "gps_code": "HKMK",
+    "iata_code": "JJM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mulika_Lodge_Airport",
+    "keywords": "Meru National Park"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "39454",
+    "ident": "SLPG",
+    "type": "small_airport",
+    "name": "Progreso Airport",
+    "latitude_deg": "-14.178400039672852",
+    "longitude_deg": "-65.37560272216797",
+    "elevation_ft": "754",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-B",
+    "municipality": "Moxos",
+    "scheduled_service": "no",
+    "gps_code": "SLPG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

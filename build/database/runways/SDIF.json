@@ -1,0 +1,20 @@
+{
+    "id": "309762",
+    "ident": "SDIF",
+    "type": "heliport",
+    "name": "Palácio Tiradentes Heliport",
+    "latitude_deg": "-19.78655",
+    "longitude_deg": "-43.951565",
+    "elevation_ft": "2746",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Belo Horizonte",
+    "scheduled_service": "no",
+    "gps_code": "SDIF",
+    "iata_code": "",
+    "local_code": "SDIF",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

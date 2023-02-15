@@ -1,0 +1,20 @@
+{
+    "id": "43128",
+    "ident": "DE-0006",
+    "type": "small_airport",
+    "name": "Sonderlandeplatz Locktow",
+    "latitude_deg": "52.11639",
+    "longitude_deg": "12.709444",
+    "elevation_ft": "213",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BR",
+    "municipality": "Locktow",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

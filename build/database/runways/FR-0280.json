@@ -1,0 +1,20 @@
+{
+    "id": "43622",
+    "ident": "FR-0280",
+    "type": "small_airport",
+    "name": "Altisurface du Grand Terrus",
+    "latitude_deg": "44.422779",
+    "longitude_deg": "5.644167",
+    "elevation_ft": "2871",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-PAC",
+    "municipality": "Montclus",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF0524",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

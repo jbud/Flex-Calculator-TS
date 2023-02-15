@@ -1,0 +1,20 @@
+{
+    "id": "352877",
+    "ident": "US-6520",
+    "type": "small_airport",
+    "name": "Colman Airport",
+    "latitude_deg": "41.08405",
+    "longitude_deg": "-88.14146",
+    "elevation_ft": "630",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Buckingham",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

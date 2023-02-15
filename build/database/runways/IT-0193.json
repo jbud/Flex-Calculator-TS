@@ -1,0 +1,20 @@
+{
+    "id": "317571",
+    "ident": "IT-0193",
+    "type": "small_airport",
+    "name": "Campo di Volo Lucchina Fly Club\"",
+    "latitude_deg": "45.3236111",
+    "longitude_deg": "8.0008333",
+    "elevation_ft": "951",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-21",
+    "municipality": "Moncrivello",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Lucchina"
+}

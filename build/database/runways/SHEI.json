@@ -1,0 +1,20 @@
+{
+    "id": "39353",
+    "ident": "SHEI",
+    "type": "heliport",
+    "name": "Escuela de Investigaciones Policiales Heliport",
+    "latitude_deg": "-33.45944595336914",
+    "longitude_deg": "-70.71666717529297",
+    "elevation_ft": "1608",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Santiago",
+    "scheduled_service": "no",
+    "gps_code": "SHEI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

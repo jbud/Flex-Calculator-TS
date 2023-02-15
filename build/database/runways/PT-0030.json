@@ -1,0 +1,20 @@
+{
+    "id": "316227",
+    "ident": "PT-0030",
+    "type": "small_airport",
+    "name": "Pista do Monte do Lago",
+    "latitude_deg": "39.07502",
+    "longitude_deg": "-8.13889",
+    "elevation_ft": "400",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-12",
+    "municipality": "Montargil",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

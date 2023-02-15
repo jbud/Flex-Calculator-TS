@@ -1,0 +1,20 @@
+{
+    "id": "355108",
+    "ident": "CA-0787",
+    "type": "balloonport",
+    "name": "High River Balloonport",
+    "latitude_deg": "50.59078",
+    "longitude_deg": "-113.87326",
+    "elevation_ft": "3389",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "High River",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

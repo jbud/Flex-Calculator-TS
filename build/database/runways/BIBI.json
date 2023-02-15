@@ -1,0 +1,20 @@
+{
+    "id": "30713",
+    "ident": "BIBI",
+    "type": "small_airport",
+    "name": "Baeir Airport",
+    "latitude_deg": "66.097838",
+    "longitude_deg": "-22.569713",
+    "elevation_ft": "60",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-4",
+    "municipality": "Baeir",
+    "scheduled_service": "no",
+    "gps_code": "BIBI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

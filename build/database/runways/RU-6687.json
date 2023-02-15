@@ -1,0 +1,20 @@
+{
+    "id": "35036",
+    "ident": "RU-6687",
+    "type": "medium_airport",
+    "name": "Michurinsk Air Base",
+    "latitude_deg": "52.91830062866211",
+    "longitude_deg": "40.3650016784668",
+    "elevation_ft": "538",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-TAM",
+    "municipality": "Michurinsk",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Michurinsk_(air_base)",
+    "keywords": "Michurinsk Northwest, Kozlov"
+}

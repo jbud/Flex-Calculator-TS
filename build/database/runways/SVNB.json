@@ -1,0 +1,20 @@
+{
+    "id": "40216",
+    "ident": "SVNB",
+    "type": "small_airport",
+    "name": "Maripa Airport",
+    "latitude_deg": "7.400000095367432",
+    "longitude_deg": "-65.18333435058594",
+    "elevation_ft": "200",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVNB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

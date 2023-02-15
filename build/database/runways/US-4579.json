@@ -1,0 +1,20 @@
+{
+    "id": "345842",
+    "ident": "US-4579",
+    "type": "heliport",
+    "name": "United Regional Health Care Heliport",
+    "latitude_deg": "33.90365",
+    "longitude_deg": "-98.50209",
+    "elevation_ft": "999",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Wichita Falls",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Air Evac 34 Heliport"
+}

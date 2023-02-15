@@ -1,0 +1,20 @@
+{
+    "id": "32371",
+    "ident": "SPSE",
+    "type": "small_airport",
+    "name": "Sepahua Airport",
+    "latitude_deg": "-11.14227",
+    "longitude_deg": "-73.034327",
+    "elevation_ft": "886",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-UCA",
+    "municipality": "Sepahua",
+    "scheduled_service": "no",
+    "gps_code": "SPSE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

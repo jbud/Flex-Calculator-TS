@@ -1,0 +1,20 @@
+{
+    "id": "342468",
+    "ident": "JP-1635",
+    "type": "heliport",
+    "name": "JGSDF Narashino Heliport",
+    "latitude_deg": "35.7128",
+    "longitude_deg": "140.0627",
+    "elevation_ft": "195",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-12",
+    "municipality": "Narashino",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

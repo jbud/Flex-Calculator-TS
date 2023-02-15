@@ -1,0 +1,20 @@
+{
+    "id": "351493",
+    "ident": "SPRR",
+    "type": "small_airport",
+    "name": "Revalora Airport",
+    "latitude_deg": "-13.22283",
+    "longitude_deg": "-76.26927",
+    "elevation_ft": "591",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LIM",
+    "municipality": "San Vicente de Cañete",
+    "scheduled_service": "no",
+    "gps_code": "SPRR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

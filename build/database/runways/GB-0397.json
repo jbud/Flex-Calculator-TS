@@ -1,0 +1,20 @@
+{
+    "id": "320407",
+    "ident": "GB-0397",
+    "type": "small_airport",
+    "name": "Chilbolton",
+    "latitude_deg": "51.1377",
+    "longitude_deg": "-1.41801",
+    "elevation_ft": "292",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://chilboltonflyingclub.co.uk",
+    "wikipedia_link": "",
+    "keywords": ""
+}

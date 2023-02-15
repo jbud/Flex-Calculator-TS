@@ -1,0 +1,20 @@
+{
+    "id": "355589",
+    "ident": "JP-3047",
+    "type": "small_airport",
+    "name": "Haneda Gliderport",
+    "latitude_deg": "36.13585",
+    "longitude_deg": "139.90626",
+    "elevation_ft": "72",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-08",
+    "municipality": "Joso",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

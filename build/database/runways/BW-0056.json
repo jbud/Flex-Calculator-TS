@@ -1,0 +1,20 @@
+{
+    "id": "345906",
+    "ident": "BW-0056",
+    "type": "small_airport",
+    "name": "Karowe Airstrip",
+    "latitude_deg": "-21.487819",
+    "longitude_deg": "25.466652",
+    "elevation_ft": "3260",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-CE",
+    "municipality": "Lethakane",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

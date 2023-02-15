@@ -1,0 +1,20 @@
+{
+    "id": "31403",
+    "ident": "FZJN",
+    "type": "small_airport",
+    "name": "Luniemu Airport",
+    "latitude_deg": "-8.208429",
+    "longitude_deg": "24.702759",
+    "elevation_ft": "3272",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-HL",
+    "municipality": "Luniemu",
+    "scheduled_service": "no",
+    "gps_code": "FZJN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31454",
+    "ident": "FZRO",
+    "type": "small_airport",
+    "name": "Luvua Airport",
+    "latitude_deg": "-7.927827",
+    "longitude_deg": "28.527288",
+    "elevation_ft": "4298",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-HK",
+    "municipality": "Katemesha",
+    "scheduled_service": "no",
+    "gps_code": "FZRO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

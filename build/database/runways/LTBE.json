@@ -1,0 +1,20 @@
+{
+    "id": "29743",
+    "ident": "LTBE",
+    "type": "small_airport",
+    "name": "Bursa Airport",
+    "latitude_deg": "40.233299",
+    "longitude_deg": "29.009199",
+    "elevation_ft": "331",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-16",
+    "municipality": "Bursa",
+    "scheduled_service": "no",
+    "gps_code": "LTBE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "BTZ"
+}

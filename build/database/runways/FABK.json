@@ -1,0 +1,20 @@
+{
+    "id": "29713",
+    "ident": "FABK",
+    "type": "small_airport",
+    "name": "Bushmans Kloof Airport",
+    "latitude_deg": "-32.035",
+    "longitude_deg": "19.0435",
+    "elevation_ft": "1050",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-WC",
+    "municipality": "Bushman's Kloof",
+    "scheduled_service": "no",
+    "gps_code": "FABK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

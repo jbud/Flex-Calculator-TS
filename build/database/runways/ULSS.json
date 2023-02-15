@@ -1,0 +1,20 @@
+{
+    "id": "32239",
+    "ident": "ULSS",
+    "type": "closed",
+    "name": "Rzhevka Airport",
+    "latitude_deg": "59.98",
+    "longitude_deg": "30.5856",
+    "elevation_ft": "56",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-LEN",
+    "municipality": "St. Petersburg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.airport-rzhevka.ru/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rzhevka_Airport",
+    "keywords": "Smolnaya Airfield, Smolnoye Airfield, Аэропорт Ржевка, Аэродром Смольная, Аэродром Смольное, RVH, ULSS"
+}

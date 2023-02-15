@@ -1,0 +1,20 @@
+{
+    "id": "356354",
+    "ident": "MA-0004",
+    "type": "small_airport",
+    "name": "Tata Airport",
+    "latitude_deg": "29.557381",
+    "longitude_deg": "-8.007671",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "MA",
+    "iso_region": "MA-AGD",
+    "municipality": "Tata",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

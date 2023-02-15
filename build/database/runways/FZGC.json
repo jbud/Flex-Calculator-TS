@@ -1,0 +1,20 @@
+{
+    "id": "31385",
+    "ident": "FZGC",
+    "type": "small_airport",
+    "name": "Bolila Airport",
+    "latitude_deg": "1.850000023841858",
+    "longitude_deg": "23.117000579833984",
+    "elevation_ft": "1279",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-TS",
+    "municipality": "Bolila",
+    "scheduled_service": "no",
+    "gps_code": "FZGC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

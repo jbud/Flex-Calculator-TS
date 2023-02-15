@@ -1,0 +1,20 @@
+{
+    "id": "344170",
+    "ident": "NO-0091",
+    "type": "small_airport",
+    "name": "Hjerkinn flyplass",
+    "latitude_deg": "62.19536",
+    "longitude_deg": "9.63733",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-34",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://no.wikipedia.org/wiki/Hjerkinn_flyplass",
+    "keywords": "Hjerkinnsholen"
+}

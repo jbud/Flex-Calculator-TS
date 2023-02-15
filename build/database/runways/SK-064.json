@@ -1,0 +1,20 @@
+{
+    "id": "40614",
+    "ident": "SK-064",
+    "type": "small_airport",
+    "name": "El Cairo Airport",
+    "latitude_deg": "6.064722",
+    "longitude_deg": "-71.204444",
+    "elevation_ft": "460",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAS",
+    "municipality": "Hato Corozal",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "HCO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

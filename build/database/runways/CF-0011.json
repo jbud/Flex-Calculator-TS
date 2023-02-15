@@ -1,0 +1,20 @@
+{
+    "id": "352985",
+    "ident": "CF-0011",
+    "type": "small_airport",
+    "name": "Kouango Airport",
+    "latitude_deg": "4.99107",
+    "longitude_deg": "19.98374",
+    "elevation_ft": "1237",
+    "continent": "AF",
+    "iso_country": "CF",
+    "iso_region": "CF-UK",
+    "municipality": "Kouango",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

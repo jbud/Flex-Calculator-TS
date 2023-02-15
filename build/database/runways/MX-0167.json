@@ -1,0 +1,20 @@
+{
+    "id": "318939",
+    "ident": "MX-0167",
+    "type": "small_airport",
+    "name": "Benny Airport",
+    "latitude_deg": "22.736377",
+    "longitude_deg": "-98.3340101",
+    "elevation_ft": "285",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-TAM",
+    "municipality": "Villa Manuel",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "BNY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

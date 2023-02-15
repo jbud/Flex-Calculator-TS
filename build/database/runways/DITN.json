@@ -1,0 +1,20 @@
+{
+    "id": "316459",
+    "ident": "DITN",
+    "type": "small_airport",
+    "name": "Mahana Airport",
+    "latitude_deg": "8.2934",
+    "longitude_deg": "-7.674",
+    "elevation_ft": "1583",
+    "continent": "AF",
+    "iso_country": "CI",
+    "iso_region": "CI-WR",
+    "municipality": "Touba",
+    "scheduled_service": "no",
+    "gps_code": "DITM",
+    "iata_code": "TOZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mahana_Airport",
+    "keywords": ""
+}

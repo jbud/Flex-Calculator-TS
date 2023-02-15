@@ -1,0 +1,20 @@
+{
+    "id": "314241",
+    "ident": "DE-0158",
+    "type": "small_airport",
+    "name": "Reinheim Airfield",
+    "latitude_deg": "49.84",
+    "longitude_deg": "8.851",
+    "elevation_ft": "506",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Offenbach",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.fsvor.com/index.php/wir-ueber-uns1/unser-flugplatz",
+    "wikipedia_link": "",
+    "keywords": ""
+}

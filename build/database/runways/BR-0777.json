@@ -1,0 +1,20 @@
+{
+    "id": "335111",
+    "ident": "BR-0777",
+    "type": "small_airport",
+    "name": "Fazenda Cachoeirinha Airport",
+    "latitude_deg": "-17.2325",
+    "longitude_deg": "-51.650278",
+    "elevation_ft": "3258",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Caiapôni",
+    "scheduled_service": "no",
+    "gps_code": "SWXG",
+    "iata_code": "",
+    "local_code": "GO0188",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

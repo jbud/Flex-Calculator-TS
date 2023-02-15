@@ -1,0 +1,20 @@
+{
+    "id": "35117",
+    "ident": "RU-1221",
+    "type": "small_airport",
+    "name": "Vozzhayevka Air Base",
+    "latitude_deg": "50.77",
+    "longitude_deg": "128.776993",
+    "elevation_ft": "738",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-AMU",
+    "municipality": "Vozzhayevka",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "XHBW",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Vozzhayevka",
+    "keywords": "ЬХБВ, Возжаевка"
+}

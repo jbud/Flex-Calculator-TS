@@ -1,0 +1,20 @@
+{
+    "id": "30653",
+    "ident": "FNZE",
+    "type": "small_airport",
+    "name": "N'zeto Airport",
+    "latitude_deg": "-7.259439945220947",
+    "longitude_deg": "12.863100051879883",
+    "elevation_ft": "69",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-ZAI",
+    "municipality": "N'zeto",
+    "scheduled_service": "no",
+    "gps_code": "FNZE",
+    "iata_code": "ARZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

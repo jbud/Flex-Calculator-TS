@@ -1,0 +1,20 @@
+{
+    "id": "339864",
+    "ident": "AR-0658",
+    "type": "small_airport",
+    "name": "Chajari Sur Airport",
+    "latitude_deg": "-30.80228",
+    "longitude_deg": "-58.014325",
+    "elevation_ft": "226",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-E",
+    "municipality": "Chajari",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CSU",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

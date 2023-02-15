@@ -1,0 +1,20 @@
+{
+    "id": "40957",
+    "ident": "SK-376",
+    "type": "small_airport",
+    "name": "Ingenio Risaralda Airport",
+    "latitude_deg": "4.895556",
+    "longitude_deg": "-75.915833",
+    "elevation_ft": "2940",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-RIS",
+    "municipality": "Balboa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "BAL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

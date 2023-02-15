@@ -1,0 +1,20 @@
+{
+    "id": "328030",
+    "ident": "KR-0704",
+    "type": "heliport",
+    "name": "Seoul Medicare Heliport",
+    "latitude_deg": "37.548059",
+    "longitude_deg": "126.954398",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-11",
+    "municipality": "Seoul",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Seoul Medicare"
+}

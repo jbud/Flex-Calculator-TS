@@ -1,0 +1,20 @@
+{
+    "id": "43617",
+    "ident": "FR-0275",
+    "type": "small_airport",
+    "name": "Glacier de Talèfre Altiport",
+    "latitude_deg": "45.908333",
+    "longitude_deg": "6.983333",
+    "elevation_ft": "9121",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-ARA",
+    "municipality": "Chamonix",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF7423",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

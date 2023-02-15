@@ -1,0 +1,20 @@
+{
+    "id": "39463",
+    "ident": "SLZV",
+    "type": "small_airport",
+    "name": "San Vicente Airport",
+    "latitude_deg": "-16.273700714111328",
+    "longitude_deg": "-60.0906982421875",
+    "elevation_ft": "1000",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Velasco",
+    "scheduled_service": "no",
+    "gps_code": "SLZV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

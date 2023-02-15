@@ -1,0 +1,20 @@
+{
+    "id": "429983",
+    "ident": "US-7106",
+    "type": "small_airport",
+    "name": "Dabbs Airport",
+    "latitude_deg": "33.914897",
+    "longitude_deg": "-80.128598",
+    "elevation_ft": "132",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Mayesville",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

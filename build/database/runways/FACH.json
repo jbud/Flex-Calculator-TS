@@ -1,0 +1,20 @@
+{
+    "id": "41148",
+    "ident": "FACH",
+    "type": "small_airport",
+    "name": "Cookhouse Airport",
+    "latitude_deg": "-32.74470138549805",
+    "longitude_deg": "25.796300888061523",
+    "elevation_ft": "1893",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Cookhouse",
+    "scheduled_service": "no",
+    "gps_code": "FACH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "43747",
+    "ident": "EBZO",
+    "type": "heliport",
+    "name": "Zandvoorde Heliport",
+    "latitude_deg": "50.817249",
+    "longitude_deg": "2.97457",
+    "elevation_ft": "102",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-VWV",
+    "municipality": "Zonnebeke",
+    "scheduled_service": "no",
+    "gps_code": "EBZO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

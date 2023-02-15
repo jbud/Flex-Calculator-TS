@@ -1,0 +1,20 @@
+{
+    "id": "343803",
+    "ident": "ES-0296",
+    "type": "small_airport",
+    "name": "Aerodromo de Sevares",
+    "latitude_deg": "43.36372",
+    "longitude_deg": "-5.24199",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AS",
+    "municipality": "Piloña",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

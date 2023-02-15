@@ -1,0 +1,20 @@
+{
+    "id": "27307",
+    "ident": "KCGX",
+    "type": "closed",
+    "name": "Chicago Meigs Airport",
+    "latitude_deg": "41.85879898071289",
+    "longitude_deg": "-87.60790252685547",
+    "elevation_ft": "593",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Chicago",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Meigs_Field",
+    "keywords": "Mayor Daley, KCGX, CGX"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "30356",
+    "ident": "VERU",
+    "type": "small_airport",
+    "name": "Rupsi Airport",
+    "latitude_deg": "26.141867",
+    "longitude_deg": "89.907892",
+    "elevation_ft": "131",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-AS",
+    "municipality": "Rupsi",
+    "scheduled_service": "no",
+    "gps_code": "VERU",
+    "iata_code": "RUP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

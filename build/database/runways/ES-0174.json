@@ -1,0 +1,20 @@
+{
+    "id": "321463",
+    "ident": "ES-0174",
+    "type": "small_airport",
+    "name": "Aeródromo de Cillamayor",
+    "latitude_deg": "42.851348",
+    "longitude_deg": "-4.279289",
+    "elevation_ft": "3215",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CL",
+    "municipality": "Cillamayor",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

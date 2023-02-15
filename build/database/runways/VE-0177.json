@@ -1,0 +1,20 @@
+{
+    "id": "40526",
+    "ident": "VE-0177",
+    "type": "heliport",
+    "name": "San Francisco  Heliport",
+    "latitude_deg": "10.542979",
+    "longitude_deg": "-71.621171",
+    "elevation_ft": "7",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-V",
+    "municipality": "Maracaibo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

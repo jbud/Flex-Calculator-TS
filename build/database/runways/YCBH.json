@@ -1,0 +1,20 @@
+{
+    "id": "345624",
+    "ident": "YCBH",
+    "type": "heliport",
+    "name": "Cairns Base Hospital Heliport.",
+    "latitude_deg": "-16.911465",
+    "longitude_deg": "145.768924",
+    "elevation_ft": "10",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Cairns",
+    "scheduled_service": "no",
+    "gps_code": "YCBH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

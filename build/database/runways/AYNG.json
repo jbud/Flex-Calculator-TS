@@ -1,0 +1,20 @@
+{
+    "id": "308139",
+    "ident": "AYNG",
+    "type": "small_airport",
+    "name": "Manguna Airport",
+    "latitude_deg": "-5.577778",
+    "longitude_deg": "151.792333",
+    "elevation_ft": "187",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-EBR",
+    "municipality": "Manguna",
+    "scheduled_service": "no",
+    "gps_code": "AYNG",
+    "iata_code": "MFO",
+    "local_code": "MGA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Manguna_Airport",
+    "keywords": ""
+}

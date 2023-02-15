@@ -1,0 +1,20 @@
+{
+    "id": "430350",
+    "ident": "SJ2S",
+    "type": "small_airport",
+    "name": "Fazenda São Pedro Airport",
+    "latitude_deg": "-13.868611",
+    "longitude_deg": "-55.081111",
+    "elevation_ft": "1480",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Santa Rita do Trivelato",
+    "scheduled_service": "no",
+    "gps_code": "SJ2S",
+    "iata_code": "",
+    "local_code": "MT0852",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

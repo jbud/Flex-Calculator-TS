@@ -1,0 +1,20 @@
+{
+    "id": "321111",
+    "ident": "ES-0125",
+    "type": "small_airport",
+    "name": "Aeródromo de Villa María",
+    "latitude_deg": "37.9273008",
+    "longitude_deg": "-1.7751475",
+    "elevation_ft": "2740",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-MC",
+    "municipality": "Coy (Lorca)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

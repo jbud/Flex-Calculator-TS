@@ -1,0 +1,20 @@
+{
+    "id": "506158",
+    "ident": "BR-1800",
+    "type": "small_airport",
+    "name": "Fazenda Bom Gosto Airport",
+    "latitude_deg": "-4.871802",
+    "longitude_deg": "-48.957443",
+    "elevation_ft": "518",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-U-A",
+    "municipality": "Rondon do Pará",
+    "scheduled_service": "no",
+    "gps_code": "SSQG",
+    "iata_code": "",
+    "local_code": "PA0129",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

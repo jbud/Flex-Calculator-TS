@@ -1,0 +1,20 @@
+{
+    "id": "323838",
+    "ident": "DE-0351",
+    "type": "balloonport",
+    "name": "Balloonport Bitterfeld",
+    "latitude_deg": "51.62455",
+    "longitude_deg": "12.29391",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-ST",
+    "municipality": "Bitterfeld",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.ballon-bitterfeld.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

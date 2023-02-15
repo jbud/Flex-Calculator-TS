@@ -1,0 +1,20 @@
+{
+    "id": "1041",
+    "ident": "CHQE",
+    "type": "heliport",
+    "name": "Halifax (Queen Elizabeth II Health Science Centre) Heliport",
+    "latitude_deg": "44.645941012499996",
+    "longitude_deg": "-63.586530983399996",
+    "elevation_ft": "260",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NS",
+    "municipality": "Halifax",
+    "scheduled_service": "no",
+    "gps_code": "CHQE",
+    "iata_code": "",
+    "local_code": "CHQE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "HQE"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "348396",
+    "ident": "MX-1663",
+    "type": "small_airport",
+    "name": "Santa Margarita Airport",
+    "latitude_deg": "29.47418",
+    "longitude_deg": "-101.50274",
+    "elevation_ft": "1568",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-COA",
+    "municipality": "Ciudad Acuña",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

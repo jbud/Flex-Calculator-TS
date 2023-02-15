@@ -1,0 +1,20 @@
+{
+    "id": "30628",
+    "ident": "NGTR",
+    "type": "small_airport",
+    "name": "Arorae Island Airport",
+    "latitude_deg": "-2.61611008644104",
+    "longitude_deg": "176.80299377441406",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "KI",
+    "iso_region": "KI-G",
+    "municipality": "Arorae Island",
+    "scheduled_service": "no",
+    "gps_code": "NGTR",
+    "iata_code": "AIS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

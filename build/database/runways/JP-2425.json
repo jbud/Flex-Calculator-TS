@@ -1,0 +1,20 @@
+{
+    "id": "347401",
+    "ident": "JP-2425",
+    "type": "heliport",
+    "name": "Aizumisato Heliport",
+    "latitude_deg": "37.47301",
+    "longitude_deg": "139.857305",
+    "elevation_ft": "690",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-07",
+    "municipality": "Aizumisato",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

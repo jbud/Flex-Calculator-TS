@@ -1,0 +1,20 @@
+{
+    "id": "334219",
+    "ident": "US-1250",
+    "type": "small_airport",
+    "name": "Campbells Airport",
+    "latitude_deg": "39.913889",
+    "longitude_deg": "-104.473333",
+    "elevation_ft": "5165",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Bennett",
+    "scheduled_service": "no",
+    "gps_code": "CO41",
+    "iata_code": "",
+    "local_code": "CO41",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

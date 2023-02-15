@@ -1,0 +1,20 @@
+{
+    "id": "31869",
+    "ident": "FLLK",
+    "type": "small_airport",
+    "name": "Lukulu Airport",
+    "latitude_deg": "-14.375891",
+    "longitude_deg": "23.248648",
+    "elevation_ft": "3480",
+    "continent": "AF",
+    "iso_country": "ZM",
+    "iso_region": "ZM-01",
+    "municipality": "Lukulu",
+    "scheduled_service": "no",
+    "gps_code": "FLLK",
+    "iata_code": "LXU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

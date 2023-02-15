@@ -1,0 +1,20 @@
+{
+    "id": "335648",
+    "ident": "BR-0974",
+    "type": "small_airport",
+    "name": "Suinobras Airport",
+    "latitude_deg": "-14.507296",
+    "longitude_deg": "-56.302743",
+    "elevation_ft": "1588",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Diamantino",
+    "scheduled_service": "no",
+    "gps_code": "SIOG",
+    "iata_code": "",
+    "local_code": "MT0112",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

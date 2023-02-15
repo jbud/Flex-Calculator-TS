@@ -1,0 +1,20 @@
+{
+    "id": "318542",
+    "ident": "KE-0080",
+    "type": "small_airport",
+    "name": "Baomo Tana Airport",
+    "latitude_deg": "-1.847326",
+    "longitude_deg": "40.091586",
+    "elevation_ft": "200",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-300",
+    "municipality": "Maroni",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

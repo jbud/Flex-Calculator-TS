@@ -1,0 +1,20 @@
+{
+    "id": "30872",
+    "ident": "DAAM",
+    "type": "small_airport",
+    "name": "Telerghma Airport",
+    "latitude_deg": "36.108699798583984",
+    "longitude_deg": "6.36460018157959",
+    "elevation_ft": "2484",
+    "continent": "AF",
+    "iso_country": "DZ",
+    "iso_region": "DZ-43",
+    "municipality": "Telerghma",
+    "scheduled_service": "no",
+    "gps_code": "DAAM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

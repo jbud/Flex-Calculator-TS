@@ -1,0 +1,20 @@
+{
+    "id": "355077",
+    "ident": "US-6878",
+    "type": "heliport",
+    "name": "Samaritan Hospital Heliport",
+    "latitude_deg": "39.748588",
+    "longitude_deg": "-92.468968",
+    "elevation_ft": "882",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Macon",
+    "scheduled_service": "no",
+    "gps_code": "6MO9",
+    "iata_code": "",
+    "local_code": "6MO9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

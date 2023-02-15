@@ -1,0 +1,20 @@
+{
+    "id": "45175",
+    "ident": "RU-0282",
+    "type": "medium_airport",
+    "name": "Millerovo Air Base",
+    "latitude_deg": "48.955177",
+    "longitude_deg": "40.296356",
+    "elevation_ft": "499",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-ROS",
+    "municipality": "Millerovo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэродром Миллерово, ЬРРИ"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "348694",
+    "ident": "CN-0220",
+    "type": "small_airport",
+    "name": "Zibo Air Base",
+    "latitude_deg": "36.80982",
+    "longitude_deg": "117.8922",
+    "elevation_ft": "131",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-37",
+    "municipality": "Zibo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

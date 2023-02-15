@@ -1,0 +1,20 @@
+{
+    "id": "329325",
+    "ident": "NZOT",
+    "type": "small_airport",
+    "name": "Otaki Airport",
+    "latitude_deg": "-40.785582",
+    "longitude_deg": "175.1513",
+    "elevation_ft": "114",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-WGN",
+    "municipality": "Otaki",
+    "scheduled_service": "yes",
+    "gps_code": "NZOT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

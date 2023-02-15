@@ -1,0 +1,20 @@
+{
+    "id": "44404",
+    "ident": "TJ-0002",
+    "type": "small_airport",
+    "name": "Dusti Airfield",
+    "latitude_deg": "37.369998931884766",
+    "longitude_deg": "68.68399810791016",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "TJ",
+    "iso_region": "TJ-KT",
+    "municipality": "Dusti",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэродром Дусти"
+}

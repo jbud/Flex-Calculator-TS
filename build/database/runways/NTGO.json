@@ -1,0 +1,20 @@
+{
+    "id": "32456",
+    "ident": "NTGO",
+    "type": "small_airport",
+    "name": "Tatakoto Airport",
+    "latitude_deg": "-17.355226",
+    "longitude_deg": "-138.44734",
+    "elevation_ft": "12",
+    "continent": "OC",
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "Tatakoto",
+    "scheduled_service": "no",
+    "gps_code": "NTGO",
+    "iata_code": "TKV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

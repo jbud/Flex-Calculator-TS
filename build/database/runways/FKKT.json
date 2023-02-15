@@ -1,0 +1,20 @@
+{
+    "id": "31135",
+    "ident": "FKKT",
+    "type": "small_airport",
+    "name": "Tibati Airport",
+    "latitude_deg": "6.482999801635742",
+    "longitude_deg": "12.633000373840332",
+    "elevation_ft": "2854",
+    "continent": "AF",
+    "iso_country": "CM",
+    "iso_region": "CM-AD",
+    "municipality": "Tibati",
+    "scheduled_service": "no",
+    "gps_code": "FKKT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

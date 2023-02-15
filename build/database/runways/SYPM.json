@@ -1,0 +1,20 @@
+{
+    "id": "313988",
+    "ident": "SYPM",
+    "type": "small_airport",
+    "name": "Paramakatoi Airport",
+    "latitude_deg": "4.6975",
+    "longitude_deg": "-59.7125",
+    "elevation_ft": "2600",
+    "continent": "SA",
+    "iso_country": "GY",
+    "iso_region": "GY-PT",
+    "municipality": "Paramakatoi",
+    "scheduled_service": "no",
+    "gps_code": "SYPM",
+    "iata_code": "PMT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

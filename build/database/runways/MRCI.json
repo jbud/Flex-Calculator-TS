@@ -1,0 +1,20 @@
+{
+    "id": "41935",
+    "ident": "MRCI",
+    "type": "small_airport",
+    "name": "Ciruelas Airport",
+    "latitude_deg": "10.516667366027832",
+    "longitude_deg": "-85.3499984741211",
+    "elevation_ft": "361",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-G",
+    "municipality": "Bagaces",
+    "scheduled_service": "no",
+    "gps_code": "MRCI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

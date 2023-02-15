@@ -1,0 +1,20 @@
+{
+    "id": "354163",
+    "ident": "BR-1692",
+    "type": "heliport",
+    "name": "Delta Heliport",
+    "latitude_deg": "-2.477717",
+    "longitude_deg": "-44.183729",
+    "elevation_ft": "141",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MA",
+    "municipality": "São José de Ribamar",
+    "scheduled_service": "no",
+    "gps_code": "SSIV",
+    "iata_code": "",
+    "local_code": "MA0069",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

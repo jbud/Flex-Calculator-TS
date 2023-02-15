@@ -1,0 +1,20 @@
+{
+    "id": "31080",
+    "ident": "FCBT",
+    "type": "small_airport",
+    "name": "Loutete Airport",
+    "latitude_deg": "-4.2829999923706055",
+    "longitude_deg": "13.866999626159668",
+    "elevation_ft": "656",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-11",
+    "municipality": "Loutete",
+    "scheduled_service": "no",
+    "gps_code": "FCBT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

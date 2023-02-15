@@ -1,0 +1,20 @@
+{
+    "id": "311186",
+    "ident": "YWNT",
+    "type": "heliport",
+    "name": "Westmead NETS Base Hospital Heliport",
+    "latitude_deg": "-33.802749",
+    "longitude_deg": "150.990223",
+    "elevation_ft": "120",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Westmead",
+    "scheduled_service": "no",
+    "gps_code": "YWNT",
+    "iata_code": "",
+    "local_code": "YWNT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

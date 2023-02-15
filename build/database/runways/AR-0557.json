@@ -1,0 +1,20 @@
+{
+    "id": "318306",
+    "ident": "AR-0557",
+    "type": "small_airport",
+    "name": "Tío Pujio Airport",
+    "latitude_deg": "-32.29307",
+    "longitude_deg": "-63.40197",
+    "elevation_ft": "777",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-X",
+    "municipality": "Tío Pujio",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "TIO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

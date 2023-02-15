@@ -1,0 +1,20 @@
+{
+    "id": "318178",
+    "ident": "LBMA",
+    "type": "small_airport",
+    "name": "Maritsa Airfield",
+    "latitude_deg": "42.2652",
+    "longitude_deg": "24.7205",
+    "elevation_ft": "630",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-16",
+    "municipality": "Maritsa",
+    "scheduled_service": "no",
+    "gps_code": "LBMA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Graf Ignatievo"
+}

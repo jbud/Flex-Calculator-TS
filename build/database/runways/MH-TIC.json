@@ -1,0 +1,20 @@
+{
+    "id": "32447",
+    "ident": "MH-TIC",
+    "type": "small_airport",
+    "name": "Tinak Airport",
+    "latitude_deg": "7.13332986831665",
+    "longitude_deg": "171.91700744628906",
+    "elevation_ft": "4",
+    "continent": "OC",
+    "iso_country": "MH",
+    "iso_region": "MH-ARN",
+    "municipality": "Arno Atoll",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "TIC",
+    "local_code": "N18",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

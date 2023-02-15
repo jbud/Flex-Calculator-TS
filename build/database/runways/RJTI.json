@@ -1,0 +1,20 @@
+{
+    "id": "309673",
+    "ident": "RJTI",
+    "type": "heliport",
+    "name": "Tokyo Heliport",
+    "latitude_deg": "35.635924",
+    "longitude_deg": "139.839475",
+    "elevation_ft": "14",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-13",
+    "municipality": "Edogawa, Tokyo",
+    "scheduled_service": "no",
+    "gps_code": "RJTI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.kouwan.metro.tokyo.jp/rito/tmg_heliport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tokyo_Heliport",
+    "keywords": "QXO"
+}

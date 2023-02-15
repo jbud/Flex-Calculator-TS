@@ -1,0 +1,20 @@
+{
+    "id": "32470",
+    "ident": "SMCO",
+    "type": "small_airport",
+    "name": "Totness Airport",
+    "latitude_deg": "5.86583",
+    "longitude_deg": "-56.327499",
+    "elevation_ft": "10",
+    "continent": "SA",
+    "iso_country": "SR",
+    "iso_region": "SR-CR",
+    "municipality": "Totness",
+    "scheduled_service": "no",
+    "gps_code": "SMCO",
+    "iata_code": "TOT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

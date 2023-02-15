@@ -1,0 +1,20 @@
+{
+    "id": "40124",
+    "ident": "SVEK",
+    "type": "small_airport",
+    "name": "El Capitán Airport",
+    "latitude_deg": "10.11359977722168",
+    "longitude_deg": "-72.57659912109375",
+    "elevation_ft": "452",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-V",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVEK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

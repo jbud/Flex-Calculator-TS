@@ -1,0 +1,20 @@
+{
+    "id": "350901",
+    "ident": "NP-0014",
+    "type": "heliport",
+    "name": "Lokhim Heliport",
+    "latitude_deg": "27.43895",
+    "longitude_deg": "86.7452",
+    "elevation_ft": "5440",
+    "continent": "AS",
+    "iso_country": "NP",
+    "iso_region": "NP-P1",
+    "municipality": "Lokhim",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

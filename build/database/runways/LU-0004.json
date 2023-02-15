@@ -1,0 +1,20 @@
+{
+    "id": "43766",
+    "ident": "LU-0004",
+    "type": "heliport",
+    "name": "Centre Hospitalier Emile Mayrisch Heliport",
+    "latitude_deg": "49.500911",
+    "longitude_deg": "5.982146",
+    "elevation_ft": "971",
+    "continent": "EU",
+    "iso_country": "LU",
+    "iso_region": "LU-L",
+    "municipality": "Esch-Sur-Alzette",
+    "scheduled_service": "no",
+    "gps_code": "ELEA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

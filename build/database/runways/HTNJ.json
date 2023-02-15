@@ -1,0 +1,20 @@
+{
+    "id": "31708",
+    "ident": "HTNJ",
+    "type": "small_airport",
+    "name": "Njombe Airport",
+    "latitude_deg": "-9.350000381469727",
+    "longitude_deg": "34.79999923706055",
+    "elevation_ft": "6400",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-04",
+    "municipality": "Njombe",
+    "scheduled_service": "no",
+    "gps_code": "HTNJ",
+    "iata_code": "JOM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "349596",
+    "ident": "US-5673",
+    "type": "small_airport",
+    "name": "Moore Airport",
+    "latitude_deg": "34.27586",
+    "longitude_deg": "-84.59022",
+    "elevation_ft": "927",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Waleska",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

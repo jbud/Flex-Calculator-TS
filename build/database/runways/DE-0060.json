@@ -1,0 +1,20 @@
+{
+    "id": "308315",
+    "ident": "DE-0060",
+    "type": "small_airport",
+    "name": "Segelflugplatz Karlstadt-Saupurzel",
+    "latitude_deg": "49.971234",
+    "longitude_deg": "9.790516",
+    "elevation_ft": "805",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Karlstadt",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://home.arcor-online.de/alois.laumer/platz-te/karlstad.htm",
+    "wikipedia_link": "",
+    "keywords": ""
+}

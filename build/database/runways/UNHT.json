@@ -1,0 +1,20 @@
+{
+    "id": "315499",
+    "ident": "UNHT",
+    "type": "heliport",
+    "name": "Tura Heliport",
+    "latitude_deg": "64.278786",
+    "longitude_deg": "100.214164",
+    "elevation_ft": "600",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KYA",
+    "municipality": "Tura",
+    "scheduled_service": "no",
+    "gps_code": "UNHT",
+    "iata_code": "",
+    "local_code": "UNHT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "УНХТ, Тура - МВЛ"
+}

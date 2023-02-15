@@ -1,0 +1,20 @@
+{
+    "id": "31217",
+    "ident": "FVAE",
+    "type": "small_airport",
+    "name": "Braebourne Airport",
+    "latitude_deg": "-16.66699981689453",
+    "longitude_deg": "31.232999801635742",
+    "elevation_ft": "3600",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MC",
+    "municipality": "Braebourne",
+    "scheduled_service": "no",
+    "gps_code": "FVAE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

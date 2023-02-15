@@ -1,0 +1,20 @@
+{
+    "id": "346503",
+    "ident": "BR-1602",
+    "type": "small_airport",
+    "name": "Fazenda Gerais Airport",
+    "latitude_deg": "-10.678452",
+    "longitude_deg": "-45.833665",
+    "elevation_ft": "2421",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Formosa do Rio Preto",
+    "scheduled_service": "no",
+    "gps_code": "SSHF",
+    "iata_code": "",
+    "local_code": "BA0159",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

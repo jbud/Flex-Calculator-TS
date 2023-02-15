@@ -1,0 +1,20 @@
+{
+    "id": "30144",
+    "ident": "LLMR",
+    "type": "small_airport",
+    "name": "Mitzpe Ramon Airfield",
+    "latitude_deg": "30.65060043334961",
+    "longitude_deg": "34.80690002441406",
+    "elevation_ft": "2556",
+    "continent": "AS",
+    "iso_country": "IL",
+    "iso_region": "IL-D",
+    "municipality": "Mitzpe Ramon",
+    "scheduled_service": "no",
+    "gps_code": "LLMR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mitzpe_Ramon_Airfield",
+    "keywords": ""
+}

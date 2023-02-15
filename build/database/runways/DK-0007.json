@@ -1,0 +1,20 @@
+{
+    "id": "319112",
+    "ident": "DK-0007",
+    "type": "small_airport",
+    "name": "Ejstruphede Glider Field",
+    "latitude_deg": "56.020679",
+    "longitude_deg": "8.692492",
+    "elevation_ft": "100",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-82",
+    "municipality": "Ejstruphede",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://svaeveflyvning.dk/side1",
+    "wikipedia_link": "",
+    "keywords": ""
+}

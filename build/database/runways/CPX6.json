@@ -1,0 +1,20 @@
+{
+    "id": "1474",
+    "ident": "CPX6",
+    "type": "heliport",
+    "name": "Port Perry (Community Memorial Hospital) Heliport",
+    "latitude_deg": "44.104863829900005",
+    "longitude_deg": "-78.95409196620001",
+    "elevation_ft": "875",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Port Perry",
+    "scheduled_service": "no",
+    "gps_code": "CPX6",
+    "iata_code": "",
+    "local_code": "CPX6",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "PX6"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "32234",
+    "ident": "HUAR",
+    "type": "medium_airport",
+    "name": "Arua Airport",
+    "latitude_deg": "3.049152",
+    "longitude_deg": "30.911714",
+    "elevation_ft": "3951",
+    "continent": "AF",
+    "iso_country": "UG",
+    "iso_region": "UG-N",
+    "municipality": "Arua",
+    "scheduled_service": "yes",
+    "gps_code": "HUAR",
+    "iata_code": "RUA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Arua_Airport",
+    "keywords": ""
+}

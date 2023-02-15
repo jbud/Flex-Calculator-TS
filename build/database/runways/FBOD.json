@@ -1,0 +1,20 @@
+{
+    "id": "317603",
+    "ident": "FBOD",
+    "type": "small_airport",
+    "name": "Oakdene Airport",
+    "latitude_deg": "-21.4578",
+    "longitude_deg": "21.8057",
+    "elevation_ft": "3810",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-GH",
+    "municipality": "Oakdene",
+    "scheduled_service": "no",
+    "gps_code": "FBOD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "FB58"
+}

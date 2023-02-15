@@ -1,0 +1,20 @@
+{
+    "id": "28573",
+    "ident": "EDGR",
+    "type": "small_airport",
+    "name": "Gießen-Reiskirchen Airport",
+    "latitude_deg": "50.56694412231445",
+    "longitude_deg": "8.869722366333008",
+    "elevation_ft": "702",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Gießen",
+    "scheduled_service": "no",
+    "gps_code": "EDGR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

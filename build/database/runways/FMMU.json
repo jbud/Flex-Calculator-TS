@@ -1,0 +1,20 @@
+{
+    "id": "32678",
+    "ident": "FMMU",
+    "type": "small_airport",
+    "name": "Tambohorano Airport",
+    "latitude_deg": "-17.47610092163086",
+    "longitude_deg": "43.972801208496094",
+    "elevation_ft": "23",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-M",
+    "municipality": "Tambohorano",
+    "scheduled_service": "yes",
+    "gps_code": "FMMU",
+    "iata_code": "WTA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

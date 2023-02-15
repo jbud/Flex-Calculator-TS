@@ -1,0 +1,20 @@
+{
+    "id": "320598",
+    "ident": "IT-0466",
+    "type": "small_airport",
+    "name": "Campo di Volo Amyclae",
+    "latitude_deg": "41.314204",
+    "longitude_deg": "13.345913",
+    "elevation_ft": "1",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-62",
+    "municipality": "Fondi (LT)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LTFON",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Amyclae,Red Baron"
+}

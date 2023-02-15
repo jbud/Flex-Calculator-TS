@@ -1,0 +1,20 @@
+{
+    "id": "325386",
+    "ident": "ID-0178",
+    "type": "small_airport",
+    "name": "Awimbon Airstrip",
+    "latitude_deg": "-5.165884",
+    "longitude_deg": "140.381568",
+    "elevation_ft": "492",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PP",
+    "municipality": "Awimbon",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "AWI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Awinbon"
+}

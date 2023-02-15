@@ -1,0 +1,20 @@
+{
+    "id": "320272",
+    "ident": "ES-0052",
+    "type": "small_airport",
+    "name": "Viver Airfield",
+    "latitude_deg": "39.953679",
+    "longitude_deg": "-0.622487",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-VC",
+    "municipality": "Viver",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

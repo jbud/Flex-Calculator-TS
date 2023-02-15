@@ -1,0 +1,20 @@
+{
+    "id": "41206",
+    "ident": "ZA-0036",
+    "type": "small_airport",
+    "name": "Forel Airport",
+    "latitude_deg": "-25.950000762939453",
+    "longitude_deg": "30.116666793823242",
+    "elevation_ft": "6464",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-MP",
+    "municipality": "Carolina",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

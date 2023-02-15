@@ -1,0 +1,20 @@
+{
+    "id": "309759",
+    "ident": "SNDK",
+    "type": "heliport",
+    "name": "C.T.O Itaú Heliport",
+    "latitude_deg": "-23.5580558777",
+    "longitude_deg": "-46.618610382099995",
+    "elevation_ft": "2661",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São Paulo",
+    "scheduled_service": "no",
+    "gps_code": "SNDK",
+    "iata_code": "",
+    "local_code": "SNDK",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

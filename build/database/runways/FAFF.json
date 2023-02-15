@@ -1,0 +1,20 @@
+{
+    "id": "41182",
+    "ident": "FAFF",
+    "type": "small_airport",
+    "name": "Frankfort Airport",
+    "latitude_deg": "-27.286786",
+    "longitude_deg": "28.514585",
+    "elevation_ft": "5176",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-FS",
+    "municipality": "Frankfort",
+    "scheduled_service": "no",
+    "gps_code": "FAFF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

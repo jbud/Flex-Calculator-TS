@@ -1,0 +1,20 @@
+{
+    "id": "10056",
+    "ident": "33MN",
+    "type": "small_airport",
+    "name": "Swift Private Airport",
+    "latitude_deg": "46.090000152588",
+    "longitude_deg": "-96.09700012207",
+    "elevation_ft": "1100",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Wendell",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "33MN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "33MN"
+}

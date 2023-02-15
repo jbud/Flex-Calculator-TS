@@ -1,0 +1,20 @@
+{
+    "id": "30590",
+    "ident": "OPSN",
+    "type": "medium_airport",
+    "name": "Sehwan Sharif Airport",
+    "latitude_deg": "26.473100662231445",
+    "longitude_deg": "67.71720123291016",
+    "elevation_ft": "121",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-SD",
+    "municipality": "Sehwan Sharif",
+    "scheduled_service": "yes",
+    "gps_code": "OPSN",
+    "iata_code": "SYW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sehwan_Sharif_Airport",
+    "keywords": ""
+}

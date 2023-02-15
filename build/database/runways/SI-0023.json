@@ -1,0 +1,20 @@
+{
+    "id": "319831",
+    "ident": "SI-0023",
+    "type": "small_airport",
+    "name": "Vzletišče Libeliče",
+    "latitude_deg": "46.623608",
+    "longitude_deg": "14.955036",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SI",
+    "iso_region": "SI-025",
+    "municipality": "Libeliče",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Aviofun"
+}

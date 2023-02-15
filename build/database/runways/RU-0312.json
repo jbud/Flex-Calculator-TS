@@ -1,0 +1,20 @@
+{
+    "id": "46139",
+    "ident": "RU-0312",
+    "type": "small_airport",
+    "name": "Belaya Kalitva Airport",
+    "latitude_deg": "48.217001",
+    "longitude_deg": "40.82",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-ROS",
+    "municipality": "Belaya Kalitva",
+    "scheduled_service": "no",
+    "gps_code": "URRA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.aeroport-bk.ru",
+    "wikipedia_link": "",
+    "keywords": "УРРА, Аэропорт Белая Калитва"
+}

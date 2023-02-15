@@ -1,0 +1,20 @@
+{
+    "id": "355124",
+    "ident": "US-6889",
+    "type": "small_airport",
+    "name": "LL Landing",
+    "latitude_deg": "47.459404",
+    "longitude_deg": "-100.907125",
+    "elevation_ft": "1931",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Turtle Lake",
+    "scheduled_service": "no",
+    "gps_code": "ND92",
+    "iata_code": "",
+    "local_code": "ND92",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

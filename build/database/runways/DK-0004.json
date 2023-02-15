@@ -1,0 +1,20 @@
+{
+    "id": "317475",
+    "ident": "DK-0004",
+    "type": "small_airport",
+    "name": "Brædstrup",
+    "latitude_deg": "55.943611",
+    "longitude_deg": "9.653333",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-82",
+    "municipality": "Brædstrup",
+    "scheduled_service": "no",
+    "gps_code": "EKBR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.ekbr.dk/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

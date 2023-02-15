@@ -1,0 +1,20 @@
+{
+    "id": "1579",
+    "ident": "CSY9",
+    "type": "heliport",
+    "name": "Sydney (Cape Breton Regional Hospital) Heliport",
+    "latitude_deg": "46.110109552699996",
+    "longitude_deg": "-60.1761505008",
+    "elevation_ft": "224",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NS",
+    "municipality": "Sydney",
+    "scheduled_service": "no",
+    "gps_code": "CSY9",
+    "iata_code": "",
+    "local_code": "CSY9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SY9"
+}

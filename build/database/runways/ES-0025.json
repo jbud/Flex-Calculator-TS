@@ -1,0 +1,20 @@
+{
+    "id": "315858",
+    "ident": "ES-0025",
+    "type": "small_airport",
+    "name": "Aerodromo de Figueira dos Cavaleiros",
+    "latitude_deg": "38.077502",
+    "longitude_deg": "-8.235832",
+    "elevation_ft": "262",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-02",
+    "municipality": "Ferreira do Alentejo",
+    "scheduled_service": "no",
+    "gps_code": "LPFC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.samag.pt/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

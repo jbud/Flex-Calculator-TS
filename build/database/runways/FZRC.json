@@ -1,0 +1,20 @@
+{
+    "id": "31446",
+    "ident": "FZRC",
+    "type": "small_airport",
+    "name": "Mukoy Airport",
+    "latitude_deg": "-7.549181",
+    "longitude_deg": "28.673115",
+    "elevation_ft": "5249",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-TA",
+    "municipality": "Mukoy",
+    "scheduled_service": "no",
+    "gps_code": "FZRC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

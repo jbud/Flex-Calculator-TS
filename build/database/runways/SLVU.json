@@ -1,0 +1,20 @@
+{
+    "id": "39477",
+    "ident": "SLVU",
+    "type": "small_airport",
+    "name": "Vuelta Grande Airport",
+    "latitude_deg": "-20.90483283996582",
+    "longitude_deg": "-63.19216537475586",
+    "elevation_ft": "1900",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-H",
+    "municipality": "Luis Calvo",
+    "scheduled_service": "no",
+    "gps_code": "SLVU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

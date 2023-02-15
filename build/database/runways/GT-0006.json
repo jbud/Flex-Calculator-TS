@@ -1,0 +1,20 @@
+{
+    "id": "42235",
+    "ident": "GT-0006",
+    "type": "small_airport",
+    "name": "El Petén Airport",
+    "latitude_deg": "17.226388931274414",
+    "longitude_deg": "-89.6050033569336",
+    "elevation_ft": "774",
+    "continent": "NA",
+    "iso_country": "GT",
+    "iso_region": "GT-PE",
+    "municipality": "Tikal",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "TKM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

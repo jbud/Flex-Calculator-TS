@@ -1,0 +1,20 @@
+{
+    "id": "353425",
+    "ident": "PE-0025",
+    "type": "small_airport",
+    "name": "Huacho Airport",
+    "latitude_deg": "-11.11008",
+    "longitude_deg": "-77.55382",
+    "elevation_ft": "338",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LIM",
+    "municipality": "Santa María",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

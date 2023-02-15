@@ -1,0 +1,20 @@
+{
+    "id": "505725",
+    "ident": "US-7425",
+    "type": "small_airport",
+    "name": "LM-ETS Airport",
+    "latitude_deg": "28.369111",
+    "longitude_deg": "-81.076108",
+    "elevation_ft": "11",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Orlando",
+    "scheduled_service": "no",
+    "gps_code": "54FD",
+    "iata_code": "",
+    "local_code": "54FD",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

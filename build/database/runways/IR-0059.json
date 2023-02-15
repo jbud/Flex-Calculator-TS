@@ -1,0 +1,20 @@
+{
+    "id": "351572",
+    "ident": "IR-0059",
+    "type": "small_airport",
+    "name": "Konartakhteh Airport",
+    "latitude_deg": "29.55221",
+    "longitude_deg": "51.39436",
+    "elevation_ft": "1644",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-07",
+    "municipality": "Konartakhteh",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "29270",
+    "ident": "ENQA",
+    "type": "heliport",
+    "name": "Troll A Platform",
+    "latitude_deg": "60.645",
+    "longitude_deg": "3.72472",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-XX",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "ENQA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

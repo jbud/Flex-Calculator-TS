@@ -1,0 +1,20 @@
+{
+    "id": "356278",
+    "ident": "FR-0503",
+    "type": "small_airport",
+    "name": "MOUY",
+    "latitude_deg": "49.3146",
+    "longitude_deg": "2.30019",
+    "elevation_ft": "371",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-IDF",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF6051",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

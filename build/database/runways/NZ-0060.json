@@ -1,0 +1,20 @@
+{
+    "id": "429932",
+    "ident": "NZ-0060",
+    "type": "small_airport",
+    "name": "Kohe Airstrip",
+    "latitude_deg": "-35.31355",
+    "longitude_deg": "173.29435",
+    "elevation_ft": "349",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-NTL",
+    "municipality": "Pawarenga",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

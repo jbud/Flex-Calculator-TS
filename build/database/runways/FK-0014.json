@@ -1,0 +1,20 @@
+{
+    "id": "322395",
+    "ident": "FK-0014",
+    "type": "small_airport",
+    "name": "Dunnose Head Airport",
+    "latitude_deg": "-51.753339",
+    "longitude_deg": "-60.415834",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "FK",
+    "iso_region": "FK-U-A",
+    "municipality": "Dunnose Head",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

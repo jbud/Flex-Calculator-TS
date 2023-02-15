@@ -1,0 +1,20 @@
+{
+    "id": "35658",
+    "ident": "SDOM",
+    "type": "heliport",
+    "name": "Hospital Montreal Heliport",
+    "latitude_deg": "-23.5366",
+    "longitude_deg": "-46.7768",
+    "elevation_ft": "2520",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Osasco",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SDOM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SDOM"
+}

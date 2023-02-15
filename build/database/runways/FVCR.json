@@ -1,0 +1,20 @@
+{
+    "id": "31226",
+    "ident": "FVCR",
+    "type": "small_airport",
+    "name": "Chizarira Airport",
+    "latitude_deg": "-17.683000564575195",
+    "longitude_deg": "27.899999618530273",
+    "elevation_ft": "3280",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MN",
+    "municipality": "Chizarira",
+    "scheduled_service": "no",
+    "gps_code": "FVCR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

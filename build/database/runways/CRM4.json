@@ -1,0 +1,20 @@
+{
+    "id": "320220",
+    "ident": "CRM4",
+    "type": "small_airport",
+    "name": "Cormier Airport",
+    "latitude_deg": "46.1808",
+    "longitude_deg": "-64.3758",
+    "elevation_ft": "105",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NB",
+    "municipality": "Cormier",
+    "scheduled_service": "no",
+    "gps_code": "CRM4",
+    "iata_code": "",
+    "local_code": "CRM4",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cormier_Aerodrome",
+    "keywords": ""
+}

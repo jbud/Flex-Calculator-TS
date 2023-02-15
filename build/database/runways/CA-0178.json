@@ -1,0 +1,20 @@
+{
+    "id": "39824",
+    "ident": "CA-0178",
+    "type": "small_airport",
+    "name": "Kaskattama Airstrip",
+    "latitude_deg": "57.0415",
+    "longitude_deg": "-90.1126",
+    "elevation_ft": "30",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Kaska Goose Lodge",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

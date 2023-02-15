@@ -1,0 +1,20 @@
+{
+    "id": "317785",
+    "ident": "IT-0212",
+    "type": "small_airport",
+    "name": "Campo di Volo \"Air Patria\"",
+    "latitude_deg": "40.926943",
+    "longitude_deg": "14.061944",
+    "elevation_ft": "100",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-72",
+    "municipality": "Giuliano (NA)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "NAPAT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Lago Patria"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "355231",
+    "ident": "HHBG",
+    "type": "heliport",
+    "name": "Christoph Hansa ADAC Helipad",
+    "latitude_deg": "53.507971",
+    "longitude_deg": "10.173382",
+    "elevation_ft": "136",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HH",
+    "municipality": "Hamburg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://de.wikipedia.org/wiki/Christoph_Hansa",
+    "keywords": "HHBG, BG Klinikum Boberg"
+}

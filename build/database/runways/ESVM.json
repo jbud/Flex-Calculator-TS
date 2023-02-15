@@ -1,0 +1,20 @@
+{
+    "id": "29390",
+    "ident": "ESVM",
+    "type": "small_airport",
+    "name": "Skinnlanda Airport",
+    "latitude_deg": "60.65879821777344",
+    "longitude_deg": "13.72659969329834",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-W",
+    "municipality": "Malung",
+    "scheduled_service": "no",
+    "gps_code": "ESVM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

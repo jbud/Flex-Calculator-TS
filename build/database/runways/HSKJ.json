@@ -1,0 +1,20 @@
+{
+    "id": "31620",
+    "ident": "HSKJ",
+    "type": "small_airport",
+    "name": "Kajo Keji Airport",
+    "latitude_deg": "3.85754",
+    "longitude_deg": "31.65652",
+    "elevation_ft": "2500",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-17",
+    "municipality": "Kajo Keji",
+    "scheduled_service": "no",
+    "gps_code": "HJKK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kago_Kaju_Airport",
+    "keywords": "HSKJ, Kago Kaju"
+}

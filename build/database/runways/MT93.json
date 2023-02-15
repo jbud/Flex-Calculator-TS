@@ -1,0 +1,20 @@
+{
+    "id": "22488",
+    "ident": "MT93",
+    "type": "small_airport",
+    "name": "Larner Field",
+    "latitude_deg": "46.28710174560547",
+    "longitude_deg": "-112.75800323486328",
+    "elevation_ft": "4710",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Deer Lodge",
+    "scheduled_service": "no",
+    "gps_code": "MT93",
+    "iata_code": "",
+    "local_code": "MT93",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

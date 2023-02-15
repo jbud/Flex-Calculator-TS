@@ -1,0 +1,20 @@
+{
+    "id": "31775",
+    "ident": "FZBT",
+    "type": "small_airport",
+    "name": "Kiri Airport",
+    "latitude_deg": "-1.499806",
+    "longitude_deg": "18.928456",
+    "elevation_ft": "1013",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-MN",
+    "municipality": "Kiri",
+    "scheduled_service": "yes",
+    "gps_code": "FZBT",
+    "iata_code": "KRZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Basango Moliasa Airport"
+}

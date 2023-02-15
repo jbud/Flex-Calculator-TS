@@ -1,0 +1,20 @@
+{
+    "id": "31875",
+    "ident": "FZAL",
+    "type": "small_airport",
+    "name": "Luozi Airport",
+    "latitude_deg": "-4.943881",
+    "longitude_deg": "14.123337",
+    "elevation_ft": "722",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KO",
+    "municipality": "Luozi",
+    "scheduled_service": "no",
+    "gps_code": "FZAL",
+    "iata_code": "LZI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

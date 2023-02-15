@@ -1,0 +1,20 @@
+{
+    "id": "349458",
+    "ident": "IR-0036",
+    "type": "small_airport",
+    "name": "Fath Airport",
+    "latitude_deg": "35.7154",
+    "longitude_deg": "50.93407",
+    "elevation_ft": "3947",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-30",
+    "municipality": "Fardis",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

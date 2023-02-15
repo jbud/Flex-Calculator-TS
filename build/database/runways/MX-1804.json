@@ -1,0 +1,20 @@
+{
+    "id": "349193",
+    "ident": "MX-1804",
+    "type": "small_airport",
+    "name": "Santa Rosa de Vizcaino Airstrip",
+    "latitude_deg": "27.626338",
+    "longitude_deg": "-113.345969",
+    "elevation_ft": "272",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-BCS",
+    "municipality": "Mulege",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SRV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

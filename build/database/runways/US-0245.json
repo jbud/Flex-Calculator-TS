@@ -1,0 +1,20 @@
+{
+    "id": "311099",
+    "ident": "US-0245",
+    "type": "small_airport",
+    "name": "Little York Airport",
+    "latitude_deg": "38.695833",
+    "longitude_deg": "-85.919167",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Scottsburg",
+    "scheduled_service": "no",
+    "gps_code": "63IN",
+    "iata_code": "",
+    "local_code": "63IN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

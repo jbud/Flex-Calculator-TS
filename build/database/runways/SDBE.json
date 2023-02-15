@@ -1,0 +1,20 @@
+{
+    "id": "309744",
+    "ident": "SDBE",
+    "type": "small_airport",
+    "name": "Biopalma Airport",
+    "latitude_deg": "-2.208",
+    "longitude_deg": "-48.8146",
+    "elevation_ft": "52",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Moju",
+    "scheduled_service": "no",
+    "gps_code": "SDBE",
+    "iata_code": "",
+    "local_code": "PA0033",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "323811",
+    "ident": "EC-0010",
+    "type": "small_airport",
+    "name": "Pacayacu Airstrip",
+    "latitude_deg": "-1.650816",
+    "longitude_deg": "-77.596069",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-Y",
+    "municipality": "Pacayacu",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

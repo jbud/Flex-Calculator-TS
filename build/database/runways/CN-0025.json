@@ -1,0 +1,20 @@
+{
+    "id": "44101",
+    "ident": "CN-0025",
+    "type": "medium_airport",
+    "name": "Tangshan Zunhua Air Base",
+    "latitude_deg": "40.102501",
+    "longitude_deg": "117.887001",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-13",
+    "municipality": "Tangshan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "320565",
+    "ident": "ES-0076",
+    "type": "small_airport",
+    "name": "AeroVeleta ULM",
+    "latitude_deg": "37.294754",
+    "longitude_deg": "-3.712869",
+    "elevation_ft": "2444",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Caparacena, Granada",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://http://aeroveleta.es/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "43811",
+    "ident": "LOAP",
+    "type": "heliport",
+    "name": "Waidhofen an der Ybbs Hospital Helipad",
+    "latitude_deg": "47.952778",
+    "longitude_deg": "14.788056",
+    "elevation_ft": "1279",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Waidhofen an der Ybbs",
+    "scheduled_service": "no",
+    "gps_code": "LOAP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

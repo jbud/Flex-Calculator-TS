@@ -1,0 +1,20 @@
+{
+    "id": "318797",
+    "ident": "TZ-0139",
+    "type": "small_airport",
+    "name": "Mawemeru Airport",
+    "latitude_deg": "-3.111222",
+    "longitude_deg": "32.21536",
+    "elevation_ft": "4000",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-18",
+    "municipality": "Mawemeru",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

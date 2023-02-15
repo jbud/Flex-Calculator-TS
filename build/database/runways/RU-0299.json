@@ -1,0 +1,20 @@
+{
+    "id": "46090",
+    "ident": "RU-0299",
+    "type": "small_airport",
+    "name": "Varfolomeyevka Air Base",
+    "latitude_deg": "44.261",
+    "longitude_deg": "133.413",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-PRI",
+    "municipality": "Varfolomeyevka",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Varfolomeevka Air Base, Аэродром Варфоломеевка"
+}

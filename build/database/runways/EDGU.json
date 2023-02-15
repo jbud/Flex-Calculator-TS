@@ -1,0 +1,20 @@
+{
+    "id": "28743",
+    "ident": "EDGU",
+    "type": "small_airport",
+    "name": "Unterschüpf Airport",
+    "latitude_deg": "49.51583480834961",
+    "longitude_deg": "9.66944408416748",
+    "elevation_ft": "1155",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Unterschüpf",
+    "scheduled_service": "no",
+    "gps_code": "EDGU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

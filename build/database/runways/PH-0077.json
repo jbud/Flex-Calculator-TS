@@ -1,0 +1,20 @@
+{
+    "id": "325972",
+    "ident": "PH-0077",
+    "type": "heliport",
+    "name": "Clark International Airport South Ramp Heliport",
+    "latitude_deg": "15.172336",
+    "longitude_deg": "120.545547",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-PAM",
+    "municipality": "Mabalacat",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://crk.clarkairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clark_International_Airport",
+    "keywords": "Clark International Airport, South Ramp"
+}

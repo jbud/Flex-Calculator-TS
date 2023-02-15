@@ -1,0 +1,20 @@
+{
+    "id": "43225",
+    "ident": "BGUM",
+    "type": "heliport",
+    "name": "Uummannaq Heliport",
+    "latitude_deg": "70.680428",
+    "longitude_deg": "-52.11163",
+    "elevation_ft": "50",
+    "continent": "NA",
+    "iso_country": "GL",
+    "iso_region": "GL-AV",
+    "municipality": "Uummannaq",
+    "scheduled_service": "yes",
+    "gps_code": "BGUM",
+    "iata_code": "UMD",
+    "local_code": "",
+    "home_link": "http://airgreenland.com/om_rejsen/efter_rejsen/din_destination_/uummannaq/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Uummannaq_Heliport",
+    "keywords": ""
+}

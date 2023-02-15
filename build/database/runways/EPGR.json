@@ -1,0 +1,20 @@
+{
+    "id": "43171",
+    "ident": "EPGR",
+    "type": "small_airport",
+    "name": "Łańsk / Gryźliny Airfield",
+    "latitude_deg": "53.608059",
+    "longitude_deg": "20.34444",
+    "elevation_ft": "538",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-WN",
+    "municipality": "Olsztynek",
+    "scheduled_service": "no",
+    "gps_code": "EPGR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

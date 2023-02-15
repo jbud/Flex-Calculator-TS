@@ -1,0 +1,20 @@
+{
+    "id": "40194",
+    "ident": "SVLW",
+    "type": "small_airport",
+    "name": "Los Aguacates Airport",
+    "latitude_deg": "10.06833267211914",
+    "longitude_deg": "-68.02166748046875",
+    "elevation_ft": "1540",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-G",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVLW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "320137",
+    "ident": "ES-0041",
+    "type": "small_airport",
+    "name": "Casas de Juan Gil Airfield",
+    "latitude_deg": "39.133",
+    "longitude_deg": "-1.2622",
+    "elevation_ft": "2723",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CM",
+    "municipality": "Carcelén",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

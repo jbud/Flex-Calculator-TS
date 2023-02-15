@@ -1,0 +1,20 @@
+{
+    "id": "31314",
+    "ident": "FZBF",
+    "type": "small_airport",
+    "name": "Bonkita Airport",
+    "latitude_deg": "-3.109085",
+    "longitude_deg": "18.786256",
+    "elevation_ft": "931",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-MN",
+    "municipality": "Bonkita",
+    "scheduled_service": "no",
+    "gps_code": "FZBF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

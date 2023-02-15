@@ -1,0 +1,20 @@
+{
+    "id": "1569",
+    "ident": "CSV3",
+    "type": "heliport",
+    "name": "Bécancour Heliport",
+    "latitude_deg": "46.3650016784668",
+    "longitude_deg": "-72.39610290527344",
+    "elevation_ft": "31",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Bécancour",
+    "scheduled_service": "no",
+    "gps_code": "CSV3",
+    "iata_code": "",
+    "local_code": "CSV3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SV3"
+}

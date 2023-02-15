@@ -1,0 +1,20 @@
+{
+    "id": "309327",
+    "ident": "YXWL",
+    "type": "heliport",
+    "name": "Wollongong Hospital Helipad",
+    "latitude_deg": "-34.42419",
+    "longitude_deg": "150.8822",
+    "elevation_ft": "160",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Wollongong",
+    "scheduled_service": "no",
+    "gps_code": "YXWL",
+    "iata_code": "",
+    "local_code": "YXWL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

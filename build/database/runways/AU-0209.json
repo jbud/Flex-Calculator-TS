@@ -1,0 +1,20 @@
+{
+    "id": "349477",
+    "ident": "AU-0209",
+    "type": "small_airport",
+    "name": "Wyberba Airstrip",
+    "latitude_deg": "-28.847287",
+    "longitude_deg": "151.857834",
+    "elevation_ft": "2500",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Wyberba",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

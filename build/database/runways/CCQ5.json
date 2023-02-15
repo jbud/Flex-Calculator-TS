@@ -1,0 +1,20 @@
+{
+    "id": "28402",
+    "ident": "CCQ5",
+    "type": "seaplane_base",
+    "name": "St. John's (Paddys Pond) Seaplane Base",
+    "latitude_deg": "47.468257",
+    "longitude_deg": "-52.889542",
+    "elevation_ft": "375",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NL",
+    "municipality": "St. John's",
+    "scheduled_service": "no",
+    "gps_code": "CCQ5",
+    "iata_code": "",
+    "local_code": "CCQ5",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/St._John%27s_%28Paddys_Pond%29_Water_Aerodrome",
+    "keywords": "CQ5"
+}

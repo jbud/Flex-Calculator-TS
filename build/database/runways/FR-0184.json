@@ -1,0 +1,20 @@
+{
+    "id": "43524",
+    "ident": "FR-0184",
+    "type": "heliport",
+    "name": "Centre De Secours Heliport",
+    "latitude_deg": "43.42250061035156",
+    "longitude_deg": "5.048056125640869",
+    "elevation_ft": "136",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-PAC",
+    "municipality": "Martigues",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

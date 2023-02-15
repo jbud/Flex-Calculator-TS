@@ -1,0 +1,20 @@
+{
+    "id": "1207",
+    "ident": "CKM3",
+    "type": "heliport",
+    "name": "Shilo Heliport",
+    "latitude_deg": "49.79999923706055",
+    "longitude_deg": "-99.63330078125",
+    "elevation_ft": "1225",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Shilo",
+    "scheduled_service": "no",
+    "gps_code": "CKM3",
+    "iata_code": "",
+    "local_code": "CKM3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "KM3"
+}

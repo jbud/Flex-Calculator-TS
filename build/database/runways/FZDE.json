@@ -1,0 +1,20 @@
+{
+    "id": "31345",
+    "ident": "FZDE",
+    "type": "small_airport",
+    "name": "Tono Airport",
+    "latitude_deg": "-6.33422",
+    "longitude_deg": "18.21408",
+    "elevation_ft": "2461",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KW",
+    "municipality": "Tono",
+    "scheduled_service": "no",
+    "gps_code": "FZDE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

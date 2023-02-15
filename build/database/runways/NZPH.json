@@ -1,0 +1,20 @@
+{
+    "id": "30300",
+    "ident": "NZPH",
+    "type": "small_airport",
+    "name": "Pudding Hill Aerodrome",
+    "latitude_deg": "-43.594200134277344",
+    "longitude_deg": "171.531005859375",
+    "elevation_ft": "1558",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-CAN",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "NZPH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

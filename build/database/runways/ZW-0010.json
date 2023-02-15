@@ -1,0 +1,20 @@
+{
+    "id": "318994",
+    "ident": "ZW-0010",
+    "type": "small_airport",
+    "name": "Belingwe Airport",
+    "latitude_deg": "-20.522514",
+    "longitude_deg": "29.876149",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MI",
+    "municipality": "Belingwe",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

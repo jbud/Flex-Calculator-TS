@@ -1,0 +1,20 @@
+{
+    "id": "351462",
+    "ident": "SS-0051",
+    "type": "small_airport",
+    "name": "Adok Airport",
+    "latitude_deg": "8.20699",
+    "longitude_deg": "30.29131",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-22",
+    "municipality": "Adok",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

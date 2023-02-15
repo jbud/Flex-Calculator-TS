@@ -1,0 +1,20 @@
+{
+    "id": "44321",
+    "ident": "URKH",
+    "type": "medium_airport",
+    "name": "Khanskaya Air Base",
+    "latitude_deg": "44.68",
+    "longitude_deg": "40.035",
+    "elevation_ft": "600",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-AD",
+    "municipality": "Maykop",
+    "scheduled_service": "no",
+    "gps_code": "URKH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Hanskaya Airport, Аэропорт Ханская"
+}

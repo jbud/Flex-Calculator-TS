@@ -1,0 +1,20 @@
+{
+    "id": "343954",
+    "ident": "SBQS",
+    "type": "small_airport",
+    "name": "Santa Rosa Airstrip",
+    "latitude_deg": "-15.405795",
+    "longitude_deg": "-54.964051",
+    "elevation_ft": "2208",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Campo Verde",
+    "scheduled_service": "no",
+    "gps_code": "SBQS",
+    "iata_code": "",
+    "local_code": "MT0642",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "335225",
+    "ident": "UNLK",
+    "type": "small_airport",
+    "name": "Kargasok Airport",
+    "latitude_deg": "59.061858",
+    "longitude_deg": "80.823204",
+    "elevation_ft": "194",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-TOM",
+    "municipality": "Kargasok",
+    "scheduled_service": "no",
+    "gps_code": "UNLK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

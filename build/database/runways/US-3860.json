@@ -1,0 +1,20 @@
+{
+    "id": "343829",
+    "ident": "US-3860",
+    "type": "small_airport",
+    "name": "Griffin Ranch Airport",
+    "latitude_deg": "28.67352",
+    "longitude_deg": "-100.23035",
+    "elevation_ft": "784",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Eagle Pass",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

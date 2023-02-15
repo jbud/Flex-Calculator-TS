@@ -1,0 +1,20 @@
+{
+    "id": "31643",
+    "ident": "HTMX",
+    "type": "small_airport",
+    "name": "Mpwapwa Airport",
+    "latitude_deg": "-6.349999904632568",
+    "longitude_deg": "36.483001708984375",
+    "elevation_ft": "3240",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-03",
+    "municipality": "Mpwapwa",
+    "scheduled_service": "no",
+    "gps_code": "HTMX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

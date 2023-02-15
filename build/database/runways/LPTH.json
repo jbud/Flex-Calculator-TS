@@ -1,0 +1,20 @@
+{
+    "id": "321268",
+    "ident": "LPTH",
+    "type": "heliport",
+    "name": "Tomar Hospital Helipad",
+    "latitude_deg": "39.610553",
+    "longitude_deg": "-8.395223",
+    "elevation_ft": "306",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-14",
+    "municipality": "Tomar",
+    "scheduled_service": "no",
+    "gps_code": "LPTH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

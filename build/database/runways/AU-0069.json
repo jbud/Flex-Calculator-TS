@@ -1,0 +1,20 @@
+{
+    "id": "309834",
+    "ident": "AU-0069",
+    "type": "heliport",
+    "name": "Appin Colliery Helipad",
+    "latitude_deg": "-34.2098",
+    "longitude_deg": "150.7914",
+    "elevation_ft": "832",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Appin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "OZHAE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "APPC"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "46401",
+    "ident": "CU-0033",
+    "type": "small_airport",
+    "name": "Campechuela Airport",
+    "latitude_deg": "20.218268",
+    "longitude_deg": "-77.298131",
+    "elevation_ft": "197",
+    "continent": "NA",
+    "iso_country": "CU",
+    "iso_region": "CU-12",
+    "municipality": "Campechuela",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

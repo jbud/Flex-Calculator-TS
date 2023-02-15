@@ -1,0 +1,20 @@
+{
+    "id": "319641",
+    "ident": "IT-0331",
+    "type": "small_airport",
+    "name": "Aviosuperficie Santa Anna",
+    "latitude_deg": "43.366053",
+    "longitude_deg": "13.457496",
+    "elevation_ft": "393",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-57",
+    "municipality": "Montecassiano (MC)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MCMSA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Santa Ann"
+}

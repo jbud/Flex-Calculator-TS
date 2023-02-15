@@ -1,0 +1,20 @@
+{
+    "id": "317003",
+    "ident": "IT-0174",
+    "type": "small_airport",
+    "name": "Ali Libere",
+    "latitude_deg": "42.829833",
+    "longitude_deg": "12.683383",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-55",
+    "municipality": "Castelritaldi (PG)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "PGCRT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

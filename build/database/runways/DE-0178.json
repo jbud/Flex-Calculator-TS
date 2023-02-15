@@ -1,0 +1,20 @@
+{
+    "id": "314768",
+    "ident": "DE-0178",
+    "type": "small_airport",
+    "name": "Düsseldorf-Wolfsaap Glider Field",
+    "latitude_deg": "51.2649",
+    "longitude_deg": "6.8539",
+    "elevation_ft": "375",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Düsseldorf",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.wolfsaap.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

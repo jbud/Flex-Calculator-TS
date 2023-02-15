@@ -1,0 +1,20 @@
+{
+    "id": "328796",
+    "ident": "US-0934",
+    "type": "balloonport",
+    "name": "Murphy's Landing Balloonport",
+    "latitude_deg": "41.666664",
+    "longitude_deg": "-73.1894444",
+    "elevation_ft": "1050",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Bethlehem",
+    "scheduled_service": "no",
+    "gps_code": "CT30",
+    "iata_code": "",
+    "local_code": "CT30",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

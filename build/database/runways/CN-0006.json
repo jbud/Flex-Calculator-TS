@@ -1,0 +1,20 @@
+{
+    "id": "44082",
+    "ident": "CN-0006",
+    "type": "medium_airport",
+    "name": "Beijing Shahezhen Air Base",
+    "latitude_deg": "40.149166107177734",
+    "longitude_deg": "116.3213882446289",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-11",
+    "municipality": "Beijing",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

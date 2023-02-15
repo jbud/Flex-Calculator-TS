@@ -1,0 +1,20 @@
+{
+    "id": "351487",
+    "ident": "PE-0013",
+    "type": "heliport",
+    "name": "Pucallpa Air Force Heliport",
+    "latitude_deg": "-8.3515",
+    "longitude_deg": "-74.5819",
+    "elevation_ft": "505",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-UCA",
+    "municipality": "Pucallpa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

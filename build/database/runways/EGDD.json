@@ -1,0 +1,20 @@
+{
+    "id": "29701",
+    "ident": "EGDD",
+    "type": "small_airport",
+    "name": "Bicester Airfield",
+    "latitude_deg": "51.91669845581055",
+    "longitude_deg": "-1.1319400072097778",
+    "elevation_ft": "266",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Bicester",
+    "scheduled_service": "no",
+    "gps_code": "EGDD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bicester_Airfield",
+    "keywords": "RAF Bicester"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "332496",
+    "ident": "YGMT",
+    "type": "small_airport",
+    "name": "Greenmount ALA",
+    "latitude_deg": "-27.763556",
+    "longitude_deg": "151.925495",
+    "elevation_ft": "1770",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Greenmount",
+    "scheduled_service": "no",
+    "gps_code": "YGMT",
+    "iata_code": "",
+    "local_code": "GNM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "greenmount, gnm, ala, ygmt"
+}

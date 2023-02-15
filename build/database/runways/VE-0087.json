@@ -1,0 +1,20 @@
+{
+    "id": "40436",
+    "ident": "VE-0087",
+    "type": "small_airport",
+    "name": "Hato Los Pozos Airport",
+    "latitude_deg": "9.635000228881836",
+    "longitude_deg": "-65.80332946777344",
+    "elevation_ft": "665",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-J",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

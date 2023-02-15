@@ -1,0 +1,20 @@
+{
+    "id": "318632",
+    "ident": "TZ-0071",
+    "type": "small_airport",
+    "name": "Kapenta Airport",
+    "latitude_deg": "-8.357716",
+    "longitude_deg": "32.103045",
+    "elevation_ft": "2810",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-20",
+    "municipality": "Sumbawanga",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

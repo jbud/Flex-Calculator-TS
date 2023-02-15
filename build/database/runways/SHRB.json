@@ -1,0 +1,20 @@
+{
+    "id": "39393",
+    "ident": "SHRB",
+    "type": "heliport",
+    "name": "Rodelbahn Heliport",
+    "latitude_deg": "-33.45916748046875",
+    "longitude_deg": "-70.51721954345703",
+    "elevation_ft": "2789",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Santiago",
+    "scheduled_service": "no",
+    "gps_code": "SHRB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

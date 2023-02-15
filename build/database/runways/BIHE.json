@@ -1,0 +1,20 @@
+{
+    "id": "30721",
+    "ident": "BIHE",
+    "type": "small_airport",
+    "name": "Herðubreiðarlindir Airport",
+    "latitude_deg": "65.1885986328125",
+    "longitude_deg": "-16.194700241088867",
+    "elevation_ft": "1500",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-7",
+    "municipality": "Herðubreiðarlindir",
+    "scheduled_service": "no",
+    "gps_code": "BIHE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "315442",
+    "ident": "IT-0081",
+    "type": "small_airport",
+    "name": "Aviosuperficie Pradelle",
+    "latitude_deg": "45.49278",
+    "longitude_deg": "10.119883",
+    "elevation_ft": "341",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-25",
+    "municipality": "Torbole di Casaglia (BS)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "BSTOR",
+    "home_link": "http://www.volobrescia.it",
+    "wikipedia_link": "",
+    "keywords": ""
+}

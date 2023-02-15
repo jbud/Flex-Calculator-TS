@@ -1,0 +1,20 @@
+{
+    "id": "32131",
+    "ident": "GQNB",
+    "type": "small_airport",
+    "name": "Boutilimit Airport",
+    "latitude_deg": "17.52832",
+    "longitude_deg": "-14.71412",
+    "elevation_ft": "121",
+    "continent": "AF",
+    "iso_country": "MR",
+    "iso_region": "MR-06",
+    "municipality": "Boutilimit",
+    "scheduled_service": "no",
+    "gps_code": "GQNB",
+    "iata_code": "OTL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Boutilimit_Airport",
+    "keywords": ""
+}

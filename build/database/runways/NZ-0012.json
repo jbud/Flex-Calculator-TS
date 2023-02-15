@@ -1,0 +1,20 @@
+{
+    "id": "42726",
+    "ident": "NZ-0012",
+    "type": "small_airport",
+    "name": "Kings (Ladbrooks)",
+    "latitude_deg": "-43.63925552368164",
+    "longitude_deg": "172.53067016601562",
+    "elevation_ft": "20",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-CAN",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "350934",
+    "ident": "CA-0773",
+    "type": "small_airport",
+    "name": "Red Bay Airport",
+    "latitude_deg": "51.73592",
+    "longitude_deg": "-56.42469",
+    "elevation_ft": "49",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NL",
+    "municipality": "Red Bay",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31975",
+    "ident": "FTTM",
+    "type": "small_airport",
+    "name": "Mongo Airport",
+    "latitude_deg": "12.17048",
+    "longitude_deg": "18.675642",
+    "elevation_ft": "1414",
+    "continent": "AF",
+    "iso_country": "TD",
+    "iso_region": "TD-GR",
+    "municipality": "Mongo",
+    "scheduled_service": "no",
+    "gps_code": "FTTM",
+    "iata_code": "MVO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mongo_Airport",
+    "keywords": ""
+}

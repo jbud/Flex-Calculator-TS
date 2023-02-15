@@ -1,0 +1,20 @@
+{
+    "id": "337461",
+    "ident": "BR-1243",
+    "type": "small_airport",
+    "name": "Fazenda Ouro Verde",
+    "latitude_deg": "-18.082415",
+    "longitude_deg": "-55.311444",
+    "elevation_ft": "551",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Corumbá",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SINF"
+}

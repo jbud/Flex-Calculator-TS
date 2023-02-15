@@ -1,0 +1,20 @@
+{
+    "id": "31390",
+    "ident": "FZGI",
+    "type": "small_airport",
+    "name": "Yalingimba Airport",
+    "latitude_deg": "2.272462",
+    "longitude_deg": "22.847528",
+    "elevation_ft": "1427",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-MO",
+    "municipality": "Yalingimba",
+    "scheduled_service": "no",
+    "gps_code": "FZGI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "321441",
+    "ident": "ES-0169",
+    "type": "small_airport",
+    "name": "Aeródromo Fontioso",
+    "latitude_deg": "41.933305",
+    "longitude_deg": "-3.784808",
+    "elevation_ft": "3068",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CL",
+    "municipality": "Fontioso",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

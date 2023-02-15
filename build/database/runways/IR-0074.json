@@ -1,0 +1,20 @@
+{
+    "id": "351872",
+    "ident": "IR-0074",
+    "type": "small_airport",
+    "name": "Afshid Airport",
+    "latitude_deg": "30.254498",
+    "longitude_deg": "57.212671",
+    "elevation_ft": "6001",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-08",
+    "municipality": "Kerman",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

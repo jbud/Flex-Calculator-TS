@@ -1,0 +1,20 @@
+{
+    "id": "326764",
+    "ident": "LEEC",
+    "type": "heliport",
+    "name": "Base Aérea de El Copero",
+    "latitude_deg": "37.313164",
+    "longitude_deg": "-5.999058",
+    "elevation_ft": "20",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Dos Hermanas",
+    "scheduled_service": "no",
+    "gps_code": "LEEC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://es.wikipedia.org/wiki/El_Copero",
+    "keywords": ""
+}

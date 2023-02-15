@@ -1,0 +1,20 @@
+{
+    "id": "348474",
+    "ident": "AR-0708",
+    "type": "small_airport",
+    "name": "Pico Sayago Airport",
+    "latitude_deg": "-42.815058",
+    "longitude_deg": "-64.026432",
+    "elevation_ft": "181",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-U",
+    "municipality": "Biedma",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

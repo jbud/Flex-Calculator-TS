@@ -1,0 +1,20 @@
+{
+    "id": "335172",
+    "ident": "UEEG",
+    "type": "small_airport",
+    "name": "Chagda Airport",
+    "latitude_deg": "58.756895",
+    "longitude_deg": "130.6071",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-SA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "UEEG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

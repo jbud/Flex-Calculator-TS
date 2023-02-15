@@ -1,0 +1,20 @@
+{
+    "id": "335099",
+    "ident": "BR-0768",
+    "type": "small_airport",
+    "name": "Fazenda Santa Rita Airstrip",
+    "latitude_deg": "-27.706615",
+    "longitude_deg": "-52.723703",
+    "elevation_ft": "2037",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Campinas do Sul",
+    "scheduled_service": "no",
+    "gps_code": "SWRB",
+    "iata_code": "",
+    "local_code": "RS0130",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

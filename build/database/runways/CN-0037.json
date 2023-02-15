@@ -1,0 +1,20 @@
+{
+    "id": "315169",
+    "ident": "CN-0037",
+    "type": "small_airport",
+    "name": "Yongji Airport",
+    "latitude_deg": "34.8723",
+    "longitude_deg": "110.361",
+    "elevation_ft": "1236",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-14",
+    "municipality": "Yuncheng (Yongji)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Yongyi Air Base"
+}

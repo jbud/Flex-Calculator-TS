@@ -1,0 +1,20 @@
+{
+    "id": "317561",
+    "ident": "FBDV",
+    "type": "small_airport",
+    "name": "Deception Valley Airport",
+    "latitude_deg": "-20.9866",
+    "longitude_deg": "23.6576",
+    "elevation_ft": "3185",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-NW",
+    "municipality": "Deception Valley Lodge",
+    "scheduled_service": "no",
+    "gps_code": "FBDV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "FB10"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31328",
+    "ident": "FZCF",
+    "type": "small_airport",
+    "name": "Kahemba Airport",
+    "latitude_deg": "-7.341012",
+    "longitude_deg": "18.989182",
+    "elevation_ft": "3425",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KW",
+    "municipality": "Kahemba",
+    "scheduled_service": "no",
+    "gps_code": "FZCF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

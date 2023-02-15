@@ -1,0 +1,20 @@
+{
+    "id": "322567",
+    "ident": "US-0488",
+    "type": "small_airport",
+    "name": "Goose Landing Airport",
+    "latitude_deg": "30.636065",
+    "longitude_deg": "-90.307628",
+    "elevation_ft": "110",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Loranger",
+    "scheduled_service": "no",
+    "gps_code": "LS26",
+    "iata_code": "",
+    "local_code": "LS26",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

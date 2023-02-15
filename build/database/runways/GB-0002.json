@@ -1,0 +1,20 @@
+{
+    "id": "35132",
+    "ident": "GB-0002",
+    "type": "small_airport",
+    "name": "Fishburn Airfield",
+    "latitude_deg": "54.686798095703125",
+    "longitude_deg": "-1.4583100080490112",
+    "elevation_ft": "377",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Sedgefield",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.erudite.co.uk/fishburn/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

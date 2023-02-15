@@ -1,0 +1,20 @@
+{
+    "id": "344030",
+    "ident": "SS-0024",
+    "type": "small_airport",
+    "name": "Keew Airstrip",
+    "latitude_deg": "9.26371",
+    "longitude_deg": "30.63692",
+    "elevation_ft": "1319",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-20",
+    "municipality": "Keew",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "HSDD",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

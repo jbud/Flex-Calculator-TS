@@ -1,0 +1,20 @@
+{
+    "id": "345670",
+    "ident": "FATG",
+    "type": "small_airport",
+    "name": "Thaba Tholo Airport",
+    "latitude_deg": "-24.2811",
+    "longitude_deg": "27.2294",
+    "elevation_ft": "3200",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "FATG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

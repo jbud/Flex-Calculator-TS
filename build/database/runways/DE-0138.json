@@ -1,0 +1,20 @@
+{
+    "id": "312569",
+    "ident": "DE-0138",
+    "type": "small_airport",
+    "name": "Dehausen Airfield",
+    "latitude_deg": "51.4635",
+    "longitude_deg": "9.04925",
+    "elevation_ft": "1003",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Dehausen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Waldeck"
+}

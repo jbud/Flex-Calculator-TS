@@ -1,0 +1,20 @@
+{
+    "id": "40979",
+    "ident": "SK-452",
+    "type": "small_airport",
+    "name": "El Milagro Airport",
+    "latitude_deg": "3.853889",
+    "longitude_deg": "-76.337222",
+    "elevation_ft": "3082",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-VAC",
+    "municipality": "Buga",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "BGN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "28510",
+    "ident": "EDOF",
+    "type": "small_airport",
+    "name": "Flugplatz Bad Frankenhausen",
+    "latitude_deg": "51.372501",
+    "longitude_deg": "11.141389",
+    "elevation_ft": "761",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-TH",
+    "municipality": "Bad Frankenhausen",
+    "scheduled_service": "no",
+    "gps_code": "EDOF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

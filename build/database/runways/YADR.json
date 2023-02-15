@@ -1,0 +1,20 @@
+{
+    "id": "354541",
+    "ident": "YADR",
+    "type": "small_airport",
+    "name": "Aldersyde Airstrip",
+    "latitude_deg": "-26.663222",
+    "longitude_deg": "150.194392",
+    "elevation_ft": "1001",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Miles",
+    "scheduled_service": "no",
+    "gps_code": "YADR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

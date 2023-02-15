@@ -1,0 +1,20 @@
+{
+    "id": "348605",
+    "ident": "BR-1656",
+    "type": "small_airport",
+    "name": "Cândido Mendes Airport",
+    "latitude_deg": "-1.44832",
+    "longitude_deg": "-45.72671",
+    "elevation_ft": "30",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MA",
+    "municipality": "Cândido Mendes",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

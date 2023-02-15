@@ -1,0 +1,20 @@
+{
+    "id": "342239",
+    "ident": "GY-0003",
+    "type": "small_airport",
+    "name": "Spring Garden Airstrip",
+    "latitude_deg": "6.9851",
+    "longitude_deg": "-58.5005",
+    "elevation_ft": "10",
+    "continent": "SA",
+    "iso_country": "GY",
+    "iso_region": "GY-PM",
+    "municipality": "Supenaam",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

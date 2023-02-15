@@ -1,0 +1,20 @@
+{
+    "id": "40332",
+    "ident": "SVUY",
+    "type": "small_airport",
+    "name": "Uruyen Airport",
+    "latitude_deg": "5.680422",
+    "longitude_deg": "-62.457705",
+    "elevation_ft": "1476",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVUY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

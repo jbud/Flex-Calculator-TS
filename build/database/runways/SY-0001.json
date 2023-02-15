@@ -1,0 +1,20 @@
+{
+    "id": "35317",
+    "ident": "SY-0001",
+    "type": "heliport",
+    "name": "Taftanaz Airbase",
+    "latitude_deg": "35.9720993042",
+    "longitude_deg": "36.7831001282",
+    "elevation_ft": "1031",
+    "continent": "AS",
+    "iso_country": "SY",
+    "iso_region": "SY-ID",
+    "municipality": "Taftanaz",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Taftanaz_Military_Airbase",
+    "keywords": "Afis Air Base"
+}

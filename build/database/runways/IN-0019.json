@@ -1,0 +1,20 @@
+{
+    "id": "46285",
+    "ident": "IN-0019",
+    "type": "heliport",
+    "name": "Dinjan Air Force Station",
+    "latitude_deg": "27.544598",
+    "longitude_deg": "95.238011",
+    "elevation_ft": "376",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-AS",
+    "municipality": "Muluk Gaon",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dinjan_Airfield",
+    "keywords": ""
+}

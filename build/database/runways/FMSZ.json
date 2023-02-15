@@ -1,0 +1,20 @@
+{
+    "id": "32628",
+    "ident": "FMSZ",
+    "type": "small_airport",
+    "name": "Ankazoabo Airport",
+    "latitude_deg": "-22.2964423522",
+    "longitude_deg": "44.5315361023",
+    "elevation_ft": "1411",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-U",
+    "municipality": "Ankazoabo",
+    "scheduled_service": "no",
+    "gps_code": "FMSZ",
+    "iata_code": "WAK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

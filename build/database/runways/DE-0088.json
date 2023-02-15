@@ -1,0 +1,20 @@
+{
+    "id": "309874",
+    "ident": "DE-0088",
+    "type": "small_airport",
+    "name": "Hersbruck Airfield",
+    "latitude_deg": "49.50753",
+    "longitude_deg": "11.4438",
+    "elevation_ft": "1105",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Hersbruck",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.segelfliegen-hersbruck.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

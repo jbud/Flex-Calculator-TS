@@ -1,0 +1,20 @@
+{
+    "id": "430357",
+    "ident": "NG-0006",
+    "type": "small_airport",
+    "name": "Okpoma Airport",
+    "latitude_deg": "4.29802",
+    "longitude_deg": "6.27635",
+    "elevation_ft": "47",
+    "continent": "AF",
+    "iso_country": "NG",
+    "iso_region": "NG-BY",
+    "municipality": "Okpoma",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

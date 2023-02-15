@@ -1,0 +1,20 @@
+{
+    "id": "41318",
+    "ident": "MY-MZS",
+    "type": "small_airport",
+    "name": "Mostyn Airport",
+    "latitude_deg": "4.616666793823242",
+    "longitude_deg": "118.1500015258789",
+    "elevation_ft": "200",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-12",
+    "municipality": "Mostyn",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "MZS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

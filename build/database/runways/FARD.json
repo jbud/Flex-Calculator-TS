@@ -1,0 +1,20 @@
+{
+    "id": "30344",
+    "ident": "FARD",
+    "type": "small_airport",
+    "name": "Riversdale Airport",
+    "latitude_deg": "-34.111698150634766",
+    "longitude_deg": "21.262800216674805",
+    "elevation_ft": "591",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-WC",
+    "municipality": "Riversdale",
+    "scheduled_service": "no",
+    "gps_code": "FARD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "317702",
+    "ident": "FBNB",
+    "type": "small_airport",
+    "name": "Nxabega Airport",
+    "latitude_deg": "-19.4902",
+    "longitude_deg": "22.789192",
+    "elevation_ft": "3155",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-NW",
+    "municipality": "Nxabega",
+    "scheduled_service": "no",
+    "gps_code": "FBNB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "FB57"
+}

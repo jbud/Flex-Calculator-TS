@@ -1,0 +1,20 @@
+{
+    "id": "318677",
+    "ident": "TZ-0115",
+    "type": "small_airport",
+    "name": "Shama Airport",
+    "latitude_deg": "-6.322146",
+    "longitude_deg": "32.562788",
+    "elevation_ft": "3650",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-20",
+    "municipality": "Shama",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

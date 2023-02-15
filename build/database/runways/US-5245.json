@@ -1,0 +1,20 @@
+{
+    "id": "348000",
+    "ident": "US-5245",
+    "type": "small_airport",
+    "name": "Dry Creek Airport",
+    "latitude_deg": "30.19867",
+    "longitude_deg": "-102.91354",
+    "elevation_ft": "4321",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Marathon",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

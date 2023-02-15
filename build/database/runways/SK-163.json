@@ -1,0 +1,20 @@
+{
+    "id": "40787",
+    "ident": "SK-163",
+    "type": "small_airport",
+    "name": "Irho Airport",
+    "latitude_deg": "7.734444",
+    "longitude_deg": "-73.434167",
+    "elevation_ft": "295",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CES",
+    "municipality": "San Alberto",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "IRH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

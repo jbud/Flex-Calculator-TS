@@ -1,0 +1,20 @@
+{
+    "id": "46130",
+    "ident": "RU-0305",
+    "type": "small_airport",
+    "name": "Srednyaya Akhtuba Airfield",
+    "latitude_deg": "48.727902382299995",
+    "longitude_deg": "44.8650741577",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-AST",
+    "municipality": "Srednyaya Akhtuba",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэродром Средняя Ахтуба"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "345552",
+    "ident": "BR-1582",
+    "type": "small_airport",
+    "name": "Fazenda São Vicente Airport",
+    "latitude_deg": "-21.89696",
+    "longitude_deg": "-55.478417",
+    "elevation_ft": "1483",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Ponta Porã",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SD93",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "42452",
+    "ident": "GR-0002",
+    "type": "small_airport",
+    "name": "Dhokimion Airfield",
+    "latitude_deg": "38.613696",
+    "longitude_deg": "21.392955",
+    "elevation_ft": "154",
+    "continent": "AS",
+    "iso_country": "GR",
+    "iso_region": "GR-G",
+    "municipality": "Agrinion",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "AG1666"
+}

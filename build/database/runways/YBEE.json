@@ -1,0 +1,20 @@
+{
+    "id": "27367",
+    "ident": "YBEE",
+    "type": "small_airport",
+    "name": "Beverley Airport",
+    "latitude_deg": "-30.18670082092285",
+    "longitude_deg": "139.55799865722656",
+    "elevation_ft": "116",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YBEE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

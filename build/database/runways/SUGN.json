@@ -1,0 +1,20 @@
+{
+    "id": "326536",
+    "ident": "SUGN",
+    "type": "small_airport",
+    "name": "Guichón Airfield",
+    "latitude_deg": "-32.3478",
+    "longitude_deg": "-57.1894",
+    "elevation_ft": "291",
+    "continent": "SA",
+    "iso_country": "UY",
+    "iso_region": "UY-PA",
+    "municipality": "Guichón",
+    "scheduled_service": "no",
+    "gps_code": "SUGN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

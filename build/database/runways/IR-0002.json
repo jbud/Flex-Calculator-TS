@@ -1,0 +1,20 @@
+{
+    "id": "43227",
+    "ident": "IR-0002",
+    "type": "small_airport",
+    "name": "Ahmadi Military Air Field",
+    "latitude_deg": "29.099199",
+    "longitude_deg": "51.035301",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-18",
+    "municipality": "Ahmadi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

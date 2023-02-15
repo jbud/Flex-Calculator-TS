@@ -1,0 +1,20 @@
+{
+    "id": "44825",
+    "ident": "NZQW",
+    "type": "heliport",
+    "name": "Queens Wharf Heliport",
+    "latitude_deg": "-41.28580093383789",
+    "longitude_deg": "174.77999877929688",
+    "elevation_ft": "10",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-WGN",
+    "municipality": "Wellington",
+    "scheduled_service": "no",
+    "gps_code": "NZQW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "30480",
+    "ident": "YTPE",
+    "type": "small_airport",
+    "name": "Tempe Downs Airport",
+    "latitude_deg": "-24.38249969482422",
+    "longitude_deg": "132.42300415039062",
+    "elevation_ft": "1696",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YTPE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

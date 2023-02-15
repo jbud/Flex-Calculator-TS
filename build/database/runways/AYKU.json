@@ -1,0 +1,20 @@
+{
+    "id": "308319",
+    "ident": "AYKU",
+    "type": "small_airport",
+    "name": "Kuri Airport",
+    "latitude_deg": "-7.135083",
+    "longitude_deg": "143.276111",
+    "elevation_ft": "35",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-GPK",
+    "municipality": "Kuri",
+    "scheduled_service": "no",
+    "gps_code": "AYKU",
+    "iata_code": "KUQ",
+    "local_code": "KURI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

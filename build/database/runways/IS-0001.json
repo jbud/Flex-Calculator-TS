@@ -1,0 +1,20 @@
+{
+    "id": "314970",
+    "ident": "IS-0001",
+    "type": "small_airport",
+    "name": "Suðureyri Airstrip",
+    "latitude_deg": "66.1318",
+    "longitude_deg": "-23.544",
+    "elevation_ft": "92",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-4",
+    "municipality": "Suðureyri",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SUY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SUY"
+}

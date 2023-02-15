@@ -1,0 +1,20 @@
+{
+    "id": "39337",
+    "ident": "SHBS",
+    "type": "heliport",
+    "name": "Banco Santander Heliport",
+    "latitude_deg": "-33.43611145019531",
+    "longitude_deg": "-70.6513900756836",
+    "elevation_ft": "2067",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Santiago",
+    "scheduled_service": "no",
+    "gps_code": "SHBS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

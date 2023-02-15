@@ -1,0 +1,20 @@
+{
+    "id": "41573",
+    "ident": "PY-0009",
+    "type": "small_airport",
+    "name": "Aeródromo de Puerto La Esperanza",
+    "latitude_deg": "-22.037316",
+    "longitude_deg": "-58.012565",
+    "elevation_ft": "254",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-16",
+    "municipality": "Puerto La Esperanza",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

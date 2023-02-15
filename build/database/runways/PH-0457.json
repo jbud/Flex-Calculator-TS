@@ -1,0 +1,20 @@
+{
+    "id": "351514",
+    "ident": "PH-0457",
+    "type": "small_airport",
+    "name": "La Filipina Airport",
+    "latitude_deg": "7.47397",
+    "longitude_deg": "125.78789",
+    "elevation_ft": "61",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-DAV",
+    "municipality": "Tagum",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

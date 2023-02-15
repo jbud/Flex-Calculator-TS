@@ -1,0 +1,20 @@
+{
+    "id": "340578",
+    "ident": "QA-0005",
+    "type": "heliport",
+    "name": "Hamad Emergency Heliport",
+    "latitude_deg": "25.292433",
+    "longitude_deg": "51.501029",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "QA",
+    "iso_region": "QA-DA",
+    "municipality": "Doha",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

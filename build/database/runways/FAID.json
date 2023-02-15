@@ -1,0 +1,20 @@
+{
+    "id": "29970",
+    "ident": "FAID",
+    "type": "small_airport",
+    "name": "Idutywa Airport",
+    "latitude_deg": "-32.099998474121094",
+    "longitude_deg": "28.316699981689453",
+    "elevation_ft": "2530",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Idutywa",
+    "scheduled_service": "no",
+    "gps_code": "FAID",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

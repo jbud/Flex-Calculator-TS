@@ -1,0 +1,20 @@
+{
+    "id": "315571",
+    "ident": "DE-0233",
+    "type": "small_airport",
+    "name": "Grünstadt Airfield",
+    "latitude_deg": "49.5855556",
+    "longitude_deg": "8.1388889",
+    "elevation_ft": "1039",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-RP",
+    "municipality": "Grünstadt",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.segelflug-gruenstadt.de/",
+    "wikipedia_link": "",
+    "keywords": "Quirnheim"
+}

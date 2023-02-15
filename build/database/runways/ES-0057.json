@@ -1,0 +1,20 @@
+{
+    "id": "320422",
+    "ident": "ES-0057",
+    "type": "small_airport",
+    "name": "Ses Salines (S’Olivó) Airfield",
+    "latitude_deg": "39.346746",
+    "longitude_deg": "3.057199",
+    "elevation_ft": "164",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-IB",
+    "municipality": "Ses Salines",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

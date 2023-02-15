@@ -1,0 +1,20 @@
+{
+    "id": "39537",
+    "ident": "SLZC",
+    "type": "small_airport",
+    "name": "San Carlos Airport",
+    "latitude_deg": "-17.427798",
+    "longitude_deg": "-63.674953",
+    "elevation_ft": "1150",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Ichilo",
+    "scheduled_service": "no",
+    "gps_code": "SLZC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

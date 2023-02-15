@@ -1,0 +1,20 @@
+{
+    "id": "41386",
+    "ident": "ID-MSI",
+    "type": "small_airport",
+    "name": "Masalembo Airport",
+    "latitude_deg": "-5.583330154418945",
+    "longitude_deg": "114.43299865722656",
+    "elevation_ft": "30",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-JI",
+    "municipality": "Masalembo Island",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "MSI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

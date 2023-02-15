@@ -1,0 +1,20 @@
+{
+    "id": "884",
+    "ident": "CEP4",
+    "type": "small_airport",
+    "name": "Ross International Airport",
+    "latitude_deg": "48.9987048532",
+    "longitude_deg": "-111.975414276",
+    "elevation_ft": "3550",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Coutts",
+    "scheduled_service": "no",
+    "gps_code": "CEP4",
+    "iata_code": "",
+    "local_code": "CEP4",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Coutts/Ross_International_Airport",
+    "keywords": "EP4"
+}

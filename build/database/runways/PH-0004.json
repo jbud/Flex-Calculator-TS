@@ -1,0 +1,20 @@
+{
+    "id": "309719",
+    "ident": "PH-0004",
+    "type": "small_airport",
+    "name": "Wao Airport",
+    "latitude_deg": "7.63652",
+    "longitude_deg": "124.73388",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-LAS",
+    "municipality": "Wao",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Landing a Wao"
+}

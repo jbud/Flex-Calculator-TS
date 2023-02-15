@@ -1,0 +1,20 @@
+{
+    "id": "348950",
+    "ident": "US-5544",
+    "type": "heliport",
+    "name": "Arizona General Hospital Mesa Heliport",
+    "latitude_deg": "33.35147",
+    "longitude_deg": "-111.63631",
+    "elevation_ft": "1407",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Mesa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

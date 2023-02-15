@@ -1,0 +1,20 @@
+{
+    "id": "44667",
+    "ident": "RU-0200",
+    "type": "small_airport",
+    "name": "Typliy Klyuch Airport",
+    "latitude_deg": "62.7890014648",
+    "longitude_deg": "136.854995728",
+    "elevation_ft": "925",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-SA",
+    "municipality": "Khandyga",
+    "scheduled_service": "no",
+    "gps_code": "UEMH",
+    "iata_code": "KDY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Teply_Klyuch_Airport",
+    "keywords": "Tyoply Klyuch Airport, Tepliy Klyuch Airport, Khandyga Airport, Аэропорт Тёплый Ключ, Аэропорт Теплый Ключ, Аэропорт Хандыга, УЕМХ"
+}

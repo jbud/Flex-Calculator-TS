@@ -1,0 +1,20 @@
+{
+    "id": "41254",
+    "ident": "FAIA",
+    "type": "small_airport",
+    "name": "Itala Airport",
+    "latitude_deg": "-27.4867000579834",
+    "longitude_deg": "31.171100616455078",
+    "elevation_ft": "2665",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Itala",
+    "scheduled_service": "no",
+    "gps_code": "FAIA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

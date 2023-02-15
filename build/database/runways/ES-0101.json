@@ -1,0 +1,20 @@
+{
+    "id": "320762",
+    "ident": "ES-0101",
+    "type": "small_airport",
+    "name": "Aeródromo de la Guardia",
+    "latitude_deg": "39.770897",
+    "longitude_deg": "-3.604716",
+    "elevation_ft": "2097",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CM",
+    "municipality": "La Guardia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

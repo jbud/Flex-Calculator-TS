@@ -1,0 +1,20 @@
+{
+    "id": "44553",
+    "ident": "GE-0006",
+    "type": "small_airport",
+    "name": "Kobuleti Airfield",
+    "latitude_deg": "41.840599",
+    "longitude_deg": "41.799461",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "GE",
+    "iso_region": "GE-AJ",
+    "municipality": "Kobuleti",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

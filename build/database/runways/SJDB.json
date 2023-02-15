@@ -1,0 +1,20 @@
+{
+    "id": "346112",
+    "ident": "SJDB",
+    "type": "small_airport",
+    "name": "Fazenda Santa Elisa Airport",
+    "latitude_deg": "-15.055868",
+    "longitude_deg": "-51.363991",
+    "elevation_ft": "853",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Britânia",
+    "scheduled_service": "no",
+    "gps_code": "SJDB",
+    "iata_code": "",
+    "local_code": "GO0197",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

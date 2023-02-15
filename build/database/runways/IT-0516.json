@@ -1,0 +1,20 @@
+{
+    "id": "321600",
+    "ident": "IT-0516",
+    "type": "small_airport",
+    "name": "Campo di Volo Linnarta",
+    "latitude_deg": "40.412091",
+    "longitude_deg": "9.723621",
+    "elevation_ft": "210",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-88",
+    "municipality": "Orosei (NU)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "NUORS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

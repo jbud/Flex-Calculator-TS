@@ -1,0 +1,20 @@
+{
+    "id": "30011",
+    "ident": "EYKT",
+    "type": "small_airport",
+    "name": "Kartena Airfield",
+    "latitude_deg": "55.9203",
+    "longitude_deg": "21.5672",
+    "elevation_ft": "259",
+    "continent": "EU",
+    "iso_country": "LT",
+    "iso_region": "LT-KL",
+    "municipality": "Kartena",
+    "scheduled_service": "no",
+    "gps_code": "EYKT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

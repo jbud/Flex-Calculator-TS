@@ -1,0 +1,20 @@
+{
+    "id": "32668",
+    "ident": "WMBF",
+    "type": "small_airport",
+    "name": "Ulu Bernam Airport",
+    "latitude_deg": "3.740934",
+    "longitude_deg": "101.168504",
+    "elevation_ft": "10",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-08",
+    "municipality": "Ulu Bernam",
+    "scheduled_service": "no",
+    "gps_code": "WMBF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

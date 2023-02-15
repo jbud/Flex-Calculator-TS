@@ -1,0 +1,20 @@
+{
+    "id": "348172",
+    "ident": "CN-0215",
+    "type": "small_airport",
+    "name": "Sheyang Airport",
+    "latitude_deg": "33.79276",
+    "longitude_deg": "120.16497",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-32",
+    "municipality": "Yancheng",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "41812",
+    "ident": "UTSH",
+    "type": "small_airport",
+    "name": "Shahrisabz Airport",
+    "latitude_deg": "39.068003",
+    "longitude_deg": "66.758388",
+    "elevation_ft": "1900",
+    "continent": "AS",
+    "iso_country": "UZ",
+    "iso_region": "UZ-QA",
+    "municipality": "Shahrisabz",
+    "scheduled_service": "no",
+    "gps_code": "UTSH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

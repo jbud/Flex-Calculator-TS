@@ -1,0 +1,20 @@
+{
+    "id": "31985",
+    "ident": "MYCH",
+    "type": "small_airport",
+    "name": "Hawks Nest Airport",
+    "latitude_deg": "24.15449",
+    "longitude_deg": "-75.51796",
+    "elevation_ft": "3",
+    "continent": "NA",
+    "iso_country": "BS",
+    "iso_region": "BS-CI",
+    "municipality": "Hawks Nest Creek",
+    "scheduled_service": "no",
+    "gps_code": "MYCH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.hawks-nest.com/airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hawks_Nest_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31292",
+    "ident": "FXMV",
+    "type": "small_airport",
+    "name": "Matabeng Village Airport",
+    "latitude_deg": "-29.814699172973633",
+    "longitude_deg": "28.80820083618164",
+    "elevation_ft": "6150",
+    "continent": "AF",
+    "iso_country": "LS",
+    "iso_region": "LS-K",
+    "municipality": "Matabeng Village",
+    "scheduled_service": "no",
+    "gps_code": "FXMV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

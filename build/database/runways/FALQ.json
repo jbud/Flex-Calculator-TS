@@ -1,0 +1,20 @@
+{
+    "id": "41247",
+    "ident": "FALQ",
+    "type": "small_airport",
+    "name": "El Mirador Airport",
+    "latitude_deg": "-28.98611068725586",
+    "longitude_deg": "29.47972297668457",
+    "elevation_ft": "3897",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Ardmore",
+    "scheduled_service": "no",
+    "gps_code": "FALQ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

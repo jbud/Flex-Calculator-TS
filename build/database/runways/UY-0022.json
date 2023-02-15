@@ -1,0 +1,20 @@
+{
+    "id": "349347",
+    "ident": "UY-0022",
+    "type": "small_airport",
+    "name": "Nueva Helvecia Airport",
+    "latitude_deg": "-34.244003",
+    "longitude_deg": "-57.205465",
+    "elevation_ft": "135",
+    "continent": "SA",
+    "iso_country": "UY",
+    "iso_region": "UY-CO",
+    "municipality": "Nueva Helvecia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

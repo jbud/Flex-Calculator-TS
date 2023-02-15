@@ -1,0 +1,20 @@
+{
+    "id": "40202",
+    "ident": "SVMH",
+    "type": "small_airport",
+    "name": "Macanillal Airport",
+    "latitude_deg": "7.316667079925537",
+    "longitude_deg": "-68",
+    "elevation_ft": "426",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVMH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "30412",
+    "ident": "GMMF",
+    "type": "closed",
+    "name": "Sidi Ifni Airport",
+    "latitude_deg": "29.368889",
+    "longitude_deg": "-10.180278",
+    "elevation_ft": "190",
+    "continent": "AF",
+    "iso_country": "MA",
+    "iso_region": "MA-BAH",
+    "municipality": "Sidi Ifni",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sidi_Ifni_Airport",
+    "keywords": "GMMF, GMMF, SII"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "306913",
+    "ident": "IN-0082",
+    "type": "heliport",
+    "name": "Ajog Heliport",
+    "latitude_deg": "32.921925",
+    "longitude_deg": "76.457747",
+    "elevation_ft": "7460",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-HP",
+    "municipality": "Ajog",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

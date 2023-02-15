@@ -1,0 +1,20 @@
+{
+    "id": "322519",
+    "ident": "RO-0024",
+    "type": "small_airport",
+    "name": "Piatra Craiului Aerodrome",
+    "latitude_deg": "45.56553",
+    "longitude_deg": "25.396588",
+    "elevation_ft": "2198",
+    "continent": "EU",
+    "iso_country": "RO",
+    "iso_region": "RO-BV",
+    "municipality": "Râșnov",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://time2fly.ro",
+    "wikipedia_link": "",
+    "keywords": ""
+}

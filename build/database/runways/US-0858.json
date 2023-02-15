@@ -1,0 +1,20 @@
+{
+    "id": "327239",
+    "ident": "US-0858",
+    "type": "heliport",
+    "name": "Air Evac 139 Heliport",
+    "latitude_deg": "33.688641",
+    "longitude_deg": "-95.550414",
+    "elevation_ft": "459",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Paris",
+    "scheduled_service": "no",
+    "gps_code": "2TS6",
+    "iata_code": "",
+    "local_code": "2TS6",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

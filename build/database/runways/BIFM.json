@@ -1,0 +1,20 @@
+{
+    "id": "31041",
+    "ident": "BIFM",
+    "type": "small_airport",
+    "name": "Fagurhólsmýri Airport",
+    "latitude_deg": "63.874698638916016",
+    "longitude_deg": "-16.64109992980957",
+    "elevation_ft": "56",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-7",
+    "municipality": "Fagurhólsmýri",
+    "scheduled_service": "no",
+    "gps_code": "BIFM",
+    "iata_code": "FAG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

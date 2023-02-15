@@ -1,0 +1,20 @@
+{
+    "id": "31044",
+    "ident": "OAFR",
+    "type": "small_airport",
+    "name": "Farah Airport",
+    "latitude_deg": "32.366667",
+    "longitude_deg": "62.165347",
+    "elevation_ft": "3083",
+    "continent": "AS",
+    "iso_country": "AF",
+    "iso_region": "AF-FRA",
+    "municipality": "Farah",
+    "scheduled_service": "no",
+    "gps_code": "OAFR",
+    "iata_code": "FAH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

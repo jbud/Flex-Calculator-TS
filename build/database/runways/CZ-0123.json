@@ -1,0 +1,20 @@
+{
+    "id": "320509",
+    "ident": "CZ-0123",
+    "type": "small_airport",
+    "name": "Štětí Airstrip",
+    "latitude_deg": "50.465",
+    "longitude_deg": "14.4061111",
+    "elevation_ft": "787",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-US",
+    "municipality": "Štětí",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LKSTET",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

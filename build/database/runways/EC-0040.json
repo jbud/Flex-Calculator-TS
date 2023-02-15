@@ -1,0 +1,20 @@
+{
+    "id": "351442",
+    "ident": "EC-0040",
+    "type": "small_airport",
+    "name": "Esterito Airport",
+    "latitude_deg": "-0.94007",
+    "longitude_deg": "-79.31379",
+    "elevation_ft": "420",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-R",
+    "municipality": "Valencia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

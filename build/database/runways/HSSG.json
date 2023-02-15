@@ -1,0 +1,20 @@
+{
+    "id": "347295",
+    "ident": "HSSG",
+    "type": "medium_airport",
+    "name": "Sabera Geneina Airport",
+    "latitude_deg": "13.4774",
+    "longitude_deg": "22.53722",
+    "elevation_ft": "2633",
+    "continent": "AF",
+    "iso_country": "SD",
+    "iso_region": "SD-12",
+    "municipality": "Geneina",
+    "scheduled_service": "no",
+    "gps_code": "HSSG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

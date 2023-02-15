@@ -1,0 +1,20 @@
+{
+    "id": "32521",
+    "ident": "UHSO",
+    "type": "small_airport",
+    "name": "Zonalnoye Airport",
+    "latitude_deg": "50.6692008972",
+    "longitude_deg": "142.761001587",
+    "elevation_ft": "479",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-SAK",
+    "municipality": "Tymovskoye",
+    "scheduled_service": "no",
+    "gps_code": "UHSO",
+    "iata_code": "ZZO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Zonalnoye_Airport",
+    "keywords": "Zonalnoe Airport, Аэропорт Зональное"
+}

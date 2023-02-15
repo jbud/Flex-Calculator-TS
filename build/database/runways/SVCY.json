@@ -1,0 +1,20 @@
+{
+    "id": "40108",
+    "ident": "SVCY",
+    "type": "small_airport",
+    "name": "Cuartel Yaruro Airport",
+    "latitude_deg": "6.933332920074463",
+    "longitude_deg": "-68.63333129882812",
+    "elevation_ft": "442",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "Las Campanas",
+    "scheduled_service": "no",
+    "gps_code": "SVCY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

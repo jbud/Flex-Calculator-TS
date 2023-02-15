@@ -1,0 +1,20 @@
+{
+    "id": "351957",
+    "ident": "SA-0033",
+    "type": "heliport",
+    "name": "Al Kharkhir Heliport",
+    "latitude_deg": "18.89943",
+    "longitude_deg": "51.10235",
+    "elevation_ft": "912",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-10",
+    "municipality": "Al Kharkhir",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

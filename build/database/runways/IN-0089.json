@@ -1,0 +1,20 @@
+{
+    "id": "309944",
+    "ident": "IN-0089",
+    "type": "small_airport",
+    "name": "Noamundi Airport",
+    "latitude_deg": "22.192222",
+    "longitude_deg": "85.548889",
+    "elevation_ft": "1402",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-JH",
+    "municipality": "Itarbalijor",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

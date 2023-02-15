@@ -1,0 +1,20 @@
+{
+    "id": "43890",
+    "ident": "BG-0004",
+    "type": "small_airport",
+    "name": "Zagortsi Airfield",
+    "latitude_deg": "42.403419",
+    "longitude_deg": "27.070246",
+    "elevation_ft": "368",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-02",
+    "municipality": "Zagortsi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

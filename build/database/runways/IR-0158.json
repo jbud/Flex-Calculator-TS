@@ -1,0 +1,20 @@
+{
+    "id": "505025",
+    "ident": "IR-0158",
+    "type": "heliport",
+    "name": "Naeen Hospital Heliport",
+    "latitude_deg": "32.8486",
+    "longitude_deg": "53.08569",
+    "elevation_ft": "5135",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-10",
+    "municipality": "Naeen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

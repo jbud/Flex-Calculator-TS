@@ -1,0 +1,20 @@
+{
+    "id": "38218",
+    "ident": "AU-0019",
+    "type": "small_airport",
+    "name": "Avoca Airport",
+    "latitude_deg": "-41.781700134277344",
+    "longitude_deg": "147.7194061279297",
+    "elevation_ft": "700",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-TAS",
+    "municipality": "Avoca",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

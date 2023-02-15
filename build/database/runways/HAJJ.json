@@ -1,0 +1,20 @@
+{
+    "id": "313314",
+    "ident": "HAJJ",
+    "type": "medium_airport",
+    "name": "Wilwal International Airport",
+    "latitude_deg": "9.3325",
+    "longitude_deg": "42.9121",
+    "elevation_ft": "5954",
+    "continent": "AF",
+    "iso_country": "ET",
+    "iso_region": "ET-SO",
+    "municipality": "Jijiga",
+    "scheduled_service": "yes",
+    "gps_code": "HAJJ",
+    "iata_code": "JIJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jijiga_Airport",
+    "keywords": "Garaad Wiil-Waal"
+}

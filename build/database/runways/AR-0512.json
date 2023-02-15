@@ -1,0 +1,20 @@
+{
+    "id": "318231",
+    "ident": "AR-0512",
+    "type": "small_airport",
+    "name": "Arias Airport",
+    "latitude_deg": "-33.664",
+    "longitude_deg": "-62.3751",
+    "elevation_ft": "415",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-X",
+    "municipality": "Arias",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "COA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

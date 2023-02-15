@@ -1,0 +1,20 @@
+{
+    "id": "319622",
+    "ident": "UAUT",
+    "type": "small_airport",
+    "name": "Turgay Airport",
+    "latitude_deg": "49.632395",
+    "longitude_deg": "63.4703",
+    "elevation_ft": "445",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-KUS",
+    "municipality": "Turgay",
+    "scheduled_service": "no",
+    "gps_code": "UAUT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "УАУТ, Торгай"
+}

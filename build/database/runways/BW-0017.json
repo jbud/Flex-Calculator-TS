@@ -1,0 +1,20 @@
+{
+    "id": "317671",
+    "ident": "BW-0017",
+    "type": "small_airport",
+    "name": "Khwai North Airport",
+    "latitude_deg": "-19.041",
+    "longitude_deg": "23.8339",
+    "elevation_ft": "3090",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-NW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

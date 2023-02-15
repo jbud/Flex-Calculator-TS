@@ -1,0 +1,20 @@
+{
+    "id": "429761",
+    "ident": "US-7098",
+    "type": "heliport",
+    "name": "VCU Childrens Medical Center Helipad",
+    "latitude_deg": "37.540633",
+    "longitude_deg": "-77.431628",
+    "elevation_ft": "448",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Richmond",
+    "scheduled_service": "no",
+    "gps_code": "VG10",
+    "iata_code": "",
+    "local_code": "VG10",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

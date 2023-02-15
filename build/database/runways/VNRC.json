@@ -1,0 +1,20 @@
+{
+    "id": "32209",
+    "ident": "VNRC",
+    "type": "small_airport",
+    "name": "Ramechhap Airport",
+    "latitude_deg": "27.393999099731445",
+    "longitude_deg": "86.0614013671875",
+    "elevation_ft": "1555",
+    "continent": "AS",
+    "iso_country": "NP",
+    "iso_region": "NP-P3",
+    "municipality": "Ramechhap",
+    "scheduled_service": "no",
+    "gps_code": "VNRC",
+    "iata_code": "RHP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

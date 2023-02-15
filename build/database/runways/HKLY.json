@@ -1,0 +1,20 @@
+{
+    "id": "31842",
+    "ident": "HKLY",
+    "type": "small_airport",
+    "name": "Loyengalani Airport",
+    "latitude_deg": "2.75",
+    "longitude_deg": "36.71699905395508",
+    "elevation_ft": "1195",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-400",
+    "municipality": "Loyengalani",
+    "scheduled_service": "no",
+    "gps_code": "HKLY",
+    "iata_code": "LOY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

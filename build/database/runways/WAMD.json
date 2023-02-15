@@ -1,0 +1,20 @@
+{
+    "id": "32631",
+    "ident": "WAMD",
+    "type": "small_airport",
+    "name": "Jailolo/Kuripasai Airport",
+    "latitude_deg": "1.1169999837875366",
+    "longitude_deg": "127.48300170898438",
+    "elevation_ft": "50",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-MU",
+    "municipality": "Kuripasai-Celebes Island",
+    "scheduled_service": "no",
+    "gps_code": "WAMD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

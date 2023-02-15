@@ -1,0 +1,20 @@
+{
+    "id": "43014",
+    "ident": "RU-0064",
+    "type": "medium_airport",
+    "name": "Ostrov Naval Air Base",
+    "latitude_deg": "57.299999",
+    "longitude_deg": "28.4333",
+    "elevation_ft": "220",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-PSK",
+    "municipality": "Ostrov",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "XLOS",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ostrov_(air_base)",
+    "keywords": "Gorokhovka, Kildin"
+}

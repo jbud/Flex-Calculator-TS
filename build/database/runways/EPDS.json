@@ -1,0 +1,20 @@
+{
+    "id": "430565",
+    "ident": "EPDS",
+    "type": "small_airport",
+    "name": "Witkow Airfield",
+    "latitude_deg": "50.79686",
+    "longitude_deg": "16.11448",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-DS",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EPDS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

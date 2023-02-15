@@ -1,0 +1,20 @@
+{
+    "id": "28579",
+    "ident": "EDPG",
+    "type": "small_airport",
+    "name": "Griesau Airfield",
+    "latitude_deg": "48.953888",
+    "longitude_deg": "12.421389",
+    "elevation_ft": "1060",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Pfatter",
+    "scheduled_service": "no",
+    "gps_code": "EDPG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

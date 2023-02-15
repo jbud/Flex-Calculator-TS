@@ -1,0 +1,20 @@
+{
+    "id": "351495",
+    "ident": "PE-0020",
+    "type": "heliport",
+    "name": "Diospi Suyana Hospital Heliport",
+    "latitude_deg": "-13.54249",
+    "longitude_deg": "-72.70599",
+    "elevation_ft": "8750",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-APU",
+    "municipality": "Curahuasi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

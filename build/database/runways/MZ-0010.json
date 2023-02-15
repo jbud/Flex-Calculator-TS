@@ -1,0 +1,20 @@
+{
+    "id": "318850",
+    "ident": "MZ-0010",
+    "type": "small_airport",
+    "name": "Mabote Airport",
+    "latitude_deg": "-22.044039",
+    "longitude_deg": "34.158814",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "MZ",
+    "iso_region": "MZ-I",
+    "municipality": "Mabote",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

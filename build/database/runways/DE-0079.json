@@ -1,0 +1,20 @@
+{
+    "id": "309406",
+    "ident": "DE-0079",
+    "type": "small_airport",
+    "name": "Friesner Warte Airfield",
+    "latitude_deg": "49.8364",
+    "longitude_deg": "11.04644",
+    "elevation_ft": "1702",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Hirschaid",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.friesener-warte.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "345666",
+    "ident": "FVLK",
+    "type": "small_airport",
+    "name": "Airport of Linkwasha",
+    "latitude_deg": "-19.1233",
+    "longitude_deg": "27.2014",
+    "elevation_ft": "3200",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MN",
+    "municipality": "Linkwasha",
+    "scheduled_service": "no",
+    "gps_code": "FVLK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

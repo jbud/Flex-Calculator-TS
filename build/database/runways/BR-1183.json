@@ -1,0 +1,20 @@
+{
+    "id": "337050",
+    "ident": "BR-1183",
+    "type": "small_airport",
+    "name": "Fazenda Veneza Airport",
+    "latitude_deg": "-9.338206",
+    "longitude_deg": "-49.887092",
+    "elevation_ft": "630",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-TO",
+    "municipality": "Caseara",
+    "scheduled_service": "no",
+    "gps_code": "SJIV",
+    "iata_code": "",
+    "local_code": "TO0030",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

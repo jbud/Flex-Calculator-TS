@@ -1,0 +1,20 @@
+{
+    "id": "29049",
+    "ident": "EBSJ",
+    "type": "heliport",
+    "name": "Az Sint-Jan Heliport",
+    "latitude_deg": "51.220506",
+    "longitude_deg": "3.196093",
+    "elevation_ft": "20",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-VWV",
+    "municipality": "Bruges",
+    "scheduled_service": "no",
+    "gps_code": "EBSJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

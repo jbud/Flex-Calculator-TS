@@ -1,0 +1,20 @@
+{
+    "id": "813",
+    "ident": "CDJ5",
+    "type": "small_airport",
+    "name": "Strathmore (D.J. Murray) Airport",
+    "latitude_deg": "51.133146",
+    "longitude_deg": "-113.55996",
+    "elevation_ft": "3150",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Lyalta",
+    "scheduled_service": "no",
+    "gps_code": "CDJ5",
+    "iata_code": "",
+    "local_code": "CDJ5",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Strathmore_(D.J._Murray)_Airport",
+    "keywords": "DJ5"
+}

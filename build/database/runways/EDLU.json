@@ -1,0 +1,20 @@
+{
+    "id": "30206",
+    "ident": "EDLU",
+    "type": "small_airport",
+    "name": "Oelde Bergeler Airfield",
+    "latitude_deg": "51.830601",
+    "longitude_deg": "8.17472",
+    "elevation_ft": "269",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EDLU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

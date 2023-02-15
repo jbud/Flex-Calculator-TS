@@ -1,0 +1,20 @@
+{
+    "id": "320917",
+    "ident": "SE-0024",
+    "type": "small_airport",
+    "name": "Älvdalens flygklubb",
+    "latitude_deg": "61.2139663",
+    "longitude_deg": "14.043191",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-W",
+    "municipality": "Älvdalen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.alvdalsflyg.se",
+    "wikipedia_link": "",
+    "keywords": ""
+}

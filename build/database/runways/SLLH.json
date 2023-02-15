@@ -1,0 +1,20 @@
+{
+    "id": "39513",
+    "ident": "SLLH",
+    "type": "small_airport",
+    "name": "Lago Huachi Airport",
+    "latitude_deg": "-14.016666412353516",
+    "longitude_deg": "-63.53333282470703",
+    "elevation_ft": "700",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-B",
+    "municipality": "Itenes",
+    "scheduled_service": "no",
+    "gps_code": "SLLH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

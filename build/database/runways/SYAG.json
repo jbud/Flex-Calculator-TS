@@ -1,0 +1,20 @@
+{
+    "id": "346990",
+    "ident": "SYAG",
+    "type": "small_airport",
+    "name": "Anna Regina Airport",
+    "latitude_deg": "7.256583",
+    "longitude_deg": "-58.545671",
+    "elevation_ft": "53",
+    "continent": "SA",
+    "iso_country": "GY",
+    "iso_region": "GY-PM",
+    "municipality": "Anna Regina",
+    "scheduled_service": "no",
+    "gps_code": "SYAG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

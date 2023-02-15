@@ -1,0 +1,20 @@
+{
+    "id": "40996",
+    "ident": "SK-025",
+    "type": "small_airport",
+    "name": "Vigía Del Fuerte Airport",
+    "latitude_deg": "6.583333",
+    "longitude_deg": "-76.883333",
+    "elevation_ft": "72",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-ANT",
+    "municipality": "Murindo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "VDF",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

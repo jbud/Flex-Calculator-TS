@@ -1,0 +1,20 @@
+{
+    "id": "345622",
+    "ident": "YXIS",
+    "type": "heliport",
+    "name": "Innisfail Hospital Heliport",
+    "latitude_deg": "-17.518421",
+    "longitude_deg": "146.029909",
+    "elevation_ft": "36",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Innisfail",
+    "scheduled_service": "no",
+    "gps_code": "YXIS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

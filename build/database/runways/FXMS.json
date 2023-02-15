@@ -1,0 +1,20 @@
+{
+    "id": "31290",
+    "ident": "FXMS",
+    "type": "small_airport",
+    "name": "Mashai Store Airport",
+    "latitude_deg": "-29.678025",
+    "longitude_deg": "28.805082",
+    "elevation_ft": "7300",
+    "continent": "AF",
+    "iso_country": "LS",
+    "iso_region": "LS-K",
+    "municipality": "Mashai Store",
+    "scheduled_service": "no",
+    "gps_code": "FXMS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

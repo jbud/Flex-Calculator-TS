@@ -1,0 +1,20 @@
+{
+    "id": "30522",
+    "ident": "ESGO",
+    "type": "small_airport",
+    "name": "Vårgårda Airport",
+    "latitude_deg": "58.039398193359375",
+    "longitude_deg": "12.788900375366211",
+    "elevation_ft": "328",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Q",
+    "municipality": "Vårgårda",
+    "scheduled_service": "no",
+    "gps_code": "ESGO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

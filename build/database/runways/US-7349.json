@@ -1,0 +1,20 @@
+{
+    "id": "505072",
+    "ident": "US-7349",
+    "type": "small_airport",
+    "name": "Kootenai Valley Flying Service Airport",
+    "latitude_deg": "48.90099",
+    "longitude_deg": "-116.39597",
+    "elevation_ft": "1761",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Bonners Ferry",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

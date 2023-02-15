@@ -1,0 +1,20 @@
+{
+    "id": "320382",
+    "ident": "IT-0445",
+    "type": "small_airport",
+    "name": "Aviosuperficie Santarcangelo",
+    "latitude_deg": "44.032318",
+    "longitude_deg": "12.427928",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-45",
+    "municipality": "Santarcangelo di Romagna (RN)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "RNSAR",
+    "home_link": "http://www.aviosuperficiesantarcangelo.it",
+    "wikipedia_link": "",
+    "keywords": "Santarcangelo di Romagna"
+}

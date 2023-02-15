@@ -1,0 +1,20 @@
+{
+    "id": "31336",
+    "ident": "FZCS",
+    "type": "small_airport",
+    "name": "Kenge Airport",
+    "latitude_deg": "-4.837882",
+    "longitude_deg": "17.029452",
+    "elevation_ft": "1808",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KW",
+    "municipality": "Kenge",
+    "scheduled_service": "no",
+    "gps_code": "FZCS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

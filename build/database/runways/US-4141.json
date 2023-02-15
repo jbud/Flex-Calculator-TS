@@ -1,0 +1,20 @@
+{
+    "id": "344685",
+    "ident": "US-4141",
+    "type": "small_airport",
+    "name": "Flying Apple Ranch Airport",
+    "latitude_deg": "35.92571",
+    "longitude_deg": "-121.07256",
+    "elevation_ft": "948",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Lockwood",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

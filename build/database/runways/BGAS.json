@@ -1,0 +1,20 @@
+{
+    "id": "44047",
+    "ident": "BGAS",
+    "type": "heliport",
+    "name": "Ammassivik Heliport",
+    "latitude_deg": "60.597376",
+    "longitude_deg": "-45.382445",
+    "elevation_ft": "71",
+    "continent": "NA",
+    "iso_country": "GL",
+    "iso_region": "GL-KU",
+    "municipality": "Ammassivik",
+    "scheduled_service": "yes",
+    "gps_code": "BGAS",
+    "iata_code": "",
+    "local_code": "QUW",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ammassivik_Heliport",
+    "keywords": "Angmagssivik, Sletten"
+}

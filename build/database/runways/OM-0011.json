@@ -1,0 +1,20 @@
+{
+    "id": "348678",
+    "ident": "OM-0011",
+    "type": "small_airport",
+    "name": "Umm al Ghanam Airport",
+    "latitude_deg": "26.36779",
+    "longitude_deg": "56.3568",
+    "elevation_ft": "34",
+    "continent": "AS",
+    "iso_country": "OM",
+    "iso_region": "OM-MU",
+    "municipality": "Kumzar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

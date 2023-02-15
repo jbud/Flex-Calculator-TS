@@ -1,0 +1,20 @@
+{
+    "id": "31414",
+    "ident": "FZMP",
+    "type": "small_airport",
+    "name": "Kimano Ii Airport",
+    "latitude_deg": "-4.382999897003174",
+    "longitude_deg": "28.350000381469727",
+    "elevation_ft": "2461",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-MA",
+    "municipality": "Kimano Ii",
+    "scheduled_service": "no",
+    "gps_code": "FZMP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "313357",
+    "ident": "AU-0078",
+    "type": "heliport",
+    "name": "Tucabia Oval Helicopter Landing Site",
+    "latitude_deg": "-29.66",
+    "longitude_deg": "153.1056",
+    "elevation_ft": "25",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Tucabia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "TCBA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

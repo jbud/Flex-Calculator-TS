@@ -1,0 +1,20 @@
+{
+    "id": "40997",
+    "ident": "SK-136",
+    "type": "small_airport",
+    "name": "El Guayabx Airport",
+    "latitude_deg": "2.091111",
+    "longitude_deg": "-76.955",
+    "elevation_ft": "2980",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAU",
+    "municipality": "Patia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "EGY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

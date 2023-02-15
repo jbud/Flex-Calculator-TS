@@ -1,0 +1,20 @@
+{
+    "id": "31067",
+    "ident": "FBMG",
+    "type": "small_airport",
+    "name": "Machaneng Airport",
+    "latitude_deg": "-23.18455",
+    "longitude_deg": "27.501029",
+    "elevation_ft": "2900",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-CE",
+    "municipality": "Machaneng",
+    "scheduled_service": "no",
+    "gps_code": "FBMG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Machaneng_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "44856",
+    "ident": "UHHT",
+    "type": "small_airport",
+    "name": "Khabarovsk MVL Airport",
+    "latitude_deg": "48.525484",
+    "longitude_deg": "135.152478",
+    "elevation_ft": "262",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KHA",
+    "municipality": "Khabarovsk",
+    "scheduled_service": "no",
+    "gps_code": "UHHT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Хабаровск"
+}

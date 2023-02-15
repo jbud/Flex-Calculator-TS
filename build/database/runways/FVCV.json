@@ -1,0 +1,20 @@
+{
+    "id": "31227",
+    "ident": "FVCV",
+    "type": "small_airport",
+    "name": "Chivu Airport",
+    "latitude_deg": "-19.033000946044922",
+    "longitude_deg": "30.899999618530273",
+    "elevation_ft": "4790",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MI",
+    "municipality": "Chivu",
+    "scheduled_service": "no",
+    "gps_code": "FVCV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

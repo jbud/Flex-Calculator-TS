@@ -1,0 +1,20 @@
+{
+    "id": "29740",
+    "ident": "FABD",
+    "type": "small_airport",
+    "name": "Burghersdorp Airport",
+    "latitude_deg": "-30.977500915527344",
+    "longitude_deg": "26.3080997467041",
+    "elevation_ft": "4734",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Burgersdorp",
+    "scheduled_service": "no",
+    "gps_code": "FABD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

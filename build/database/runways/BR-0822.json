@@ -1,0 +1,20 @@
+{
+    "id": "335283",
+    "ident": "BR-0822",
+    "type": "small_airport",
+    "name": "Salles Airport",
+    "latitude_deg": "-1.258889",
+    "longitude_deg": "-47.953333",
+    "elevation_ft": "135",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Castanhal",
+    "scheduled_service": "no",
+    "gps_code": "SNGY",
+    "iata_code": "",
+    "local_code": "PA0164",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

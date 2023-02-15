@@ -1,0 +1,20 @@
+{
+    "id": "312384",
+    "ident": "ATUA",
+    "type": "small_airport",
+    "name": "Utai Airstrip",
+    "latitude_deg": "-3.386",
+    "longitude_deg": "141.5868",
+    "elevation_ft": "707",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-SAN",
+    "municipality": "Utai",
+    "scheduled_service": "no",
+    "gps_code": "ATUA",
+    "iata_code": "",
+    "local_code": "UTAI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

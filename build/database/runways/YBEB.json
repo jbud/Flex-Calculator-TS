@@ -1,0 +1,20 @@
+{
+    "id": "298808",
+    "ident": "YBEB",
+    "type": "small_airport",
+    "name": "Bellburn Airstrip",
+    "latitude_deg": "-17.545",
+    "longitude_deg": "128.305",
+    "elevation_ft": "810",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Pumululu National Park",
+    "scheduled_service": "no",
+    "gps_code": "YBEB",
+    "iata_code": "BXF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Bungle Bungles"
+}

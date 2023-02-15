@@ -1,0 +1,20 @@
+{
+    "id": "335597",
+    "ident": "BR-0952",
+    "type": "small_airport",
+    "name": "Fazenda Siriema Airport",
+    "latitude_deg": "-15.847588",
+    "longitude_deg": "-55.838125",
+    "elevation_ft": "505",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Santo Antônio do Leverger",
+    "scheduled_service": "no",
+    "gps_code": "SIML",
+    "iata_code": "",
+    "local_code": "MT0107",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

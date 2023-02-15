@@ -1,0 +1,20 @@
+{
+    "id": "348746",
+    "ident": "TC-0001",
+    "type": "small_airport",
+    "name": "West Caicos Airport",
+    "latitude_deg": "21.68178",
+    "longitude_deg": "-72.46157",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "TC",
+    "iso_region": "TC-WC",
+    "municipality": "Yankee Town",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

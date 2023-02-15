@@ -1,0 +1,20 @@
+{
+    "id": "44976",
+    "ident": "IR-0012",
+    "type": "small_airport",
+    "name": "Tehran West Airport",
+    "latitude_deg": "35.7419667495",
+    "longitude_deg": "51.229226589199996",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-23",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

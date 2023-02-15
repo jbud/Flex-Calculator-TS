@@ -1,0 +1,20 @@
+{
+    "id": "506004",
+    "ident": "US-7494",
+    "type": "heliport",
+    "name": "Point Retreat CG Light Station Helipad",
+    "latitude_deg": "58.41066",
+    "longitude_deg": "-134.954772",
+    "elevation_ft": "26",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Admiralty Island",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Point_Retreat_Light",
+    "keywords": "Lynn Canal"
+}

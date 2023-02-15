@@ -1,0 +1,20 @@
+{
+    "id": "43989",
+    "ident": "HU-0007",
+    "type": "small_airport",
+    "name": "Börgönd Airfield",
+    "latitude_deg": "47.12795",
+    "longitude_deg": "18.50014",
+    "elevation_ft": "392",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-FE",
+    "municipality": "Székesfehérvár",
+    "scheduled_service": "no",
+    "gps_code": "LHBD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

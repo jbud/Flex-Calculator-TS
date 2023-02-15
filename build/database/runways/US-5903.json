@@ -1,0 +1,20 @@
+{
+    "id": "350138",
+    "ident": "US-5903",
+    "type": "closed",
+    "name": "Smith Airport",
+    "latitude_deg": "39.63424",
+    "longitude_deg": "-90.13838",
+    "elevation_ft": "700",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Franklin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

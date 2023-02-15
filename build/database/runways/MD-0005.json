@@ -1,0 +1,20 @@
+{
+    "id": "346617",
+    "ident": "MD-0005",
+    "type": "small_airport",
+    "name": "Alexanderfeld Airstrip",
+    "latitude_deg": "45.7945",
+    "longitude_deg": "28.42239",
+    "elevation_ft": "528",
+    "continent": "EU",
+    "iso_country": "MD",
+    "iso_region": "MD-CH",
+    "municipality": "Alexanderfeld",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

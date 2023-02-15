@@ -1,0 +1,20 @@
+{
+    "id": "318555",
+    "ident": "PY-0035",
+    "type": "small_airport",
+    "name": "Aeródromo de Cerro Corá",
+    "latitude_deg": "-22.639541",
+    "longitude_deg": "-56.020317",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-13",
+    "municipality": "Cerro Corá",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

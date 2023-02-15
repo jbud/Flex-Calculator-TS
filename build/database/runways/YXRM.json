@@ -1,0 +1,20 @@
+{
+    "id": "347944",
+    "ident": "YXRM",
+    "type": "heliport",
+    "name": "Renmark Hospital Heliport",
+    "latitude_deg": "-34.163567",
+    "longitude_deg": "140.74483",
+    "elevation_ft": "63",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "Renmark",
+    "scheduled_service": "no",
+    "gps_code": "YXRM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/services/hospitals/regional+hospitals+and+healt",
+    "wikipedia_link": "",
+    "keywords": ""
+}

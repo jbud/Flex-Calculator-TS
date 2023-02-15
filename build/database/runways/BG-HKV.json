@@ -1,0 +1,20 @@
+{
+    "id": "31597",
+    "ident": "BG-HKV",
+    "type": "small_airport",
+    "name": "Malevo Airfield",
+    "latitude_deg": "41.871799",
+    "longitude_deg": "25.604799",
+    "elevation_ft": "600",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-26",
+    "municipality": "Haskovo",
+    "scheduled_service": "no",
+    "gps_code": "LBMV",
+    "iata_code": "HKV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "LB26"
+}

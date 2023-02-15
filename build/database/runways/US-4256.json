@@ -1,0 +1,20 @@
+{
+    "id": "344948",
+    "ident": "US-4256",
+    "type": "small_airport",
+    "name": "Elkton Airfield",
+    "latitude_deg": "43.6235",
+    "longitude_deg": "-123.57557",
+    "elevation_ft": "113",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Elkton",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

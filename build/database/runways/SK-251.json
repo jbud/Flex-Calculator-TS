@@ -1,0 +1,20 @@
+{
+    "id": "40703",
+    "ident": "SK-251",
+    "type": "small_airport",
+    "name": "Oreganal Airport",
+    "latitude_deg": "10.979444",
+    "longitude_deg": "-72.739444",
+    "elevation_ft": "480",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-LAG",
+    "municipality": "Barrancas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "BCU",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

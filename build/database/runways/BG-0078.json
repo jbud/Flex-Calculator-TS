@@ -1,0 +1,20 @@
+{
+    "id": "345104",
+    "ident": "BG-0078",
+    "type": "small_airport",
+    "name": "Belozem SSA Airstrip",
+    "latitude_deg": "42.21439",
+    "longitude_deg": "25.05879",
+    "elevation_ft": "489",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-16",
+    "municipality": "Belozem",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

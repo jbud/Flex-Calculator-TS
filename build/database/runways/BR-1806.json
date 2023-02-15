@@ -1,0 +1,20 @@
+{
+    "id": "506202",
+    "ident": "BR-1806",
+    "type": "heliport",
+    "name": "Reik Heliport",
+    "latitude_deg": "-23.960629",
+    "longitude_deg": "-46.182583",
+    "elevation_ft": "10",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Guarujá",
+    "scheduled_service": "no",
+    "gps_code": "SSRQ",
+    "iata_code": "",
+    "local_code": "SP0776",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

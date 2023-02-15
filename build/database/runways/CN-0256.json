@@ -1,0 +1,20 @@
+{
+    "id": "350952",
+    "ident": "CN-0256",
+    "type": "small_airport",
+    "name": "Xi'an Aerospace Base General Airport",
+    "latitude_deg": "34.13324",
+    "longitude_deg": "108.9848",
+    "elevation_ft": "1824",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-61",
+    "municipality": "Xi'an (Chang'an)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "324923",
+    "ident": "UHHO",
+    "type": "small_airport",
+    "name": "Troitskoye Airport",
+    "latitude_deg": "49.444833",
+    "longitude_deg": "136.571033",
+    "elevation_ft": "93",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KHA",
+    "municipality": "Troitskoye",
+    "scheduled_service": "no",
+    "gps_code": "UHHO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "УХХО, Троицкое"
+}

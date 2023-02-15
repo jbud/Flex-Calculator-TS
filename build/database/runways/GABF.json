@@ -1,0 +1,20 @@
+{
+    "id": "31501",
+    "ident": "GABF",
+    "type": "small_airport",
+    "name": "Bafoulabé Airport",
+    "latitude_deg": "13.80694",
+    "longitude_deg": "-10.84779",
+    "elevation_ft": "380",
+    "continent": "AF",
+    "iso_country": "ML",
+    "iso_region": "ML-1",
+    "municipality": "Bafoulabé",
+    "scheduled_service": "no",
+    "gps_code": "GABF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bafoulab%C3%A9_Airport",
+    "keywords": ""
+}

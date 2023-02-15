@@ -1,0 +1,20 @@
+{
+    "id": "335740",
+    "ident": "AU-0175",
+    "type": "small_airport",
+    "name": "Rothwell Airfield",
+    "latitude_deg": "-37.916945",
+    "longitude_deg": "144.483743",
+    "elevation_ft": "298",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "Little River",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "YRTH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

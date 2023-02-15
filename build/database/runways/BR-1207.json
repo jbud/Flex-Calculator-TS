@@ -1,0 +1,20 @@
+{
+    "id": "337261",
+    "ident": "BR-1207",
+    "type": "heliport",
+    "name": "Disco Heliport",
+    "latitude_deg": "-22.980637",
+    "longitude_deg": "-43.231964",
+    "elevation_ft": "177",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Rio de Janeiro",
+    "scheduled_service": "no",
+    "gps_code": "SSUZ",
+    "iata_code": "",
+    "local_code": "RJ0344",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

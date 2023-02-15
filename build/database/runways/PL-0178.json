@@ -1,0 +1,20 @@
+{
+    "id": "341471",
+    "ident": "PL-0178",
+    "type": "small_airport",
+    "name": "Goczałkowice",
+    "latitude_deg": "49.9524",
+    "longitude_deg": "18.9419",
+    "elevation_ft": "870",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-SL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

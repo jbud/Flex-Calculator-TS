@@ -1,0 +1,20 @@
+{
+    "id": "319707",
+    "ident": "SDDS",
+    "type": "small_airport",
+    "name": "Fazenda Scheffer Airport",
+    "latitude_deg": "-8.343408",
+    "longitude_deg": "-65.713456",
+    "elevation_ft": "293",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Lábrea",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SDDS"
+}

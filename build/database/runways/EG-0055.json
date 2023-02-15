@@ -1,0 +1,20 @@
+{
+    "id": "505469",
+    "ident": "EG-0055",
+    "type": "heliport",
+    "name": "EDC Heliport",
+    "latitude_deg": "28.6642",
+    "longitude_deg": "33.20473",
+    "elevation_ft": "33",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-JS",
+    "municipality": "Ras Abu Rudeis",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "327589",
+    "ident": "AR-0628",
+    "type": "small_airport",
+    "name": "Estancia El Cencerro Airport",
+    "latitude_deg": "-30.534775",
+    "longitude_deg": "-60.438022",
+    "elevation_ft": "164",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-S",
+    "municipality": "Marcelino Escalada",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "451",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

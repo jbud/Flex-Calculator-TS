@@ -1,0 +1,20 @@
+{
+    "id": "30850",
+    "ident": "FEFC",
+    "type": "small_airport",
+    "name": "Carnot Airport",
+    "latitude_deg": "4.936999797821045",
+    "longitude_deg": "15.894000053405762",
+    "elevation_ft": "1985",
+    "continent": "AF",
+    "iso_country": "CF",
+    "iso_region": "CF-HS",
+    "municipality": "Carnot",
+    "scheduled_service": "no",
+    "gps_code": "FEFC",
+    "iata_code": "CRF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Carnot_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "43931",
+    "ident": "CZ-0014",
+    "type": "heliport",
+    "name": "Nová Amerika Heliport",
+    "latitude_deg": "50.38111114501953",
+    "longitude_deg": "15.86388874053955",
+    "elevation_ft": "1086",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-KR",
+    "municipality": "Nová Amerika",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40803",
+    "ident": "SK-381",
+    "type": "small_airport",
+    "name": "El Carmen Airport",
+    "latitude_deg": "6.740556",
+    "longitude_deg": "-73.554444",
+    "elevation_ft": "956",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-SAN",
+    "municipality": "El Carmen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ECC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

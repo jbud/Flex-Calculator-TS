@@ -1,0 +1,20 @@
+{
+    "id": "352845",
+    "ident": "AU-0425",
+    "type": "heliport",
+    "name": "Murrurundi Hospital Heliport",
+    "latitude_deg": "-31.770477",
+    "longitude_deg": "150.834062",
+    "elevation_ft": "1600",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Murrurundi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "OZHIB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31090",
+    "ident": "FCMN",
+    "type": "small_airport",
+    "name": "N'gongo Airport",
+    "latitude_deg": "-2.9830000400543213",
+    "longitude_deg": "12.199999809265137",
+    "elevation_ft": "906",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-9",
+    "municipality": "N'gongo",
+    "scheduled_service": "no",
+    "gps_code": "FCMN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

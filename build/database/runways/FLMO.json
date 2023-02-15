@@ -1,0 +1,20 @@
+{
+    "id": "31160",
+    "ident": "FLMO",
+    "type": "small_airport",
+    "name": "Monze Airport",
+    "latitude_deg": "-16.288073",
+    "longitude_deg": "27.505367",
+    "elevation_ft": "3700",
+    "continent": "AF",
+    "iso_country": "ZM",
+    "iso_region": "ZM-07",
+    "municipality": "Monze",
+    "scheduled_service": "no",
+    "gps_code": "FLMO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "30945",
+    "ident": "DRRU",
+    "type": "small_airport",
+    "name": "Ouallam Airport",
+    "latitude_deg": "14.333000183105469",
+    "longitude_deg": "2.0829999446868896",
+    "elevation_ft": "892",
+    "continent": "AF",
+    "iso_country": "NE",
+    "iso_region": "NE-6",
+    "municipality": "Ouallam",
+    "scheduled_service": "no",
+    "gps_code": "DRRU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

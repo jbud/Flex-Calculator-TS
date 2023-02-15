@@ -1,0 +1,20 @@
+{
+    "id": "350199",
+    "ident": "US-5908",
+    "type": "small_airport",
+    "name": "Kingsley Airfield",
+    "latitude_deg": "37.23135",
+    "longitude_deg": "-93.92955",
+    "elevation_ft": "1200",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Miller, MO",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MO9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

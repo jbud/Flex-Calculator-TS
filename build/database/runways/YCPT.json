@@ -1,0 +1,20 @@
+{
+    "id": "333588",
+    "ident": "YCPT",
+    "type": "small_airport",
+    "name": "Carrapateena Airport",
+    "latitude_deg": "-31.30831",
+    "longitude_deg": "137.443396",
+    "elevation_ft": "672",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "Carrapateena mine",
+    "scheduled_service": "no",
+    "gps_code": "YCPT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Carrapateena_Airport",
+    "keywords": ""
+}

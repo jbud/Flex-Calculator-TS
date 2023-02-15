@@ -1,0 +1,20 @@
+{
+    "id": "320759",
+    "ident": "DE-0364",
+    "type": "small_airport",
+    "name": "Flugplatz Crussow",
+    "latitude_deg": "53.013056",
+    "longitude_deg": "14.071111",
+    "elevation_ft": "180",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BR",
+    "municipality": "Crussow",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.flugplatzcrussow.de",
+    "wikipedia_link": "",
+    "keywords": ""
+}

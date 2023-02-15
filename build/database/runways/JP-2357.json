@@ -1,0 +1,20 @@
+{
+    "id": "346305",
+    "ident": "JP-2357",
+    "type": "heliport",
+    "name": "JMSDF Sasebo Base Sakibe Heliport",
+    "latitude_deg": "33.12762",
+    "longitude_deg": "129.7267",
+    "elevation_ft": "3",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-42",
+    "municipality": "Sasebo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

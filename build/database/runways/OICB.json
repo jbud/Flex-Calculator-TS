@@ -1,0 +1,20 @@
+{
+    "id": "32755",
+    "ident": "OICB",
+    "type": "small_airport",
+    "name": "Baneh Airport",
+    "latitude_deg": "35.987701416015625",
+    "longitude_deg": "45.84709930419922",
+    "elevation_ft": "4911",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-12",
+    "municipality": "Baneh",
+    "scheduled_service": "no",
+    "gps_code": "OICB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

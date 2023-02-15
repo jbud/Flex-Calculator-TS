@@ -1,0 +1,20 @@
+{
+    "id": "32116",
+    "ident": "OOGB",
+    "type": "small_airport",
+    "name": "Qarn Alam Airport",
+    "latitude_deg": "21.3829994202",
+    "longitude_deg": "57.0499992371",
+    "elevation_ft": "443",
+    "continent": "AS",
+    "iso_country": "OM",
+    "iso_region": "OM-WU",
+    "municipality": "Ghaba",
+    "scheduled_service": "no",
+    "gps_code": "OOGB",
+    "iata_code": "RNM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

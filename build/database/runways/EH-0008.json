@@ -1,0 +1,20 @@
+{
+    "id": "347413",
+    "ident": "EH-0008",
+    "type": "small_airport",
+    "name": "Al Farssia Airstrip",
+    "latitude_deg": "27.24568",
+    "longitude_deg": "-9.47312",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "EH",
+    "iso_region": "EH-U-A",
+    "municipality": "Al Farssia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

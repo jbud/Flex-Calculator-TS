@@ -1,0 +1,20 @@
+{
+    "id": "44349",
+    "ident": "RU-0114",
+    "type": "small_airport",
+    "name": "Kalmanka Airfield",
+    "latitude_deg": "53.125",
+    "longitude_deg": "83.37999725341797",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-NVS",
+    "municipality": "Novo-Romanovo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэродром Калманка"
+}

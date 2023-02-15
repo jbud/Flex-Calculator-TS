@@ -1,0 +1,20 @@
+{
+    "id": "34923",
+    "ident": "GWW",
+    "type": "closed",
+    "name": "Gatow Airport",
+    "latitude_deg": "52.4744",
+    "longitude_deg": "13.1381",
+    "elevation_ft": "161",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BE",
+    "municipality": "Spandau",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gatow_Airport",
+    "keywords": "GWW, EDBG, General-Steinhoff Kaserne, Luftwaffenmuseum der Bundeswehr, RAF Gatow"
+}

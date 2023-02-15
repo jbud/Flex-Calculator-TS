@@ -1,0 +1,20 @@
+{
+    "id": "35352",
+    "ident": "AF-0001",
+    "type": "small_airport",
+    "name": "Ajrestan Airport",
+    "latitude_deg": "33.485298",
+    "longitude_deg": "67.144096",
+    "elevation_ft": "8324",
+    "continent": "AS",
+    "iso_country": "AF",
+    "iso_region": "AF-ORU",
+    "municipality": "Ajrestan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

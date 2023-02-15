@@ -1,0 +1,20 @@
+{
+    "id": "1309",
+    "ident": "CNH3",
+    "type": "closed",
+    "name": "Durham (Mulock) Airport",
+    "latitude_deg": "44.22919845581055",
+    "longitude_deg": "-80.91390228271484",
+    "elevation_ft": "1100",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Durham",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Durham_(Mulock)_Airport",
+    "keywords": "NH3, CNH3, CNH3"
+}

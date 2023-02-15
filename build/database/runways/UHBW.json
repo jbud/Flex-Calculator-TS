@@ -1,0 +1,20 @@
+{
+    "id": "32490",
+    "ident": "UHBW",
+    "type": "small_airport",
+    "name": "Tynda Airport",
+    "latitude_deg": "55.284199",
+    "longitude_deg": "124.778999",
+    "elevation_ft": "2001",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-AMU",
+    "municipality": "Tynda",
+    "scheduled_service": "no",
+    "gps_code": "UHBW",
+    "iata_code": "TYD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tynda_Airport",
+    "keywords": "Sigikta Airport"
+}

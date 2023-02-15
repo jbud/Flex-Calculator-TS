@@ -1,0 +1,20 @@
+{
+    "id": "27297",
+    "ident": "FAVP",
+    "type": "small_airport",
+    "name": "Vanderbijlpark Airport",
+    "latitude_deg": "-26.69029998779297",
+    "longitude_deg": "27.777099609375",
+    "elevation_ft": "4861",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-GT",
+    "municipality": "Vanderbijlpark",
+    "scheduled_service": "no",
+    "gps_code": "FAVP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "302155",
+    "ident": "KBM",
+    "type": "small_airport",
+    "name": "Kabwum",
+    "latitude_deg": "-6.15547222222",
+    "longitude_deg": "147.191472222",
+    "elevation_ft": "4450",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "AYKB",
+    "iata_code": "KBM",
+    "local_code": "KBM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

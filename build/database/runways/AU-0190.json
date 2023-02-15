@@ -1,0 +1,20 @@
+{
+    "id": "345621",
+    "ident": "AU-0190",
+    "type": "heliport",
+    "name": "Tully Hospital Heliport.",
+    "latitude_deg": "-17.926895",
+    "longitude_deg": "145.923446",
+    "elevation_ft": "129",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Tully",
+    "scheduled_service": "no",
+    "gps_code": "YXTU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.health.qld.gov.au/services/cairns-hinterland/cairns_tully_hosp",
+    "wikipedia_link": "",
+    "keywords": ""
+}

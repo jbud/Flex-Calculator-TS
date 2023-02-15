@@ -1,0 +1,20 @@
+{
+    "id": "31249",
+    "ident": "FVMF",
+    "type": "small_airport",
+    "name": "Mabikwa Airport",
+    "latitude_deg": "-18.732999801635742",
+    "longitude_deg": "27.533000946044922",
+    "elevation_ft": "3450",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MN",
+    "municipality": "Mabikwa",
+    "scheduled_service": "no",
+    "gps_code": "FVMF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

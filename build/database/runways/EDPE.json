@@ -1,0 +1,20 @@
+{
+    "id": "28558",
+    "ident": "EDPE",
+    "type": "small_airport",
+    "name": "Eichstätt Airfield",
+    "latitude_deg": "48.876945",
+    "longitude_deg": "11.182222",
+    "elevation_ft": "1713",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Eichstätt",
+    "scheduled_service": "no",
+    "gps_code": "EDPE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

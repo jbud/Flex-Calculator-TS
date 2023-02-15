@@ -1,0 +1,20 @@
+{
+    "id": "40149",
+    "ident": "SVGZ",
+    "type": "small_airport",
+    "name": "La Garza Airport",
+    "latitude_deg": "7.949999809265137",
+    "longitude_deg": "-69.11666870117188",
+    "elevation_ft": "237",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVGZ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

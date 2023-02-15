@@ -1,0 +1,20 @@
+{
+    "id": "315595",
+    "ident": "IT-0086",
+    "type": "small_airport",
+    "name": "La Comina",
+    "latitude_deg": "45.987222",
+    "longitude_deg": "12.654444",
+    "elevation_ft": "200",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-36",
+    "municipality": "Pordenone (PN)",
+    "scheduled_service": "no",
+    "gps_code": "LIKL",
+    "iata_code": "",
+    "local_code": "PNCOM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

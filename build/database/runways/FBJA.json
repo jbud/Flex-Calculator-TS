@@ -1,0 +1,20 @@
+{
+    "id": "317577",
+    "ident": "FBJA",
+    "type": "small_airport",
+    "name": "Jao Airport",
+    "latitude_deg": "-19.3163",
+    "longitude_deg": "22.5951",
+    "elevation_ft": "3175",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-NW",
+    "municipality": "Jao Camp",
+    "scheduled_service": "no",
+    "gps_code": "FBJA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "FB26"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "314416",
+    "ident": "SLGQ",
+    "type": "small_airport",
+    "name": "Chiquitos Airport",
+    "latitude_deg": "-18.5222",
+    "longitude_deg": "-60.6804",
+    "elevation_ft": "1058",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SLGQ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

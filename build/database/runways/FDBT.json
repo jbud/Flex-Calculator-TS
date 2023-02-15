@@ -1,0 +1,20 @@
+{
+    "id": "31106",
+    "ident": "FDBT",
+    "type": "small_airport",
+    "name": "Tambuti Airport",
+    "latitude_deg": "-26.735200881958008",
+    "longitude_deg": "31.77589988708496",
+    "elevation_ft": "595",
+    "continent": "AF",
+    "iso_country": "SZ",
+    "iso_region": "SZ-LU",
+    "municipality": "Big Bend",
+    "scheduled_service": "no",
+    "gps_code": "FDBT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

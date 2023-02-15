@@ -1,0 +1,20 @@
+{
+    "id": "356026",
+    "ident": "IN-0319",
+    "type": "heliport",
+    "name": "Karu Heliport",
+    "latitude_deg": "33.91257",
+    "longitude_deg": "77.74465",
+    "elevation_ft": "10961",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-LA",
+    "municipality": "Karu",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

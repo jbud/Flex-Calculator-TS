@@ -1,0 +1,20 @@
+{
+    "id": "321763",
+    "ident": "AR-0599",
+    "type": "small_airport",
+    "name": "Antares Airport",
+    "latitude_deg": "-34.528223",
+    "longitude_deg": "-63.960879",
+    "elevation_ft": "505",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-X",
+    "municipality": "Jovita",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "JOC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

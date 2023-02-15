@@ -1,0 +1,20 @@
+{
+    "id": "324030",
+    "ident": "EC-0028",
+    "type": "small_airport",
+    "name": "Yaupi Airstrip",
+    "latitude_deg": "-2.852915",
+    "longitude_deg": "-77.941774",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-S",
+    "municipality": "Yaupi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

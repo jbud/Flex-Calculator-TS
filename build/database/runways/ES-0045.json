@@ -1,0 +1,20 @@
+{
+    "id": "320141",
+    "ident": "ES-0045",
+    "type": "small_airport",
+    "name": "Base Aérea Las Navas",
+    "latitude_deg": "42.953642",
+    "longitude_deg": "-3.473773",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CL",
+    "municipality": "Medina de Pomar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

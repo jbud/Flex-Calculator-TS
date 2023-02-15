@@ -1,0 +1,20 @@
+{
+    "id": "316706",
+    "ident": "MX-0097",
+    "type": "small_airport",
+    "name": "Mieleras Airport",
+    "latitude_deg": "25.4682",
+    "longitude_deg": "-103.3477",
+    "elevation_ft": "3715",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-COA",
+    "municipality": "Torreon",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "APS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

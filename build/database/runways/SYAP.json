@@ -1,0 +1,20 @@
+{
+    "id": "32410",
+    "ident": "SYAP",
+    "type": "small_airport",
+    "name": "Apoteri Airport",
+    "latitude_deg": "4.013879776000977",
+    "longitude_deg": "-58.60499954223633",
+    "elevation_ft": "301",
+    "continent": "SA",
+    "iso_country": "GY",
+    "iso_region": "GY-UT",
+    "municipality": "Apoteri",
+    "scheduled_service": "no",
+    "gps_code": "SYAP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

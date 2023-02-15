@@ -1,0 +1,20 @@
+{
+    "id": "35353",
+    "ident": "AF-0002",
+    "type": "small_airport",
+    "name": "Dehdadi Airport",
+    "latitude_deg": "36.646099",
+    "longitude_deg": "67.032303",
+    "elevation_ft": "1378",
+    "continent": "AS",
+    "iso_country": "AF",
+    "iso_region": "AF-BAL",
+    "municipality": "Dehdadi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Camp Shaheen"
+}

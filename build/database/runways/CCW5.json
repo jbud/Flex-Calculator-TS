@@ -1,0 +1,20 @@
+{
+    "id": "28443",
+    "ident": "CCW5",
+    "type": "seaplane_base",
+    "name": "Thorburn Lake Seaplane Base",
+    "latitude_deg": "48.266701",
+    "longitude_deg": "-54.150002",
+    "elevation_ft": "350",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NL",
+    "municipality": "Thorburn Lake",
+    "scheduled_service": "no",
+    "gps_code": "CCW5",
+    "iata_code": "",
+    "local_code": "CCW5",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Thorburn_Lake_Water_Aerodrome",
+    "keywords": "CW5"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31745",
+    "ident": "AU-KGR",
+    "type": "small_airport",
+    "name": "Kulgera Airport",
+    "latitude_deg": "-25.8428",
+    "longitude_deg": "133.292007",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Ghan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "KGR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

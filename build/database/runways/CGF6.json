@@ -1,0 +1,20 @@
+{
+    "id": "332267",
+    "ident": "CGF6",
+    "type": "small_airport",
+    "name": "Gilford",
+    "latitude_deg": "44.219444",
+    "longitude_deg": "-79.5416667",
+    "elevation_ft": "738",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "CGF6",
+    "iata_code": "",
+    "local_code": "CGF6",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

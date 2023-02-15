@@ -1,0 +1,20 @@
+{
+    "id": "31824",
+    "ident": "LIDI",
+    "type": "closed",
+    "name": "Cortina Airport",
+    "latitude_deg": "46.573001861600005",
+    "longitude_deg": "12.118000030500001",
+    "elevation_ft": "4213",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-34",
+    "municipality": "Cortina D'Ampezzo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cortina_Airport",
+    "keywords": "Fiames Airport, LIDI, CDF"
+}

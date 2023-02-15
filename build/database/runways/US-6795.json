@@ -1,0 +1,20 @@
+{
+    "id": "354012",
+    "ident": "US-6795",
+    "type": "heliport",
+    "name": "Texas Department of Public Safety Austin Heliport",
+    "latitude_deg": "30.327702",
+    "longitude_deg": "-97.72458",
+    "elevation_ft": "695",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Austin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40795",
+    "ident": "SK-287",
+    "type": "small_airport",
+    "name": "El Ruby Airport",
+    "latitude_deg": "3.781111",
+    "longitude_deg": "-73.481667",
+    "elevation_ft": "953",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-MET",
+    "municipality": "Castilla La Nueva",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ELU",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

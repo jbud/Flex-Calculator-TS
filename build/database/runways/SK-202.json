@@ -1,0 +1,20 @@
+{
+    "id": "40945",
+    "ident": "SK-202",
+    "type": "small_airport",
+    "name": "La Esperanza Airport",
+    "latitude_deg": "7.868889",
+    "longitude_deg": "-75.675556",
+    "elevation_ft": "261",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-COR",
+    "municipality": "Puerto Libertador",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "PLK",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

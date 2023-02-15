@@ -1,0 +1,20 @@
+{
+    "id": "30630",
+    "ident": "GQNJ",
+    "type": "small_airport",
+    "name": "Akjoujt Airport",
+    "latitude_deg": "19.727998",
+    "longitude_deg": "-14.377214",
+    "elevation_ft": "403",
+    "continent": "AF",
+    "iso_country": "MR",
+    "iso_region": "MR-12",
+    "municipality": "Akjoujt",
+    "scheduled_service": "no",
+    "gps_code": "GQNJ",
+    "iata_code": "AJJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Akjoujt_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "308219",
+    "ident": "OOLK",
+    "type": "small_airport",
+    "name": "Lekhwair Airport",
+    "latitude_deg": "22.804866",
+    "longitude_deg": "55.372801",
+    "elevation_ft": "354",
+    "continent": "AS",
+    "iso_country": "OM",
+    "iso_region": "OM-ZA",
+    "municipality": "Lekhwair",
+    "scheduled_service": "no",
+    "gps_code": "OOLK",
+    "iata_code": "LKW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

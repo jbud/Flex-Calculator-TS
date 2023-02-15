@@ -1,0 +1,20 @@
+{
+    "id": "40174",
+    "ident": "SVKI",
+    "type": "small_airport",
+    "name": "Piscuri Airport",
+    "latitude_deg": "7.54665994644165",
+    "longitude_deg": "-71.78839874267578",
+    "elevation_ft": "726",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVKI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

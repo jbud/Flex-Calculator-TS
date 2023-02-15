@@ -1,0 +1,20 @@
+{
+    "id": "329078",
+    "ident": "US-0959",
+    "type": "heliport",
+    "name": "York Hospital Heliport",
+    "latitude_deg": "43.141583",
+    "longitude_deg": "-70.650669",
+    "elevation_ft": "72",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "York",
+    "scheduled_service": "no",
+    "gps_code": "ME94",
+    "iata_code": "",
+    "local_code": "ME94",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

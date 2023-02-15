@@ -1,0 +1,20 @@
+{
+    "id": "354538",
+    "ident": "YACD",
+    "type": "small_airport",
+    "name": "Alice Downs Station Airport",
+    "latitude_deg": "-24.269521",
+    "longitude_deg": "145.488553",
+    "elevation_ft": "991",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Alice Downs",
+    "scheduled_service": "no",
+    "gps_code": "YACD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31787",
+    "ident": "OAHN",
+    "type": "small_airport",
+    "name": "Khwahan Airport",
+    "latitude_deg": "37.890021",
+    "longitude_deg": "70.20383",
+    "elevation_ft": "3593",
+    "continent": "AS",
+    "iso_country": "AF",
+    "iso_region": "AF-BDS",
+    "municipality": "Khwahan",
+    "scheduled_service": "no",
+    "gps_code": "OAHN",
+    "iata_code": "KWH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

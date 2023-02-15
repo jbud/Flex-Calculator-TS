@@ -1,0 +1,20 @@
+{
+    "id": "31484",
+    "ident": "FZVJ",
+    "type": "small_airport",
+    "name": "Tshumbe Airport",
+    "latitude_deg": "-4.039285",
+    "longitude_deg": "24.365616",
+    "elevation_ft": "1804",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-SA",
+    "municipality": "Tshumbe",
+    "scheduled_service": "yes",
+    "gps_code": "FZVJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tshombe_Airport",
+    "keywords": "Tshombe"
+}

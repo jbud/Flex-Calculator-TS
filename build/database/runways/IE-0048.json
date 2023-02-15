@@ -1,0 +1,20 @@
+{
+    "id": "322072",
+    "ident": "IE-0048",
+    "type": "small_airport",
+    "name": "Camus Airstrip",
+    "latitude_deg": "53.17147",
+    "longitude_deg": "-8.11363",
+    "elevation_ft": "108",
+    "continent": "EU",
+    "iso_country": "IE",
+    "iso_region": "IE-G",
+    "municipality": "Friarsland",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

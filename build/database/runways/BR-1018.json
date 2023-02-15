@@ -1,0 +1,20 @@
+{
+    "id": "335744",
+    "ident": "BR-1018",
+    "type": "small_airport",
+    "name": "Fazenda Tamboril Airport",
+    "latitude_deg": "-18.099409",
+    "longitude_deg": "-49.737029",
+    "elevation_ft": "676",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Bom Jesus de Goiás",
+    "scheduled_service": "no",
+    "gps_code": "SITR",
+    "iata_code": "",
+    "local_code": "GO0056",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "354958",
+    "ident": "US-6850",
+    "type": "small_airport",
+    "name": "Condit Airport",
+    "latitude_deg": "34.53393",
+    "longitude_deg": "-116.87808",
+    "elevation_ft": "2966",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Lucerne Valley",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

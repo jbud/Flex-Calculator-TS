@@ -1,0 +1,20 @@
+{
+    "id": "29010",
+    "ident": "LFTR",
+    "type": "heliport",
+    "name": "Toulon Navy Air Base",
+    "latitude_deg": "43.082699",
+    "longitude_deg": "5.93382",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-PAC",
+    "municipality": "Hyères",
+    "scheduled_service": "no",
+    "gps_code": "LFTR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "CCMAR, CCMAR Mediterranee"
+}

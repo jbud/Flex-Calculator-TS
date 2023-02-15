@@ -1,0 +1,20 @@
+{
+    "id": "351491",
+    "ident": "PE-0017",
+    "type": "heliport",
+    "name": "Puerto Ocopa Heliport",
+    "latitude_deg": "-11.14793",
+    "longitude_deg": "-74.30629",
+    "elevation_ft": "1056",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-JUN",
+    "municipality": "Puerto Ocopa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "320635",
+    "ident": "DE-0358",
+    "type": "small_airport",
+    "name": "Flugplatz Burgheim",
+    "latitude_deg": "48.692206",
+    "longitude_deg": "11.033122",
+    "elevation_ft": "1332",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Burgheim LKrs Neuburg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

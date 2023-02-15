@@ -1,0 +1,20 @@
+{
+    "id": "46535",
+    "ident": "CFM9",
+    "type": "heliport",
+    "name": "Fort Macleod (Hospital) Heliport",
+    "latitude_deg": "49.725758",
+    "longitude_deg": "-113.392485",
+    "elevation_ft": "3095",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Fort Macleod",
+    "scheduled_service": "no",
+    "gps_code": "CFM9",
+    "iata_code": "",
+    "local_code": "CFM9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

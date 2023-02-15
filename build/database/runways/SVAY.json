@@ -1,0 +1,20 @@
+{
+    "id": "40082",
+    "ident": "SVAY",
+    "type": "small_airport",
+    "name": "Araya Airport",
+    "latitude_deg": "10.583333015441895",
+    "longitude_deg": "-64.24666595458984",
+    "elevation_ft": "32",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-R",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVAY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

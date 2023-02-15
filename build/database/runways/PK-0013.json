@@ -1,0 +1,20 @@
+{
+    "id": "299579",
+    "ident": "PK-0013",
+    "type": "small_airport",
+    "name": "Sialkot Cantonment Airport",
+    "latitude_deg": "32.514722",
+    "longitude_deg": "74.528889",
+    "elevation_ft": "2074",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-PB",
+    "municipality": "Sialkot",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sialkot_Cantonment_Airport",
+    "keywords": ""
+}

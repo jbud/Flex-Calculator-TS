@@ -1,0 +1,20 @@
+{
+    "id": "32611",
+    "ident": "VYMU",
+    "type": "small_airport",
+    "name": "Mrauk-U Airport",
+    "latitude_deg": "20.525901",
+    "longitude_deg": "93.252979",
+    "elevation_ft": "60",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-16",
+    "municipality": "Mrauk-U",
+    "scheduled_service": "no",
+    "gps_code": "VYMU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "44035",
+    "ident": "EFHS",
+    "type": "heliport",
+    "name": "Seinäjoen Central Hospital Heliport",
+    "latitude_deg": "62.769919",
+    "longitude_deg": "22.822402",
+    "elevation_ft": "194",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-03",
+    "municipality": "Seinäjoen",
+    "scheduled_service": "no",
+    "gps_code": "EFHS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

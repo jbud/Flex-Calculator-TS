@@ -1,0 +1,20 @@
+{
+    "id": "319680",
+    "ident": "MX-0260",
+    "type": "small_airport",
+    "name": "Silva Airport",
+    "latitude_deg": "19.205658",
+    "longitude_deg": "-102.831381",
+    "elevation_ft": "1280",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-MIC",
+    "municipality": "Tepalcatepec",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SIV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

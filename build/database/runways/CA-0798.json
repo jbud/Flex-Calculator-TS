@@ -1,0 +1,20 @@
+{
+    "id": "355523",
+    "ident": "CA-0798",
+    "type": "small_airport",
+    "name": "Carcross Cutoff Airport",
+    "latitude_deg": "60.609579",
+    "longitude_deg": "-134.795256",
+    "elevation_ft": "2282",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-YT",
+    "municipality": "Whitehorse",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "336319",
+    "ident": "BR-1114",
+    "type": "heliport",
+    "name": "Baltt Heliport",
+    "latitude_deg": "-26.793036",
+    "longitude_deg": "-48.67108",
+    "elevation_ft": "66",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Penha",
+    "scheduled_service": "no",
+    "gps_code": "SJET",
+    "iata_code": "",
+    "local_code": "SC0067",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "318625",
+    "ident": "TZ-0064",
+    "type": "small_airport",
+    "name": "Handa Airport",
+    "latitude_deg": "-4.954854",
+    "longitude_deg": "35.323672",
+    "elevation_ft": "4150",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-23",
+    "municipality": "Handa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40595",
+    "ident": "SK-504",
+    "type": "small_airport",
+    "name": "Villa Nueva Airport",
+    "latitude_deg": "0.280556",
+    "longitude_deg": "-70.456667",
+    "elevation_ft": "622",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-VAU",
+    "municipality": "Mitu",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MVN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

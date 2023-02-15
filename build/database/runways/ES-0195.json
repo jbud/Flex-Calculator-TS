@@ -1,0 +1,20 @@
+{
+    "id": "321572",
+    "ident": "ES-0195",
+    "type": "small_airport",
+    "name": "Pista Forestal Valdelamusa",
+    "latitude_deg": "37.7763167",
+    "longitude_deg": "-6.8826667",
+    "elevation_ft": "1135",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Valdelamusa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

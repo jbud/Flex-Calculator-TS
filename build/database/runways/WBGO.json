@@ -1,0 +1,20 @@
+{
+    "id": "32640",
+    "ident": "WBGO",
+    "type": "small_airport",
+    "name": "Lio Matu Airport",
+    "latitude_deg": "3.197567",
+    "longitude_deg": "115.308802",
+    "elevation_ft": "700",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-13",
+    "municipality": "Lio Matu",
+    "scheduled_service": "no",
+    "gps_code": "WBGO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

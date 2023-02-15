@@ -1,0 +1,20 @@
+{
+    "id": "349452",
+    "ident": "IQ-0060",
+    "type": "closed",
+    "name": "T1 Airport",
+    "latitude_deg": "34.23663",
+    "longitude_deg": "41.32865",
+    "elevation_ft": "1025",
+    "continent": "AS",
+    "iso_country": "IQ",
+    "iso_region": "IQ-AN",
+    "municipality": "Al-Qa'im",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "318343",
+    "ident": "CD-0005",
+    "type": "small_airport",
+    "name": "Pimu Airport",
+    "latitude_deg": "1.778935",
+    "longitude_deg": "20.904077",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-MO",
+    "municipality": "Pimu",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

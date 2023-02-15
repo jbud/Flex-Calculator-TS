@@ -1,0 +1,20 @@
+{
+    "id": "35333",
+    "ident": "AR-0001",
+    "type": "small_airport",
+    "name": "Cullen Airport",
+    "latitude_deg": "-52.88574",
+    "longitude_deg": "-68.414956",
+    "elevation_ft": "132",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-V",
+    "municipality": "Cullen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

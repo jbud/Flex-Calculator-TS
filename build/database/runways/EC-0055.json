@@ -1,0 +1,20 @@
+{
+    "id": "505101",
+    "ident": "EC-0055",
+    "type": "closed",
+    "name": "Cayambe Airport",
+    "latitude_deg": "0.057",
+    "longitude_deg": "-78.13857",
+    "elevation_ft": "9291",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-P",
+    "municipality": "Cayambe",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

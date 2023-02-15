@@ -1,0 +1,20 @@
+{
+    "id": "504990",
+    "ident": "IR-0129",
+    "type": "small_airport",
+    "name": "Minab Airport",
+    "latitude_deg": "27.09808",
+    "longitude_deg": "57.08056",
+    "elevation_ft": "102",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-22",
+    "municipality": "Minab",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Minab Emergency Runway"
+}

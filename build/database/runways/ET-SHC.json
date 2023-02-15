@@ -1,0 +1,20 @@
+{
+    "id": "32294",
+    "ident": "ET-SHC",
+    "type": "small_airport",
+    "name": "Shire Inda Selassie Airport",
+    "latitude_deg": "14.075699",
+    "longitude_deg": "38.273592",
+    "elevation_ft": "6207",
+    "continent": "AF",
+    "iso_country": "ET",
+    "iso_region": "ET-TI",
+    "municipality": "Shire Inda Selassie",
+    "scheduled_service": "yes",
+    "gps_code": "HASC",
+    "iata_code": "SHC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Indaselassie, Indasilase"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "324348",
+    "ident": "CN-0073",
+    "type": "small_airport",
+    "name": "Shangluo Airport",
+    "latitude_deg": "33.708533",
+    "longitude_deg": "110.249284",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-61",
+    "municipality": "Shangluo (Danfeng)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "DFA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

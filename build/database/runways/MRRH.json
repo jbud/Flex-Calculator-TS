@@ -1,0 +1,20 @@
+{
+    "id": "41981",
+    "ident": "MRRH",
+    "type": "small_airport",
+    "name": "Rancho Humo Airport",
+    "latitude_deg": "10.316666603088379",
+    "longitude_deg": "-85.33333587646484",
+    "elevation_ft": "33",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-G",
+    "municipality": "Santa Cruz",
+    "scheduled_service": "no",
+    "gps_code": "MRRH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

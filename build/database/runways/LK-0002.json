@@ -1,0 +1,20 @@
+{
+    "id": "317288",
+    "ident": "LK-0002",
+    "type": "small_airport",
+    "name": "Palaviya Airport",
+    "latitude_deg": "7.979668",
+    "longitude_deg": "79.856495",
+    "elevation_ft": "92",
+    "continent": "AS",
+    "iso_country": "LK",
+    "iso_region": "LK-6",
+    "municipality": "Puttalam",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Puttalam Airport"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "319186",
+    "ident": "IT-0253",
+    "type": "small_airport",
+    "name": "Aviosuperficie Castellazzo",
+    "latitude_deg": "44.6833333",
+    "longitude_deg": "10.7397222",
+    "elevation_ft": "141",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-45",
+    "municipality": "Castellazzo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "RE04",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

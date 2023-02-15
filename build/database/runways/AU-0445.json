@@ -1,0 +1,20 @@
+{
+    "id": "354082",
+    "ident": "AU-0445",
+    "type": "heliport",
+    "name": "Evans Head RAAF Bombing Range HLS",
+    "latitude_deg": "-29.196677",
+    "longitude_deg": "153.383796",
+    "elevation_ft": "40",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Evans Head",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "OZHBR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

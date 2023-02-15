@@ -1,0 +1,20 @@
+{
+    "id": "334352",
+    "ident": "US-1293",
+    "type": "heliport",
+    "name": "George Washington University Hospital Heliport",
+    "latitude_deg": "38.900903",
+    "longitude_deg": "-77.051132",
+    "elevation_ft": "174",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-DC",
+    "municipality": "Washington",
+    "scheduled_service": "no",
+    "gps_code": "24DC",
+    "iata_code": "",
+    "local_code": "24DC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

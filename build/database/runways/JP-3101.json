@@ -1,0 +1,20 @@
+{
+    "id": "430194",
+    "ident": "JP-3101",
+    "type": "heliport",
+    "name": "Mikurajima Heliport",
+    "latitude_deg": "33.89775",
+    "longitude_deg": "139.59494",
+    "elevation_ft": "427",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-13",
+    "municipality": "Mikurajima",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

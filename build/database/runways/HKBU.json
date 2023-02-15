@@ -1,0 +1,20 @@
+{
+    "id": "42531",
+    "ident": "HKBU",
+    "type": "small_airport",
+    "name": "Bungoma Airport",
+    "latitude_deg": "0.5762079954147339",
+    "longitude_deg": "34.55345153808594",
+    "elevation_ft": "4726",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-900",
+    "municipality": "Bungoma",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

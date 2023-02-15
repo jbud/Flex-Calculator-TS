@@ -1,0 +1,20 @@
+{
+    "id": "351967",
+    "ident": "SA-0035",
+    "type": "heliport",
+    "name": "Armed Forces Hospital Heliport",
+    "latitude_deg": "21.39866",
+    "longitude_deg": "39.89968",
+    "elevation_ft": "1073",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-02",
+    "municipality": "Mecca",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

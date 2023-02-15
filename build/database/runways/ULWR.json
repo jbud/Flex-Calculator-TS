@@ -1,0 +1,20 @@
+{
+    "id": "44607",
+    "ident": "ULWR",
+    "type": "small_airport",
+    "name": "Vytegra Airfield",
+    "latitude_deg": "61.032001",
+    "longitude_deg": "36.435001",
+    "elevation_ft": "217",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-VLG",
+    "municipality": "Vytegra",
+    "scheduled_service": "yes",
+    "gps_code": "ULWR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Вытегра, УЛВР"
+}

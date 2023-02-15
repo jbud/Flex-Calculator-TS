@@ -1,0 +1,20 @@
+{
+    "id": "317555",
+    "ident": "LHFC",
+    "type": "small_airport",
+    "name": "Bodmér",
+    "latitude_deg": "47.44462",
+    "longitude_deg": "18.55632",
+    "elevation_ft": "492",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-FE",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "LHFC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Felcsút"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "319232",
+    "ident": "TD-0015",
+    "type": "small_airport",
+    "name": "Moussoro Airport",
+    "latitude_deg": "13.645663",
+    "longitude_deg": "16.501386",
+    "elevation_ft": "984",
+    "continent": "AF",
+    "iso_country": "TD",
+    "iso_region": "TD-BG",
+    "municipality": "Moussoro",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Moussoro_Airport",
+    "keywords": ""
+}

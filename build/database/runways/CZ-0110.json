@@ -1,0 +1,20 @@
+{
+    "id": "320356",
+    "ident": "CZ-0110",
+    "type": "small_airport",
+    "name": "Miroslav ULM",
+    "latitude_deg": "48.9313889",
+    "longitude_deg": "16.2986111",
+    "elevation_ft": "781",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-JM",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LKMIRO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

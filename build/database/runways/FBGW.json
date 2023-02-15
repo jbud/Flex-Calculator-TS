@@ -1,0 +1,20 @@
+{
+    "id": "317570",
+    "ident": "FBGW",
+    "type": "small_airport",
+    "name": "Gweta Airport",
+    "latitude_deg": "-20.1987",
+    "longitude_deg": "25.2187",
+    "elevation_ft": "3050",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-CE",
+    "municipality": "Gweta",
+    "scheduled_service": "no",
+    "gps_code": "FBGW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "FB22"
+}

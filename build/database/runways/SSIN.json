@@ -1,0 +1,20 @@
+{
+    "id": "354166",
+    "ident": "SSIN",
+    "type": "heliport",
+    "name": "Sítio Costa dos Calhaus Heliport",
+    "latitude_deg": "-23.216775",
+    "longitude_deg": "-44.633209",
+    "elevation_ft": "361",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Paraty",
+    "scheduled_service": "no",
+    "gps_code": "SSIN",
+    "iata_code": "",
+    "local_code": "RJ0145",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

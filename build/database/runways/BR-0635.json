@@ -1,0 +1,20 @@
+{
+    "id": "334034",
+    "ident": "BR-0635",
+    "type": "small_airport",
+    "name": "Fazenda Copacabana Airport",
+    "latitude_deg": "-17.416679",
+    "longitude_deg": "-47.825128",
+    "elevation_ft": "2877",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Campo Alegre de Goiás",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SWCK"
+}

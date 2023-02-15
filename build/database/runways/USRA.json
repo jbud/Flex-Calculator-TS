@@ -1,0 +1,20 @@
+{
+    "id": "315317",
+    "ident": "USRA",
+    "type": "small_airport",
+    "name": "Ay-Pim Airport",
+    "latitude_deg": "62.265",
+    "longitude_deg": "71.191",
+    "elevation_ft": "258",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KHM",
+    "municipality": "Ay-Pim",
+    "scheduled_service": "no",
+    "gps_code": "USRA",
+    "iata_code": "",
+    "local_code": "USRA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "УСРА, Ай-Пим Аэродромы"
+}

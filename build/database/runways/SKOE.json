@@ -1,0 +1,20 @@
+{
+    "id": "32126",
+    "ident": "SKOE",
+    "type": "small_airport",
+    "name": "Orocue Airport",
+    "latitude_deg": "4.79222",
+    "longitude_deg": "-71.3564",
+    "elevation_ft": "434",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAS",
+    "municipality": "Orocue",
+    "scheduled_service": "no",
+    "gps_code": "SKOE",
+    "iata_code": "ORC",
+    "local_code": "ORC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "337030",
+    "ident": "BR-1176",
+    "type": "heliport",
+    "name": "Silva Jardim Helipad",
+    "latitude_deg": "-23.713942",
+    "longitude_deg": "-46.547281",
+    "elevation_ft": "2779",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São Bernardo do Campo",
+    "scheduled_service": "no",
+    "gps_code": "SJII",
+    "iata_code": "",
+    "local_code": "SP0626",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

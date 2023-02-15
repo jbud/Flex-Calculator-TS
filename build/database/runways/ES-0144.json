@@ -1,0 +1,20 @@
+{
+    "id": "321339",
+    "ident": "ES-0144",
+    "type": "small_airport",
+    "name": "Aeródromo de Tardienta - Monegros",
+    "latitude_deg": "41.9599129",
+    "longitude_deg": "-0.5434853",
+    "elevation_ft": "1296",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AR",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

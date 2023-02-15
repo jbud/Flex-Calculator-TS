@@ -1,0 +1,20 @@
+{
+    "id": "504811",
+    "ident": "PH-0514",
+    "type": "small_airport",
+    "name": "Tarumpitao Point Airfield",
+    "latitude_deg": "9.04366",
+    "longitude_deg": "117.6336",
+    "elevation_ft": "23",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-PLW",
+    "municipality": "Rizal",
+    "scheduled_service": "no",
+    "gps_code": "RPTP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

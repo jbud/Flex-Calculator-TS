@@ -1,0 +1,20 @@
+{
+    "id": "40370",
+    "ident": "VE-0021",
+    "type": "small_airport",
+    "name": "Belen Airport",
+    "latitude_deg": "3.74666690826416",
+    "longitude_deg": "-65.76333618164062",
+    "elevation_ft": "577",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-Z",
+    "municipality": "Culebra",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

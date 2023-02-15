@@ -1,0 +1,20 @@
+{
+    "id": "319486",
+    "ident": "HU-0035",
+    "type": "small_airport",
+    "name": "Aeroglobus",
+    "latitude_deg": "47.7740525",
+    "longitude_deg": "19.0615739",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-PE",
+    "municipality": "Dunabogdány",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.aeroglobus.hu/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

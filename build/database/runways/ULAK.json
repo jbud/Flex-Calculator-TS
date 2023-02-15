@@ -1,0 +1,20 @@
+{
+    "id": "43016",
+    "ident": "ULAK",
+    "type": "medium_airport",
+    "name": "Severomorsk-1 Naval Air Base",
+    "latitude_deg": "69.03166961669922",
+    "longitude_deg": "33.418331146240234",
+    "elevation_ft": "239",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-MUR",
+    "municipality": "Severomorsk",
+    "scheduled_service": "no",
+    "gps_code": "ULAK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Severomorsk-1",
+    "keywords": ""
+}

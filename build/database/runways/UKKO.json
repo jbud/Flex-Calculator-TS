@@ -1,0 +1,20 @@
+{
+    "id": "44432",
+    "ident": "UKKO",
+    "type": "medium_airport",
+    "name": "Ozerne Air Base",
+    "latitude_deg": "50.158298",
+    "longitude_deg": "28.7383",
+    "elevation_ft": "761",
+    "continent": "EU",
+    "iso_country": "UA",
+    "iso_region": "UA-18",
+    "municipality": "Zhytomyr",
+    "scheduled_service": "no",
+    "gps_code": "UKKO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ozerne_(air_base)",
+    "keywords": "Zhitomyr Ozernoye, Oziernoye, Ozernoe, Ozernoye, Ozyornoye, Ozerne, Ozernyy, Ozyornaya"
+}

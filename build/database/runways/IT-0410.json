@@ -1,0 +1,20 @@
+{
+    "id": "320158",
+    "ident": "IT-0410",
+    "type": "small_airport",
+    "name": "Aviosuperficie Aero Club Valdarno S.C.U.V.",
+    "latitude_deg": "43.53084",
+    "longitude_deg": "11.473086",
+    "elevation_ft": "1131",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-52",
+    "municipality": "Cavriglia (AR)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ARCVP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SCUV,Valle al Pero"
+}

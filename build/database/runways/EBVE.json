@@ -1,0 +1,20 @@
+{
+    "id": "29054",
+    "ident": "EBVE",
+    "type": "heliport",
+    "name": "Veurne Heliport",
+    "latitude_deg": "51.02264",
+    "longitude_deg": "2.680374",
+    "elevation_ft": "82",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-VWV",
+    "municipality": "Veurne",
+    "scheduled_service": "no",
+    "gps_code": "EBVE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Liège-Bierset"
+}

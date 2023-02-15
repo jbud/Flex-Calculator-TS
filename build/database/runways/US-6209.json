@@ -1,0 +1,20 @@
+{
+    "id": "350817",
+    "ident": "US-6209",
+    "type": "small_airport",
+    "name": "Wynn Airport",
+    "latitude_deg": "36.32492",
+    "longitude_deg": "-89.4701",
+    "elevation_ft": "286",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Wynnburg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

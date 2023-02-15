@@ -1,0 +1,20 @@
+{
+    "id": "336123",
+    "ident": "BR-1089",
+    "type": "small_airport",
+    "name": "Fazed Santa Bárbara Airport",
+    "latitude_deg": "-14.617778",
+    "longitude_deg": "-44.188056",
+    "elevation_ft": "1667",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Manga",
+    "scheduled_service": "no",
+    "gps_code": "SJBF",
+    "iata_code": "",
+    "local_code": "MG0117",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

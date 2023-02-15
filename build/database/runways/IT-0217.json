@@ -1,0 +1,20 @@
+{
+    "id": "317842",
+    "ident": "IT-0217",
+    "type": "small_airport",
+    "name": "Campo di Volo \"VolAvisio\"",
+    "latitude_deg": "46.27888",
+    "longitude_deg": "11.44837",
+    "elevation_ft": "2820",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-32",
+    "municipality": "Cavalese",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

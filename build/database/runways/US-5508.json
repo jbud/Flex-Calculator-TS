@@ -1,0 +1,20 @@
+{
+    "id": "348777",
+    "ident": "US-5508",
+    "type": "small_airport",
+    "name": "Chatham Airport",
+    "latitude_deg": "33.97618",
+    "longitude_deg": "-91.82812",
+    "elevation_ft": "219",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Star City",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

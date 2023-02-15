@@ -1,0 +1,20 @@
+{
+    "id": "333200",
+    "ident": "IT-0546",
+    "type": "heliport",
+    "name": "Elibase Pegaso 1 (Santa Maria Annunziata Hospital)",
+    "latitude_deg": "43.730732",
+    "longitude_deg": "11.304224",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-52",
+    "municipality": "Bagno a Ripoli",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

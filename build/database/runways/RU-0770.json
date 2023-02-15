@@ -1,0 +1,20 @@
+{
+    "id": "348672",
+    "ident": "RU-0770",
+    "type": "small_airport",
+    "name": "Manturovo Airfield",
+    "latitude_deg": "58.36749",
+    "longitude_deg": "44.7957",
+    "elevation_ft": "374",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KOS",
+    "municipality": "Manturovo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

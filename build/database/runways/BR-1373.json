@@ -1,0 +1,20 @@
+{
+    "id": "340493",
+    "ident": "BR-1373",
+    "type": "small_airport",
+    "name": "João Fonseca Airport",
+    "latitude_deg": "-7.443862",
+    "longitude_deg": "-70.019172",
+    "elevation_ft": "459",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Envira",
+    "scheduled_service": "no",
+    "gps_code": "SNRH",
+    "iata_code": "",
+    "local_code": "AM0039",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

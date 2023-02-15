@@ -1,0 +1,20 @@
+{
+    "id": "307256",
+    "ident": "BR-0019",
+    "type": "heliport",
+    "name": "Fazenda Boa Vista Heliport",
+    "latitude_deg": "-23.361168",
+    "longitude_deg": "-47.568752",
+    "elevation_ft": "1877",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Porto Feliz",
+    "scheduled_service": "no",
+    "gps_code": "SJBM",
+    "iata_code": "",
+    "local_code": "SP0598",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

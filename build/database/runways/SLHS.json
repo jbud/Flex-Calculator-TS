@@ -1,0 +1,20 @@
+{
+    "id": "39427",
+    "ident": "SLHS",
+    "type": "small_airport",
+    "name": "Chacobos Airport",
+    "latitude_deg": "-19.59480094909668",
+    "longitude_deg": "-62.56570053100586",
+    "elevation_ft": "1437",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Parapeti",
+    "scheduled_service": "no",
+    "gps_code": "SLHS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "300423",
+    "ident": "RK3D",
+    "type": "heliport",
+    "name": "C 316 Heliport",
+    "latitude_deg": "38.168958",
+    "longitude_deg": "127.431938",
+    "elevation_ft": "1150",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-42",
+    "municipality": "Sinsul",
+    "scheduled_service": "no",
+    "gps_code": "RK3D",
+    "iata_code": "",
+    "local_code": "RK3D",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

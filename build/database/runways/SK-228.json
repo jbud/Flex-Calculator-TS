@@ -1,0 +1,20 @@
+{
+    "id": "40605",
+    "ident": "SK-228",
+    "type": "small_airport",
+    "name": "Morichal Papanagu Airport",
+    "latitude_deg": "2",
+    "longitude_deg": "-70.883333",
+    "elevation_ft": "612",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-GUV",
+    "municipality": "Morichal",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MCG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

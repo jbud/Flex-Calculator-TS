@@ -1,0 +1,20 @@
+{
+    "id": "323515",
+    "ident": "KR-0077",
+    "type": "heliport",
+    "name": "N-103 Heliport",
+    "latitude_deg": "36.013126",
+    "longitude_deg": "129.422592",
+    "elevation_ft": "10",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-47",
+    "municipality": "Pohang",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "RK9M",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "RK9M, N 103, N-103"
+}

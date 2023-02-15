@@ -1,0 +1,20 @@
+{
+    "id": "31963",
+    "ident": "MTU",
+    "type": "small_airport",
+    "name": "Montepuez Airport",
+    "latitude_deg": "-13.121899604797363",
+    "longitude_deg": "39.052799224853516",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "MZ",
+    "iso_region": "MZ-P",
+    "municipality": "Montepuez",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "MTU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

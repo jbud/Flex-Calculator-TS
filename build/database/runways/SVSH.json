@@ -1,0 +1,20 @@
+{
+    "id": "40303",
+    "ident": "SVSH",
+    "type": "small_airport",
+    "name": "San Juan De Río Claro Airport",
+    "latitude_deg": "7.18416690826416",
+    "longitude_deg": "-67.16805267333984",
+    "elevation_ft": "144",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVSH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

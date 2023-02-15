@@ -1,0 +1,20 @@
+{
+    "id": "318488",
+    "ident": "AO-0023",
+    "type": "small_airport",
+    "name": "Luacano Airport",
+    "latitude_deg": "-11.209962",
+    "longitude_deg": "21.648705",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-MOX",
+    "municipality": "Luacano",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

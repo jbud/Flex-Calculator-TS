@@ -1,0 +1,20 @@
+{
+    "id": "30802",
+    "ident": "HCMV",
+    "type": "small_airport",
+    "name": "Burao Airport",
+    "latitude_deg": "9.5275",
+    "longitude_deg": "45.5549",
+    "elevation_ft": "3400",
+    "continent": "AF",
+    "iso_country": "SO",
+    "iso_region": "SO-TO",
+    "municipality": "Burao",
+    "scheduled_service": "no",
+    "gps_code": "HCMV",
+    "iata_code": "BUO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Burao_Airport",
+    "keywords": ""
+}

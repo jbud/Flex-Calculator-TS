@@ -1,0 +1,20 @@
+{
+    "id": "352070",
+    "ident": "IR-0086",
+    "type": "small_airport",
+    "name": "Tonb-e Bozorg Airport",
+    "latitude_deg": "26.25836",
+    "longitude_deg": "55.31579",
+    "elevation_ft": "38",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-22",
+    "municipality": "Tonb-e Bozorg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

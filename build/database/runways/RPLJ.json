@@ -1,0 +1,20 @@
+{
+    "id": "32220",
+    "ident": "RPLJ",
+    "type": "small_airport",
+    "name": "Jomalig Island Airport",
+    "latitude_deg": "14.704161",
+    "longitude_deg": "122.331133",
+    "elevation_ft": "36",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-QUE",
+    "municipality": "Jomalig",
+    "scheduled_service": "no",
+    "gps_code": "RPLJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jomalig_Airport",
+    "keywords": "Jomalig"
+}

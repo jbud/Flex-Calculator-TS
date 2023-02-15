@@ -1,0 +1,20 @@
+{
+    "id": "319643",
+    "ident": "IT-0332",
+    "type": "small_airport",
+    "name": "Campo di Volo Ali del Chienti",
+    "latitude_deg": "43.260263",
+    "longitude_deg": "13.518618",
+    "elevation_ft": "390",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-57",
+    "municipality": "Corridonia (MC)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MCCOR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Ali del Chienti"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "333191",
+    "ident": "TJ-0006",
+    "type": "small_airport",
+    "name": "Panj Airport",
+    "latitude_deg": "37.256862",
+    "longitude_deg": "69.092327",
+    "elevation_ft": "1237",
+    "continent": "AS",
+    "iso_country": "TJ",
+    "iso_region": "TJ-KT",
+    "municipality": "Panj",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

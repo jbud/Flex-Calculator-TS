@@ -1,0 +1,20 @@
+{
+    "id": "43700",
+    "ident": "NL-0005",
+    "type": "heliport",
+    "name": "Ziekenhuis Rivierenland Heliport",
+    "latitude_deg": "51.88972091674805",
+    "longitude_deg": "5.413888931274414",
+    "elevation_ft": "16",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-GE",
+    "municipality": "Tiel",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "EH0022"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "35362",
+    "ident": "AF08",
+    "type": "small_airport",
+    "name": "Kutub Khel Airport",
+    "latitude_deg": "34.192902",
+    "longitude_deg": "69.135696",
+    "elevation_ft": "6273",
+    "continent": "AS",
+    "iso_country": "AF",
+    "iso_region": "AF-LOW",
+    "municipality": "Kutub Khel",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Kotubkhel"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "298812",
+    "ident": "YBID",
+    "type": "small_airport",
+    "name": "Binda",
+    "latitude_deg": "-34.30256",
+    "longitude_deg": "149.357668",
+    "elevation_ft": "2450",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YBID",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

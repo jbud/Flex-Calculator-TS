@@ -1,0 +1,20 @@
+{
+    "id": "31422",
+    "ident": "FZNR",
+    "type": "small_airport",
+    "name": "Rwindi Airport",
+    "latitude_deg": "-0.796652",
+    "longitude_deg": "29.28966",
+    "elevation_ft": "3412",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-NK",
+    "municipality": "Rwindi",
+    "scheduled_service": "no",
+    "gps_code": "FZNR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rwindi_Airport",
+    "keywords": ""
+}

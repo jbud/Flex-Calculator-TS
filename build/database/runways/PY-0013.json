@@ -1,0 +1,20 @@
+{
+    "id": "41577",
+    "ident": "PY-0013",
+    "type": "small_airport",
+    "name": "Aeródromo de Puerto Max",
+    "latitude_deg": "-22.630302",
+    "longitude_deg": "-57.770469",
+    "elevation_ft": "241",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-1",
+    "municipality": "Puerto Max",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

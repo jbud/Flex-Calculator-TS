@@ -1,0 +1,20 @@
+{
+    "id": "311756",
+    "ident": "AYEI",
+    "type": "small_airport",
+    "name": "Milei Airstrip",
+    "latitude_deg": "-9.0794",
+    "longitude_deg": "147.602",
+    "elevation_ft": "2160",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-CPM",
+    "municipality": "Milei",
+    "scheduled_service": "no",
+    "gps_code": "AYEI",
+    "iata_code": "",
+    "local_code": "MIL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

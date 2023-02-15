@@ -1,0 +1,20 @@
+{
+    "id": "31849",
+    "ident": "OAQN",
+    "type": "small_airport",
+    "name": "Qala-i-Naw Airport",
+    "latitude_deg": "34.985472",
+    "longitude_deg": "63.117404",
+    "elevation_ft": "2999",
+    "continent": "AS",
+    "iso_country": "AF",
+    "iso_region": "AF-BDG",
+    "municipality": "Qala-i-Naw",
+    "scheduled_service": "no",
+    "gps_code": "OAQN",
+    "iata_code": "LQN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

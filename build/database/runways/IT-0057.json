@@ -1,0 +1,20 @@
+{
+    "id": "308693",
+    "ident": "IT-0057",
+    "type": "small_airport",
+    "name": "Aviosuperficie Piovera",
+    "latitude_deg": "44.935833",
+    "longitude_deg": "8.749333",
+    "elevation_ft": "312",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-21",
+    "municipality": "Piovera (AL)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ALASS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Centro ULM Alessandria"
+}

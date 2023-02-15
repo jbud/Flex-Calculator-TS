@@ -1,0 +1,20 @@
+{
+    "id": "321011",
+    "ident": "SNEE",
+    "type": "small_airport",
+    "name": "Vacaria Airport",
+    "latitude_deg": "-28.43248",
+    "longitude_deg": "-51.023322",
+    "elevation_ft": "2953",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Vacaria",
+    "scheduled_service": "yes",
+    "gps_code": "SNEE",
+    "iata_code": "VCC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Vacaria_Airport",
+    "keywords": ""
+}

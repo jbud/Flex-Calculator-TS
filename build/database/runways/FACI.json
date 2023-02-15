@@ -1,0 +1,20 @@
+{
+    "id": "41307",
+    "ident": "FACI",
+    "type": "small_airport",
+    "name": "Citrusdal Airport",
+    "latitude_deg": "-32.61968",
+    "longitude_deg": "19.00384",
+    "elevation_ft": "532",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-WC",
+    "municipality": "Citrusdal",
+    "scheduled_service": "no",
+    "gps_code": "FACI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

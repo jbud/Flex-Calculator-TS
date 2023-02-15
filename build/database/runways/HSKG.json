@@ -1,0 +1,20 @@
+{
+    "id": "31518",
+    "ident": "HSKG",
+    "type": "small_airport",
+    "name": "Khashm El Girba Airport",
+    "latitude_deg": "14.925000190734863",
+    "longitude_deg": "35.87799835205078",
+    "elevation_ft": "1560",
+    "continent": "AF",
+    "iso_country": "SD",
+    "iso_region": "SD-06",
+    "municipality": "Khashm El Girba",
+    "scheduled_service": "no",
+    "gps_code": "HSKG",
+    "iata_code": "GBU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

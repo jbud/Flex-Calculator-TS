@@ -1,0 +1,20 @@
+{
+    "id": "323760",
+    "ident": "SR-0002",
+    "type": "small_airport",
+    "name": "Nieuw Jacobkondre Airstrip",
+    "latitude_deg": "4.935714",
+    "longitude_deg": "-55.534735",
+    "elevation_ft": "82",
+    "continent": "SA",
+    "iso_country": "SR",
+    "iso_region": "SR-SI",
+    "municipality": "Nieuw Jacobkondre",
+    "scheduled_service": "no",
+    "gps_code": "SMJK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Njoeng_Jacob_Kondre_Airstrip",
+    "keywords": ""
+}

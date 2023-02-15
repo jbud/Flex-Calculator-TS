@@ -1,0 +1,20 @@
+{
+    "id": "46197",
+    "ident": "RU-0342",
+    "type": "small_airport",
+    "name": "Yuzhnaya Airfield",
+    "latitude_deg": "54.654718956",
+    "longitude_deg": "83.07869911190001",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-NVS",
+    "municipality": "Berdsk",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Yuzhny Airfield, ВПП Южная, ВПП Южный"
+}

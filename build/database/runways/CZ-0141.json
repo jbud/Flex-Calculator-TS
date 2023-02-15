@@ -1,0 +1,20 @@
+{
+    "id": "321144",
+    "ident": "CZ-0141",
+    "type": "small_airport",
+    "name": "Libkovice",
+    "latitude_deg": "50.5613889",
+    "longitude_deg": "13.6838889",
+    "elevation_ft": "909",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-US",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

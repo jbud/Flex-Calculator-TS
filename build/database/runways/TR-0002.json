@@ -1,0 +1,20 @@
+{
+    "id": "44486",
+    "ident": "TR-0002",
+    "type": "small_airport",
+    "name": "Divriği Airport",
+    "latitude_deg": "39.3316650390625",
+    "longitude_deg": "38.091819763183594",
+    "elevation_ft": "3526",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-58",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

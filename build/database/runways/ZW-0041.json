@@ -1,0 +1,20 @@
+{
+    "id": "325150",
+    "ident": "ZW-0041",
+    "type": "small_airport",
+    "name": "Mana West Airport",
+    "latitude_deg": "-15.83586",
+    "longitude_deg": "29.174883",
+    "elevation_ft": "1232",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MW",
+    "municipality": "Hurungwe",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

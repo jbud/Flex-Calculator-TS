@@ -1,0 +1,20 @@
+{
+    "id": "309715",
+    "ident": "RPVQ",
+    "type": "small_airport",
+    "name": "Biliran Airport",
+    "latitude_deg": "11.5159178299",
+    "longitude_deg": "124.428985119",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-BIL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "RPVQ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Biliran_Airport",
+    "keywords": ""
+}

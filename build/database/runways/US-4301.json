@@ -1,0 +1,20 @@
+{
+    "id": "345002",
+    "ident": "US-4301",
+    "type": "heliport",
+    "name": "Camp Ocala Heliport",
+    "latitude_deg": "29.105389",
+    "longitude_deg": "-81.629949",
+    "elevation_ft": "61",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Altoona",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "43270",
+    "ident": "LEHM",
+    "type": "heliport",
+    "name": "Hospital General De Manresa Heliport",
+    "latitude_deg": "41.720001220703125",
+    "longitude_deg": "1.840559959411621",
+    "elevation_ft": "962",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Manresa",
+    "scheduled_service": "no",
+    "gps_code": "LEHM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

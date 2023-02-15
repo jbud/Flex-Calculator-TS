@@ -1,0 +1,20 @@
+{
+    "id": "506357",
+    "ident": "US-7521",
+    "type": "small_airport",
+    "name": "Riviere Ranch Airport",
+    "latitude_deg": "34.951792",
+    "longitude_deg": "-76.657569",
+    "elevation_ft": "6",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Beaufort",
+    "scheduled_service": "no",
+    "gps_code": "NR92",
+    "iata_code": "",
+    "local_code": "NR92",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

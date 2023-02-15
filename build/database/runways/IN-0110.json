@@ -1,0 +1,20 @@
+{
+    "id": "340008",
+    "ident": "IN-0110",
+    "type": "heliport",
+    "name": "Puri Heliport",
+    "latitude_deg": "19.81035",
+    "longitude_deg": "85.84752",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-OR",
+    "municipality": "Puri",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

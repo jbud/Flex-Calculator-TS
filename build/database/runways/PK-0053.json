@@ -1,0 +1,20 @@
+{
+    "id": "41614",
+    "ident": "PK-0053",
+    "type": "closed",
+    "name": "Dadu Airport",
+    "latitude_deg": "26.554501",
+    "longitude_deg": "67.674599",
+    "elevation_ft": "121",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-SD",
+    "municipality": "Dadu",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "OPDD, DDU"
+}

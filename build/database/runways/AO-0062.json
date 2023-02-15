@@ -1,0 +1,20 @@
+{
+    "id": "351717",
+    "ident": "AO-0062",
+    "type": "small_airport",
+    "name": "Bicunga Airport",
+    "latitude_deg": "-13.78708",
+    "longitude_deg": "16.44915",
+    "elevation_ft": "5270",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-HUI",
+    "municipality": "Bicunga",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

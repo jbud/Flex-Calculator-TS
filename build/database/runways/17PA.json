@@ -1,0 +1,20 @@
+{
+    "id": "8064",
+    "ident": "17PA",
+    "type": "heliport",
+    "name": "Kelly Heliport",
+    "latitude_deg": "40.44179916381836",
+    "longitude_deg": "-75.32460021972656",
+    "elevation_ft": "526",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Quakertown",
+    "scheduled_service": "no",
+    "gps_code": "17PA",
+    "iata_code": "",
+    "local_code": "17PA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

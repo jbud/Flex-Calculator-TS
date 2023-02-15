@@ -1,0 +1,20 @@
+{
+    "id": "320665",
+    "ident": "CRS4",
+    "type": "small_airport",
+    "name": "Rosseau Airport",
+    "latitude_deg": "45.2691",
+    "longitude_deg": "-79.6558",
+    "elevation_ft": "835",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "CRS4",
+    "iata_code": "",
+    "local_code": "CRS4",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rosseau_Aerodrome",
+    "keywords": ""
+}

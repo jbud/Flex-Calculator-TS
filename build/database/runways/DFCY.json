@@ -1,0 +1,20 @@
+{
+    "id": "30898",
+    "ident": "DFCY",
+    "type": "small_airport",
+    "name": "Yako Airport",
+    "latitude_deg": "12.949999809265137",
+    "longitude_deg": "-2.2829999923706055",
+    "elevation_ft": "984",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-PAS",
+    "municipality": "Yako",
+    "scheduled_service": "no",
+    "gps_code": "DFCY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

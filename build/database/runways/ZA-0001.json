@@ -1,0 +1,20 @@
+{
+    "id": "41141",
+    "ident": "ZA-0001",
+    "type": "small_airport",
+    "name": "Beulah Airport",
+    "latitude_deg": "-33.905277252197266",
+    "longitude_deg": "24.95694351196289",
+    "elevation_ft": "34",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Beulah",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

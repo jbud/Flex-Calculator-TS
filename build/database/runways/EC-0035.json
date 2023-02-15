@@ -1,0 +1,20 @@
+{
+    "id": "351437",
+    "ident": "EC-0035",
+    "type": "small_airport",
+    "name": "Holandesa Airport",
+    "latitude_deg": "-0.72495",
+    "longitude_deg": "-79.46976",
+    "elevation_ft": "445",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-R",
+    "municipality": "Holandesa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "348488",
+    "ident": "BR-1643",
+    "type": "small_airport",
+    "name": "Sitio do Cascão Private Airport",
+    "latitude_deg": "-24.26051",
+    "longitude_deg": "-46.98741",
+    "elevation_ft": "30",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Peruibe",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SSCC"
+}

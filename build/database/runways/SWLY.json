@@ -1,0 +1,20 @@
+{
+    "id": "324192",
+    "ident": "SWLY",
+    "type": "small_airport",
+    "name": "Chácara MCL Airport",
+    "latitude_deg": "-20.880883",
+    "longitude_deg": "-51.356143",
+    "elevation_ft": "1345",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Andradina",
+    "scheduled_service": "no",
+    "gps_code": "SWLY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

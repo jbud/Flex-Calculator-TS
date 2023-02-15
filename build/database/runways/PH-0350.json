@@ -1,0 +1,20 @@
+{
+    "id": "342182",
+    "ident": "PH-0350",
+    "type": "small_airport",
+    "name": "La Libertad Airstrip",
+    "latitude_deg": "7.46943",
+    "longitude_deg": "125.63599",
+    "elevation_ft": "69",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-DAV",
+    "municipality": "Santo Tomas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Braulio E. Dujali, Farmington"
+}

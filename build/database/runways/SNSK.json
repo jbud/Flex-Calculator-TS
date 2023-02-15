@@ -1,0 +1,20 @@
+{
+    "id": "30395",
+    "ident": "SNSK",
+    "type": "small_airport",
+    "name": "Santa Rita Do Sapucai Airport",
+    "latitude_deg": "-22.2733",
+    "longitude_deg": "-45.6394",
+    "elevation_ft": "2851",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Santa Rita Do Sapucai",
+    "scheduled_service": "no",
+    "gps_code": "SJXI",
+    "iata_code": "",
+    "local_code": "MG0311",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SNSK"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "321238",
+    "ident": "LPAG",
+    "type": "heliport",
+    "name": "Albergaria-a-Velha Heliport",
+    "latitude_deg": "40.707119",
+    "longitude_deg": "-8.4914",
+    "elevation_ft": "460",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-01",
+    "municipality": "Albergaria-a-Velha",
+    "scheduled_service": "no",
+    "gps_code": "LPAG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "316159",
+    "ident": "IT-0141",
+    "type": "small_airport",
+    "name": "Campo di Volo \"Ali Venete\"",
+    "latitude_deg": "45.666667",
+    "longitude_deg": "11.808333",
+    "elevation_ft": "164",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-34",
+    "municipality": "Galliera Veneta (PD)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "PDGAL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

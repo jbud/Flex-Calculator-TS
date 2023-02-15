@@ -1,0 +1,20 @@
+{
+    "id": "31087",
+    "ident": "FCMI",
+    "type": "small_airport",
+    "name": "Irogo Airport",
+    "latitude_deg": "-2.7170000076293945",
+    "longitude_deg": "11.883000373840332",
+    "elevation_ft": "919",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-9",
+    "municipality": "Irogo",
+    "scheduled_service": "no",
+    "gps_code": "FCMI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

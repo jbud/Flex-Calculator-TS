@@ -1,0 +1,20 @@
+{
+    "id": "31173",
+    "ident": "FLSE",
+    "type": "small_airport",
+    "name": "Serenje Airport",
+    "latitude_deg": "-13.198",
+    "longitude_deg": "30.2398",
+    "elevation_ft": "4650",
+    "continent": "AF",
+    "iso_country": "ZM",
+    "iso_region": "ZM-02",
+    "municipality": "Serenje",
+    "scheduled_service": "no",
+    "gps_code": "FLSE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

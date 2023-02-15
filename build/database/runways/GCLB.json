@@ -1,0 +1,20 @@
+{
+    "id": "29842",
+    "ident": "GCLB",
+    "type": "small_airport",
+    "name": "El Berriel Aeroc Airport",
+    "latitude_deg": "27.782499",
+    "longitude_deg": "-15.5072",
+    "elevation_ft": "20",
+    "continent": "AF",
+    "iso_country": "ES",
+    "iso_region": "ES-CN",
+    "municipality": "Gran Canaria Island",
+    "scheduled_service": "no",
+    "gps_code": "GCLB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

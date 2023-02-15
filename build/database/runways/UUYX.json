@@ -1,0 +1,20 @@
+{
+    "id": "42949",
+    "ident": "UUYX",
+    "type": "medium_airport",
+    "name": "Ust-Tsylma Airport",
+    "latitude_deg": "65.43729400630001",
+    "longitude_deg": "52.20033645629999",
+    "elevation_ft": "262",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KO",
+    "municipality": "Ust-Tsylma",
+    "scheduled_service": "no",
+    "gps_code": "UUYX",
+    "iata_code": "UTS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ust-Tsylma_Airport",
+    "keywords": "Ust-Tsilma, Усть-Цильма"
+}

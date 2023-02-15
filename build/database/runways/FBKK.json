@@ -1,0 +1,20 @@
+{
+    "id": "317660",
+    "ident": "FBKK",
+    "type": "small_airport",
+    "name": "Kanana Airport",
+    "latitude_deg": "-19.5688",
+    "longitude_deg": "22.875575",
+    "elevation_ft": "3140",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-NW",
+    "municipality": "Kanana Camp",
+    "scheduled_service": "no",
+    "gps_code": "FBKK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "FB29"
+}

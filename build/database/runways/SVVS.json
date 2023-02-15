@@ -1,0 +1,20 @@
+{
+    "id": "40339",
+    "ident": "SVVS",
+    "type": "small_airport",
+    "name": "Villa del Rosario Airport",
+    "latitude_deg": "10.316666603088379",
+    "longitude_deg": "-72.30000305175781",
+    "elevation_ft": "259",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-V",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVVS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

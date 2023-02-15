@@ -1,0 +1,20 @@
+{
+    "id": "44943",
+    "ident": "AZ-0003",
+    "type": "small_airport",
+    "name": "Shaki Airport",
+    "latitude_deg": "41.136553",
+    "longitude_deg": "47.1595",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "AZ",
+    "iso_region": "AZ-SA",
+    "municipality": "Shaki",
+    "scheduled_service": "no",
+    "gps_code": "UBEI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

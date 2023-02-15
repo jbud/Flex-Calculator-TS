@@ -1,0 +1,20 @@
+{
+    "id": "313148",
+    "ident": "DE-0146",
+    "type": "small_airport",
+    "name": "Edermünde-Grifte Airfield",
+    "latitude_deg": "51.221",
+    "longitude_deg": "9.4475",
+    "elevation_ft": "665",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Grifte",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://regiowiki.hna.de/Flugplatz_Ederm%C3%BCnde-Grifte",
+    "wikipedia_link": "",
+    "keywords": ""
+}

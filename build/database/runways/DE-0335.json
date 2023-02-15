@@ -1,0 +1,20 @@
+{
+    "id": "316054",
+    "ident": "DE-0335",
+    "type": "small_airport",
+    "name": "Schwann-Conweiler Airfield",
+    "latitude_deg": "48.8382",
+    "longitude_deg": "8.5432",
+    "elevation_ft": "1550",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Pforzheim",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.fsc-pforzheim.de/flugplatz.html",
+    "wikipedia_link": "http://www.pfenz.de/wiki/Flugplatz_Schwann-Conweiler",
+    "keywords": ""
+}

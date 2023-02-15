@@ -1,0 +1,20 @@
+{
+    "id": "30954",
+    "ident": "DXDP",
+    "type": "small_airport",
+    "name": "Djangou Airport",
+    "latitude_deg": "10.800417",
+    "longitude_deg": "0.242372",
+    "elevation_ft": "886",
+    "continent": "AF",
+    "iso_country": "TG",
+    "iso_region": "TG-S",
+    "municipality": "Dapaong",
+    "scheduled_service": "no",
+    "gps_code": "DXDP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Djangou_Airport",
+    "keywords": ""
+}

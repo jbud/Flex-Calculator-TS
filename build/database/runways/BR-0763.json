@@ -1,0 +1,20 @@
+{
+    "id": "335094",
+    "ident": "BR-0763",
+    "type": "small_airport",
+    "name": "Fazenda Santa Rita Airstrip",
+    "latitude_deg": "-19.252127",
+    "longitude_deg": "-55.519638",
+    "elevation_ft": "440",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Aquidauana",
+    "scheduled_service": "no",
+    "gps_code": "SWJR",
+    "iata_code": "",
+    "local_code": "MS0417",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

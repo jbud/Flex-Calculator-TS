@@ -1,0 +1,20 @@
+{
+    "id": "46125",
+    "ident": "RU-0300",
+    "type": "heliport",
+    "name": "Lensovetovskiy Heliport",
+    "latitude_deg": "59.765504738400004",
+    "longitude_deg": "30.4800224304",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-SPE",
+    "municipality": "Saint Petersburg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://aerosouz-piter.ru/",
+    "wikipedia_link": "",
+    "keywords": "Lensovetovsky Heliport, Вертодром Ленсоветовский"
+}

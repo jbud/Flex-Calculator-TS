@@ -1,0 +1,20 @@
+{
+    "id": "42917",
+    "ident": "RU-0033",
+    "type": "small_airport",
+    "name": "Plestsy Airport",
+    "latitude_deg": "62.716702",
+    "longitude_deg": "40.4883",
+    "elevation_ft": "427",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-ARK",
+    "municipality": "Plesetsk",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "XLAP",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Plestsy_Airport",
+    "keywords": "Аэропорт Плесцы, ЬЛАП"
+}

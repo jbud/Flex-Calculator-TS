@@ -1,0 +1,20 @@
+{
+    "id": "44651",
+    "ident": "LV-0002",
+    "type": "small_airport",
+    "name": "Griva Airfield",
+    "latitude_deg": "55.883999",
+    "longitude_deg": "26.471001",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "LV",
+    "iso_region": "LV-DGV",
+    "municipality": "Daugavpils",
+    "scheduled_service": "no",
+    "gps_code": "EVBA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

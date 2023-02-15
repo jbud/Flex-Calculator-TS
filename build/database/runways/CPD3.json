@@ -1,0 +1,20 @@
+{
+    "id": "1389",
+    "ident": "CPD3",
+    "type": "heliport",
+    "name": "Durham (Memorial Hospital) Heliport",
+    "latitude_deg": "44.18330001831055",
+    "longitude_deg": "-80.83329772949219",
+    "elevation_ft": "1125",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Durham",
+    "scheduled_service": "no",
+    "gps_code": "CPD3",
+    "iata_code": "",
+    "local_code": "CPD3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "PD3"
+}

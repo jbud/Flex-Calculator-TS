@@ -1,0 +1,20 @@
+{
+    "id": "40493",
+    "ident": "VE-0144",
+    "type": "small_airport",
+    "name": "Ocamo Airport",
+    "latitude_deg": "2.7895898818969727",
+    "longitude_deg": "-65.216796875",
+    "elevation_ft": "415",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-Z",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

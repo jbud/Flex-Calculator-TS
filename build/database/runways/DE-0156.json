@@ -1,0 +1,20 @@
+{
+    "id": "314153",
+    "ident": "DE-0156",
+    "type": "small_airport",
+    "name": "Laufenselden Airfield",
+    "latitude_deg": "50.2217",
+    "longitude_deg": "7.9985",
+    "elevation_ft": "1316",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Wiesbaden",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.segelflug-laufenselden.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

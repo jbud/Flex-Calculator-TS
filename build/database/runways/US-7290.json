@@ -1,0 +1,20 @@
+{
+    "id": "504627",
+    "ident": "US-7290",
+    "type": "small_airport",
+    "name": "Harrison Airport",
+    "latitude_deg": "37.86593",
+    "longitude_deg": "-97.37598",
+    "elevation_ft": "1386",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Valley Center",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

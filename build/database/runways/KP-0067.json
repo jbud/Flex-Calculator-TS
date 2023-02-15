@@ -1,0 +1,20 @@
+{
+    "id": "315833",
+    "ident": "KP-0067",
+    "type": "small_airport",
+    "name": "Hyangsan Airport",
+    "latitude_deg": "40.028699",
+    "longitude_deg": "126.192741",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "KP",
+    "iso_region": "KP-03",
+    "municipality": "Hyangsan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

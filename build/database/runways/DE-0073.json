@@ -1,0 +1,20 @@
+{
+    "id": "308983",
+    "ident": "DE-0073",
+    "type": "small_airport",
+    "name": "Benediktbeuern Airfield",
+    "latitude_deg": "47.71564",
+    "longitude_deg": "11.3914",
+    "elevation_ft": "2000",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Benediktbeuern",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.sg-benediktbeuern.de/flugplatz.htm",
+    "wikipedia_link": "",
+    "keywords": ""
+}

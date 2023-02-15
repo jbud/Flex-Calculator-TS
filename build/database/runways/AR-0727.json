@@ -1,0 +1,20 @@
+{
+    "id": "349355",
+    "ident": "AR-0727",
+    "type": "small_airport",
+    "name": "Quequén Airport",
+    "latitude_deg": "-38.505",
+    "longitude_deg": "-58.69127",
+    "elevation_ft": "75",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Quequén",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "44972",
+    "ident": "IR-0008",
+    "type": "small_airport",
+    "name": "Goreh Airport",
+    "latitude_deg": "29.907236",
+    "longitude_deg": "50.427847",
+    "elevation_ft": "121",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-18",
+    "municipality": "Goreh",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

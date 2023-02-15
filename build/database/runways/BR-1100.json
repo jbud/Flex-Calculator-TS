@@ -1,0 +1,20 @@
+{
+    "id": "336182",
+    "ident": "BR-1100",
+    "type": "heliport",
+    "name": "Comando Piloto Heliport",
+    "latitude_deg": "-21.61642",
+    "longitude_deg": "-46.87525",
+    "elevation_ft": "2753",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São José do Rio Pardo",
+    "scheduled_service": "no",
+    "gps_code": "SJCL",
+    "iata_code": "",
+    "local_code": "SP0606",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

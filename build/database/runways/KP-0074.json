@@ -1,0 +1,20 @@
+{
+    "id": "323042",
+    "ident": "KP-0074",
+    "type": "small_airport",
+    "name": "Mirim Aviation Club",
+    "latitude_deg": "39.009618",
+    "longitude_deg": "125.847493",
+    "elevation_ft": "30",
+    "continent": "AS",
+    "iso_country": "KP",
+    "iso_region": "KP-01",
+    "municipality": "Pyongyang (Sadong)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mirim_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "45210",
+    "ident": "GT-0023",
+    "type": "small_airport",
+    "name": "Canilla Airport",
+    "latitude_deg": "15.170063",
+    "longitude_deg": "-90.858736",
+    "elevation_ft": "3973",
+    "continent": "NA",
+    "iso_country": "GT",
+    "iso_region": "GT-QC",
+    "municipality": "Canillá",
+    "scheduled_service": "no",
+    "gps_code": "MGCA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Rio Seco"
+}

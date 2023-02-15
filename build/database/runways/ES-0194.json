@@ -1,0 +1,20 @@
+{
+    "id": "321571",
+    "ident": "ES-0194",
+    "type": "small_airport",
+    "name": "Aeródrome de Arcones",
+    "latitude_deg": "41.11453",
+    "longitude_deg": "-3.73378",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CL",
+    "municipality": "Arcones",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

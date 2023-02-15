@@ -1,0 +1,20 @@
+{
+    "id": "351179",
+    "ident": "US-6314",
+    "type": "small_airport",
+    "name": "Fiddleair Airport",
+    "latitude_deg": "35.275145",
+    "longitude_deg": "-78.433865",
+    "elevation_ft": "190",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Newton Grove",
+    "scheduled_service": "no",
+    "gps_code": "63NC",
+    "iata_code": "",
+    "local_code": "63NC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

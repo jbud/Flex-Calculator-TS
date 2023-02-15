@@ -1,0 +1,20 @@
+{
+    "id": "356443",
+    "ident": "NI-0010",
+    "type": "small_airport",
+    "name": "La Cicaya Airport",
+    "latitude_deg": "11.95437",
+    "longitude_deg": "-85.44539",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "NI",
+    "iso_region": "NI-CO",
+    "municipality": "Hato Grande",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

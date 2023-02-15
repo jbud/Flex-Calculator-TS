@@ -1,0 +1,20 @@
+{
+    "id": "345550",
+    "ident": "05MI",
+    "type": "heliport",
+    "name": "Beaumont Hospital Taylor Heliport",
+    "latitude_deg": "42.236433",
+    "longitude_deg": "-83.276421",
+    "elevation_ft": "621",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Taylor",
+    "scheduled_service": "no",
+    "gps_code": "05MI",
+    "iata_code": "",
+    "local_code": "05MI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Oakwood Heritage Hospital"
+}

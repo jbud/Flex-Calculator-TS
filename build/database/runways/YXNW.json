@@ -1,0 +1,20 @@
+{
+    "id": "309280",
+    "ident": "YXNW",
+    "type": "heliport",
+    "name": "Shoalhaven Hospital Helipad",
+    "latitude_deg": "-34.86978",
+    "longitude_deg": "150.59553",
+    "elevation_ft": "92",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Nowra",
+    "scheduled_service": "no",
+    "gps_code": "YXNW",
+    "iata_code": "",
+    "local_code": "YXNW",
+    "home_link": "https://www.islhd.health.nsw.gov.au/hospitals/shoalhaven",
+    "wikipedia_link": "",
+    "keywords": ""
+}

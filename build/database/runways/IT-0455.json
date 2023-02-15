@@ -1,0 +1,20 @@
+{
+    "id": "320461",
+    "ident": "IT-0455",
+    "type": "small_airport",
+    "name": "Campo di Volo Sangermano",
+    "latitude_deg": "41.991555",
+    "longitude_deg": "12.13791",
+    "elevation_ft": "337",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-62",
+    "municipality": "Cerveteri (RM)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "RMCER",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Sangermano,ACLI"
+}

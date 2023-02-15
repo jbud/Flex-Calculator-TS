@@ -1,0 +1,20 @@
+{
+    "id": "349033",
+    "ident": "AT-0010",
+    "type": "small_airport",
+    "name": "Radochen Airstrip",
+    "latitude_deg": "46.76296",
+    "longitude_deg": "15.90426",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-6",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

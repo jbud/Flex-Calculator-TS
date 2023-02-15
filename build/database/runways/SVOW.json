@@ -1,0 +1,20 @@
+{
+    "id": "40241",
+    "ident": "SVOW",
+    "type": "small_airport",
+    "name": "Coco de Mono Airport",
+    "latitude_deg": "7.199999809265137",
+    "longitude_deg": "-68.51667022705078",
+    "elevation_ft": "380",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVOW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

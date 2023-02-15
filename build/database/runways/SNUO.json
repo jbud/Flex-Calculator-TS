@@ -1,0 +1,20 @@
+{
+    "id": "340980",
+    "ident": "SNUO",
+    "type": "heliport",
+    "name": "Banco Central Helipad",
+    "latitude_deg": "-22.902012",
+    "longitude_deg": "-43.182777",
+    "elevation_ft": "443",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Rio de Janeiro",
+    "scheduled_service": "no",
+    "gps_code": "SNUO",
+    "iata_code": "",
+    "local_code": "RJ0136",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

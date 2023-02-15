@@ -1,0 +1,20 @@
+{
+    "id": "41216",
+    "ident": "ZA-0042",
+    "type": "small_airport",
+    "name": "Adamsfontein Airport",
+    "latitude_deg": "-30.580979",
+    "longitude_deg": "25.263259",
+    "elevation_ft": "3970",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Colesberg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

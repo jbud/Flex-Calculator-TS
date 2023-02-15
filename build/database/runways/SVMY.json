@@ -1,0 +1,20 @@
+{
+    "id": "40214",
+    "ident": "SVMY",
+    "type": "small_airport",
+    "name": "Manapiare Airport",
+    "latitude_deg": "5.308332920074463",
+    "longitude_deg": "-66.05000305175781",
+    "elevation_ft": "656",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-Z",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVMY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "342899",
+    "ident": "JP-1653",
+    "type": "small_airport",
+    "name": "Yausubetsu Airfield",
+    "latitude_deg": "43.2872",
+    "longitude_deg": "144.9978",
+    "elevation_ft": "108",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-01",
+    "municipality": "Betsukai",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

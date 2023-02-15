@@ -1,0 +1,20 @@
+{
+    "id": "39491",
+    "ident": "SLCX",
+    "type": "small_airport",
+    "name": "Chive Airport",
+    "latitude_deg": "-12.377833366394043",
+    "longitude_deg": "-68.56766510009766",
+    "elevation_ft": "618",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-L",
+    "municipality": "Iturralde",
+    "scheduled_service": "no",
+    "gps_code": "SLCX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "314243",
+    "ident": "DE-0160",
+    "type": "small_airport",
+    "name": "Plätzer Airfield",
+    "latitude_deg": "50.7094",
+    "longitude_deg": "9.7391",
+    "elevation_ft": "1166",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Hünfeld",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.flugplatz-plaetzer.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

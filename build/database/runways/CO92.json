@@ -1,0 +1,20 @@
+{
+    "id": "16945",
+    "ident": "CO92",
+    "type": "small_airport",
+    "name": "Frasier Ranch Airport",
+    "latitude_deg": "39.644451",
+    "longitude_deg": "-103.641672",
+    "elevation_ft": "5000",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Last Chance",
+    "scheduled_service": "no",
+    "gps_code": "CO92",
+    "iata_code": "",
+    "local_code": "CO92",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

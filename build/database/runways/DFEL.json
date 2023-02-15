@@ -1,0 +1,20 @@
+{
+    "id": "32702",
+    "ident": "DFEL",
+    "type": "small_airport",
+    "name": "Kantchari Airport",
+    "latitude_deg": "12.464046",
+    "longitude_deg": "1.492939",
+    "elevation_ft": "879",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-TAP",
+    "municipality": "Kantchari",
+    "scheduled_service": "no",
+    "gps_code": "DFEL",
+    "iata_code": "XKA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

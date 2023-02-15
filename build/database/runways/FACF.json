@@ -1,0 +1,20 @@
+{
+    "id": "29755",
+    "ident": "FACF",
+    "type": "small_airport",
+    "name": "St Francis Airfield",
+    "latitude_deg": "-34.186901",
+    "longitude_deg": "24.834999",
+    "elevation_ft": "131",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "St Francis Bay",
+    "scheduled_service": "no",
+    "gps_code": "FACF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://stfrancisfield.com/26-2/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

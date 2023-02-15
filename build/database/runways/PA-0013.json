@@ -1,0 +1,20 @@
+{
+    "id": "42196",
+    "ident": "PA-0013",
+    "type": "small_airport",
+    "name": "Playón Chico Airport",
+    "latitude_deg": "9.30692",
+    "longitude_deg": "-78.235273",
+    "elevation_ft": "18",
+    "continent": "NA",
+    "iso_country": "PA",
+    "iso_region": "PS-GY",
+    "municipality": "Ukupseni",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "PYC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

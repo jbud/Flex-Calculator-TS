@@ -1,0 +1,20 @@
+{
+    "id": "32030",
+    "ident": "FZBI",
+    "type": "small_airport",
+    "name": "Nioki Airport",
+    "latitude_deg": "-2.717453",
+    "longitude_deg": "17.685735",
+    "elevation_ft": "1043",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-MN",
+    "municipality": "Nioki",
+    "scheduled_service": "yes",
+    "gps_code": "FZBI",
+    "iata_code": "NIO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

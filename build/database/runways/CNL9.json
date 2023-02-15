@@ -1,0 +1,20 @@
+{
+    "id": "1320",
+    "ident": "CNL9",
+    "type": "small_airport",
+    "name": "Nueltin Lake Airport",
+    "latitude_deg": "59.708099365234375",
+    "longitude_deg": "-100.12699890136719",
+    "elevation_ft": "971",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Nueltin Lake",
+    "scheduled_service": "no",
+    "gps_code": "CNL9",
+    "iata_code": "",
+    "local_code": "CNL9",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nueltin_Lake_Airport",
+    "keywords": "NL9"
+}

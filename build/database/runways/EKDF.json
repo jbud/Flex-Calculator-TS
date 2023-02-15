@@ -1,0 +1,20 @@
+{
+    "id": "44011",
+    "ident": "EKDF",
+    "type": "heliport",
+    "name": "Dan F Helideck",
+    "latitude_deg": "55.47809982299805",
+    "longitude_deg": "5.105527877807617",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-XX",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EKDF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

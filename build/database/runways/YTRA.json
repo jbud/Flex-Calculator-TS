@@ -1,0 +1,20 @@
+{
+    "id": "350460",
+    "ident": "YTRA",
+    "type": "small_airport",
+    "name": "Tropicana Airport",
+    "latitude_deg": "-29.185995",
+    "longitude_deg": "124.550366",
+    "elevation_ft": "1104",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Tropicana Gold Mine",
+    "scheduled_service": "no",
+    "gps_code": "YTRA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "345908",
+    "ident": "BW-0058",
+    "type": "small_airport",
+    "name": "Gorokwe Airport",
+    "latitude_deg": "-19.58672",
+    "longitude_deg": "23.47126",
+    "elevation_ft": "3120",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-NW",
+    "municipality": "Okavango",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

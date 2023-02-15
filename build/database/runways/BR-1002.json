@@ -1,0 +1,20 @@
+{
+    "id": "335706",
+    "ident": "BR-1002",
+    "type": "small_airport",
+    "name": "Fazenda Lagoa Nova Airstrip",
+    "latitude_deg": "-14.463875",
+    "longitude_deg": "-46.304122",
+    "elevation_ft": "2572",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Damianópolis",
+    "scheduled_service": "no",
+    "gps_code": "SIZN",
+    "iata_code": "",
+    "local_code": "GO0296",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40711",
+    "ident": "SK-249",
+    "type": "small_airport",
+    "name": "Cotoprix Airport",
+    "latitude_deg": "11.223611",
+    "longitude_deg": "-72.836111",
+    "elevation_ft": "192",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-LAG",
+    "municipality": "Riohacha",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CTP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

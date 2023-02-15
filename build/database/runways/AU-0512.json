@@ -1,0 +1,20 @@
+{
+    "id": "505125",
+    "ident": "AU-0512",
+    "type": "heliport",
+    "name": "Thursday Island Hospital Heliport",
+    "latitude_deg": "-10.58862",
+    "longitude_deg": "142.20969",
+    "elevation_ft": "3",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Thursday Island",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

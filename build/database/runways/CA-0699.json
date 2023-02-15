@@ -1,0 +1,20 @@
+{
+    "id": "325172",
+    "ident": "CA-0699",
+    "type": "small_airport",
+    "name": "Bolton Lake Lodge Airstrip",
+    "latitude_deg": "54.220665",
+    "longitude_deg": "-95.766588",
+    "elevation_ft": "719",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Bolton Lake",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.boltonlake.com/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "44616",
+    "ident": "RU-0162",
+    "type": "small_airport",
+    "name": "Maksimkin Yar Airport",
+    "latitude_deg": "58.68242645263672",
+    "longitude_deg": "86.82374572753906",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-TOM",
+    "municipality": "Maksimkin Yar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Максимкин Яр"
+}

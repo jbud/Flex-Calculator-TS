@@ -1,0 +1,20 @@
+{
+    "id": "35370",
+    "ident": "OATD",
+    "type": "heliport",
+    "name": "Toorghodi Heliport",
+    "latitude_deg": "35.222198486328125",
+    "longitude_deg": "62.29059982299805",
+    "elevation_ft": "2600",
+    "continent": "AS",
+    "iso_country": "AF",
+    "iso_region": "AF-HER",
+    "municipality": "Kara Tapa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "345952",
+    "ident": "US-4635",
+    "type": "small_airport",
+    "name": "Foster Ranch Airport",
+    "latitude_deg": "31.22266",
+    "longitude_deg": "-104.31489",
+    "elevation_ft": "3832",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Van Horn",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "30542",
+    "ident": "FAVY",
+    "type": "small_airport",
+    "name": "Vryheid Airport",
+    "latitude_deg": "-27.78689956665039",
+    "longitude_deg": "30.79640007019043",
+    "elevation_ft": "3799",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Vryheid",
+    "scheduled_service": "no",
+    "gps_code": "FAVY",
+    "iata_code": "VYD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

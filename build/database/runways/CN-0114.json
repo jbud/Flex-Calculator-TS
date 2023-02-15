@@ -1,0 +1,20 @@
+{
+    "id": "44192",
+    "ident": "CN-0114",
+    "type": "medium_airport",
+    "name": "Baoji Air Base",
+    "latitude_deg": "34.53125",
+    "longitude_deg": "107.470679",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-61",
+    "municipality": "Baoji (Fengxiang)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "506248",
+    "ident": "FI-0012",
+    "type": "small_airport",
+    "name": "Leivonmäki Airstrip",
+    "latitude_deg": "61.89421",
+    "longitude_deg": "26.18803",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-08",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.pitkavuorenliitajat.fi/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "41562",
+    "ident": "SAZK",
+    "type": "small_airport",
+    "name": "Cerro Catedral Airport",
+    "latitude_deg": "-41.16329956049999",
+    "longitude_deg": "-71.4427032471",
+    "elevation_ft": "3450",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-R",
+    "municipality": "Cerro Catedral",
+    "scheduled_service": "no",
+    "gps_code": "SAZK",
+    "iata_code": "",
+    "local_code": "CDM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31395",
+    "ident": "FZIK",
+    "type": "small_airport",
+    "name": "Katende Airport",
+    "latitude_deg": "0.3330000042915344",
+    "longitude_deg": "25.5",
+    "elevation_ft": "1476",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-TS",
+    "municipality": "Katende",
+    "scheduled_service": "no",
+    "gps_code": "FZIK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

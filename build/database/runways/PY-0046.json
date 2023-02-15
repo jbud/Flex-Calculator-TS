@@ -1,0 +1,20 @@
+{
+    "id": "505535",
+    "ident": "PY-0046",
+    "type": "heliport",
+    "name": "Helipuerto N°2 del Palacio de López",
+    "latitude_deg": "-25.276652",
+    "longitude_deg": "-57.636761",
+    "elevation_ft": "206",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-ASU",
+    "municipality": "Palacio de López (Palacio Presidencial)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.presidencia.gov.py",
+    "wikipedia_link": "https://es.wikipedia.org/wiki/Palacio_de_López",
+    "keywords": ""
+}

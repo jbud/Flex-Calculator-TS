@@ -1,0 +1,20 @@
+{
+    "id": "317617",
+    "ident": "BW-0013",
+    "type": "small_airport",
+    "name": "Ghaghoo Mine Airport",
+    "latitude_deg": "-22.6079",
+    "longitude_deg": "24.7897",
+    "elevation_ft": "3350",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-GH",
+    "municipality": "Gope",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

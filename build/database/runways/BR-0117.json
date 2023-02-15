@@ -1,0 +1,20 @@
+{
+    "id": "319709",
+    "ident": "BR-0117",
+    "type": "small_airport",
+    "name": "Fazenda São Paulo dos Palmares Airport",
+    "latitude_deg": "-23.270862",
+    "longitude_deg": "-49.546126",
+    "elevation_ft": "2814",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Timburi",
+    "scheduled_service": "no",
+    "gps_code": "SDEB",
+    "iata_code": "",
+    "local_code": "SP0091",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

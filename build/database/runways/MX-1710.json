@@ -1,0 +1,20 @@
+{
+    "id": "348883",
+    "ident": "MX-1710",
+    "type": "small_airport",
+    "name": "La Luz Airport",
+    "latitude_deg": "28.1614",
+    "longitude_deg": "-100.75935",
+    "elevation_ft": "1404",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-COA",
+    "municipality": "Guerrero",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

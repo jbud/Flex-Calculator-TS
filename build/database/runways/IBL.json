@@ -1,0 +1,20 @@
+{
+    "id": "27302",
+    "ident": "IBL",
+    "type": "medium_airport",
+    "name": "Indigo Bay Lodge Airport",
+    "latitude_deg": "-21.708",
+    "longitude_deg": "35.452801",
+    "elevation_ft": "20",
+    "continent": "AF",
+    "iso_country": "MZ",
+    "iso_region": "MZ-I",
+    "municipality": "Bazaruto Island",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "IBL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Indigo_Bay_Lodge_Airport",
+    "keywords": ""
+}

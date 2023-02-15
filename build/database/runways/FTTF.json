@@ -1,0 +1,20 @@
+{
+    "id": "31211",
+    "ident": "FTTF",
+    "type": "small_airport",
+    "name": "Fada Airport",
+    "latitude_deg": "17.19126",
+    "longitude_deg": "21.50353",
+    "elevation_ft": "1788",
+    "continent": "AF",
+    "iso_country": "TD",
+    "iso_region": "TD-EO",
+    "municipality": "Fada",
+    "scheduled_service": "no",
+    "gps_code": "FTTF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fada_Airport",
+    "keywords": ""
+}

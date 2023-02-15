@@ -1,0 +1,20 @@
+{
+    "id": "41279",
+    "ident": "ZA-0079",
+    "type": "small_airport",
+    "name": "Bergtop Airport",
+    "latitude_deg": "-22.917943954467773",
+    "longitude_deg": "29.457834243774414",
+    "elevation_ft": "2620",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "Waterpoort",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

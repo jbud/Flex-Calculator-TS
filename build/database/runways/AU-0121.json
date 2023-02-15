@@ -1,0 +1,20 @@
+{
+    "id": "335738",
+    "ident": "AU-0121",
+    "type": "small_airport",
+    "name": "Wright Field",
+    "latitude_deg": "-36.093359",
+    "longitude_deg": "143.782748",
+    "elevation_ft": "306",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "Yando",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "YBOOR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "41219",
+    "ident": "ZA-0044",
+    "type": "small_airport",
+    "name": "Bateleur Airport",
+    "latitude_deg": "-29.139166",
+    "longitude_deg": "23.648333",
+    "elevation_ft": "3368",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Maselsfontein",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Lucky Valley Farm"
+}

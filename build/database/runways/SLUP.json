@@ -1,0 +1,20 @@
+{
+    "id": "314358",
+    "ident": "SLUP",
+    "type": "small_airport",
+    "name": "Puerto America Airport",
+    "latitude_deg": "-11.7616",
+    "longitude_deg": "-67.95864",
+    "elevation_ft": "571",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-N",
+    "municipality": "Puerto America",
+    "scheduled_service": "no",
+    "gps_code": "SLUP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

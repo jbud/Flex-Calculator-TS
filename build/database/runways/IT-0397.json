@@ -1,0 +1,20 @@
+{
+    "id": "320070",
+    "ident": "IT-0397",
+    "type": "small_airport",
+    "name": "Campo di Volo Ali Friuli",
+    "latitude_deg": "46.056493",
+    "longitude_deg": "13.426248",
+    "elevation_ft": "370",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-36",
+    "municipality": "Cividale del Friuli (UD)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "UDCIV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Ali Friuli"
+}

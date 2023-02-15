@@ -1,0 +1,20 @@
+{
+    "id": "31188",
+    "ident": "FMSE",
+    "type": "small_airport",
+    "name": "Betroka Airport",
+    "latitude_deg": "-23.274307848299998",
+    "longitude_deg": "46.12498283389999",
+    "elevation_ft": "2841",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-U",
+    "municipality": "Betroka",
+    "scheduled_service": "no",
+    "gps_code": "FMSE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

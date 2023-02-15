@@ -1,0 +1,20 @@
+{
+    "id": "301825",
+    "ident": "CBC",
+    "type": "small_airport",
+    "name": "Cherrabun Airport",
+    "latitude_deg": "-18.917777777800005",
+    "longitude_deg": "125.537777778",
+    "elevation_ft": "540",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "CBC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

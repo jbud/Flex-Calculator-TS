@@ -1,0 +1,20 @@
+{
+    "id": "350779",
+    "ident": "US-6201",
+    "type": "small_airport",
+    "name": "Lost Hill Aviation Airport",
+    "latitude_deg": "37.08808",
+    "longitude_deg": "-89.79408",
+    "elevation_ft": "320",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Oran",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

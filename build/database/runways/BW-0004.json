@@ -1,0 +1,20 @@
+{
+    "id": "317486",
+    "ident": "BW-0004",
+    "type": "small_airport",
+    "name": "Linyanti Airport",
+    "latitude_deg": "-18.46082",
+    "longitude_deg": "23.808989",
+    "elevation_ft": "3105",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-NW",
+    "municipality": "Linyanti",
+    "scheduled_service": "no",
+    "gps_code": "FBLN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "FB41"
+}

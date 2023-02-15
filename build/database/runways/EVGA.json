@@ -1,0 +1,20 @@
+{
+    "id": "31028",
+    "ident": "EVGA",
+    "type": "small_airport",
+    "name": "Lielvarde Air Base",
+    "latitude_deg": "56.778301",
+    "longitude_deg": "24.853901",
+    "elevation_ft": "200",
+    "continent": "EU",
+    "iso_country": "LV",
+    "iso_region": "LV-067",
+    "municipality": "Lielvarde",
+    "scheduled_service": "no",
+    "gps_code": "EVGA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lielv%C4%81rde_Air_Base",
+    "keywords": ""
+}

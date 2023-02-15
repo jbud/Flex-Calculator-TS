@@ -1,0 +1,20 @@
+{
+    "id": "506201",
+    "ident": "BR-1805",
+    "type": "small_airport",
+    "name": "Fazenda Arrojadinho Airport",
+    "latitude_deg": "-13.930201",
+    "longitude_deg": "-45.554058",
+    "elevation_ft": "2641",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Jaborandi",
+    "scheduled_service": "no",
+    "gps_code": "SSRO",
+    "iata_code": "",
+    "local_code": "BA0162",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

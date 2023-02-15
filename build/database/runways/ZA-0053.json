@@ -1,0 +1,20 @@
+{
+    "id": "41230",
+    "ident": "ZA-0053",
+    "type": "small_airport",
+    "name": "Ganspan Airport",
+    "latitude_deg": "-27.941667556762695",
+    "longitude_deg": "24.81999969482422",
+    "elevation_ft": "3778",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Ganspan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

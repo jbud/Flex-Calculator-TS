@@ -1,0 +1,20 @@
+{
+    "id": "343841",
+    "ident": "US-3872",
+    "type": "small_airport",
+    "name": "Bug Heaven Airfield",
+    "latitude_deg": "33.43811",
+    "longitude_deg": "-112.797",
+    "elevation_ft": "1043",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Tonopah",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

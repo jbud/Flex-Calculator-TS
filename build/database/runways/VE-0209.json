@@ -1,0 +1,20 @@
+{
+    "id": "41602",
+    "ident": "VE-0209",
+    "type": "small_airport",
+    "name": "Wonken Airport",
+    "latitude_deg": "5.25",
+    "longitude_deg": "-61.733333587646484",
+    "elevation_ft": "3250",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "Wonken",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "WOK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

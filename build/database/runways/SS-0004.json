@@ -1,0 +1,20 @@
+{
+    "id": "308302",
+    "ident": "SS-0004",
+    "type": "small_airport",
+    "name": "Pajut Airstrip",
+    "latitude_deg": "7.746592",
+    "longitude_deg": "31.690504",
+    "elevation_ft": "1352",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-20",
+    "municipality": "Pajut",
+    "scheduled_service": "no",
+    "gps_code": "HJPJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Panjut"
+}

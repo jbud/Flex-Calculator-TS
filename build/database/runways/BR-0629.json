@@ -1,0 +1,20 @@
+{
+    "id": "334018",
+    "ident": "BR-0629",
+    "type": "small_airport",
+    "name": "Fazenda Paraíso Airport",
+    "latitude_deg": "3.313599",
+    "longitude_deg": "-60.34713",
+    "elevation_ft": "200",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RR",
+    "municipality": "Boa Vista",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SWBM"
+}

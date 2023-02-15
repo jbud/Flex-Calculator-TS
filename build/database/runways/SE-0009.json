@@ -1,0 +1,20 @@
+{
+    "id": "315918",
+    "ident": "SE-0009",
+    "type": "small_airport",
+    "name": "Flygfältet Långtora",
+    "latitude_deg": "59.746288",
+    "longitude_deg": "17.144863",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-U",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "ESVL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

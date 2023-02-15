@@ -1,0 +1,20 @@
+{
+    "id": "315847",
+    "ident": "DE-0275",
+    "type": "small_airport",
+    "name": "Dillingen Airfield",
+    "latitude_deg": "49.3863",
+    "longitude_deg": "6.7493",
+    "elevation_ft": "795",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-SL",
+    "municipality": "Saarlouis",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.lsc-dillingen.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

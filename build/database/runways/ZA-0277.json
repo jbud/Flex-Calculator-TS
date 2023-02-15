@@ -1,0 +1,20 @@
+{
+    "id": "353356",
+    "ident": "ZA-0277",
+    "type": "small_airport",
+    "name": "Klipkraal Airport",
+    "latitude_deg": "-29.58183",
+    "longitude_deg": "24.14208",
+    "elevation_ft": "3550",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Hopetown",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

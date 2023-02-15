@@ -1,0 +1,20 @@
+{
+    "id": "351494",
+    "ident": "PE-0019",
+    "type": "small_airport",
+    "name": "Tamburco Airport",
+    "latitude_deg": "-13.56872",
+    "longitude_deg": "-72.82457",
+    "elevation_ft": "13002",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-APU",
+    "municipality": "Tamburco",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

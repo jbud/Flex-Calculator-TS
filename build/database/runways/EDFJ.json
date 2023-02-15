@@ -1,0 +1,20 @@
+{
+    "id": "28587",
+    "ident": "EDFJ",
+    "type": "small_airport",
+    "name": "Lager Hammelburg Airport",
+    "latitude_deg": "50.098609924316406",
+    "longitude_deg": "9.883610725402832",
+    "elevation_ft": "1132",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Hammelburg",
+    "scheduled_service": "no",
+    "gps_code": "EDFJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

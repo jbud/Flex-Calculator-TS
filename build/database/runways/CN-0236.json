@@ -1,0 +1,20 @@
+{
+    "id": "350882",
+    "ident": "CN-0236",
+    "type": "medium_airport",
+    "name": "Xigaze Dingri Airport",
+    "latitude_deg": "28.604567",
+    "longitude_deg": "86.798",
+    "elevation_ft": "14108",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-54",
+    "municipality": "Xigazê (Dingri)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "DDR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shigatse_Tingri_Airport",
+    "keywords": "Shigatse Tingri"
+}

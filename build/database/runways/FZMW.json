@@ -1,0 +1,20 @@
+{
+    "id": "31415",
+    "ident": "FZMW",
+    "type": "small_airport",
+    "name": "Shabunda Airport",
+    "latitude_deg": "-2.683000087738037",
+    "longitude_deg": "27.33300018310547",
+    "elevation_ft": "1837",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-SK",
+    "municipality": "Shabunda",
+    "scheduled_service": "no",
+    "gps_code": "FZMW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

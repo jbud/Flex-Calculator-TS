@@ -1,0 +1,20 @@
+{
+    "id": "39640",
+    "ident": "SPPL",
+    "type": "small_airport",
+    "name": "Playa Airport",
+    "latitude_deg": "-8.517820358276367",
+    "longitude_deg": "-76.48049926757812",
+    "elevation_ft": "2070",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-SAM",
+    "municipality": "Trismaje",
+    "scheduled_service": "no",
+    "gps_code": "SPPL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40988",
+    "ident": "SK-451",
+    "type": "small_airport",
+    "name": "Darien Calima Airport",
+    "latitude_deg": "3.95",
+    "longitude_deg": "-76.516667",
+    "elevation_ft": "7417",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-VAC",
+    "municipality": "Darien",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "DAR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

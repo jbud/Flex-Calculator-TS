@@ -1,0 +1,20 @@
+{
+    "id": "315892",
+    "ident": "DE-0281",
+    "type": "small_airport",
+    "name": "Baumerlenbach Airfield",
+    "latitude_deg": "49.231",
+    "longitude_deg": "9.421",
+    "elevation_ft": "800",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Öhringen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.fsg-oehringen.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40235",
+    "ident": "SVOO",
+    "type": "small_airport",
+    "name": "Hato El Rosero Airport",
+    "latitude_deg": "7.650000095367432",
+    "longitude_deg": "-69.41666412353516",
+    "elevation_ft": "262",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVOO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

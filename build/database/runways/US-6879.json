@@ -1,0 +1,20 @@
+{
+    "id": "355081",
+    "ident": "US-6879",
+    "type": "heliport",
+    "name": "GMR Moberly Heliport",
+    "latitude_deg": "39.447076",
+    "longitude_deg": "-92.413205",
+    "elevation_ft": "862",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Moberly",
+    "scheduled_service": "no",
+    "gps_code": "76MU",
+    "iata_code": "",
+    "local_code": "76MU",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

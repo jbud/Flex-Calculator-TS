@@ -1,0 +1,20 @@
+{
+    "id": "31622",
+    "ident": "HSMD",
+    "type": "small_airport",
+    "name": "Marida Airport",
+    "latitude_deg": "4.902851",
+    "longitude_deg": "29.443263",
+    "elevation_ft": "1901",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-16",
+    "municipality": "Marida",
+    "scheduled_service": "no",
+    "gps_code": "HJMD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "HSMD"
+}

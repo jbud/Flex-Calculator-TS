@@ -1,0 +1,20 @@
+{
+    "id": "333003",
+    "ident": "GB-0713",
+    "type": "small_airport",
+    "name": "Croft Farm Airstrip",
+    "latitude_deg": "54.4579",
+    "longitude_deg": "-1.5608",
+    "elevation_ft": "-1",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Darlington",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

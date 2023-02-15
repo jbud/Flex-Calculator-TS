@@ -1,0 +1,20 @@
+{
+    "id": "43216",
+    "ident": "BGLL",
+    "type": "heliport",
+    "name": "Illorsuit Heliport",
+    "latitude_deg": "71.241944",
+    "longitude_deg": "-53.562877",
+    "elevation_ft": "154",
+    "continent": "NA",
+    "iso_country": "GL",
+    "iso_region": "GL-AV",
+    "municipality": "Illorsuit",
+    "scheduled_service": "no",
+    "gps_code": "BGLL",
+    "iata_code": "IOT",
+    "local_code": "ILL",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Illorsuit_Heliport",
+    "keywords": ""
+}

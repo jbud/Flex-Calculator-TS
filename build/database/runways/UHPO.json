@@ -1,0 +1,20 @@
+{
+    "id": "42935",
+    "ident": "UHPO",
+    "type": "heliport",
+    "name": "Kozyrevsk Heliport",
+    "latitude_deg": "56.090092",
+    "longitude_deg": "159.876308",
+    "elevation_ft": "331",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KAM",
+    "municipality": "Kozyrevsk",
+    "scheduled_service": "no",
+    "gps_code": "UHPO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kozyrevsk_Airport",
+    "keywords": "Kozyrevsk Airport"
+}

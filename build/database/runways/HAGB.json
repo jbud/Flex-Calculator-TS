@@ -1,0 +1,20 @@
+{
+    "id": "31546",
+    "ident": "HAGB",
+    "type": "small_airport",
+    "name": "Robe Airport",
+    "latitude_deg": "7.119033",
+    "longitude_deg": "40.045166",
+    "elevation_ft": "7892",
+    "continent": "AF",
+    "iso_country": "ET",
+    "iso_region": "ET-OR",
+    "municipality": "Goba",
+    "scheduled_service": "no",
+    "gps_code": "HAGB",
+    "iata_code": "GOB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "321525",
+    "ident": "IT-0513",
+    "type": "small_airport",
+    "name": "Campo di Volo privato \"Le Prata\"",
+    "latitude_deg": "43.74537",
+    "longitude_deg": "10.404967",
+    "elevation_ft": "10",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-52",
+    "municipality": "San Giuliano Terme",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "PISGT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

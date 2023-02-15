@@ -1,0 +1,20 @@
+{
+    "id": "301320",
+    "ident": "clj3",
+    "type": "small_airport",
+    "name": "Lethbridge / J3 Airfield",
+    "latitude_deg": "49.741621",
+    "longitude_deg": "-112.73833",
+    "elevation_ft": "2910",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Lethbridge",
+    "scheduled_service": "no",
+    "gps_code": "CLJ3",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

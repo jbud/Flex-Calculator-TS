@@ -1,0 +1,20 @@
+{
+    "id": "321557",
+    "ident": "ES-0192",
+    "type": "small_airport",
+    "name": "Aeródromo Tiurana",
+    "latitude_deg": "41.97416",
+    "longitude_deg": "1.257531",
+    "elevation_ft": "2133",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

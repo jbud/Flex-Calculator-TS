@@ -1,0 +1,20 @@
+{
+    "id": "31052",
+    "ident": "FAMF",
+    "type": "small_airport",
+    "name": "Malabar Airport",
+    "latitude_deg": "-29.010929",
+    "longitude_deg": "23.849489",
+    "elevation_ft": "3348",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Malabar",
+    "scheduled_service": "no",
+    "gps_code": "FAMF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

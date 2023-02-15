@@ -1,0 +1,20 @@
+{
+    "id": "343319",
+    "ident": "BR-1536",
+    "type": "small_airport",
+    "name": "Fazenda Paz Airport",
+    "latitude_deg": "-10.592571",
+    "longitude_deg": "-45.751018",
+    "elevation_ft": "2516",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Formosa do Rio Preto",
+    "scheduled_service": "no",
+    "gps_code": "SNOJ",
+    "iata_code": "",
+    "local_code": "BA0350",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

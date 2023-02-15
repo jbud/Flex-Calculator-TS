@@ -1,0 +1,20 @@
+{
+    "id": "341088",
+    "ident": "US-3152",
+    "type": "heliport",
+    "name": "Peoa Private Heliport",
+    "latitude_deg": "40.736981",
+    "longitude_deg": "-111.357175",
+    "elevation_ft": "6121",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Peoa",
+    "scheduled_service": "no",
+    "gps_code": "UT60",
+    "iata_code": "",
+    "local_code": "UT60",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

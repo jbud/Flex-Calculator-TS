@@ -1,0 +1,20 @@
+{
+    "id": "356132",
+    "ident": "IN-0338",
+    "type": "small_airport",
+    "name": "Birasal Airport",
+    "latitude_deg": "20.98366",
+    "longitude_deg": "85.681622",
+    "elevation_ft": "240",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-OR",
+    "municipality": "Rahani",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

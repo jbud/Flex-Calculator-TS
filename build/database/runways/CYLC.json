@@ -1,0 +1,20 @@
+{
+    "id": "1798",
+    "ident": "CYLC",
+    "type": "medium_airport",
+    "name": "Kimmirut Airport",
+    "latitude_deg": "62.848253",
+    "longitude_deg": "-69.877853",
+    "elevation_ft": "175",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NU",
+    "municipality": "Kimmirut",
+    "scheduled_service": "yes",
+    "gps_code": "CYLC",
+    "iata_code": "YLC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kimmirut_Airport",
+    "keywords": "Lake Harbour"
+}

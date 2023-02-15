@@ -1,0 +1,20 @@
+{
+    "id": "318637",
+    "ident": "TZ-0076",
+    "type": "small_airport",
+    "name": "Kilombero Airport",
+    "latitude_deg": "-7.687751",
+    "longitude_deg": "36.986496",
+    "elevation_ft": "984",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-16",
+    "municipality": "Kidatu",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

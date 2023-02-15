@@ -1,0 +1,20 @@
+{
+    "id": "352595",
+    "ident": "CA-0780",
+    "type": "small_airport",
+    "name": "Wabash Airport",
+    "latitude_deg": "42.57107",
+    "longitude_deg": "-82.05366",
+    "elevation_ft": "614",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Thamesville",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "318466",
+    "ident": "BW-0043",
+    "type": "small_airport",
+    "name": "Masame Airport",
+    "latitude_deg": "-19.329429",
+    "longitude_deg": "24.841567",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-NW",
+    "municipality": "Masame",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

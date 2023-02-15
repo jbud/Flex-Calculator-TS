@@ -1,0 +1,20 @@
+{
+    "id": "338401",
+    "ident": "BR-1307",
+    "type": "small_airport",
+    "name": "Bugio Airport",
+    "latitude_deg": "-22.849179",
+    "longitude_deg": "-50.732591",
+    "elevation_ft": "1175",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Pedrinhas Paulista",
+    "scheduled_service": "no",
+    "gps_code": "SJVB",
+    "iata_code": "",
+    "local_code": "SP0218",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

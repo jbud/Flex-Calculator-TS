@@ -1,0 +1,20 @@
+{
+    "id": "341776",
+    "ident": "IN-0209",
+    "type": "heliport",
+    "name": "Rohini Heliport",
+    "latitude_deg": "28.752659",
+    "longitude_deg": "77.058718",
+    "elevation_ft": "719",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-DL",
+    "municipality": "Rohini",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

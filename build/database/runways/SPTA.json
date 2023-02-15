@@ -1,0 +1,20 @@
+{
+    "id": "39656",
+    "ident": "SPTA",
+    "type": "small_airport",
+    "name": "Nauta Airport",
+    "latitude_deg": "-4.54186",
+    "longitude_deg": "-73.562951",
+    "elevation_ft": "370",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LOR",
+    "municipality": "Nauta",
+    "scheduled_service": "no",
+    "gps_code": "SPTA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

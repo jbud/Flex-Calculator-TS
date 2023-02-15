@@ -1,0 +1,20 @@
+{
+    "id": "46262",
+    "ident": "RU-0387",
+    "type": "small_airport",
+    "name": "Golovino Airport",
+    "latitude_deg": "56.3665099612",
+    "longitude_deg": "84.7375488281",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-TOM",
+    "municipality": "Golovino",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Golovinа Airport, Аэропорт Головино, Аэропорт Головина"
+}

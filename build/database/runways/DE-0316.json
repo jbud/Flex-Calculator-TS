@@ -1,0 +1,20 @@
+{
+    "id": "316021",
+    "ident": "DE-0316",
+    "type": "small_airport",
+    "name": "Malsch Airfield",
+    "latitude_deg": "49.2375",
+    "longitude_deg": "8.6783",
+    "elevation_ft": "420",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Heidelberg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.fsg-letzenberg-malsch.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

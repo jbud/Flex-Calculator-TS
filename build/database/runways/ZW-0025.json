@@ -1,0 +1,20 @@
+{
+    "id": "319237",
+    "ident": "ZW-0025",
+    "type": "small_airport",
+    "name": "Kanyemba Airport",
+    "latitude_deg": "-15.665006",
+    "longitude_deg": "30.389806",
+    "elevation_ft": "1308",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MC",
+    "municipality": "Kanyemba",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Mwanzamtanda Airport"
+}

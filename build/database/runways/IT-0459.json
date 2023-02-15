@@ -1,0 +1,20 @@
+{
+    "id": "320505",
+    "ident": "IT-0459",
+    "type": "small_airport",
+    "name": "Aviosuperficie Valcesano",
+    "latitude_deg": "43.70202",
+    "longitude_deg": "13.075323",
+    "elevation_ft": "167",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-57",
+    "municipality": "Monteporzio (PS)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "PUVCS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Avio Club Fano"
+}

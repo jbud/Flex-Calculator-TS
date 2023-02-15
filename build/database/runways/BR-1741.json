@@ -1,0 +1,20 @@
+{
+    "id": "504961",
+    "ident": "BR-1741",
+    "type": "small_airport",
+    "name": "Vila Uirapuru Airport",
+    "latitude_deg": "-14.296646",
+    "longitude_deg": "-49.920337",
+    "elevation_ft": "1180",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Uirapuru",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

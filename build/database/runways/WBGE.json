@@ -1,0 +1,20 @@
+{
+    "id": "32638",
+    "ident": "WBGE",
+    "type": "small_airport",
+    "name": "Long Geng Airport",
+    "latitude_deg": "2.617000102996826",
+    "longitude_deg": "114.13300323486328",
+    "elevation_ft": "350",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-13",
+    "municipality": "Long Geng",
+    "scheduled_service": "no",
+    "gps_code": "WBGE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

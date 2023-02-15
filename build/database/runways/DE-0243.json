@@ -1,0 +1,20 @@
+{
+    "id": "315585",
+    "ident": "DE-0243",
+    "type": "small_airport",
+    "name": "Völkleshofen Airfield",
+    "latitude_deg": "49.0094",
+    "longitude_deg": "9.3542",
+    "elevation_ft": "1305",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Backnang",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.sfgbacknang.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

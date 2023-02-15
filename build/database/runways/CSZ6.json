@@ -1,0 +1,20 @@
+{
+    "id": "1583",
+    "ident": "CSZ6",
+    "type": "heliport",
+    "name": "St-Jérôme (Hydro-Québec) Heliport",
+    "latitude_deg": "45.7707634958",
+    "longitude_deg": "-74.0269973874",
+    "elevation_ft": "340",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "St-Jérôme",
+    "scheduled_service": "no",
+    "gps_code": "CSZ6",
+    "iata_code": "",
+    "local_code": "CSZ6",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SZ6"
+}

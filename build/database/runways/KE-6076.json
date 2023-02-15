@@ -1,0 +1,20 @@
+{
+    "id": "42583",
+    "ident": "KE-6076",
+    "type": "small_airport",
+    "name": "Segera Ranch Airport",
+    "latitude_deg": "0.1821729987859726",
+    "longitude_deg": "36.911842346191406",
+    "elevation_ft": "5700",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-700",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

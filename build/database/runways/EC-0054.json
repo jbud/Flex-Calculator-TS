@@ -1,0 +1,20 @@
+{
+    "id": "505100",
+    "ident": "EC-0054",
+    "type": "heliport",
+    "name": "DGAC Heliport",
+    "latitude_deg": "-0.23626",
+    "longitude_deg": "-78.47779",
+    "elevation_ft": "10010",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-P",
+    "municipality": "Quito",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Dirección General de Aviación Civil"
+}

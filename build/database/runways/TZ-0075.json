@@ -1,0 +1,20 @@
+{
+    "id": "318636",
+    "ident": "TZ-0075",
+    "type": "small_airport",
+    "name": "Kihansi Airport",
+    "latitude_deg": "-8.653119",
+    "longitude_deg": "35.865055",
+    "elevation_ft": "957",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-04",
+    "municipality": "Kihansi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

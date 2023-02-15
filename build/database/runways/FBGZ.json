@@ -1,0 +1,20 @@
+{
+    "id": "29891",
+    "ident": "FBGZ",
+    "type": "small_airport",
+    "name": "Ghanzi Airport",
+    "latitude_deg": "-21.6924991607666",
+    "longitude_deg": "21.658100128173828",
+    "elevation_ft": "3730",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-GH",
+    "municipality": "Ghanzi",
+    "scheduled_service": "yes",
+    "gps_code": "FBGZ",
+    "iata_code": "GNZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ghanzi_Airport",
+    "keywords": ""
+}

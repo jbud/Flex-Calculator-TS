@@ -1,0 +1,20 @@
+{
+    "id": "352767",
+    "ident": "ZDM",
+    "type": "heliport",
+    "name": "Ramallah Heliport",
+    "latitude_deg": "31.91123",
+    "longitude_deg": "35.20756",
+    "elevation_ft": "2858",
+    "continent": "AS",
+    "iso_country": "PS",
+    "iso_region": "PS-RBH",
+    "municipality": "Ramallah",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "ZDM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

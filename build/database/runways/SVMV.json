@@ -1,0 +1,20 @@
+{
+    "id": "40211",
+    "ident": "SVMV",
+    "type": "small_airport",
+    "name": "Maroa Airport",
+    "latitude_deg": "2.725057",
+    "longitude_deg": "-67.546875",
+    "elevation_ft": "501",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-Z",
+    "municipality": "Maroa",
+    "scheduled_service": "no",
+    "gps_code": "SVMV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

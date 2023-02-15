@@ -1,0 +1,20 @@
+{
+    "id": "318657",
+    "ident": "TZ-0095",
+    "type": "small_airport",
+    "name": "Mbarali Airport",
+    "latitude_deg": "-8.656494",
+    "longitude_deg": "34.273113",
+    "elevation_ft": "3432",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-14",
+    "municipality": "Mbarali",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

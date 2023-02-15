@@ -1,0 +1,20 @@
+{
+    "id": "31333",
+    "ident": "FZCO",
+    "type": "small_airport",
+    "name": "Boko Airport",
+    "latitude_deg": "-5.29199",
+    "longitude_deg": "16.774879",
+    "elevation_ft": "2297",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KW",
+    "municipality": "Boko",
+    "scheduled_service": "no",
+    "gps_code": "FZCO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

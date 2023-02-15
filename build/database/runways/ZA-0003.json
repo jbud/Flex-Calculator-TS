@@ -1,0 +1,20 @@
+{
+    "id": "27286",
+    "ident": "ZA-0003",
+    "type": "small_airport",
+    "name": "Koppies Airport",
+    "latitude_deg": "-27.25",
+    "longitude_deg": "27.549999237060547",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-FS",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

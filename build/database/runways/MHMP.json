@@ -1,0 +1,20 @@
+{
+    "id": "42103",
+    "ident": "MHMP",
+    "type": "small_airport",
+    "name": "Marcos Perez Airport",
+    "latitude_deg": "15.284682",
+    "longitude_deg": "-87.885518",
+    "elevation_ft": "115",
+    "continent": "NA",
+    "iso_country": "HN",
+    "iso_region": "HN-YO",
+    "municipality": "Agua Blanca Sur",
+    "scheduled_service": "no",
+    "gps_code": "MHMP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

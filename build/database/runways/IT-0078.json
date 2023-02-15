@@ -1,0 +1,20 @@
+{
+    "id": "315439",
+    "ident": "IT-0078",
+    "type": "small_airport",
+    "name": "Prosecco Airfield",
+    "latitude_deg": "45.703333",
+    "longitude_deg": "13.759722",
+    "elevation_ft": "820",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-36",
+    "municipality": "Trieste",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Aerocampo Prosecco"
+}

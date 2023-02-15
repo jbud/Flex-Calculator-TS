@@ -1,0 +1,20 @@
+{
+    "id": "313242",
+    "ident": "YHPV",
+    "type": "small_airport",
+    "name": "Hope Vale Airport",
+    "latitude_deg": "-15.2923",
+    "longitude_deg": "145.1035",
+    "elevation_ft": "228",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Hope Vale",
+    "scheduled_service": "no",
+    "gps_code": "YHPV",
+    "iata_code": "HPE",
+    "local_code": "YHPV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

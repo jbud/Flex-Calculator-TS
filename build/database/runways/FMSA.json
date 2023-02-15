@@ -1,0 +1,20 @@
+{
+    "id": "31187",
+    "ident": "FMSA",
+    "type": "small_airport",
+    "name": "Ambalavao Airport",
+    "latitude_deg": "-21.814891018799997",
+    "longitude_deg": "46.914024353",
+    "elevation_ft": "3189",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-F",
+    "municipality": "Ambalavao",
+    "scheduled_service": "no",
+    "gps_code": "FMSA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

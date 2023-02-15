@@ -1,0 +1,20 @@
+{
+    "id": "39081",
+    "ident": "SAZU",
+    "type": "small_airport",
+    "name": "Puelches Airport",
+    "latitude_deg": "-38.1451034546",
+    "longitude_deg": "-65.9229431152",
+    "elevation_ft": "180",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-L",
+    "municipality": "Puelches",
+    "scheduled_service": "no",
+    "gps_code": "SAZU",
+    "iata_code": "",
+    "local_code": "PUE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

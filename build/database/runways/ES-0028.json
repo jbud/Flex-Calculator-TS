@@ -1,0 +1,20 @@
+{
+    "id": "315969",
+    "ident": "ES-0028",
+    "type": "small_airport",
+    "name": "AeroCieza",
+    "latitude_deg": "38.32305",
+    "longitude_deg": "-1.456967",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-MC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

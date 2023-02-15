@@ -1,0 +1,20 @@
+{
+    "id": "333231",
+    "ident": "TZO",
+    "type": "small_airport",
+    "name": "Tsimiroro Airport",
+    "latitude_deg": "-18.345064",
+    "longitude_deg": "45.015643",
+    "elevation_ft": "755",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-U",
+    "municipality": "Ankisatra",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "TZO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "300759",
+    "ident": "TZ-0005",
+    "type": "small_airport",
+    "name": "Mvumi Airport",
+    "latitude_deg": "-6.376389",
+    "longitude_deg": "35.898611",
+    "elevation_ft": "3445",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-03",
+    "municipality": "Mvumi",
+    "scheduled_service": "no",
+    "gps_code": "HTMV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

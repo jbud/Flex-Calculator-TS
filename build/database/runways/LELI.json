@@ -1,0 +1,20 @@
+{
+    "id": "43280",
+    "ident": "LELI",
+    "type": "small_airport",
+    "name": "Aeródromo de Linares",
+    "latitude_deg": "38.133211",
+    "longitude_deg": "-3.642554",
+    "elevation_ft": "1033",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Linares",
+    "scheduled_service": "no",
+    "gps_code": "LELI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Linares",
+    "keywords": ""
+}

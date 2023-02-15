@@ -1,0 +1,20 @@
+{
+    "id": "315702",
+    "ident": "UGMS",
+    "type": "small_airport",
+    "name": "Mestia Queen Tamar Airport",
+    "latitude_deg": "43.053597",
+    "longitude_deg": "42.749012",
+    "elevation_ft": "4778",
+    "continent": "EU",
+    "iso_country": "GE",
+    "iso_region": "GE-SZ",
+    "municipality": "Mestia",
+    "scheduled_service": "yes",
+    "gps_code": "UGMS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Queen_Tamar_Airport",
+    "keywords": ""
+}

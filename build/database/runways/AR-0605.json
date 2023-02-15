@@ -1,0 +1,20 @@
+{
+    "id": "321769",
+    "ident": "AR-0605",
+    "type": "small_airport",
+    "name": "Rovere Airport",
+    "latitude_deg": "-26.783029",
+    "longitude_deg": "-60.487414",
+    "elevation_ft": "295",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-H",
+    "municipality": "Presidencia Roque Sáenz Peña",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "PSV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

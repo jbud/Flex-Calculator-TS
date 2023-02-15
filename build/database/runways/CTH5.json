@@ -1,0 +1,20 @@
+{
+    "id": "1599",
+    "ident": "CTH5",
+    "type": "heliport",
+    "name": "Harrington Harbour Heliport",
+    "latitude_deg": "50.49610137939453",
+    "longitude_deg": "-59.48059844970703",
+    "elevation_ft": "102",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Harrington Harbour",
+    "scheduled_service": "no",
+    "gps_code": "CTH5",
+    "iata_code": "",
+    "local_code": "CTH5",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "TH5"
+}

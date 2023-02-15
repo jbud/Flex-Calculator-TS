@@ -1,0 +1,20 @@
+{
+    "id": "30698",
+    "ident": "FOGB",
+    "type": "small_airport",
+    "name": "Booue Airport",
+    "latitude_deg": "-0.1075",
+    "longitude_deg": "11.9438",
+    "elevation_ft": "604",
+    "continent": "AF",
+    "iso_country": "GA",
+    "iso_region": "GA-6",
+    "municipality": "Booue",
+    "scheduled_service": "no",
+    "gps_code": "FOGB",
+    "iata_code": "BGB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

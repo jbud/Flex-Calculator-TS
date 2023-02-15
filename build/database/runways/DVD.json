@@ -1,0 +1,20 @@
+{
+    "id": "318121",
+    "ident": "DVD",
+    "type": "small_airport",
+    "name": "Andavadoaka Airport",
+    "latitude_deg": "-22.06608",
+    "longitude_deg": "43.259573",
+    "elevation_ft": "30",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-U",
+    "municipality": "Andavadoaka",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "DVD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Andavadoaka_Airport",
+    "keywords": ""
+}

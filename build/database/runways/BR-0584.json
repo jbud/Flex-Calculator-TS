@@ -1,0 +1,20 @@
+{
+    "id": "333673",
+    "ident": "BR-0584",
+    "type": "small_airport",
+    "name": "Fazenda Reunidas Sococo Airport",
+    "latitude_deg": "-1.224084",
+    "longitude_deg": "-48.041476",
+    "elevation_ft": "161",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Santa Isabel do Pará",
+    "scheduled_service": "no",
+    "gps_code": "SISR",
+    "iata_code": "",
+    "local_code": "PA0057",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

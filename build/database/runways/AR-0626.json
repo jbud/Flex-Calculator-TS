@@ -1,0 +1,20 @@
+{
+    "id": "327585",
+    "ident": "AR-0626",
+    "type": "small_airport",
+    "name": "Loma Alta Airport",
+    "latitude_deg": "-29.049088",
+    "longitude_deg": "-57.081729",
+    "elevation_ft": "295",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-W",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

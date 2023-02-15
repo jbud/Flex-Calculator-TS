@@ -1,0 +1,20 @@
+{
+    "id": "318294",
+    "ident": "EESE",
+    "type": "heliport",
+    "name": "Salme Heliport",
+    "latitude_deg": "58.1319444",
+    "longitude_deg": "22.2583333",
+    "elevation_ft": "16",
+    "continent": "EU",
+    "iso_country": "EE",
+    "iso_region": "EE-74",
+    "municipality": "Salme",
+    "scheduled_service": "no",
+    "gps_code": "EESE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Estwind Energy"
+}

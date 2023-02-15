@@ -1,0 +1,20 @@
+{
+    "id": "31265",
+    "ident": "FVTA",
+    "type": "small_airport",
+    "name": "Tashinga Airport",
+    "latitude_deg": "-16.824147",
+    "longitude_deg": "28.443215",
+    "elevation_ft": "1630",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MW",
+    "municipality": "Tashinga",
+    "scheduled_service": "no",
+    "gps_code": "FVTA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "30383",
+    "ident": "LETP",
+    "type": "small_airport",
+    "name": "Santo Tome Del Puerto Airport",
+    "latitude_deg": "41.204200744628906",
+    "longitude_deg": "-3.594719886779785",
+    "elevation_ft": "3638",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CL",
+    "municipality": "Segovia",
+    "scheduled_service": "no",
+    "gps_code": "LETP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

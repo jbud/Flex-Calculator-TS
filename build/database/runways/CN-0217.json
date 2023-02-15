@@ -1,0 +1,20 @@
+{
+    "id": "348689",
+    "ident": "CN-0217",
+    "type": "small_airport",
+    "name": "Penglai Shahekou Airport",
+    "latitude_deg": "37.80473",
+    "longitude_deg": "120.80954",
+    "elevation_ft": "20",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-37",
+    "municipality": "Yantai",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

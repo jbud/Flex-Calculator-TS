@@ -1,0 +1,20 @@
+{
+    "id": "339795",
+    "ident": "BR-1342",
+    "type": "small_airport",
+    "name": "Cialne Umirim Airport",
+    "latitude_deg": "-3.694658",
+    "longitude_deg": "-39.408527",
+    "elevation_ft": "285",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-CE",
+    "municipality": "Umirim",
+    "scheduled_service": "no",
+    "gps_code": "SNJC",
+    "iata_code": "",
+    "local_code": "CE0023",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

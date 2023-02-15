@@ -1,0 +1,20 @@
+{
+    "id": "350890",
+    "ident": "IN-0307",
+    "type": "small_airport",
+    "name": "Tuting Advanced Landing Ground",
+    "latitude_deg": "28.98876",
+    "longitude_deg": "94.89863",
+    "elevation_ft": "1562",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-AR",
+    "municipality": "Tuting",
+    "scheduled_service": "no",
+    "gps_code": "VETU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tuting_Advanced_Landing_Ground",
+    "keywords": "Tuting Airport and Heliport"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "42448",
+    "ident": "LGAM",
+    "type": "heliport",
+    "name": "Amphiali Heliport",
+    "latitude_deg": "37.97159957885742",
+    "longitude_deg": "23.530399322509766",
+    "elevation_ft": "43",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-I",
+    "municipality": "Salamis Island",
+    "scheduled_service": "no",
+    "gps_code": "LGAM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

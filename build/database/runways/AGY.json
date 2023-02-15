@@ -1,0 +1,20 @@
+{
+    "id": "314491",
+    "ident": "AGY",
+    "type": "small_airport",
+    "name": "Argyle Downs Airport",
+    "latitude_deg": "-16.508604",
+    "longitude_deg": "128.922485",
+    "elevation_ft": "407",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Argyle Downs",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "AGY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Argyle_Downs_Airport",
+    "keywords": "AGY"
+}

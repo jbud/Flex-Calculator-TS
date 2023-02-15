@@ -1,0 +1,20 @@
+{
+    "id": "321132",
+    "ident": "ES-0129",
+    "type": "small_airport",
+    "name": "Aeródromo Juan Espadafor",
+    "latitude_deg": "37.089503",
+    "longitude_deg": "-3.788322",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Escúzar",
+    "scheduled_service": "no",
+    "gps_code": "LEJE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://web.archive.org/web/20190502151940/http://aerodromojuanespadafor.com:80/wp/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

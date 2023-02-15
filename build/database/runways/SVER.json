@@ -1,0 +1,20 @@
+{
+    "id": "40127",
+    "ident": "SVER",
+    "type": "small_airport",
+    "name": "El Respiro Airport",
+    "latitude_deg": "7.216667175292969",
+    "longitude_deg": "-68.98332977294922",
+    "elevation_ft": "387",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVER",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

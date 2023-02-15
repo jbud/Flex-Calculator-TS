@@ -1,0 +1,20 @@
+{
+    "id": "31509",
+    "ident": "GAKN",
+    "type": "small_airport",
+    "name": "Kolokani Airport",
+    "latitude_deg": "13.532999992370605",
+    "longitude_deg": "-8.050000190734863",
+    "elevation_ft": "1457",
+    "continent": "AF",
+    "iso_country": "ML",
+    "iso_region": "ML-2",
+    "municipality": "Kolokani",
+    "scheduled_service": "no",
+    "gps_code": "GAKN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

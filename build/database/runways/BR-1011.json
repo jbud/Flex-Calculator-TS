@@ -1,0 +1,20 @@
+{
+    "id": "335728",
+    "ident": "BR-1011",
+    "type": "small_airport",
+    "name": "Fazenda Colorado Airport",
+    "latitude_deg": "-13.133265",
+    "longitude_deg": "-55.445081",
+    "elevation_ft": "1312",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MT0132",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

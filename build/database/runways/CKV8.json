@@ -1,0 +1,20 @@
+{
+    "id": "1247",
+    "ident": "CKV8",
+    "type": "heliport",
+    "name": "Kentville (Valley Regional Hospital) Heliport",
+    "latitude_deg": "45.08171042359999",
+    "longitude_deg": "-64.5002254844",
+    "elevation_ft": "80",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NS",
+    "municipality": "Kentville",
+    "scheduled_service": "no",
+    "gps_code": "CKV8",
+    "iata_code": "",
+    "local_code": "CKV8",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "KV8"
+}

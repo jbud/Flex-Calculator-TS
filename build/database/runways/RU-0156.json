@@ -1,0 +1,20 @@
+{
+    "id": "44598",
+    "ident": "RU-0156",
+    "type": "small_airport",
+    "name": "Solnechniy Airfield",
+    "latitude_deg": "56.108001708984375",
+    "longitude_deg": "92.93699645996094",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-KYA",
+    "municipality": "Krasnoyarsk",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Solnechny Airfield, Аэродром Солнечный"
+}

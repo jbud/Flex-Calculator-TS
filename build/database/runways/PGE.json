@@ -1,0 +1,20 @@
+{
+    "id": "307353",
+    "ident": "PGE",
+    "type": "small_airport",
+    "name": "Yegepa Airport",
+    "latitude_deg": "-7.134444444440001",
+    "longitude_deg": "146.156388889",
+    "elevation_ft": "4179",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "PGE",
+    "local_code": "YEG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "30204",
+    "ident": "NZMQ",
+    "type": "heliport",
+    "name": "Oaonui Heliport",
+    "latitude_deg": "-39.39984130859375",
+    "longitude_deg": "173.8098602294922",
+    "elevation_ft": "112",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-TKI",
+    "municipality": "Oaonui",
+    "scheduled_service": "no",
+    "gps_code": "NZMQ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

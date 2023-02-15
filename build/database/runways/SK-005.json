@@ -1,0 +1,20 @@
+{
+    "id": "41073",
+    "ident": "SK-005",
+    "type": "small_airport",
+    "name": "Arboletes Airport",
+    "latitude_deg": "8.855118",
+    "longitude_deg": "-76.422676",
+    "elevation_ft": "13",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-ANT",
+    "municipality": "Arboletes",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "ARO",
+    "local_code": "ARO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

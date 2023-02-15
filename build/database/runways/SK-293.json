@@ -1,0 +1,20 @@
+{
+    "id": "41021",
+    "ident": "SK-293",
+    "type": "small_airport",
+    "name": "Guerima Airport",
+    "latitude_deg": "3.633333",
+    "longitude_deg": "-71.166667",
+    "elevation_ft": "606",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-MET",
+    "municipality": "Guerima",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "GMC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "328804",
+    "ident": "BR-0337",
+    "type": "heliport",
+    "name": "Ambipar Heliport",
+    "latitude_deg": "-22.760119",
+    "longitude_deg": "-47.254073",
+    "elevation_ft": "2044",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Americana",
+    "scheduled_service": "no",
+    "gps_code": "SWYF",
+    "iata_code": "",
+    "local_code": "SWYF",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

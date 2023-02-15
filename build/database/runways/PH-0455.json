@@ -1,0 +1,20 @@
+{
+    "id": "351512",
+    "ident": "PH-0455",
+    "type": "small_airport",
+    "name": "Lurugan Airport",
+    "latitude_deg": "7.98365",
+    "longitude_deg": "125.05351",
+    "elevation_ft": "1713",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-BUK",
+    "municipality": "Valencia City",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

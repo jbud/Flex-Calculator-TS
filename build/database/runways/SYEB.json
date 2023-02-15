@@ -1,0 +1,20 @@
+{
+    "id": "32414",
+    "ident": "SYEB",
+    "type": "small_airport",
+    "name": "Ebini Airport",
+    "latitude_deg": "5.56855",
+    "longitude_deg": "-57.77521",
+    "elevation_ft": "147",
+    "continent": "SA",
+    "iso_country": "GY",
+    "iso_region": "GY-UD",
+    "municipality": "Ebini",
+    "scheduled_service": "no",
+    "gps_code": "SYEB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

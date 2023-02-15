@@ -1,0 +1,20 @@
+{
+    "id": "350878",
+    "ident": "IN-0303",
+    "type": "heliport",
+    "name": "Kargil Heliport",
+    "latitude_deg": "34.5577",
+    "longitude_deg": "76.13505",
+    "elevation_ft": "9154",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-LA",
+    "municipality": "Kargil",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

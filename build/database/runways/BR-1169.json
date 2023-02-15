@@ -1,0 +1,20 @@
+{
+    "id": "336993",
+    "ident": "BR-1169",
+    "type": "heliport",
+    "name": "AGETOP Heliport",
+    "latitude_deg": "-16.64772",
+    "longitude_deg": "-49.208729",
+    "elevation_ft": "2365",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Goiânia",
+    "scheduled_service": "no",
+    "gps_code": "SJOS",
+    "iata_code": "",
+    "local_code": "GO0163",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

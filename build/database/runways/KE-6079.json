@@ -1,0 +1,20 @@
+{
+    "id": "42585",
+    "ident": "KE-6079",
+    "type": "small_airport",
+    "name": "Kilgoris Airport",
+    "latitude_deg": "-1.079585",
+    "longitude_deg": "34.87741",
+    "elevation_ft": "5755",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-700",
+    "municipality": "Kilgoris",
+    "scheduled_service": "no",
+    "gps_code": "HKRS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

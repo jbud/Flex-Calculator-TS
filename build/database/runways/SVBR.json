@@ -1,0 +1,20 @@
+{
+    "id": "40093",
+    "ident": "SVBR",
+    "type": "small_airport",
+    "name": "Carbonero Airport",
+    "latitude_deg": "10.416666984558105",
+    "longitude_deg": "-68.66666412353516",
+    "elevation_ft": "328",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-U",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVBR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

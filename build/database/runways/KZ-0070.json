@@ -1,0 +1,20 @@
+{
+    "id": "44386",
+    "ident": "KZ-0070",
+    "type": "small_airport",
+    "name": "Zhosaly Airport",
+    "latitude_deg": "45.51813",
+    "longitude_deg": "64.085408",
+    "elevation_ft": "335",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-KZY",
+    "municipality": "Zhosaly",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Dzhusaly Airport, Josaly, Аэропорт Жосалы, Аэропорт Джусалы"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31037",
+    "ident": "FACW",
+    "type": "small_airport",
+    "name": "Clanwilliam Airport",
+    "latitude_deg": "-32.177",
+    "longitude_deg": "18.8819",
+    "elevation_ft": "416",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-WC",
+    "municipality": "Clanwilliam",
+    "scheduled_service": "no",
+    "gps_code": "FACW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

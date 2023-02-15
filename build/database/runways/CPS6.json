@@ -1,0 +1,20 @@
+{
+    "id": "1453",
+    "ident": "CPS6",
+    "type": "heliport",
+    "name": "Cornwall (Community Hospital McConnell Site) Heliport",
+    "latitude_deg": "45.020301818847656",
+    "longitude_deg": "-74.7177963256836",
+    "elevation_ft": "230",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Cornwall",
+    "scheduled_service": "no",
+    "gps_code": "CPS6",
+    "iata_code": "",
+    "local_code": "CPS6",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "PS6"
+}

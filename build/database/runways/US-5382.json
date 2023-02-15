@@ -1,0 +1,20 @@
+{
+    "id": "348173",
+    "ident": "US-5382",
+    "type": "small_airport",
+    "name": "Strable Landing Strip Airport",
+    "latitude_deg": "41.204516",
+    "longitude_deg": "-84.496159",
+    "elevation_ft": "714",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Cecil",
+    "scheduled_service": "no",
+    "gps_code": "OH99",
+    "iata_code": "",
+    "local_code": "OH99",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

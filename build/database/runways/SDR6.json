@@ -1,0 +1,20 @@
+{
+    "id": "352187",
+    "ident": "SDR6",
+    "type": "small_airport",
+    "name": "Aldeia Urunai Airport",
+    "latitude_deg": "1.520538",
+    "longitude_deg": "-56.082941",
+    "elevation_ft": "1020",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Oriximiná",
+    "scheduled_service": "no",
+    "gps_code": "SDR6",
+    "iata_code": "",
+    "local_code": "PA0322",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

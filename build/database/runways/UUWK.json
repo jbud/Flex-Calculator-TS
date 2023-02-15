@@ -1,0 +1,20 @@
+{
+    "id": "352883",
+    "ident": "UUWK",
+    "type": "small_airport",
+    "name": "Kudinovo Airfield",
+    "latitude_deg": "55.023839",
+    "longitude_deg": "36.244583",
+    "elevation_ft": "600",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KLU",
+    "municipality": "Kudinovo",
+    "scheduled_service": "no",
+    "gps_code": "UUWK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.uuwk.ru/",
+    "wikipedia_link": "",
+    "keywords": "Кудиново"
+}

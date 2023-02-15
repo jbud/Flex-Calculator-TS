@@ -1,0 +1,20 @@
+{
+    "id": "40985",
+    "ident": "SK-138",
+    "type": "small_airport",
+    "name": "La Arrobleda Airport",
+    "latitude_deg": "3.125",
+    "longitude_deg": "-76.431667",
+    "elevation_ft": "3244",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAU",
+    "municipality": "Caloto",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LAR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

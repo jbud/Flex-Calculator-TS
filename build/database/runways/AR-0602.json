@@ -1,0 +1,20 @@
+{
+    "id": "321766",
+    "ident": "AR-0602",
+    "type": "small_airport",
+    "name": "Horizonte Aplicaciones Areas Airport",
+    "latitude_deg": "-32.521761",
+    "longitude_deg": "-61.550695",
+    "elevation_ft": "321",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-S",
+    "municipality": "Las Rosas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LRT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

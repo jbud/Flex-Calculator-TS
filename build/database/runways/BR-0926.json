@@ -1,0 +1,20 @@
+{
+    "id": "335542",
+    "ident": "BR-0926",
+    "type": "small_airport",
+    "name": "Tabuleiro V Airport",
+    "latitude_deg": "-13.243663",
+    "longitude_deg": "-45.375338",
+    "elevation_ft": "2523",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Correntina",
+    "scheduled_service": "no",
+    "gps_code": "SILY",
+    "iata_code": "",
+    "local_code": "BA0267",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40655",
+    "ident": "SK-108",
+    "type": "small_airport",
+    "name": "Matenovillos Airport",
+    "latitude_deg": "5.213889",
+    "longitude_deg": "-71.853333",
+    "elevation_ft": "564",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAS",
+    "municipality": "San Luis De Palenque",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SLY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

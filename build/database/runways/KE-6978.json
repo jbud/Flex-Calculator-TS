@@ -1,0 +1,20 @@
+{
+    "id": "42637",
+    "ident": "KE-6978",
+    "type": "small_airport",
+    "name": "Kerio Valley Airport",
+    "latitude_deg": "0.3196380138397217",
+    "longitude_deg": "35.662559509277344",
+    "elevation_ft": "4325",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-700",
+    "municipality": "Kimwarer",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "KRV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

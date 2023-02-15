@@ -1,0 +1,20 @@
+{
+    "id": "32201",
+    "ident": "AU-RDA",
+    "type": "small_airport",
+    "name": "Rockhampton Downs Airport",
+    "latitude_deg": "-18.95330047607422",
+    "longitude_deg": "135.2010040283203",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Rockhampton Downs",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "RDA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

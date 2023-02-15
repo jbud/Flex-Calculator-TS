@@ -1,0 +1,20 @@
+{
+    "id": "302210",
+    "ident": "SQT",
+    "type": "small_airport",
+    "name": "China Strait Airstrip",
+    "latitude_deg": "-10.5627777778",
+    "longitude_deg": "150.690694444",
+    "elevation_ft": "10",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-MBA",
+    "municipality": "Samarai Island",
+    "scheduled_service": "no",
+    "gps_code": "AYCS",
+    "iata_code": "SQT",
+    "local_code": "CHS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

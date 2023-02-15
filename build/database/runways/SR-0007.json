@@ -1,0 +1,20 @@
+{
+    "id": "348620",
+    "ident": "SR-0007",
+    "type": "small_airport",
+    "name": "Hazard Airstrip",
+    "latitude_deg": "5.881552",
+    "longitude_deg": "-56.956718",
+    "elevation_ft": "10",
+    "continent": "SA",
+    "iso_country": "SR",
+    "iso_region": "SR-NI",
+    "municipality": "Oostelijke Polders",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

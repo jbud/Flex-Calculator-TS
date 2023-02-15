@@ -1,0 +1,20 @@
+{
+    "id": "43122",
+    "ident": "EDBL",
+    "type": "small_airport",
+    "name": "Laucha Airfield",
+    "latitude_deg": "51.245834",
+    "longitude_deg": "11.693333",
+    "elevation_ft": "738",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-ST",
+    "municipality": "Laucha an der Unstrut",
+    "scheduled_service": "no",
+    "gps_code": "EDBL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

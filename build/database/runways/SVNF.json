@@ -1,0 +1,20 @@
+{
+    "id": "40218",
+    "ident": "SVNF",
+    "type": "small_airport",
+    "name": "Morichitos Airport",
+    "latitude_deg": "7.383333206176758",
+    "longitude_deg": "-68.83333587646484",
+    "elevation_ft": "210",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "Morichito",
+    "scheduled_service": "no",
+    "gps_code": "SVNF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

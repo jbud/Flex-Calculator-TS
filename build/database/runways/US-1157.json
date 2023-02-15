@@ -1,0 +1,20 @@
+{
+    "id": "332763",
+    "ident": "US-1157",
+    "type": "small_airport",
+    "name": "Ragmuff Airport",
+    "latitude_deg": "46.019586",
+    "longitude_deg": "-69.533819",
+    "elevation_ft": "1046",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Greenville",
+    "scheduled_service": "no",
+    "gps_code": "ME26",
+    "iata_code": "",
+    "local_code": "ME26",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31818",
+    "ident": "ZHGH",
+    "type": "medium_airport",
+    "name": "Guangzhou MR Air Base / Guanghua Airport",
+    "latitude_deg": "32.38866",
+    "longitude_deg": "111.69425",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-42",
+    "municipality": "Xiangyang (Laohekou)",
+    "scheduled_service": "no",
+    "gps_code": "ZHGH",
+    "iata_code": "LHK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Guangzhou MR Air Base"
+}

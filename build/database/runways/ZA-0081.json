@@ -1,0 +1,20 @@
+{
+    "id": "41281",
+    "ident": "ZA-0081",
+    "type": "small_airport",
+    "name": "Alldays (Greater Kuduland) Airport",
+    "latitude_deg": "-22.80380630493164",
+    "longitude_deg": "28.995750427246094",
+    "elevation_ft": "2590",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "Alldays",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

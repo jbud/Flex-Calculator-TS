@@ -1,0 +1,20 @@
+{
+    "id": "32455",
+    "ident": "VGSG",
+    "type": "small_airport",
+    "name": "Thakurgaon Airport",
+    "latitude_deg": "26.016399383544922",
+    "longitude_deg": "88.40360260009766",
+    "elevation_ft": "176",
+    "continent": "AS",
+    "iso_country": "BD",
+    "iso_region": "BD-5",
+    "municipality": "Thakurgaon",
+    "scheduled_service": "no",
+    "gps_code": "VGSG",
+    "iata_code": "TKR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

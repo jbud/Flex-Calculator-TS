@@ -1,0 +1,20 @@
+{
+    "id": "324756",
+    "ident": "AAD",
+    "type": "small_airport",
+    "name": "Adado Airport",
+    "latitude_deg": "6.095802",
+    "longitude_deg": "46.6375",
+    "elevation_ft": "1001",
+    "continent": "AF",
+    "iso_country": "SO",
+    "iso_region": "SO-GA",
+    "municipality": "Adado",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "AAD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Adado_Airport",
+    "keywords": "Cadaado Airport"
+}

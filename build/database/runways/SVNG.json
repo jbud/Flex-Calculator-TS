@@ -1,0 +1,20 @@
+{
+    "id": "40219",
+    "ident": "SVNG",
+    "type": "small_airport",
+    "name": "El Mango Airport",
+    "latitude_deg": "10.283332824707031",
+    "longitude_deg": "-72.46666717529297",
+    "elevation_ft": "393",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-V",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVNG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

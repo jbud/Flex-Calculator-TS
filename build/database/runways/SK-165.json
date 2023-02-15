@@ -1,0 +1,20 @@
+{
+    "id": "40805",
+    "ident": "SK-165",
+    "type": "small_airport",
+    "name": "La Cacica Airport",
+    "latitude_deg": "7.985833",
+    "longitude_deg": "-73.577778",
+    "elevation_ft": "220",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CES",
+    "municipality": "San Martin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LCI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

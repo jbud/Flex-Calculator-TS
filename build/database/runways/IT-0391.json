@@ -1,0 +1,20 @@
+{
+    "id": "320022",
+    "ident": "IT-0391",
+    "type": "small_airport",
+    "name": "Tarquinia San Giorgio Airfield",
+    "latitude_deg": "42.192687",
+    "longitude_deg": "11.724573",
+    "elevation_ft": "1",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-62",
+    "municipality": "Tarquinia (VT)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "VTTAB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "San Giorgio"
+}

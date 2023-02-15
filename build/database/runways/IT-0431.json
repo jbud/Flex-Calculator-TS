@@ -1,0 +1,20 @@
+{
+    "id": "320245",
+    "ident": "IT-0431",
+    "type": "small_airport",
+    "name": "Campo di Volo \"Butterfly 2\"",
+    "latitude_deg": "45.853",
+    "longitude_deg": "12.456949",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-34",
+    "municipality": "Codognè (TV)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "TVCOD",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Butterfly"
+}

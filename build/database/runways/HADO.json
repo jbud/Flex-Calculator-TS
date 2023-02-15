@@ -1,0 +1,20 @@
+{
+    "id": "31565",
+    "ident": "HADO",
+    "type": "small_airport",
+    "name": "Dodola Airport",
+    "latitude_deg": "7.020559787750244",
+    "longitude_deg": "39.05110168457031",
+    "elevation_ft": "8234",
+    "continent": "AF",
+    "iso_country": "ET",
+    "iso_region": "ET-OR",
+    "municipality": "Dodola",
+    "scheduled_service": "no",
+    "gps_code": "HADO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

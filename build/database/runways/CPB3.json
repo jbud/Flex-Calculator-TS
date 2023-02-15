@@ -1,0 +1,20 @@
+{
+    "id": "1379",
+    "ident": "CPB3",
+    "type": "heliport",
+    "name": "Welland (County General Hospital) Heliport",
+    "latitude_deg": "42.977576456399994",
+    "longitude_deg": "-79.2497491837",
+    "elevation_ft": "585",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Welland",
+    "scheduled_service": "no",
+    "gps_code": "CPB3",
+    "iata_code": "",
+    "local_code": "CPB3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "PB3"
+}

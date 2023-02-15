@@ -1,0 +1,20 @@
+{
+    "id": "28747",
+    "ident": "EDNV",
+    "type": "small_airport",
+    "name": "Vogtareuth Airport",
+    "latitude_deg": "47.946109771728516",
+    "longitude_deg": "12.20472240447998",
+    "elevation_ft": "1535",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Vogtareuth",
+    "scheduled_service": "no",
+    "gps_code": "EDNV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

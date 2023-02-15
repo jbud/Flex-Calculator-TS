@@ -1,0 +1,20 @@
+{
+    "id": "30953",
+    "ident": "DXAK",
+    "type": "small_airport",
+    "name": "Akpaka Airport",
+    "latitude_deg": "7.583000183105469",
+    "longitude_deg": "1.1169999837875366",
+    "elevation_ft": "689",
+    "continent": "AF",
+    "iso_country": "TG",
+    "iso_region": "TG-P",
+    "municipality": "Atakpamé",
+    "scheduled_service": "no",
+    "gps_code": "DXAK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Akpaka_Airport",
+    "keywords": ""
+}

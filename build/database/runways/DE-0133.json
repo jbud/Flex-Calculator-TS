@@ -1,0 +1,20 @@
+{
+    "id": "312142",
+    "ident": "DE-0133",
+    "type": "small_airport",
+    "name": "Weper Airfield",
+    "latitude_deg": "51.7124",
+    "longitude_deg": "9.8026",
+    "elevation_ft": "1190",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Moringen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

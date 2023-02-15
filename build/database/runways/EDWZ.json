@@ -1,0 +1,20 @@
+{
+    "id": "28520",
+    "ident": "EDWZ",
+    "type": "small_airport",
+    "name": "Baltrum Airport",
+    "latitude_deg": "53.72472381591797",
+    "longitude_deg": "7.373332977294922",
+    "elevation_ft": "7",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Baltrum",
+    "scheduled_service": "no",
+    "gps_code": "EDWZ",
+    "iata_code": "BMR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

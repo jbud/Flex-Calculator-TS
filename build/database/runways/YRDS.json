@@ -1,0 +1,20 @@
+{
+    "id": "354881",
+    "ident": "YRDS",
+    "type": "small_airport",
+    "name": "Richmond Downs Airfield",
+    "latitude_deg": "-20.577274",
+    "longitude_deg": "143.301061",
+    "elevation_ft": "900",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Richmond",
+    "scheduled_service": "no",
+    "gps_code": "YRDS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

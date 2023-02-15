@@ -1,0 +1,20 @@
+{
+    "id": "30131",
+    "ident": "SATM",
+    "type": "small_airport",
+    "name": "Mercedes Airport",
+    "latitude_deg": "-29.2213993073",
+    "longitude_deg": "-58.0877990723",
+    "elevation_ft": "358",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-W",
+    "municipality": "Mercedes",
+    "scheduled_service": "no",
+    "gps_code": "SATM",
+    "iata_code": "MDX",
+    "local_code": "RCE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "43969",
+    "ident": "AO-0003",
+    "type": "small_airport",
+    "name": "Rito Airport",
+    "latitude_deg": "-16.689392",
+    "longitude_deg": "19.083767",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-CCU",
+    "municipality": "Rito",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

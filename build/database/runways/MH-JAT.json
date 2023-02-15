@@ -1,0 +1,20 @@
+{
+    "id": "35202",
+    "ident": "MH-JAT",
+    "type": "small_airport",
+    "name": "Jabot Airport",
+    "latitude_deg": "7.749774755610001",
+    "longitude_deg": "168.977837563",
+    "elevation_ft": "20",
+    "continent": "OC",
+    "iso_country": "MH",
+    "iso_region": "MH-ALL",
+    "municipality": "Ailinglapalap Atoll",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "JAT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jabot_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "32475",
+    "ident": "SKTU",
+    "type": "heliport",
+    "name": "Gonzalo Mejía Airport",
+    "latitude_deg": "8.071878",
+    "longitude_deg": "-76.740124",
+    "elevation_ft": "6",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-ANT",
+    "municipality": "Turbo",
+    "scheduled_service": "no",
+    "gps_code": "SKTU",
+    "iata_code": "TRB",
+    "local_code": "TRB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "32643",
+    "ident": "WBKU",
+    "type": "small_airport",
+    "name": "Kuala Penyu Airport",
+    "latitude_deg": "5.597195",
+    "longitude_deg": "115.582695",
+    "elevation_ft": "6",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-12",
+    "municipality": "Kuala Penyu",
+    "scheduled_service": "no",
+    "gps_code": "WBKU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

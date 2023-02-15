@@ -1,0 +1,20 @@
+{
+    "id": "321561",
+    "ident": "US-0336",
+    "type": "small_airport",
+    "name": "Big View Airport",
+    "latitude_deg": "40.764462",
+    "longitude_deg": "-104.928654",
+    "elevation_ft": "5600",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Carr",
+    "scheduled_service": "no",
+    "gps_code": "CO67",
+    "iata_code": "",
+    "local_code": "CO67",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

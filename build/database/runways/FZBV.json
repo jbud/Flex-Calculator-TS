@@ -1,0 +1,20 @@
+{
+    "id": "31325",
+    "ident": "FZBV",
+    "type": "small_airport",
+    "name": "Kutu-Kempili Airport",
+    "latitude_deg": "-2.729542",
+    "longitude_deg": "18.106874",
+    "elevation_ft": "984",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-MN",
+    "municipality": "Kempili",
+    "scheduled_service": "no",
+    "gps_code": "FZBV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

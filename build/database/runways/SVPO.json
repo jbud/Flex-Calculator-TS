@@ -1,0 +1,20 @@
+{
+    "id": "40253",
+    "ident": "SVPO",
+    "type": "small_airport",
+    "name": "Hato El Porvenir Airport",
+    "latitude_deg": "7.550000190734863",
+    "longitude_deg": "-68.25",
+    "elevation_ft": "295",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVPO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

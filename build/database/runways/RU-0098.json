@@ -1,0 +1,20 @@
+{
+    "id": "44323",
+    "ident": "RU-0098",
+    "type": "medium_airport",
+    "name": "Oktyabrskiy Air Base",
+    "latitude_deg": "47.970001220703125",
+    "longitude_deg": "43.720001220703125",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-VGG",
+    "municipality": "Oktyabrskiy",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Oktyabrsky Air Base, Аэродром Октябрьский"
+}

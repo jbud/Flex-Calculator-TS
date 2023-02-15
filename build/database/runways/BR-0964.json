@@ -1,0 +1,20 @@
+{
+    "id": "335622",
+    "ident": "BR-0964",
+    "type": "small_airport",
+    "name": "Comandante Nelinho Airport",
+    "latitude_deg": "-28.974435",
+    "longitude_deg": "-49.488253",
+    "elevation_ft": "2920",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Araranguá",
+    "scheduled_service": "no",
+    "gps_code": "SINN",
+    "iata_code": "",
+    "local_code": "SC0030",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "307291",
+    "ident": "AYWS",
+    "type": "small_airport",
+    "name": "Wasu Airport",
+    "latitude_deg": "-5.96170944919",
+    "longitude_deg": "147.19822526",
+    "elevation_ft": "34",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Wasu",
+    "scheduled_service": "no",
+    "gps_code": "AYWS",
+    "iata_code": "WSU",
+    "local_code": "WASU",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

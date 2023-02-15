@@ -1,0 +1,20 @@
+{
+    "id": "30173",
+    "ident": "NZMR",
+    "type": "small_airport",
+    "name": "Murchison Airport",
+    "latitude_deg": "-41.79669952392578",
+    "longitude_deg": "172.31500244140625",
+    "elevation_ft": "531",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-TAS",
+    "municipality": "Murchison",
+    "scheduled_service": "no",
+    "gps_code": "NZMR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

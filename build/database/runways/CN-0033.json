@@ -1,0 +1,20 @@
+{
+    "id": "44109",
+    "ident": "CN-0033",
+    "type": "small_airport",
+    "name": "Damxung Air Base",
+    "latitude_deg": "30.486273",
+    "longitude_deg": "91.082561",
+    "elevation_ft": "14105",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-54",
+    "municipality": "Lhasa (Damxung)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Dangxiong"
+}

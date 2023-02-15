@@ -1,0 +1,20 @@
+{
+    "id": "344272",
+    "ident": "US-4000",
+    "type": "small_airport",
+    "name": "Ogden Field",
+    "latitude_deg": "33.83077",
+    "longitude_deg": "-112.63003",
+    "elevation_ft": "1890",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Morristown",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

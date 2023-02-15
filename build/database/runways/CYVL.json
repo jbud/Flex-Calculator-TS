@@ -1,0 +1,20 @@
+{
+    "id": "314953",
+    "ident": "CYVL",
+    "type": "small_airport",
+    "name": "Tommy Kochon Airport",
+    "latitude_deg": "67.02",
+    "longitude_deg": "-126.126",
+    "elevation_ft": "870",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NT",
+    "municipality": "Colville Lake",
+    "scheduled_service": "yes",
+    "gps_code": "CYVL",
+    "iata_code": "YCK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Colville_Lake/Tommy_Kochon_Aerodrome",
+    "keywords": ""
+}

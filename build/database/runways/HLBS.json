@@ -1,0 +1,20 @@
+{
+    "id": "347939",
+    "ident": "HLBS",
+    "type": "small_airport",
+    "name": "Booster Airport",
+    "latitude_deg": "29.9124",
+    "longitude_deg": "23.287275",
+    "elevation_ft": "151",
+    "continent": "AF",
+    "iso_country": "LY",
+    "iso_region": "LY-BU",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "HLBS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

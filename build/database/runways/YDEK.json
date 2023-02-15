@@ -1,0 +1,20 @@
+{
+    "id": "32722",
+    "ident": "YDEK",
+    "type": "small_airport",
+    "name": "Denmark Airport",
+    "latitude_deg": "-34.94499969482422",
+    "longitude_deg": "117.39700317382812",
+    "elevation_ft": "230",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Denmark",
+    "scheduled_service": "no",
+    "gps_code": "YDEK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

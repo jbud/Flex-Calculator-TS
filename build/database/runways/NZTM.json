@@ -1,0 +1,20 @@
+{
+    "id": "30473",
+    "ident": "NZTM",
+    "type": "small_airport",
+    "name": "Taumarunui Airport",
+    "latitude_deg": "-38.83940124511719",
+    "longitude_deg": "175.26199340820312",
+    "elevation_ft": "902",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-MWT",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "NZTM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

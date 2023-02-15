@@ -1,0 +1,20 @@
+{
+    "id": "348654",
+    "ident": "MX-1675",
+    "type": "small_airport",
+    "name": "El Guajuco Airport",
+    "latitude_deg": "25.32507",
+    "longitude_deg": "-99.95776",
+    "elevation_ft": "1319",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-NLE",
+    "municipality": "Ciudad de Allende",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "317568",
+    "ident": "FBGU",
+    "type": "small_airport",
+    "name": "Guma Airport",
+    "latitude_deg": "-18.953997",
+    "longitude_deg": "22.367073",
+    "elevation_ft": "3220",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-NW",
+    "municipality": "Guma",
+    "scheduled_service": "no",
+    "gps_code": "FBGU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Nguma, FB21"
+}

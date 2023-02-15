@@ -1,0 +1,20 @@
+{
+    "id": "31157",
+    "ident": "SGFI",
+    "type": "small_airport",
+    "name": "Aeródromo de Filadelfia",
+    "latitude_deg": "-22.354611",
+    "longitude_deg": "-60.053211",
+    "elevation_ft": "423",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-19",
+    "municipality": "Filadelfia",
+    "scheduled_service": "no",
+    "gps_code": "SGFI",
+    "iata_code": "FLM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Filadelfia_Airport",
+    "keywords": ""
+}

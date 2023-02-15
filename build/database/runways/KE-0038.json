@@ -1,0 +1,20 @@
+{
+    "id": "42681",
+    "ident": "KE-0038",
+    "type": "small_airport",
+    "name": "Olpejeta Airport",
+    "latitude_deg": "0.03061099909245968",
+    "longitude_deg": "36.90083312988281",
+    "elevation_ft": "5845",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-700",
+    "municipality": "Olpejeta",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

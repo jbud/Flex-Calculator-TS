@@ -1,0 +1,20 @@
+{
+    "id": "321417",
+    "ident": "US-0333",
+    "type": "small_airport",
+    "name": "Griffin Field",
+    "latitude_deg": "44.8677222",
+    "longitude_deg": "-68.9771056",
+    "elevation_ft": "322",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Levant",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "PG1",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

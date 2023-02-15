@@ -1,0 +1,20 @@
+{
+    "id": "40999",
+    "ident": "SK-195",
+    "type": "small_airport",
+    "name": "Pizarro Airport",
+    "latitude_deg": "4.975",
+    "longitude_deg": "-77.375",
+    "elevation_ft": "7",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CHO",
+    "municipality": "Bajo Baud0",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "BBA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

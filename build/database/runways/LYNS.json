@@ -1,0 +1,20 @@
+{
+    "id": "32190",
+    "ident": "LYNS",
+    "type": "small_airport",
+    "name": "Novi Sad / Čenej Airport",
+    "latitude_deg": "45.38531",
+    "longitude_deg": "19.833326",
+    "elevation_ft": "266",
+    "continent": "EU",
+    "iso_country": "RS",
+    "iso_region": "RS-06",
+    "municipality": "Čenej",
+    "scheduled_service": "no",
+    "gps_code": "LYNS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Novi_Sad_Airport",
+    "keywords": ""
+}

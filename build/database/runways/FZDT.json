@@ -1,0 +1,20 @@
+{
+    "id": "31359",
+    "ident": "FZDT",
+    "type": "small_airport",
+    "name": "Matari Airport",
+    "latitude_deg": "-6.151841",
+    "longitude_deg": "17.602501",
+    "elevation_ft": "2559",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KW",
+    "municipality": "Matari",
+    "scheduled_service": "no",
+    "gps_code": "FZDT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

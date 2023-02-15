@@ -1,0 +1,20 @@
+{
+    "id": "43284",
+    "ident": "LEMS",
+    "type": "small_airport",
+    "name": "Manresa Airfield",
+    "latitude_deg": "41.765301",
+    "longitude_deg": "1.86167",
+    "elevation_ft": "897",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Manresa",
+    "scheduled_service": "no",
+    "gps_code": "LEMS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

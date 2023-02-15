@@ -1,0 +1,20 @@
+{
+    "id": "351308",
+    "ident": "KZ-0135",
+    "type": "heliport",
+    "name": "Kazakhstan Heliport",
+    "latitude_deg": "44.237344",
+    "longitude_deg": "76.734012",
+    "elevation_ft": "1434",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-ALM",
+    "municipality": "Kazakhstan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

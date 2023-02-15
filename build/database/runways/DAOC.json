@@ -1,0 +1,20 @@
+{
+    "id": "30874",
+    "ident": "DAOC",
+    "type": "small_airport",
+    "name": "Béchar Ouakda Aerodrome",
+    "latitude_deg": "31.642901",
+    "longitude_deg": "-2.18466",
+    "elevation_ft": "2660",
+    "continent": "AF",
+    "iso_country": "DZ",
+    "iso_region": "DZ-08",
+    "municipality": "Béchar",
+    "scheduled_service": "no",
+    "gps_code": "DAOC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

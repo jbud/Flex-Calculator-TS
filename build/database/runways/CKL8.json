@@ -1,0 +1,20 @@
+{
+    "id": "1204",
+    "ident": "CKL8",
+    "type": "heliport",
+    "name": "Upsala Heliport",
+    "latitude_deg": "49.05030059814453",
+    "longitude_deg": "-90.46920013427734",
+    "elevation_ft": "1581",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Upsala",
+    "scheduled_service": "no",
+    "gps_code": "CKL8",
+    "iata_code": "",
+    "local_code": "CKL8",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "KL8"
+}

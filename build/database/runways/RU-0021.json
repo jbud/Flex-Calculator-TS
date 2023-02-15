@@ -1,0 +1,20 @@
+{
+    "id": "41836",
+    "ident": "RU-0021",
+    "type": "small_airport",
+    "name": "Korsakov Pushistyy Aerodrome",
+    "latitude_deg": "46.616726",
+    "longitude_deg": "142.812395",
+    "elevation_ft": "210",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-SAK",
+    "municipality": "Korsakov",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

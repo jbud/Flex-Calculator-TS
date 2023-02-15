@@ -1,0 +1,20 @@
+{
+    "id": "44342",
+    "ident": "TM-0001",
+    "type": "small_airport",
+    "name": "Garabogaz (Bekdash) Airport",
+    "latitude_deg": "41.546672",
+    "longitude_deg": "52.611931",
+    "elevation_ft": "-77",
+    "continent": "AS",
+    "iso_country": "TM",
+    "iso_region": "TM-B",
+    "municipality": "Garabogaz",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Бекдаш, Bekdash"
+}

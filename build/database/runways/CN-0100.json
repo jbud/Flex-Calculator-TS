@@ -1,0 +1,20 @@
+{
+    "id": "44178",
+    "ident": "CN-0100",
+    "type": "small_airport",
+    "name": "Qingdao Cangkou Air Base",
+    "latitude_deg": "36.158929",
+    "longitude_deg": "120.387832",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-37",
+    "municipality": "Qingdao",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

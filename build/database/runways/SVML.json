@@ -1,0 +1,20 @@
+{
+    "id": "40205",
+    "ident": "SVML",
+    "type": "small_airport",
+    "name": "El Milagro Sureste Airport",
+    "latitude_deg": "7.26544",
+    "longitude_deg": "-67.279643",
+    "elevation_ft": "230",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVML",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

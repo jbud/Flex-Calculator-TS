@@ -1,0 +1,20 @@
+{
+    "id": "335524",
+    "ident": "BR-0919",
+    "type": "small_airport",
+    "name": "Fazenda Bang Bang Airport",
+    "latitude_deg": "-10.89",
+    "longitude_deg": "-52.734722",
+    "elevation_ft": "1086",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "São José do Xingu",
+    "scheduled_service": "no",
+    "gps_code": "SDSL",
+    "iata_code": "",
+    "local_code": "MT0494",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

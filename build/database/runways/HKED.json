@@ -1,0 +1,20 @@
+{
+    "id": "42532",
+    "ident": "HKED",
+    "type": "small_airport",
+    "name": "Eldoret Boma Airport",
+    "latitude_deg": "0.536926",
+    "longitude_deg": "35.280518",
+    "elevation_ft": "7050",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-700",
+    "municipality": "Eldoret",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

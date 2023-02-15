@@ -1,0 +1,20 @@
+{
+    "id": "31119",
+    "ident": "FEGB",
+    "type": "small_airport",
+    "name": "Bambouli Airport",
+    "latitude_deg": "5.433000087738037",
+    "longitude_deg": "27.216999053955078",
+    "elevation_ft": "2264",
+    "continent": "AF",
+    "iso_country": "CF",
+    "iso_region": "CF-HM",
+    "municipality": "Bambouli",
+    "scheduled_service": "no",
+    "gps_code": "FEGB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

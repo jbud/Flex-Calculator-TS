@@ -1,0 +1,20 @@
+{
+    "id": "309713",
+    "ident": "RPVZ",
+    "type": "small_airport",
+    "name": "Siquijor Airport",
+    "latitude_deg": "9.212275",
+    "longitude_deg": "123.470685",
+    "elevation_ft": "36",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-SIG",
+    "municipality": "Siquijor",
+    "scheduled_service": "no",
+    "gps_code": "RPVZ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

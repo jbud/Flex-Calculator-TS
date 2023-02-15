@@ -1,0 +1,20 @@
+{
+    "id": "350020",
+    "ident": "MX-1891",
+    "type": "small_airport",
+    "name": "Coyotes Airport",
+    "latitude_deg": "23.864117",
+    "longitude_deg": "-105.309126",
+    "elevation_ft": "7200",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-DUR",
+    "municipality": "Pueblo Nuevo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CYS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

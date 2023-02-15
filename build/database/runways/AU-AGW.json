@@ -1,0 +1,20 @@
+{
+    "id": "30622",
+    "ident": "AU-AGW",
+    "type": "small_airport",
+    "name": "Agnew Airport",
+    "latitude_deg": "-12.1456",
+    "longitude_deg": "142.149369",
+    "elevation_ft": "160",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Agnew",
+    "scheduled_service": "no",
+    "gps_code": "YAGN",
+    "iata_code": "AGW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Agnew_Airport",
+    "keywords": ""
+}

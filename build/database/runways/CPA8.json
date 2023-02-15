@@ -1,0 +1,20 @@
+{
+    "id": "1376",
+    "ident": "CPA8",
+    "type": "heliport",
+    "name": "Simcoe (Norfolk General Hospital) Heliport",
+    "latitude_deg": "42.847259685100006",
+    "longitude_deg": "-80.32039046290001",
+    "elevation_ft": "710",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Simcoe",
+    "scheduled_service": "no",
+    "gps_code": "CPA8",
+    "iata_code": "",
+    "local_code": "CPA8",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "PA8"
+}

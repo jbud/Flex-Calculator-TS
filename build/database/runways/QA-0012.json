@@ -1,0 +1,20 @@
+{
+    "id": "348687",
+    "ident": "QA-0012",
+    "type": "small_airport",
+    "name": "Umm Garn Airport",
+    "latitude_deg": "25.76411",
+    "longitude_deg": "51.29276",
+    "elevation_ft": "112",
+    "continent": "AS",
+    "iso_country": "QA",
+    "iso_region": "QA-KH",
+    "municipality": "Rawdat Hawtan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

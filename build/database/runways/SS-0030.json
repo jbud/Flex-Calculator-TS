@@ -1,0 +1,20 @@
+{
+    "id": "344056",
+    "ident": "SS-0030",
+    "type": "small_airport",
+    "name": "Athidwey Airport",
+    "latitude_deg": "10.26976",
+    "longitude_deg": "32.22511",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-23",
+    "municipality": "Athidwey",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

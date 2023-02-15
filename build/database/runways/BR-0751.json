@@ -1,0 +1,20 @@
+{
+    "id": "335069",
+    "ident": "BR-0751",
+    "type": "small_airport",
+    "name": "Vinícola Don Guerino Heliport",
+    "latitude_deg": "-29.379167",
+    "longitude_deg": "-51.330278",
+    "elevation_ft": "1260",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Alto Feliz",
+    "scheduled_service": "no",
+    "gps_code": "SWOH",
+    "iata_code": "",
+    "local_code": "RS0124",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

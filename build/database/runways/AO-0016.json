@@ -1,0 +1,20 @@
+{
+    "id": "318480",
+    "ident": "AO-0016",
+    "type": "small_airport",
+    "name": "Mavinga Airport",
+    "latitude_deg": "-15.789222",
+    "longitude_deg": "20.368971",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-CCU",
+    "municipality": "Mavinga",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

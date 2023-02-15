@@ -1,0 +1,20 @@
+{
+    "id": "316984",
+    "ident": "IT-0165",
+    "type": "small_airport",
+    "name": "Aviosuperficie Renzo Storai",
+    "latitude_deg": "43.96583",
+    "longitude_deg": "11.458056",
+    "elevation_ft": "889",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-52",
+    "municipality": "Vicchio del Mugello (FI)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "FIVIC",
+    "home_link": "http://www.aviostorai.com",
+    "wikipedia_link": "",
+    "keywords": "Renzo Storai,AvioStorai"
+}

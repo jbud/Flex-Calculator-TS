@@ -1,0 +1,20 @@
+{
+    "id": "40105",
+    "ident": "SVCV",
+    "type": "small_airport",
+    "name": "Cunaviche Airport",
+    "latitude_deg": "7.400000095367432",
+    "longitude_deg": "-67.43333435058594",
+    "elevation_ft": "262",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "Cunaviche",
+    "scheduled_service": "no",
+    "gps_code": "SVCV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "35376",
+    "ident": "OALL",
+    "type": "small_airport",
+    "name": "Lal (Sarjangal) Airport",
+    "latitude_deg": "34.506716",
+    "longitude_deg": "66.298068",
+    "elevation_ft": "9220",
+    "continent": "AS",
+    "iso_country": "AF",
+    "iso_region": "AF-GHO",
+    "municipality": "Lal",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

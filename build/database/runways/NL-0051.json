@@ -1,0 +1,20 @@
+{
+    "id": "329142",
+    "ident": "NL-0051",
+    "type": "heliport",
+    "name": "HeliAir",
+    "latitude_deg": "52.1245219",
+    "longitude_deg": "5.7356178",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-GE",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://heliair.nl",
+    "wikipedia_link": "",
+    "keywords": ""
+}

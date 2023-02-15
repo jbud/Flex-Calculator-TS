@@ -1,0 +1,20 @@
+{
+    "id": "312635",
+    "ident": "DZ-0001",
+    "type": "small_airport",
+    "name": "Hamra Airport",
+    "latitude_deg": "29.221376",
+    "longitude_deg": "6.48863",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "DZ",
+    "iso_region": "DZ-33",
+    "municipality": "Hassi Bel Guebour",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

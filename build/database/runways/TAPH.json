@@ -1,0 +1,20 @@
+{
+    "id": "35328",
+    "ident": "TAPH",
+    "type": "medium_airport",
+    "name": "Codrington Airport",
+    "latitude_deg": "17.635799",
+    "longitude_deg": "-61.828602",
+    "elevation_ft": "15",
+    "continent": "NA",
+    "iso_country": "AG",
+    "iso_region": "AG-10",
+    "municipality": "Codrington",
+    "scheduled_service": "yes",
+    "gps_code": "TAPH",
+    "iata_code": "BBQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Codrington_Airport",
+    "keywords": ""
+}

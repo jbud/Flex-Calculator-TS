@@ -1,0 +1,20 @@
+{
+    "id": "32547",
+    "ident": "UOTT",
+    "type": "small_airport",
+    "name": "Turukhansk Airport",
+    "latitude_deg": "65.797203064",
+    "longitude_deg": "87.9353027344",
+    "elevation_ft": "128",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-KYA",
+    "municipality": "Turukhansk",
+    "scheduled_service": "yes",
+    "gps_code": "UOTT",
+    "iata_code": "THX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Turukhansk_Airport",
+    "keywords": ""
+}

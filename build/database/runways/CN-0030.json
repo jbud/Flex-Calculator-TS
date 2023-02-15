@@ -1,0 +1,20 @@
+{
+    "id": "44106",
+    "ident": "CN-0030",
+    "type": "medium_airport",
+    "name": "Chongqing Baishiyi Air Base",
+    "latitude_deg": "29.4953",
+    "longitude_deg": "106.359001",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-50",
+    "municipality": "Chongqing",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "28550",
+    "ident": "EDMW",
+    "type": "small_airport",
+    "name": "Flugplatz Deggendorf",
+    "latitude_deg": "48.830276",
+    "longitude_deg": "12.879722",
+    "elevation_ft": "1030",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Deggendorf",
+    "scheduled_service": "no",
+    "gps_code": "EDMW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "41586",
+    "ident": "PY-0022",
+    "type": "small_airport",
+    "name": "Aeródromo de San Cosme y Damian",
+    "latitude_deg": "-27.281799",
+    "longitude_deg": "-56.3111",
+    "elevation_ft": "318",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-7",
+    "municipality": "San Cosme y Damian",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

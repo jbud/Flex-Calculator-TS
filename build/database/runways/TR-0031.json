@@ -1,0 +1,20 @@
+{
+    "id": "44795",
+    "ident": "TR-0031",
+    "type": "small_airport",
+    "name": "Polatlı Airport",
+    "latitude_deg": "39.569801330566406",
+    "longitude_deg": "32.15079879760742",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-06",
+    "municipality": "Polatlı",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "319977",
+    "ident": "IT-0378",
+    "type": "small_airport",
+    "name": "Campo di Volo Ala Jonica",
+    "latitude_deg": "37.9371",
+    "longitude_deg": "15.320702",
+    "elevation_ft": "235",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-82",
+    "municipality": "Sant'Alessio Siculo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MESAL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

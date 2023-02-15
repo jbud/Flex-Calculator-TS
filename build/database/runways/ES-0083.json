@@ -1,0 +1,20 @@
+{
+    "id": "320643",
+    "ident": "ES-0083",
+    "type": "small_airport",
+    "name": "Aeródromo forestal de La Yesa",
+    "latitude_deg": "39.909035",
+    "longitude_deg": "-0.948624",
+    "elevation_ft": "3675",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-VC",
+    "municipality": "La Yesa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

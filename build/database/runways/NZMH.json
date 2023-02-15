@@ -1,0 +1,20 @@
+{
+    "id": "44840",
+    "ident": "NZMH",
+    "type": "heliport",
+    "name": "Wairarapa Hospital Heliport",
+    "latitude_deg": "-40.9474983215332",
+    "longitude_deg": "175.6750030517578",
+    "elevation_ft": "367",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-WGN",
+    "municipality": "Masterton",
+    "scheduled_service": "no",
+    "gps_code": "NZMH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

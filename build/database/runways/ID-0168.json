@@ -1,0 +1,20 @@
+{
+    "id": "311832",
+    "ident": "ID-0168",
+    "type": "small_airport",
+    "name": "Alama Airstrip",
+    "latitude_deg": "-4.2631",
+    "longitude_deg": "137.892387",
+    "elevation_ft": "3350",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PP",
+    "municipality": "Alama",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "WX04"
+}

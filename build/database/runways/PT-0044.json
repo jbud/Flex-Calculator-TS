@@ -1,0 +1,20 @@
+{
+    "id": "321245",
+    "ident": "PT-0044",
+    "type": "heliport",
+    "name": "Torres Vedras Heliport",
+    "latitude_deg": "39.089058",
+    "longitude_deg": "-9.263175",
+    "elevation_ft": "131",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-11",
+    "municipality": "Torres Vedras",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

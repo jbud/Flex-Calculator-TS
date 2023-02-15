@@ -1,0 +1,20 @@
+{
+    "id": "44074",
+    "ident": "BGTQ",
+    "type": "heliport",
+    "name": "Tasiusaq Heliport",
+    "latitude_deg": "60.194305",
+    "longitude_deg": "-44.813447",
+    "elevation_ft": "21",
+    "continent": "NA",
+    "iso_country": "GL",
+    "iso_region": "GL-KU",
+    "municipality": "Tasiusak",
+    "scheduled_service": "yes",
+    "gps_code": "BGTQ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tasiusaq_Heliport_(Kujalleq)",
+    "keywords": ""
+}

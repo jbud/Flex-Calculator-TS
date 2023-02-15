@@ -1,0 +1,20 @@
+{
+    "id": "31690",
+    "ident": "UUBI",
+    "type": "medium_airport",
+    "name": "Ivanovo South Airport",
+    "latitude_deg": "56.93939971923828",
+    "longitude_deg": "40.940799713134766",
+    "elevation_ft": "410",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-IVA",
+    "municipality": "Ivanovo",
+    "scheduled_service": "yes",
+    "gps_code": "UUBI",
+    "iata_code": "IWA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ivanovo_Yuzhny_Airport",
+    "keywords": "Ivanovo Yuzhniy Airport, Ivanovo Yuzhny Airport, Аэропорт Иваново Южный"
+}

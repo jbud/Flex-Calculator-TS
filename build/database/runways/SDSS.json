@@ -1,0 +1,20 @@
+{
+    "id": "345039",
+    "ident": "SDSS",
+    "type": "small_airport",
+    "name": "Fazenda Baia das Pedras Airstrip",
+    "latitude_deg": "-19.254167",
+    "longitude_deg": "-55.783056",
+    "elevation_ft": "420",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Aquidauana",
+    "scheduled_service": "no",
+    "gps_code": "SDSS",
+    "iata_code": "",
+    "local_code": "MS0514",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

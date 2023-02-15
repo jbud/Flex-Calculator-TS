@@ -1,0 +1,20 @@
+{
+    "id": "300127",
+    "ident": "RKSD",
+    "type": "heliport",
+    "name": "N 200 Heliport",
+    "latitude_deg": "37.171691",
+    "longitude_deg": "126.916266",
+    "elevation_ft": "155",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-41",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "RKSD",
+    "iata_code": "",
+    "local_code": "RK8F",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "321391",
+    "ident": "ES-0152",
+    "type": "small_airport",
+    "name": "Campo de Aviación de Peralveche",
+    "latitude_deg": "40.6025245",
+    "longitude_deg": "-2.4293518",
+    "elevation_ft": "3937",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CM",
+    "municipality": "Peralveche",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "334143",
+    "ident": "BR-0644",
+    "type": "small_airport",
+    "name": "Fazenda Curuá Airport",
+    "latitude_deg": "-8.004433",
+    "longitude_deg": "-54.935524",
+    "elevation_ft": "879",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Altamira",
+    "scheduled_service": "no",
+    "gps_code": "SWCU",
+    "iata_code": "",
+    "local_code": "PA0138",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "350605",
+    "ident": "US-6062",
+    "type": "small_airport",
+    "name": "Skydive San Joaquin Valley Airport",
+    "latitude_deg": "35.097819",
+    "longitude_deg": "-119.070961",
+    "elevation_ft": "327",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Bakersfield",
+    "scheduled_service": "no",
+    "gps_code": "81CA",
+    "iata_code": "",
+    "local_code": "81CA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

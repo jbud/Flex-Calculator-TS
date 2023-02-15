@@ -1,0 +1,20 @@
+{
+    "id": "318508",
+    "ident": "AR-0570",
+    "type": "small_airport",
+    "name": "Villa Valeria Airport",
+    "latitude_deg": "-34.35653",
+    "longitude_deg": "-64.90136",
+    "elevation_ft": "955",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-X",
+    "municipality": "Villa Valeria",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CVV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

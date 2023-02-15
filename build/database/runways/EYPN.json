@@ -1,0 +1,20 @@
+{
+    "id": "30238",
+    "ident": "EYPN",
+    "type": "small_airport",
+    "name": "Panevėžys Airfield",
+    "latitude_deg": "55.709512",
+    "longitude_deg": "24.345188",
+    "elevation_ft": "171",
+    "continent": "EU",
+    "iso_country": "LT",
+    "iso_region": "LT-PN",
+    "municipality": "Panevėžys",
+    "scheduled_service": "no",
+    "gps_code": "EYPN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

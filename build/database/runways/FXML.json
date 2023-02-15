@@ -1,0 +1,20 @@
+{
+    "id": "31287",
+    "ident": "FXML",
+    "type": "small_airport",
+    "name": "Malefiloane Airstrip",
+    "latitude_deg": "-29.335500717163086",
+    "longitude_deg": "29.185300827026367",
+    "elevation_ft": "8267",
+    "continent": "AF",
+    "iso_country": "LS",
+    "iso_region": "LS-J",
+    "municipality": "Malefiloane",
+    "scheduled_service": "no",
+    "gps_code": "FXML",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

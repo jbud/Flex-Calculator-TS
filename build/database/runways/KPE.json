@@ -1,0 +1,20 @@
+{
+    "id": "307354",
+    "ident": "KPE",
+    "type": "small_airport",
+    "name": "Yapsiei Airport",
+    "latitude_deg": "-4.6280555555600005",
+    "longitude_deg": "141.094166667",
+    "elevation_ft": "600",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-SAN",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "AYYP",
+    "iata_code": "KPE",
+    "local_code": "YAP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

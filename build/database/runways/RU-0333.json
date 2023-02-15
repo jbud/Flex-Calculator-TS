@@ -1,0 +1,20 @@
+{
+    "id": "46163",
+    "ident": "RU-0333",
+    "type": "small_airport",
+    "name": "Novorossiya Airfield",
+    "latitude_deg": "43.347",
+    "longitude_deg": "132.557",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-PRI",
+    "municipality": "Novorossiya",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэродром Новороссия"
+}

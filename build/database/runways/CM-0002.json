@@ -1,0 +1,20 @@
+{
+    "id": "319202",
+    "ident": "CM-0002",
+    "type": "small_airport",
+    "name": "Touboro Airport",
+    "latitude_deg": "7.765747",
+    "longitude_deg": "15.317976",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "CM",
+    "iso_region": "CM-NO",
+    "municipality": "Touboro",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

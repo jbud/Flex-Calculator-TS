@@ -1,0 +1,20 @@
+{
+    "id": "32659",
+    "ident": "FMNX",
+    "type": "small_airport",
+    "name": "Mandritsara Airport",
+    "latitude_deg": "-15.845992",
+    "longitude_deg": "48.834718",
+    "elevation_ft": "1007",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-M",
+    "municipality": "Mandritsara",
+    "scheduled_service": "yes",
+    "gps_code": "FMNX",
+    "iata_code": "WMA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mandritsara_Airport",
+    "keywords": ""
+}

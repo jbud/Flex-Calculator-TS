@@ -1,0 +1,20 @@
+{
+    "id": "43670",
+    "ident": "RU-0082",
+    "type": "small_airport",
+    "name": "Bolchary Airport",
+    "latitude_deg": "59.821293",
+    "longitude_deg": "68.829631",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KHM",
+    "municipality": "Bolchary",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Болчары"
+}

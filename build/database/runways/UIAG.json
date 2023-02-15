@@ -1,0 +1,20 @@
+{
+    "id": "335243",
+    "ident": "UIAG",
+    "type": "small_airport",
+    "name": "Ust'-Karenga Airport",
+    "latitude_deg": "54.441672",
+    "longitude_deg": "116.513894",
+    "elevation_ft": "2223",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-CHI",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "UICU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "УИЦУ, Усть-Каренга"
+}

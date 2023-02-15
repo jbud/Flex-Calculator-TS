@@ -1,0 +1,20 @@
+{
+    "id": "353601",
+    "ident": "NI-0009",
+    "type": "small_airport",
+    "name": "Las Chacaras Airport",
+    "latitude_deg": "12.37954",
+    "longitude_deg": "-86.82237",
+    "elevation_ft": "272",
+    "continent": "NA",
+    "iso_country": "NI",
+    "iso_region": "NI-LE",
+    "municipality": "Las Chacaras",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

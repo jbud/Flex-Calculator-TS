@@ -1,0 +1,20 @@
+{
+    "id": "31232",
+    "ident": "FVFG",
+    "type": "small_airport",
+    "name": "Fothergill Airport",
+    "latitude_deg": "-16.704523",
+    "longitude_deg": "28.660112",
+    "elevation_ft": "1630",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MW",
+    "municipality": "Fothergill",
+    "scheduled_service": "no",
+    "gps_code": "FVFG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

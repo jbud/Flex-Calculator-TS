@@ -1,0 +1,20 @@
+{
+    "id": "43293",
+    "ident": "LERA",
+    "type": "heliport",
+    "name": "R.A.C.C. Heliport",
+    "latitude_deg": "41.38330078125",
+    "longitude_deg": "2.108330011367798",
+    "elevation_ft": "300",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Barcelona",
+    "scheduled_service": "no",
+    "gps_code": "LERA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "43830",
+    "ident": "LOIA",
+    "type": "heliport",
+    "name": "Kitzbühel Hospital Helipad",
+    "latitude_deg": "47.449643",
+    "longitude_deg": "12.395697",
+    "elevation_ft": "2510",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Kitzbühel",
+    "scheduled_service": "no",
+    "gps_code": "LOIA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

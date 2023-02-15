@@ -1,0 +1,20 @@
+{
+    "id": "321221",
+    "ident": "ES-0137",
+    "type": "small_airport",
+    "name": "Urda Agricultural Airstrip",
+    "latitude_deg": "39.405432",
+    "longitude_deg": "-3.829932",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CM",
+    "municipality": "Urda",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

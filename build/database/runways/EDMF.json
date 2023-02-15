@@ -1,0 +1,20 @@
+{
+    "id": "28564",
+    "ident": "EDMF",
+    "type": "small_airport",
+    "name": "Fürstenzell Airfield",
+    "latitude_deg": "48.518055",
+    "longitude_deg": "13.345833",
+    "elevation_ft": "1345",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Fürstenzell",
+    "scheduled_service": "no",
+    "gps_code": "EDMF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

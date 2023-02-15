@@ -1,0 +1,20 @@
+{
+    "id": "349433",
+    "ident": "SA-0024",
+    "type": "heliport",
+    "name": "Al Aflaj Central Hospital",
+    "latitude_deg": "22.29485",
+    "longitude_deg": "46.72198",
+    "elevation_ft": "1778",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-01",
+    "municipality": "Layla",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

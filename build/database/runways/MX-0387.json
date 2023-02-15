@@ -1,0 +1,20 @@
+{
+    "id": "322559",
+    "ident": "MX-0387",
+    "type": "small_airport",
+    "name": "La Esperanza I Airport",
+    "latitude_deg": "18.987527",
+    "longitude_deg": "-102.112083",
+    "elevation_ft": "1099",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-MIC",
+    "municipality": "Nueva Italia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LEE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

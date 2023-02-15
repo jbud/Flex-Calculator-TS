@@ -1,0 +1,20 @@
+{
+    "id": "40662",
+    "ident": "SK-061",
+    "type": "small_airport",
+    "name": "Dumacita Airport",
+    "latitude_deg": "4.481667",
+    "longitude_deg": "-72.04",
+    "elevation_ft": "492",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAS",
+    "municipality": "Maní",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MIN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

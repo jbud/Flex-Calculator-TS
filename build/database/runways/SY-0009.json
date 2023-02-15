@@ -1,0 +1,20 @@
+{
+    "id": "349453",
+    "ident": "SY-0009",
+    "type": "small_airport",
+    "name": "Green Village Airport",
+    "latitude_deg": "35.04855",
+    "longitude_deg": "40.58405",
+    "elevation_ft": "676",
+    "continent": "AS",
+    "iso_country": "SY",
+    "iso_region": "SY-DY",
+    "municipality": "Green Village",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31273",
+    "ident": "FVZC",
+    "type": "small_airport",
+    "name": "Zisco Airport",
+    "latitude_deg": "-19.029",
+    "longitude_deg": "29.721901",
+    "elevation_ft": "3975",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MI",
+    "municipality": "Zisco",
+    "scheduled_service": "no",
+    "gps_code": "FVZC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

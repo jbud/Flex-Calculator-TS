@@ -1,0 +1,20 @@
+{
+    "id": "347948",
+    "ident": "YIVE",
+    "type": "small_airport",
+    "name": "Inverloch Airport",
+    "latitude_deg": "-38.612709",
+    "longitude_deg": "145.733481",
+    "elevation_ft": "100",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Inverloch",
+    "scheduled_service": "no",
+    "gps_code": "YIVE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

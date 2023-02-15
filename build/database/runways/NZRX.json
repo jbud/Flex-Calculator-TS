@@ -1,0 +1,20 @@
+{
+    "id": "30351",
+    "ident": "NZRX",
+    "type": "small_airport",
+    "name": "Roxburgh Aerodrome",
+    "latitude_deg": "-45.51169967651367",
+    "longitude_deg": "169.31700134277344",
+    "elevation_ft": "463",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-OTA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "NZRX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

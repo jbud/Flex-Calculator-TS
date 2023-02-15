@@ -1,0 +1,20 @@
+{
+    "id": "42053",
+    "ident": "MHCU",
+    "type": "small_airport",
+    "name": "Cauquira Airport",
+    "latitude_deg": "15.316667",
+    "longitude_deg": "-83.591667",
+    "elevation_ft": "21",
+    "continent": "NA",
+    "iso_country": "HN",
+    "iso_region": "HN-GD",
+    "municipality": "Cauquira",
+    "scheduled_service": "no",
+    "gps_code": "MHCU",
+    "iata_code": "CDD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cauquira_Airport",
+    "keywords": ""
+}

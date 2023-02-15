@@ -1,0 +1,20 @@
+{
+    "id": "41359",
+    "ident": "MY-0028",
+    "type": "small_airport",
+    "name": "Wallace Bay Airport",
+    "latitude_deg": "4.244166851043701",
+    "longitude_deg": "117.65611267089844",
+    "elevation_ft": "10",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-12",
+    "municipality": "Wallace Bay",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

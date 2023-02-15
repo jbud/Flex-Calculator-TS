@@ -1,0 +1,20 @@
+{
+    "id": "29757",
+    "ident": "FACL",
+    "type": "small_airport",
+    "name": "Carolina Airport",
+    "latitude_deg": "-26.078100204467773",
+    "longitude_deg": "30.092500686645508",
+    "elevation_ft": "5420",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-MP",
+    "municipality": "Carolina",
+    "scheduled_service": "no",
+    "gps_code": "FACL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

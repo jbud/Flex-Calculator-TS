@@ -1,0 +1,20 @@
+{
+    "id": "41840",
+    "ident": "RU-0027",
+    "type": "small_airport",
+    "name": "Rybnovsk Airport",
+    "latitude_deg": "53.247101",
+    "longitude_deg": "141.806",
+    "elevation_ft": "10",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-SAK",
+    "municipality": "Rybnovsk",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

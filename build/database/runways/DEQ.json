@@ -1,0 +1,20 @@
+{
+    "id": "336115",
+    "ident": "DEQ",
+    "type": "small_airport",
+    "name": "Deqing Moganshan Airport",
+    "latitude_deg": "30.504264",
+    "longitude_deg": "120.107388",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-33",
+    "municipality": "Huzhou",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "DEQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Deqing_Moganshan_Airport",
+    "keywords": ""
+}

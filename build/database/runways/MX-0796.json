@@ -1,0 +1,20 @@
+{
+    "id": "328868",
+    "ident": "MX-0796",
+    "type": "small_airport",
+    "name": "Yack Airport",
+    "latitude_deg": "22.324155",
+    "longitude_deg": "-98.164632",
+    "elevation_ft": "89",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-VER",
+    "municipality": "Panuco",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "YAK",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

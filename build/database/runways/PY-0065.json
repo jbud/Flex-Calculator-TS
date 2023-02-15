@@ -1,0 +1,20 @@
+{
+    "id": "505559",
+    "ident": "PY-0065",
+    "type": "heliport",
+    "name": "Helipuerto del Comando de Infantería de Marina",
+    "latitude_deg": "-25.276721",
+    "longitude_deg": "-57.649689",
+    "elevation_ft": "300",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-ASU",
+    "municipality": "Comando de Infantería de Marina",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

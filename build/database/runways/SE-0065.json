@@ -1,0 +1,20 @@
+{
+    "id": "346055",
+    "ident": "SE-0065",
+    "type": "small_airport",
+    "name": "Stockholm - Hova",
+    "latitude_deg": "59.674664",
+    "longitude_deg": "17.77854",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-AB",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

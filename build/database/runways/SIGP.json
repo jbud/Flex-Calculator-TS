@@ -1,0 +1,20 @@
+{
+    "id": "335406",
+    "ident": "SIGP",
+    "type": "heliport",
+    "name": "Rio - Bravo Helipad",
+    "latitude_deg": "-22.909286",
+    "longitude_deg": "-43.181956",
+    "elevation_ft": "495",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Rio de Janeiro",
+    "scheduled_service": "no",
+    "gps_code": "SIGP",
+    "iata_code": "",
+    "local_code": "RJ0078",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

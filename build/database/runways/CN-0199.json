@@ -1,0 +1,20 @@
+{
+    "id": "348164",
+    "ident": "CN-0199",
+    "type": "small_airport",
+    "name": "Shanghai Gaodong Airport",
+    "latitude_deg": "31.33396",
+    "longitude_deg": "121.62176",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-31",
+    "municipality": "Shanghai (Pudong)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

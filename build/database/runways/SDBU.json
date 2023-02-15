@@ -1,0 +1,20 @@
+{
+    "id": "309745",
+    "ident": "SDBU",
+    "type": "small_airport",
+    "name": "Fazenda Douradinho Airport",
+    "latitude_deg": "-21.6433",
+    "longitude_deg": "-53.3106",
+    "elevation_ft": "1177",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Nova Andradina",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SDBU, SIZM"
+}

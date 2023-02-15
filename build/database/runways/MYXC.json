@@ -1,0 +1,20 @@
+{
+    "id": "35347",
+    "ident": "MYXC",
+    "type": "small_airport",
+    "name": "Hog Key Airport",
+    "latitude_deg": "23.60070037841797",
+    "longitude_deg": "-75.33930206298828",
+    "elevation_ft": "5",
+    "continent": "NA",
+    "iso_country": "BS",
+    "iso_region": "BS-LI",
+    "municipality": "Long Island",
+    "scheduled_service": "no",
+    "gps_code": "MYXC",
+    "iata_code": "",
+    "local_code": "MYXC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

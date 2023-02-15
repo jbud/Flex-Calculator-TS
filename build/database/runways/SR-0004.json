@@ -1,0 +1,20 @@
+{
+    "id": "323795",
+    "ident": "SR-0004",
+    "type": "small_airport",
+    "name": "Alupi Airstrip",
+    "latitude_deg": "5.821147",
+    "longitude_deg": "-56.81464",
+    "elevation_ft": "3",
+    "continent": "SA",
+    "iso_country": "SR",
+    "iso_region": "SR-NI",
+    "municipality": "Alupi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

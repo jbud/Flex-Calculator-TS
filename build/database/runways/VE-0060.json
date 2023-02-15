@@ -1,0 +1,20 @@
+{
+    "id": "40409",
+    "ident": "VE-0060",
+    "type": "heliport",
+    "name": "El Encantado  Heliport",
+    "latitude_deg": "10.45199966430664",
+    "longitude_deg": "-66.7947998046875",
+    "elevation_ft": "328",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-M",
+    "municipality": "El Encantado",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

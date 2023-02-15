@@ -1,0 +1,20 @@
+{
+    "id": "41079",
+    "ident": "SK-197",
+    "type": "small_airport",
+    "name": "Unguía Airport",
+    "latitude_deg": "8.032714",
+    "longitude_deg": "-77.091751",
+    "elevation_ft": "120",
+    "continent": "NA",
+    "iso_country": "CO",
+    "iso_region": "CO-CHO",
+    "municipality": "Unguía",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "UNC",
+    "local_code": "UNC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "43262",
+    "ident": "LEGU",
+    "type": "small_airport",
+    "name": "Aeródromo de Guadalupe",
+    "latitude_deg": "39.345699",
+    "longitude_deg": "-5.19735",
+    "elevation_ft": "1408",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-EX",
+    "municipality": "Guadalupe",
+    "scheduled_service": "no",
+    "gps_code": "LEGU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "318704",
+    "ident": "KE-0101",
+    "type": "small_airport",
+    "name": "Bomet Airport",
+    "latitude_deg": "-0.776471",
+    "longitude_deg": "35.318411",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-600",
+    "municipality": "Bomet",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "314692",
+    "ident": "DE-0175",
+    "type": "small_airport",
+    "name": "Büren Airfield",
+    "latitude_deg": "51.5427",
+    "longitude_deg": "8.5808",
+    "elevation_ft": "920",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Büren",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.ac-bueren.de/",
+    "wikipedia_link": "http://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_B%C3%BCren",
+    "keywords": ""
+}

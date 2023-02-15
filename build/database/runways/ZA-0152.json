@@ -1,0 +1,20 @@
+{
+    "id": "324963",
+    "ident": "ZA-0152",
+    "type": "small_airport",
+    "name": "Vaal Dam Airfield",
+    "latitude_deg": "-26.922516",
+    "longitude_deg": "28.165097",
+    "elevation_ft": "5000",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-FS",
+    "municipality": "Deneysville",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "vaal, dam, deneysville,free state"
+}

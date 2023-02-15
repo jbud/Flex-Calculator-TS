@@ -1,0 +1,20 @@
+{
+    "id": "1370",
+    "ident": "CPA2",
+    "type": "heliport",
+    "name": "Mount Forest (Louise Marshall Hospital) Heliport",
+    "latitude_deg": "43.97420120239258",
+    "longitude_deg": "-80.73750305175781",
+    "elevation_ft": "1365",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Mount Forest",
+    "scheduled_service": "no",
+    "gps_code": "CPA2",
+    "iata_code": "",
+    "local_code": "CPA2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "PA2"
+}

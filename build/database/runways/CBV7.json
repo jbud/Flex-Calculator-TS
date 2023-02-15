@@ -1,0 +1,20 @@
+{
+    "id": "727",
+    "ident": "CBV7",
+    "type": "heliport",
+    "name": "Valemount (Yellowhead Helicopters) Heliport",
+    "latitude_deg": "52.86669921875",
+    "longitude_deg": "-119.30000305175781",
+    "elevation_ft": "2600",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Valemount",
+    "scheduled_service": "no",
+    "gps_code": "CBV7",
+    "iata_code": "",
+    "local_code": "CBV7",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "BV7"
+}

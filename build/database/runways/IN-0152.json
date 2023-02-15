@@ -1,0 +1,20 @@
+{
+    "id": "340154",
+    "ident": "IN-0152",
+    "type": "heliport",
+    "name": "Alappuzha Heliport",
+    "latitude_deg": "9.49414",
+    "longitude_deg": "76.31942",
+    "elevation_ft": "20",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-KL",
+    "municipality": "Alappuzha",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

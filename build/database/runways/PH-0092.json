@@ -1,0 +1,20 @@
+{
+    "id": "325995",
+    "ident": "PH-0092",
+    "type": "small_airport",
+    "name": "Cabaluyan Airstrip",
+    "latitude_deg": "15.689794",
+    "longitude_deg": "120.330656",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-PAN",
+    "municipality": "Mangatarem",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines",
+    "keywords": "Cabaluyan, Mangatarem"
+}

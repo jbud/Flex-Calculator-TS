@@ -1,0 +1,20 @@
+{
+    "id": "348631",
+    "ident": "MX-1667",
+    "type": "small_airport",
+    "name": "El Puma Airport",
+    "latitude_deg": "23.77922",
+    "longitude_deg": "-97.95611",
+    "elevation_ft": "44",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-TAM",
+    "municipality": "Soto La Marina",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "EPU",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

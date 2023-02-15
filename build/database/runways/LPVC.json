@@ -1,0 +1,20 @@
+{
+    "id": "321254",
+    "ident": "LPVC",
+    "type": "heliport",
+    "name": "Viana do Castelo Hospital Helipad",
+    "latitude_deg": "41.697716",
+    "longitude_deg": "-8.8314976",
+    "elevation_ft": "135",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-16",
+    "municipality": "Viana do Castelo",
+    "scheduled_service": "no",
+    "gps_code": "LPVC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

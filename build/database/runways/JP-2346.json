@@ -1,0 +1,20 @@
+{
+    "id": "346279",
+    "ident": "JP-2346",
+    "type": "heliport",
+    "name": "Kobayashi Municipal Hospital Heliport",
+    "latitude_deg": "31.99005",
+    "longitude_deg": "130.98573",
+    "elevation_ft": "696",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-45",
+    "municipality": "Kobayashi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

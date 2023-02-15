@@ -1,0 +1,20 @@
+{
+    "id": "353431",
+    "ident": "RU-0896",
+    "type": "small_airport",
+    "name": "Ulekchin Airport",
+    "latitude_deg": "50.50104",
+    "longitude_deg": "104.27745",
+    "elevation_ft": "2861",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-BU",
+    "municipality": "Ulekchin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

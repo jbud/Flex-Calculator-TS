@@ -1,0 +1,20 @@
+{
+    "id": "315195",
+    "ident": "VTA",
+    "type": "small_airport",
+    "name": "Victoria Airport",
+    "latitude_deg": "14.9344",
+    "longitude_deg": "-87.394",
+    "elevation_ft": "1200",
+    "continent": "NA",
+    "iso_country": "HN",
+    "iso_region": "HN-YO",
+    "municipality": "Victoria",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_Airport_(Honduras)",
+    "keywords": ""
+}

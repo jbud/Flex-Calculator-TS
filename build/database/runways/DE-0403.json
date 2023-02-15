@@ -1,0 +1,20 @@
+{
+    "id": "321359",
+    "ident": "DE-0403",
+    "type": "small_airport",
+    "name": "Ohlsbach UL",
+    "latitude_deg": "48.4338888",
+    "longitude_deg": "7.9708332",
+    "elevation_ft": "525",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Offenburg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.ortenauer-dgf.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

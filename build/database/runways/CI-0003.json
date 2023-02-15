@@ -1,0 +1,20 @@
+{
+    "id": "340298",
+    "ident": "CI-0003",
+    "type": "small_airport",
+    "name": "Wèoulo Airport",
+    "latitude_deg": "4.6874",
+    "longitude_deg": "-7.0773",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "CI",
+    "iso_region": "CI-BS",
+    "municipality": "Wèoulo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

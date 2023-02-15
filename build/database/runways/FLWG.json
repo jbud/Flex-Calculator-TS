@@ -1,0 +1,20 @@
+{
+    "id": "31182",
+    "ident": "FLWG",
+    "type": "small_airport",
+    "name": "West Seven Airport",
+    "latitude_deg": "-11.912699699401855",
+    "longitude_deg": "25.68440055847168",
+    "elevation_ft": "4000",
+    "continent": "AF",
+    "iso_country": "ZM",
+    "iso_region": "ZM-06",
+    "municipality": "Chanika",
+    "scheduled_service": "no",
+    "gps_code": "FLWG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

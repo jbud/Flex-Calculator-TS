@@ -1,0 +1,20 @@
+{
+    "id": "32022",
+    "ident": "HANK",
+    "type": "small_airport",
+    "name": "Nekemte Airport",
+    "latitude_deg": "9.034333",
+    "longitude_deg": "36.613154",
+    "elevation_ft": "6500",
+    "continent": "AF",
+    "iso_country": "ET",
+    "iso_region": "ET-OR",
+    "municipality": "Nekemte",
+    "scheduled_service": "no",
+    "gps_code": "HANK",
+    "iata_code": "NEK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

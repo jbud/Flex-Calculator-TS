@@ -1,0 +1,20 @@
+{
+    "id": "352704",
+    "ident": "AU-0380",
+    "type": "small_airport",
+    "name": "Menindee Number 2 Airport",
+    "latitude_deg": "-32.847423",
+    "longitude_deg": "142.476044",
+    "elevation_ft": "214",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Menindee",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "342015",
+    "ident": "ES-0288",
+    "type": "heliport",
+    "name": "Serracines Heliport",
+    "latitude_deg": "40.623",
+    "longitude_deg": "-3.3973",
+    "elevation_ft": "2277",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-MD",
+    "municipality": "Serracines",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

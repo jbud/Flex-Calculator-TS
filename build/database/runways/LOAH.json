@@ -1,0 +1,20 @@
+{
+    "id": "43809",
+    "ident": "LOAH",
+    "type": "heliport",
+    "name": "Horn Heliport",
+    "latitude_deg": "48.66972351074219",
+    "longitude_deg": "15.661944389343262",
+    "elevation_ft": "1012",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Horn",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

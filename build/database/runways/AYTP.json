@@ -1,0 +1,20 @@
+{
+    "id": "309953",
+    "ident": "AYTP",
+    "type": "small_airport",
+    "name": "Tep Tep Airport",
+    "latitude_deg": "-5.9553",
+    "longitude_deg": "146.5595",
+    "elevation_ft": "7011",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-MPM",
+    "municipality": "Teptep",
+    "scheduled_service": "no",
+    "gps_code": "AYTP",
+    "iata_code": "TEP",
+    "local_code": "TEP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

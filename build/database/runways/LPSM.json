@@ -1,0 +1,20 @@
+{
+    "id": "321269",
+    "ident": "LPSM",
+    "type": "heliport",
+    "name": "Santa Maria Hospital Helipad",
+    "latitude_deg": "38.749372",
+    "longitude_deg": "-9.160627",
+    "elevation_ft": "330",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-11",
+    "municipality": "Lisbon",
+    "scheduled_service": "no",
+    "gps_code": "LPSM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

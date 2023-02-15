@@ -1,0 +1,20 @@
+{
+    "id": "42571",
+    "ident": "KE-6056",
+    "type": "small_airport",
+    "name": "Ziwani Airport",
+    "latitude_deg": "-3.2193610668182373",
+    "longitude_deg": "37.80072021484375",
+    "elevation_ft": "3025",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-300",
+    "municipality": "Ziwani",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

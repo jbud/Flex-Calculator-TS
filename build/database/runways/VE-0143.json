@@ -1,0 +1,20 @@
+{
+    "id": "40492",
+    "ident": "VE-0143",
+    "type": "heliport",
+    "name": "Muelle Seco  Heliport",
+    "latitude_deg": "10.237099647521973",
+    "longitude_deg": "-64.6343994140625",
+    "elevation_ft": "145",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-B",
+    "municipality": "Puerto La Cruz",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

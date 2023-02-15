@@ -1,0 +1,20 @@
+{
+    "id": "31040",
+    "ident": "FAFU",
+    "type": "small_airport",
+    "name": "Fraaiuitzicht Airport",
+    "latitude_deg": "-27.316999435424805",
+    "longitude_deg": "27.25",
+    "elevation_ft": "4841",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-FS",
+    "municipality": "Fraaiuitzicht",
+    "scheduled_service": "no",
+    "gps_code": "FAFU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "44224",
+    "ident": "CN-0146",
+    "type": "medium_airport",
+    "name": "Daishan Air Base",
+    "latitude_deg": "30.287581",
+    "longitude_deg": "122.144401",
+    "elevation_ft": "7",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-33",
+    "municipality": "Zhoushan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

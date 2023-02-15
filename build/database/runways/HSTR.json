@@ -1,0 +1,20 @@
+{
+    "id": "31631",
+    "ident": "HSTR",
+    "type": "small_airport",
+    "name": "Torit Airport",
+    "latitude_deg": "4.416769",
+    "longitude_deg": "32.575707",
+    "elevation_ft": "2050",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-19",
+    "municipality": "Torit",
+    "scheduled_service": "no",
+    "gps_code": "HJTR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Torit_Airport",
+    "keywords": "HSTR"
+}

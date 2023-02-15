@@ -1,0 +1,20 @@
+{
+    "id": "40620",
+    "ident": "SK-252",
+    "type": "small_airport",
+    "name": "Puerto Estrella Airport",
+    "latitude_deg": "12.35",
+    "longitude_deg": "-71.3",
+    "elevation_ft": "10",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-LAG",
+    "municipality": "Uribia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "URA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

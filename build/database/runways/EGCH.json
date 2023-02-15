@@ -1,0 +1,20 @@
+{
+    "id": "314580",
+    "ident": "EGCH",
+    "type": "heliport",
+    "name": "Holyhead Heliport",
+    "latitude_deg": "53.298848",
+    "longitude_deg": "-4.616862",
+    "elevation_ft": "39",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-WLS",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EGCH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

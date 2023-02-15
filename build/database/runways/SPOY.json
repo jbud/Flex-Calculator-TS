@@ -1,0 +1,20 @@
+{
+    "id": "39639",
+    "ident": "SPOY",
+    "type": "small_airport",
+    "name": "Atico Airport",
+    "latitude_deg": "-16.232846",
+    "longitude_deg": "-73.605652",
+    "elevation_ft": "9",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-ARE",
+    "municipality": "Atico",
+    "scheduled_service": "no",
+    "gps_code": "SPOY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

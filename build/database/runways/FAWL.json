@@ -1,0 +1,20 @@
+{
+    "id": "30562",
+    "ident": "FAWL",
+    "type": "small_airport",
+    "name": "Williston Airport",
+    "latitude_deg": "-31.38360023498535",
+    "longitude_deg": "20.93280029296875",
+    "elevation_ft": "3484",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Williston",
+    "scheduled_service": "no",
+    "gps_code": "FAWL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

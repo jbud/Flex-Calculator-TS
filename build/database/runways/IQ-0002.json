@@ -1,0 +1,20 @@
+{
+    "id": "44495",
+    "ident": "IQ-0002",
+    "type": "small_airport",
+    "name": "Al Hayy Airport",
+    "latitude_deg": "32.125633239746094",
+    "longitude_deg": "45.7816162109375",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "IQ",
+    "iso_region": "IQ-WA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

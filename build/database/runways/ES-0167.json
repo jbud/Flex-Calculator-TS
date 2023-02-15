@@ -1,0 +1,20 @@
+{
+    "id": "321439",
+    "ident": "ES-0167",
+    "type": "small_airport",
+    "name": "La Llosa Airfield",
+    "latitude_deg": "39.74979",
+    "longitude_deg": "-0.181346",
+    "elevation_ft": "7",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-VC",
+    "municipality": "La Llosa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://clubulmlallosa.com/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

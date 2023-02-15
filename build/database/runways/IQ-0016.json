@@ -1,0 +1,20 @@
+{
+    "id": "44509",
+    "ident": "IQ-0016",
+    "type": "medium_airport",
+    "name": "H1 New Air Base",
+    "latitude_deg": "33.816262",
+    "longitude_deg": "41.436712",
+    "elevation_ft": "1353",
+    "continent": "AS",
+    "iso_country": "IQ",
+    "iso_region": "IQ-AN",
+    "municipality": "Anah",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

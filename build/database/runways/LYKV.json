@@ -1,0 +1,20 @@
+{
+    "id": "31872",
+    "ident": "LYKV",
+    "type": "medium_airport",
+    "name": "Morava Airport",
+    "latitude_deg": "43.818298",
+    "longitude_deg": "20.5872",
+    "elevation_ft": "686",
+    "continent": "EU",
+    "iso_country": "RS",
+    "iso_region": "RS-18",
+    "municipality": "Kraljevo",
+    "scheduled_service": "yes",
+    "gps_code": "LYKV",
+    "iata_code": "KVO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Morava_Airport",
+    "keywords": "Lađevci Airport"
+}

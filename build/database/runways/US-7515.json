@@ -1,0 +1,20 @@
+{
+    "id": "506319",
+    "ident": "US-7515",
+    "type": "heliport",
+    "name": "Beaumont Farmington Hills Heliport",
+    "latitude_deg": "42.447702",
+    "longitude_deg": "-83.322793",
+    "elevation_ft": "657",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Farmington Hills",
+    "scheduled_service": "no",
+    "gps_code": "5MI8",
+    "iata_code": "",
+    "local_code": "5MI8",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "28016",
+    "ident": "YUDA",
+    "type": "small_airport",
+    "name": "Undara Airport",
+    "latitude_deg": "-18.200000762939453",
+    "longitude_deg": "144.60000610351562",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YUDA",
+    "iata_code": "UDA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40677",
+    "ident": "SK-078",
+    "type": "small_airport",
+    "name": "Germania Airport",
+    "latitude_deg": "5.186111",
+    "longitude_deg": "-72.32",
+    "elevation_ft": "702",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAS",
+    "municipality": "Yopal",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "YPP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

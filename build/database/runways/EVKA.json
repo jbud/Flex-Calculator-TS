@@ -1,0 +1,20 @@
+{
+    "id": "31029",
+    "ident": "EVKA",
+    "type": "medium_airport",
+    "name": "Jēkabpils Air Base",
+    "latitude_deg": "56.534698",
+    "longitude_deg": "25.8925",
+    "elevation_ft": "289",
+    "continent": "EU",
+    "iso_country": "LV",
+    "iso_region": "LV-042",
+    "municipality": "Jēkabpils",
+    "scheduled_service": "no",
+    "gps_code": "EVKA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/J%C4%93kabpils_(air_base)",
+    "keywords": "Yekabpils, Krustpils"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "348086",
+    "ident": "US-5322",
+    "type": "small_airport",
+    "name": "Guilder Peak Airport",
+    "latitude_deg": "41.2343",
+    "longitude_deg": "-111.55284",
+    "elevation_ft": "8190",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Morgan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

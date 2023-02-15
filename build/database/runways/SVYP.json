@@ -1,0 +1,20 @@
+{
+    "id": "40348",
+    "ident": "SVYP",
+    "type": "small_airport",
+    "name": "Yopita Airport",
+    "latitude_deg": "7.199999809265137",
+    "longitude_deg": "-69.31666564941406",
+    "elevation_ft": "360",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVYP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

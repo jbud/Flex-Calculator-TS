@@ -1,0 +1,20 @@
+{
+    "id": "31323",
+    "ident": "FZBS",
+    "type": "small_airport",
+    "name": "Semendwa Airport",
+    "latitude_deg": "-3.237609",
+    "longitude_deg": "18.133965",
+    "elevation_ft": "1148",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-MN",
+    "municipality": "Semendwa",
+    "scheduled_service": "no",
+    "gps_code": "FZBS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

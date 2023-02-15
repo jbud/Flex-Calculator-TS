@@ -1,0 +1,20 @@
+{
+    "id": "41913",
+    "ident": "KZ-0061",
+    "type": "small_airport",
+    "name": "Turkestan Airport",
+    "latitude_deg": "43.27690124511719",
+    "longitude_deg": "68.19039916992188",
+    "elevation_ft": "669",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-YUZ",
+    "municipality": "Turkestan",
+    "scheduled_service": "no",
+    "gps_code": "UAJT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "43756",
+    "ident": "EBFR",
+    "type": "heliport",
+    "name": "Francorchamps heliport",
+    "latitude_deg": "50.456178881499994",
+    "longitude_deg": "5.95332384109",
+    "elevation_ft": "1575",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-WLG",
+    "municipality": "Francorchamps",
+    "scheduled_service": "no",
+    "gps_code": "EBFR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

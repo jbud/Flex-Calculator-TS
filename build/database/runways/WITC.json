@@ -1,0 +1,20 @@
+{
+    "id": "31889",
+    "ident": "WITC",
+    "type": "medium_airport",
+    "name": "Cut Nyak Dhien Airport",
+    "latitude_deg": "4.040631",
+    "longitude_deg": "96.253538",
+    "elevation_ft": "10",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-AC",
+    "municipality": "Kuala Pesisir",
+    "scheduled_service": "yes",
+    "gps_code": "WITC",
+    "iata_code": "MEQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cut_Nyak_Dhien_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "505536",
+    "ident": "PY-0047",
+    "type": "heliport",
+    "name": "Helipuerto de la Costanera de Asunción",
+    "latitude_deg": "-25.276051",
+    "longitude_deg": "-57.635887",
+    "elevation_ft": "206",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-ASU",
+    "municipality": "Av. José Asunción Flores (Av. Costanera)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.presidencia.gov.py",
+    "wikipedia_link": "https://es.wikipedia.org/wiki/Palacio_de_López",
+    "keywords": ""
+}

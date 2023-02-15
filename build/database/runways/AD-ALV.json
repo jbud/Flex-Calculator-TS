@@ -1,0 +1,20 @@
+{
+    "id": "41841",
+    "ident": "AD-ALV",
+    "type": "heliport",
+    "name": "Andorra la Vella (Our Lady of Meritxell Hospital) Heliport",
+    "latitude_deg": "42.511228",
+    "longitude_deg": "1.533651",
+    "elevation_ft": "3450",
+    "continent": "EU",
+    "iso_country": "AD",
+    "iso_region": "AD-08",
+    "municipality": "Escaldes-Engordany",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "http://pl.wikipedia.org/wiki/Heliport_Andorra_la_Vella",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "356062",
+    "ident": "US-7067",
+    "type": "small_airport",
+    "name": "Ayotte Airport",
+    "latitude_deg": "48.09471",
+    "longitude_deg": "-114.6607",
+    "elevation_ft": "3944",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Marion",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

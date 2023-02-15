@@ -1,0 +1,20 @@
+{
+    "id": "29945",
+    "ident": "FAHF",
+    "type": "small_airport",
+    "name": "Henrys Flats Airport",
+    "latitude_deg": "-33.04610061645508",
+    "longitude_deg": "25.716899871826172",
+    "elevation_ft": "1709",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Henry'S Flats",
+    "scheduled_service": "no",
+    "gps_code": "FAHF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

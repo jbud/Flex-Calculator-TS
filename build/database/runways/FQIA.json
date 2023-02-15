@@ -1,0 +1,20 @@
+{
+    "id": "29974",
+    "ident": "FQIA",
+    "type": "small_airport",
+    "name": "Inhaca Airport",
+    "latitude_deg": "-25.9971446991",
+    "longitude_deg": "32.929351806599996",
+    "elevation_ft": "10",
+    "continent": "AF",
+    "iso_country": "MZ",
+    "iso_region": "MZ-L",
+    "municipality": "Inhaca",
+    "scheduled_service": "no",
+    "gps_code": "FQIA",
+    "iata_code": "IHC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Inhaca_Airport",
+    "keywords": ""
+}

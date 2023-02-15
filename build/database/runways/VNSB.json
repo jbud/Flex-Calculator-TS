@@ -1,0 +1,20 @@
+{
+    "id": "315124",
+    "ident": "VNSB",
+    "type": "small_airport",
+    "name": "Syangboche Airport",
+    "latitude_deg": "27.8112",
+    "longitude_deg": "86.7124",
+    "elevation_ft": "12400",
+    "continent": "AS",
+    "iso_country": "NP",
+    "iso_region": "NP-P1",
+    "municipality": "Namche Bazaar",
+    "scheduled_service": "no",
+    "gps_code": "VNSB",
+    "iata_code": "SYH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Syangboche_Airport",
+    "keywords": "Syanboche"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31278",
+    "ident": "FWLP",
+    "type": "small_airport",
+    "name": "Lifupa Airport",
+    "latitude_deg": "-13.050000190734863",
+    "longitude_deg": "33.150001525878906",
+    "elevation_ft": "3326",
+    "continent": "AF",
+    "iso_country": "MW",
+    "iso_region": "MW-KS",
+    "municipality": "Lifupa",
+    "scheduled_service": "no",
+    "gps_code": "FWLP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

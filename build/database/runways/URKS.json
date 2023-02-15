@@ -1,0 +1,20 @@
+{
+    "id": "44300",
+    "ident": "URKS",
+    "type": "small_airport",
+    "name": "Enem Airfield",
+    "latitude_deg": "44.945999",
+    "longitude_deg": "38.931999",
+    "elevation_ft": "62",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-AD",
+    "municipality": "Enem",
+    "scheduled_service": "no",
+    "gps_code": "URKS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Энем"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40895",
+    "ident": "SK-426",
+    "type": "small_airport",
+    "name": "La María Airport",
+    "latitude_deg": "3.882443",
+    "longitude_deg": "-74.986899",
+    "elevation_ft": "993",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-TOL",
+    "municipality": "Purificacion",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LMT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

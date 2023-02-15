@@ -1,0 +1,20 @@
+{
+    "id": "318936",
+    "ident": "MGRF",
+    "type": "small_airport",
+    "name": "Monterrico Airport",
+    "latitude_deg": "13.894942",
+    "longitude_deg": "-90.485092",
+    "elevation_ft": "20",
+    "continent": "NA",
+    "iso_country": "GT",
+    "iso_region": "GT-SR",
+    "municipality": "Monterrico",
+    "scheduled_service": "no",
+    "gps_code": "MGRF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

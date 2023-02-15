@@ -1,0 +1,20 @@
+{
+    "id": "318985",
+    "ident": "BI-0001",
+    "type": "small_airport",
+    "name": "Ruyigi Airport",
+    "latitude_deg": "-3.471371",
+    "longitude_deg": "30.231485",
+    "elevation_ft": "5194",
+    "continent": "AF",
+    "iso_country": "BI",
+    "iso_region": "BI-RY",
+    "municipality": "Ruyigi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

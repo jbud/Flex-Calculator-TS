@@ -1,0 +1,20 @@
+{
+    "id": "328891",
+    "ident": "SNAN",
+    "type": "small_airport",
+    "name": "Empresa Agrícola Chiapeta Airport",
+    "latitude_deg": "-28.066935",
+    "longitude_deg": "-53.877971",
+    "elevation_ft": "1572",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Chiapeta",
+    "scheduled_service": "no",
+    "gps_code": "SNAN",
+    "iata_code": "",
+    "local_code": "SNAN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

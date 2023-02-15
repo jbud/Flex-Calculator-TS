@@ -1,0 +1,20 @@
+{
+    "id": "324338",
+    "ident": "ZYFX",
+    "type": "small_airport",
+    "name": "Fuxin Airport",
+    "latitude_deg": "42.069014",
+    "longitude_deg": "121.718122",
+    "elevation_ft": "548",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-21",
+    "municipality": "Xihe, Fuxin",
+    "scheduled_service": "no",
+    "gps_code": "ZYFX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "320434",
+    "ident": "CHT4",
+    "type": "heliport",
+    "name": "Nelson (High Terrain Helicopters) Heliport",
+    "latitude_deg": "49.486702",
+    "longitude_deg": "-117.327201",
+    "elevation_ft": "1950",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Nelson",
+    "scheduled_service": "no",
+    "gps_code": "CHT4",
+    "iata_code": "",
+    "local_code": "CHT4",
+    "home_link": "http://highterrainhelicopters.com/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

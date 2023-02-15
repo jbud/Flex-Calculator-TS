@@ -1,0 +1,20 @@
+{
+    "id": "31231",
+    "ident": "FVED",
+    "type": "small_airport",
+    "name": "Eduan Airport",
+    "latitude_deg": "-18.767000198364258",
+    "longitude_deg": "29.783000946044922",
+    "elevation_ft": "3900",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MI",
+    "municipality": "Eduan",
+    "scheduled_service": "no",
+    "gps_code": "FVED",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

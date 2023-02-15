@@ -1,0 +1,20 @@
+{
+    "id": "348900",
+    "ident": "MX-1727",
+    "type": "small_airport",
+    "name": "La Comunidad Airport",
+    "latitude_deg": "28.37105",
+    "longitude_deg": "-101.58062",
+    "elevation_ft": "1822",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-COA",
+    "municipality": "Melchor Múzquiz",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

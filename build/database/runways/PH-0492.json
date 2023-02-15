@@ -1,0 +1,20 @@
+{
+    "id": "430071",
+    "ident": "PH-0492",
+    "type": "small_airport",
+    "name": "Three Thirty Airstrip",
+    "latitude_deg": "10.01095",
+    "longitude_deg": "123.42209",
+    "elevation_ft": "125",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-CEB",
+    "municipality": "Ronda",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

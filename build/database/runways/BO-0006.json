@@ -1,0 +1,20 @@
+{
+    "id": "314378",
+    "ident": "BO-0006",
+    "type": "small_airport",
+    "name": "El Mojar Airport",
+    "latitude_deg": "-12.4274",
+    "longitude_deg": "-65.5061",
+    "elevation_ft": "486",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-B",
+    "municipality": "El Mojar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

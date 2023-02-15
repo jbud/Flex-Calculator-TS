@@ -1,0 +1,20 @@
+{
+    "id": "301727",
+    "ident": "APP",
+    "type": "small_airport",
+    "name": "Asapa Airport",
+    "latitude_deg": "-8.97916666667",
+    "longitude_deg": "148.103611111",
+    "elevation_ft": "1930",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-NPP",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "APP",
+    "local_code": "APA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

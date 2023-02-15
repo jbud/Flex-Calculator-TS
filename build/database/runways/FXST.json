@@ -1,0 +1,20 @@
+{
+    "id": "31295",
+    "ident": "FXST",
+    "type": "small_airport",
+    "name": "St. Theresa Airport",
+    "latitude_deg": "-29.617000579833984",
+    "longitude_deg": "28.783000946044922",
+    "elevation_ft": "6800",
+    "continent": "AF",
+    "iso_country": "LS",
+    "iso_region": "LS-K",
+    "municipality": "St. Theresa",
+    "scheduled_service": "no",
+    "gps_code": "FXST",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

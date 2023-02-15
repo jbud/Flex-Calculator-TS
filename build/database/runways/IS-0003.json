@@ -1,0 +1,20 @@
+{
+    "id": "356245",
+    "ident": "IS-0003",
+    "type": "small_airport",
+    "name": "Skaftafell Airport",
+    "latitude_deg": "63.99948",
+    "longitude_deg": "-16.94116",
+    "elevation_ft": "249",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-8",
+    "municipality": "Öræfi",
+    "scheduled_service": "no",
+    "gps_code": "BISL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

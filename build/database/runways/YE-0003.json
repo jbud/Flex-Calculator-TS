@@ -1,0 +1,20 @@
+{
+    "id": "348395",
+    "ident": "YE-0003",
+    "type": "small_airport",
+    "name": "Al Dhaba Airport",
+    "latitude_deg": "14.70339",
+    "longitude_deg": "49.49634",
+    "elevation_ft": "52",
+    "continent": "AS",
+    "iso_country": "YE",
+    "iso_region": "YE-HD",
+    "municipality": "Al Dhaba",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Petromasila Dabba"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31634",
+    "ident": "HSYE",
+    "type": "small_airport",
+    "name": "Yei Airport",
+    "latitude_deg": "4.128965",
+    "longitude_deg": "30.731817",
+    "elevation_ft": "2000",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-17",
+    "municipality": "Yei",
+    "scheduled_service": "no",
+    "gps_code": "HJYE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yei_Airport",
+    "keywords": "HSYE"
+}

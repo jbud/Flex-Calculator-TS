@@ -1,0 +1,20 @@
+{
+    "id": "309833",
+    "ident": "AU-0068",
+    "type": "heliport",
+    "name": "Amity Heliport",
+    "latitude_deg": "-27.4031",
+    "longitude_deg": "153.44",
+    "elevation_ft": "19",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Amity",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "AMCO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

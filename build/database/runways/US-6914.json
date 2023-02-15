@@ -1,0 +1,20 @@
+{
+    "id": "355489",
+    "ident": "US-6914",
+    "type": "small_airport",
+    "name": "Houston North Airport",
+    "latitude_deg": "61.656249",
+    "longitude_deg": "-149.886685",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Houston",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

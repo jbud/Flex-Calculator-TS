@@ -1,0 +1,20 @@
+{
+    "id": "43823",
+    "ident": "LOSS",
+    "type": "heliport",
+    "name": "Schwarzach Heliport",
+    "latitude_deg": "47.32444381713867",
+    "longitude_deg": "13.154999732971191",
+    "elevation_ft": "2046",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-5",
+    "municipality": "Schwarzach",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

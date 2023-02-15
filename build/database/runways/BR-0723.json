@@ -1,0 +1,20 @@
+{
+    "id": "334989",
+    "ident": "BR-0723",
+    "type": "small_airport",
+    "name": "Estância Mil Airport",
+    "latitude_deg": "-20.199722",
+    "longitude_deg": "-57.101111",
+    "elevation_ft": "466",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Miranda",
+    "scheduled_service": "no",
+    "gps_code": "SNLE",
+    "iata_code": "",
+    "local_code": "MS0495",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

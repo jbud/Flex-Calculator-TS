@@ -1,0 +1,20 @@
+{
+    "id": "30257",
+    "ident": "FAPW",
+    "type": "small_airport",
+    "name": "Pietersrus Airport",
+    "latitude_deg": "-26.60610008239746",
+    "longitude_deg": "29.329200744628906",
+    "elevation_ft": "5472",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-MP",
+    "municipality": "Pietersrus",
+    "scheduled_service": "no",
+    "gps_code": "FAPW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

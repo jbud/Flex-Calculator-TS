@@ -1,0 +1,20 @@
+{
+    "id": "340036",
+    "ident": "AR-0669",
+    "type": "small_airport",
+    "name": "Estancia El Triángulo Airport",
+    "latitude_deg": "-36.349041",
+    "longitude_deg": "-62.226133",
+    "elevation_ft": "341",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Salazar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SLZ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Fumigaciones Wilmot"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "333430",
+    "ident": "US-1203",
+    "type": "heliport",
+    "name": "Opelousas General Health System South Campus Heliport",
+    "latitude_deg": "30.47194",
+    "longitude_deg": "-92.078443",
+    "elevation_ft": "54",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Opelousas",
+    "scheduled_service": "no",
+    "gps_code": "LS63",
+    "iata_code": "",
+    "local_code": "LS63",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

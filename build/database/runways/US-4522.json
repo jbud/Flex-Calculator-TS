@@ -1,0 +1,20 @@
+{
+    "id": "345721",
+    "ident": "US-4522",
+    "type": "small_airport",
+    "name": "Clark Airport",
+    "latitude_deg": "31.88974",
+    "longitude_deg": "-109.08696",
+    "elevation_ft": "4354",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Portal",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

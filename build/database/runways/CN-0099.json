@@ -1,0 +1,20 @@
+{
+    "id": "335267",
+    "ident": "CN-0099",
+    "type": "small_airport",
+    "name": "Chaor Airstrip",
+    "latitude_deg": "48.425954",
+    "longitude_deg": "121.387768",
+    "elevation_ft": "3012",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-15",
+    "municipality": "Chaor",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Ch'ao-erh, Чаор"
+}

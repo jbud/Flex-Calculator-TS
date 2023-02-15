@@ -1,0 +1,20 @@
+{
+    "id": "35364",
+    "ident": "AF10",
+    "type": "small_airport",
+    "name": "Orūzgān Airport",
+    "latitude_deg": "32.9029998779",
+    "longitude_deg": "66.630897522",
+    "elevation_ft": "6725",
+    "continent": "AS",
+    "iso_country": "AF",
+    "iso_region": "AF-ORU",
+    "municipality": "Orūzgān",
+    "scheduled_service": "no",
+    "gps_code": "OARG",
+    "iata_code": "URZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Uruzgan, Urozgan"
+}

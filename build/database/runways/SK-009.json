@@ -1,0 +1,20 @@
+{
+    "id": "40947",
+    "ident": "SK-009",
+    "type": "small_airport",
+    "name": "La Providencia Airport",
+    "latitude_deg": "7.165278",
+    "longitude_deg": "-75.725278",
+    "elevation_ft": "5611",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-ANT",
+    "municipality": "Ituango 2",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ITG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40799",
+    "ident": "SK-302",
+    "type": "small_airport",
+    "name": "La Diana Airport",
+    "latitude_deg": "3.804722",
+    "longitude_deg": "-73.520278",
+    "elevation_ft": "993",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-MET",
+    "municipality": "Castilla",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CAX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

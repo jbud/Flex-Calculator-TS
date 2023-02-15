@@ -1,0 +1,20 @@
+{
+    "id": "308690",
+    "ident": "IT-0054",
+    "type": "small_airport",
+    "name": "Aviosuperficie Il Picchio",
+    "latitude_deg": "45.708667",
+    "longitude_deg": "8.595667",
+    "elevation_ft": "699",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-21",
+    "municipality": "Borgo Ticino (NO)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "NOBRT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Il Picchio"
+}

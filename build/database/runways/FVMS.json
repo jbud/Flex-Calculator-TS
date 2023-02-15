@@ -1,0 +1,20 @@
+{
+    "id": "31252",
+    "ident": "FVMS",
+    "type": "small_airport",
+    "name": "Middle Sabi Airport",
+    "latitude_deg": "-20.216999053955078",
+    "longitude_deg": "32.367000579833984",
+    "elevation_ft": "1510",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MA",
+    "municipality": "Middle Sabi",
+    "scheduled_service": "no",
+    "gps_code": "FVMS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

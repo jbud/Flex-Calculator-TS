@@ -1,0 +1,20 @@
+{
+    "id": "32314",
+    "ident": "SKNQ",
+    "type": "small_airport",
+    "name": "Reyes Murillo Airport",
+    "latitude_deg": "5.6964",
+    "longitude_deg": "-77.2806",
+    "elevation_ft": "12",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CHO",
+    "municipality": "Nuquí",
+    "scheduled_service": "yes",
+    "gps_code": "SKNQ",
+    "iata_code": "NQU",
+    "local_code": "NQU",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Reyes_Murillo_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "42459",
+    "ident": "MM-0004",
+    "type": "small_airport",
+    "name": "Myoungmya Airport",
+    "latitude_deg": "16.570999145507812",
+    "longitude_deg": "94.93229675292969",
+    "elevation_ft": "85",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-07",
+    "municipality": "Myoungmya",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

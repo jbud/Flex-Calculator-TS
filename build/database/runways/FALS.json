@@ -1,0 +1,20 @@
+{
+    "id": "41305",
+    "ident": "FALS",
+    "type": "small_airport",
+    "name": "Somersveld Airport",
+    "latitude_deg": "-33.2462272644043",
+    "longitude_deg": "18.479997634887695",
+    "elevation_ft": "196",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-WC",
+    "municipality": "Somersveld",
+    "scheduled_service": "no",
+    "gps_code": "FALS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

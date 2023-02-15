@@ -1,0 +1,20 @@
+{
+    "id": "30883",
+    "ident": "HADT",
+    "type": "small_airport",
+    "name": "Debre Tabor Airport",
+    "latitude_deg": "11.967000007629395",
+    "longitude_deg": "38",
+    "elevation_ft": "8490",
+    "continent": "AF",
+    "iso_country": "ET",
+    "iso_region": "ET-AM",
+    "municipality": "Debre Tabor",
+    "scheduled_service": "no",
+    "gps_code": "HADT",
+    "iata_code": "DBT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

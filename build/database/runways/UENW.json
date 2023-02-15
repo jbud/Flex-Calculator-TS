@@ -1,0 +1,20 @@
+{
+    "id": "43006",
+    "ident": "UENW",
+    "type": "medium_airport",
+    "name": "Vilyuisk Airport",
+    "latitude_deg": "63.75666809082",
+    "longitude_deg": "121.69333648682",
+    "elevation_ft": "361",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-SA",
+    "municipality": "Vilyuisk",
+    "scheduled_service": "yes",
+    "gps_code": "UENW",
+    "iata_code": "VYI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Vilyuisk_Airport",
+    "keywords": "УЕНВ, Вилюйск"
+}

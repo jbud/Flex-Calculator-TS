@@ -1,0 +1,20 @@
+{
+    "id": "350465",
+    "ident": "ID-0197",
+    "type": "small_airport",
+    "name": "Tinibil Airstrip",
+    "latitude_deg": "-4.824475",
+    "longitude_deg": "140.87378",
+    "elevation_ft": "5400",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PP",
+    "municipality": "Pegunungan Bintang",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Tin"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "335002",
+    "ident": "SNUE",
+    "type": "small_airport",
+    "name": "Aero Sepé Aviação Agrícola Airport",
+    "latitude_deg": "-30.18543",
+    "longitude_deg": "-53.639973",
+    "elevation_ft": "509",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "São Sepé",
+    "scheduled_service": "no",
+    "gps_code": "SNUE",
+    "iata_code": "",
+    "local_code": "RS0121",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

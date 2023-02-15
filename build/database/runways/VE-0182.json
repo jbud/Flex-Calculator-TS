@@ -1,0 +1,20 @@
+{
+    "id": "40531",
+    "ident": "VE-0182",
+    "type": "small_airport",
+    "name": "Santa María de Erebato Airport",
+    "latitude_deg": "4.949999809265137",
+    "longitude_deg": "-64.80000305175781",
+    "elevation_ft": "1200",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

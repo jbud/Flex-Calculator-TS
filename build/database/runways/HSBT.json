@@ -1,0 +1,20 @@
+{
+    "id": "31616",
+    "ident": "HSBT",
+    "type": "small_airport",
+    "name": "Bentiu Airport",
+    "latitude_deg": "9.308488",
+    "longitude_deg": "29.787316",
+    "elevation_ft": "2000",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-22",
+    "municipality": "Rubkona",
+    "scheduled_service": "no",
+    "gps_code": "HJBT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bentu_Airport",
+    "keywords": "HSBT"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "326427",
+    "ident": "MX-0636",
+    "type": "small_airport",
+    "name": "Francisco Sarabia Airport",
+    "latitude_deg": "23.928181",
+    "longitude_deg": "-104.580387",
+    "elevation_ft": "6234",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-DUR",
+    "municipality": "Durango",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "FSA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

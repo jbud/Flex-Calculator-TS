@@ -1,0 +1,20 @@
+{
+    "id": "327372",
+    "ident": "PE-0007",
+    "type": "small_airport",
+    "name": "Pucallpa West Airport",
+    "latitude_deg": "-8.361953",
+    "longitude_deg": "-74.656877",
+    "elevation_ft": "489",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-UCA",
+    "municipality": "Pucallpa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

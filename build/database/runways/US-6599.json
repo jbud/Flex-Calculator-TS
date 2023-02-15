@@ -1,0 +1,20 @@
+{
+    "id": "353150",
+    "ident": "US-6599",
+    "type": "small_airport",
+    "name": "Equinox Landing Field",
+    "latitude_deg": "43.16275",
+    "longitude_deg": "-73.04516",
+    "elevation_ft": "752",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "Manchester Center",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

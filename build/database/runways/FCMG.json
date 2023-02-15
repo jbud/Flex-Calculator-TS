@@ -1,0 +1,20 @@
+{
+    "id": "31086",
+    "ident": "FCMG",
+    "type": "small_airport",
+    "name": "Gokango Airport",
+    "latitude_deg": "-3.0329999923706055",
+    "longitude_deg": "12.133000373840332",
+    "elevation_ft": "820",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-9",
+    "municipality": "Gokango",
+    "scheduled_service": "no",
+    "gps_code": "FCMG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

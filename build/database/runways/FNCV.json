@@ -1,0 +1,20 @@
+{
+    "id": "30857",
+    "ident": "FNCV",
+    "type": "small_airport",
+    "name": "Cuito Cuanavale Airport",
+    "latitude_deg": "-15.160300254821777",
+    "longitude_deg": "19.156099319458008",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-CCU",
+    "municipality": "Cuito Cuanavale",
+    "scheduled_service": "no",
+    "gps_code": "FNCV",
+    "iata_code": "CTI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

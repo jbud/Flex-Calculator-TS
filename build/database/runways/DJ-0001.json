@@ -1,0 +1,20 @@
+{
+    "id": "340219",
+    "ident": "DJ-0001",
+    "type": "small_airport",
+    "name": "Holhol Airport",
+    "latitude_deg": "11.30608",
+    "longitude_deg": "42.91968",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "DJ",
+    "iso_region": "DJ-AS",
+    "municipality": "Holhol",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

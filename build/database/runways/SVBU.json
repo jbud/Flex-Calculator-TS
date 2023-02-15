@@ -1,0 +1,20 @@
+{
+    "id": "40095",
+    "ident": "SVBU",
+    "type": "small_airport",
+    "name": "Central Venezuela Airport",
+    "latitude_deg": "9.173054",
+    "longitude_deg": "-71.112871",
+    "elevation_ft": "33",
+    "continent": "NA",
+    "iso_country": "VE",
+    "iso_region": "VE-T",
+    "municipality": "Bobures",
+    "scheduled_service": "no",
+    "gps_code": "SVBU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

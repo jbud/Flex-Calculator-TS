@@ -1,0 +1,20 @@
+{
+    "id": "342509",
+    "ident": "CA-0739",
+    "type": "small_airport",
+    "name": "Dale Air Services Airport",
+    "latitude_deg": "49.33455",
+    "longitude_deg": "-97.3089",
+    "elevation_ft": "781",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Montcalm",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

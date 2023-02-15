@@ -1,0 +1,20 @@
+{
+    "id": "41223",
+    "ident": "ZA-0048",
+    "type": "small_airport",
+    "name": "Barkly West Airport",
+    "latitude_deg": "-28.532047",
+    "longitude_deg": "24.537843",
+    "elevation_ft": "3800",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Barkly West",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "AG4179"
+}

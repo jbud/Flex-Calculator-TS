@@ -1,0 +1,20 @@
+{
+    "id": "30495",
+    "ident": "FDTS",
+    "type": "small_airport",
+    "name": "Tshaneni Airport",
+    "latitude_deg": "-25.983334",
+    "longitude_deg": "31.200001",
+    "elevation_ft": "1020",
+    "continent": "AF",
+    "iso_country": "SZ",
+    "iso_region": "SZ-HH",
+    "municipality": "Tshaneni",
+    "scheduled_service": "no",
+    "gps_code": "FDTS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

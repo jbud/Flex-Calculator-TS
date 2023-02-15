@@ -1,0 +1,20 @@
+{
+    "id": "30325",
+    "ident": "VERL",
+    "type": "small_airport",
+    "name": "Raxaul Airport",
+    "latitude_deg": "26.966699600219727",
+    "longitude_deg": "84.83329772949219",
+    "elevation_ft": "259",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-BR",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "VERL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

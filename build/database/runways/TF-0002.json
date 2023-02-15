@@ -1,0 +1,20 @@
+{
+    "id": "341266",
+    "ident": "TF-0002",
+    "type": "heliport",
+    "name": "Port-aux-Français Heliport",
+    "latitude_deg": "-49.35033",
+    "longitude_deg": "70.22033",
+    "elevation_ft": "",
+    "continent": "AN",
+    "iso_country": "TF",
+    "iso_region": "TF-U-A",
+    "municipality": "Port-aux-Français",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

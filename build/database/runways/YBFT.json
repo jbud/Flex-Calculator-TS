@@ -1,0 +1,20 @@
+{
+    "id": "298810",
+    "ident": "YBFT",
+    "type": "small_airport",
+    "name": "Beaufort",
+    "latitude_deg": "-37.495",
+    "longitude_deg": "143.43",
+    "elevation_ft": "1300",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YBFT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "344876",
+    "ident": "US-4217",
+    "type": "small_airport",
+    "name": "Oasis Ranch Airport",
+    "latitude_deg": "37.49377",
+    "longitude_deg": "-117.911",
+    "elevation_ft": "5013",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Big Pine",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

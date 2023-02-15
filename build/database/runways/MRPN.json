@@ -1,0 +1,20 @@
+{
+    "id": "41973",
+    "ident": "MRPN",
+    "type": "small_airport",
+    "name": "Pelon Nuevo Airport",
+    "latitude_deg": "10.486700057983398",
+    "longitude_deg": "-85.41419982910156",
+    "elevation_ft": "49",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-G",
+    "municipality": "Liberia",
+    "scheduled_service": "no",
+    "gps_code": "MRPN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

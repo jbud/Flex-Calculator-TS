@@ -1,0 +1,20 @@
+{
+    "id": "317598",
+    "ident": "FVML",
+    "type": "small_airport",
+    "name": "Mlibizi Airstrip",
+    "latitude_deg": "-17.9604",
+    "longitude_deg": "27.1184",
+    "elevation_ft": "1980",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MN",
+    "municipality": "Mlibizi",
+    "scheduled_service": "no",
+    "gps_code": "FVML",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Mibizi"
+}

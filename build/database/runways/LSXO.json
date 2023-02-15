@@ -1,0 +1,20 @@
+{
+    "id": "43118",
+    "ident": "LSXO",
+    "type": "heliport",
+    "name": "St. Gallen-Winkeln Heliport",
+    "latitude_deg": "47.40549850463867",
+    "longitude_deg": "9.290300369262695",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-SG",
+    "municipality": "St. Gallen",
+    "scheduled_service": "no",
+    "gps_code": "LSXO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.tsis.ch/heli/heliport/stgallen-winkeln.php",
+    "wikipedia_link": "",
+    "keywords": ""
+}

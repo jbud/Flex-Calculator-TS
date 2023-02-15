@@ -1,0 +1,20 @@
+{
+    "id": "352746",
+    "ident": "US-6483",
+    "type": "small_airport",
+    "name": "Ruggles Private Airport",
+    "latitude_deg": "33.61993",
+    "longitude_deg": "-93.52266",
+    "elevation_ft": "362",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Hope",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

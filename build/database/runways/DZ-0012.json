@@ -1,0 +1,20 @@
+{
+    "id": "349345",
+    "ident": "DZ-0012",
+    "type": "small_airport",
+    "name": "Groupement Reggane Nord Airport",
+    "latitude_deg": "26.80634",
+    "longitude_deg": "0.20704",
+    "elevation_ft": "883",
+    "continent": "AF",
+    "iso_country": "DZ",
+    "iso_region": "DZ-01",
+    "municipality": "Reggane",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

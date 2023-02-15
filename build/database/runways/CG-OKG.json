@@ -1,0 +1,20 @@
+{
+    "id": "32110",
+    "ident": "CG-OKG",
+    "type": "small_airport",
+    "name": "Okoyo Airport",
+    "latitude_deg": "-1.4483300447464",
+    "longitude_deg": "15.073300361633",
+    "elevation_ft": "1415",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-8",
+    "municipality": "Okoyo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "OKG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Okoyo_Airport",
+    "keywords": ""
+}

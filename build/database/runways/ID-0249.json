@@ -1,0 +1,20 @@
+{
+    "id": "430336",
+    "ident": "ID-0249",
+    "type": "small_airport",
+    "name": "Mamit Airstrip",
+    "latitude_deg": "-3.589005",
+    "longitude_deg": "138.396857",
+    "elevation_ft": "4726",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PP",
+    "municipality": "Mamit",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Manit"
+}

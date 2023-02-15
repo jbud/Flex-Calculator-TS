@@ -1,0 +1,20 @@
+{
+    "id": "321427",
+    "ident": "ES-0162",
+    "type": "small_airport",
+    "name": "Aeródromo Loring",
+    "latitude_deg": "40.6602",
+    "longitude_deg": "-3.59489",
+    "elevation_ft": "1903",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-MD",
+    "municipality": "El Molar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://aerodromo-loring.blogspot.be/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "333098",
+    "ident": "RPSV",
+    "type": "small_airport",
+    "name": "San Vicente Airport",
+    "latitude_deg": "10.524298",
+    "longitude_deg": "119.272899",
+    "elevation_ft": "24",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-PLW",
+    "municipality": "San Vicente",
+    "scheduled_service": "yes",
+    "gps_code": "RPSV",
+    "iata_code": "SWL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/San_Vicente_Airport",
+    "keywords": ""
+}

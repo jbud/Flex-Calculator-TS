@@ -1,0 +1,20 @@
+{
+    "id": "351583",
+    "ident": "SA-0025",
+    "type": "heliport",
+    "name": "As Saffaniyah Aramco Heliport",
+    "latitude_deg": "28.00016",
+    "longitude_deg": "48.77174",
+    "elevation_ft": "10",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-04",
+    "municipality": "As Saffaniyah",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

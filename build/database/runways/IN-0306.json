@@ -1,0 +1,20 @@
+{
+    "id": "350881",
+    "ident": "IN-0306",
+    "type": "heliport",
+    "name": "Khaltsi Heliport",
+    "latitude_deg": "34.31879",
+    "longitude_deg": "76.90241",
+    "elevation_ft": "9829",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-LA",
+    "municipality": "Khaltsi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

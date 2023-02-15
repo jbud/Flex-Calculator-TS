@@ -1,0 +1,20 @@
+{
+    "id": "30918",
+    "ident": "DIDK",
+    "type": "small_airport",
+    "name": "Dimbokro Airport",
+    "latitude_deg": "6.651669979095459",
+    "longitude_deg": "-4.640560150146484",
+    "elevation_ft": "344",
+    "continent": "AF",
+    "iso_country": "CI",
+    "iso_region": "CI-LC",
+    "municipality": "Dimbokro",
+    "scheduled_service": "no",
+    "gps_code": "DIDK",
+    "iata_code": "DIM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

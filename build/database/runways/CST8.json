@@ -1,0 +1,20 @@
+{
+    "id": "28324",
+    "ident": "CST8",
+    "type": "seaplane_base",
+    "name": "Montreal / Marina Venise Seaplane Base",
+    "latitude_deg": "45.632856028",
+    "longitude_deg": "-73.78240942960001",
+    "elevation_ft": "65",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Montréal",
+    "scheduled_service": "no",
+    "gps_code": "CST8",
+    "iata_code": "",
+    "local_code": "CST8",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

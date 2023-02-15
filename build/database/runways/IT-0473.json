@@ -1,0 +1,20 @@
+{
+    "id": "320691",
+    "ident": "IT-0473",
+    "type": "small_airport",
+    "name": "Gallipoli Flying Field",
+    "latitude_deg": "40.016111",
+    "longitude_deg": "18.023889",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-75",
+    "municipality": "Gallipoli (LE)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LEGAL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Gallipoli, Campo di Volo Gallipoli"
+}

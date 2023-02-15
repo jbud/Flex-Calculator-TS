@@ -1,0 +1,20 @@
+{
+    "id": "43301",
+    "ident": "LETA",
+    "type": "heliport",
+    "name": "Servei Generals Del Circuit De Catalunya Heliport",
+    "latitude_deg": "41.57400131225586",
+    "longitude_deg": "2.257159948348999",
+    "elevation_ft": "470",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Barcelona",
+    "scheduled_service": "no",
+    "gps_code": "LETA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

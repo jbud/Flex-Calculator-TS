@@ -1,0 +1,20 @@
+{
+    "id": "30097",
+    "ident": "FXMF",
+    "type": "small_airport",
+    "name": "Mafeteng Airport",
+    "latitude_deg": "-29.80109977722168",
+    "longitude_deg": "27.243600845336914",
+    "elevation_ft": "5350",
+    "continent": "AF",
+    "iso_country": "LS",
+    "iso_region": "LS-E",
+    "municipality": "Mafeteng",
+    "scheduled_service": "no",
+    "gps_code": "FXMF",
+    "iata_code": "MFC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

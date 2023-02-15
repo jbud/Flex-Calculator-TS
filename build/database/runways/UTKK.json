@@ -1,0 +1,20 @@
+{
+    "id": "41794",
+    "ident": "UTKK",
+    "type": "small_airport",
+    "name": "Kokand Airport",
+    "latitude_deg": "40.447183",
+    "longitude_deg": "70.989144",
+    "elevation_ft": "1357",
+    "continent": "AS",
+    "iso_country": "UZ",
+    "iso_region": "UZ-FA",
+    "municipality": "Kokand",
+    "scheduled_service": "no",
+    "gps_code": "UTKK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Kokand South"
+}

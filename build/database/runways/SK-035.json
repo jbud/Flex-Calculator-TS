@@ -1,0 +1,20 @@
+{
+    "id": "40844",
+    "ident": "SK-035",
+    "type": "small_airport",
+    "name": "Millan Airport",
+    "latitude_deg": "7.928889",
+    "longitude_deg": "-73.967222",
+    "elevation_ft": "176",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-BOL",
+    "municipality": "Simiti",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "STI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

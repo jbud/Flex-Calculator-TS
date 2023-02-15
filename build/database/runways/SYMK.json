@@ -1,0 +1,20 @@
+{
+    "id": "332260",
+    "ident": "SYMK",
+    "type": "small_airport",
+    "name": "Maikwak Airport",
+    "latitude_deg": "4.898172",
+    "longitude_deg": "-59.817027",
+    "elevation_ft": "2001",
+    "continent": "SA",
+    "iso_country": "GY",
+    "iso_region": "GY-PT",
+    "municipality": "Maikwak",
+    "scheduled_service": "no",
+    "gps_code": "SYMK",
+    "iata_code": "VEG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

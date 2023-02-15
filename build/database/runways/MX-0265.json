@@ -1,0 +1,20 @@
+{
+    "id": "319700",
+    "ident": "MX-0265",
+    "type": "small_airport",
+    "name": "Carlos Díaz Becerril Airport",
+    "latitude_deg": "19.2371",
+    "longitude_deg": "-101.67952",
+    "elevation_ft": "6760",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-MIC",
+    "municipality": "Ario de Rosales",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CDB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

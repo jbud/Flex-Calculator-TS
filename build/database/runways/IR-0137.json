@@ -1,0 +1,20 @@
+{
+    "id": "505000",
+    "ident": "IR-0137",
+    "type": "heliport",
+    "name": "Imam Khomeini Hospital Heliport",
+    "latitude_deg": "27.85606",
+    "longitude_deg": "52.04695",
+    "elevation_ft": "98",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-18",
+    "municipality": "Bandar Kangan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "315215",
+    "ident": "MHLL",
+    "type": "heliport",
+    "name": "Las Lomas Heliport",
+    "latitude_deg": "14.08065",
+    "longitude_deg": "-87.17283",
+    "elevation_ft": "3412",
+    "continent": "NA",
+    "iso_country": "HN",
+    "iso_region": "HN-FM",
+    "municipality": "Tegucigalpa",
+    "scheduled_service": "no",
+    "gps_code": "MHLL",
+    "iata_code": "",
+    "local_code": "MHLL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

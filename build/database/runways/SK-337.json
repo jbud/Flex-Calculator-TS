@@ -1,0 +1,20 @@
+{
+    "id": "40717",
+    "ident": "SK-337",
+    "type": "small_airport",
+    "name": "Rancho Nare Airport",
+    "latitude_deg": "3.854167",
+    "longitude_deg": "-72.973611",
+    "elevation_ft": "774",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-MET",
+    "municipality": "Puerto López",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "RCN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

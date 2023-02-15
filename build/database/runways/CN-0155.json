@@ -1,0 +1,20 @@
+{
+    "id": "342174",
+    "ident": "CN-0155",
+    "type": "small_airport",
+    "name": "Shanghai Chongming Airport",
+    "latitude_deg": "31.664",
+    "longitude_deg": "121.5187",
+    "elevation_ft": "16",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-31",
+    "municipality": "Shanghai (Chongming)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

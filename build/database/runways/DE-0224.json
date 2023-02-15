@@ -1,0 +1,20 @@
+{
+    "id": "315562",
+    "ident": "DE-0224",
+    "type": "small_airport",
+    "name": "Reute Airport",
+    "latitude_deg": "47.915",
+    "longitude_deg": "9.710278",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Bad Waldsee",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

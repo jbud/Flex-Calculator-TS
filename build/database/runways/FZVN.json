@@ -1,0 +1,20 @@
+{
+    "id": "31487",
+    "ident": "FZVN",
+    "type": "small_airport",
+    "name": "Wembo-Nyama Airport",
+    "latitude_deg": "-4.122406",
+    "longitude_deg": "24.511399",
+    "elevation_ft": "1801",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-SA",
+    "municipality": "Wembo-Nyama",
+    "scheduled_service": "no",
+    "gps_code": "FZVN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

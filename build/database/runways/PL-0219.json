@@ -1,0 +1,20 @@
+{
+    "id": "354341",
+    "ident": "PL-0219",
+    "type": "small_airport",
+    "name": "Lądowisko Górki",
+    "latitude_deg": "50.372812",
+    "longitude_deg": "21.289465",
+    "elevation_ft": "515",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-PK",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

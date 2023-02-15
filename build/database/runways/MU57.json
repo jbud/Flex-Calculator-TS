@@ -1,0 +1,20 @@
+{
+    "id": "333413",
+    "ident": "MU57",
+    "type": "small_airport",
+    "name": "Flib Field",
+    "latitude_deg": "37.518574",
+    "longitude_deg": "-92.816926",
+    "elevation_ft": "1418",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Conway",
+    "scheduled_service": "no",
+    "gps_code": "MU57",
+    "iata_code": "",
+    "local_code": "MU57",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

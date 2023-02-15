@@ -1,0 +1,20 @@
+{
+    "id": "315464",
+    "ident": "DE-0208",
+    "type": "small_airport",
+    "name": "Siegen-Eisernhardt Airfield",
+    "latitude_deg": "50.8375",
+    "longitude_deg": "8.0141",
+    "elevation_ft": "1300",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Siegen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.lsv-siegerland.de/",
+    "wikipedia_link": "",
+    "keywords": "SIE2"
+}

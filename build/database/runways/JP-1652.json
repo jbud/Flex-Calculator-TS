@@ -1,0 +1,20 @@
+{
+    "id": "342898",
+    "ident": "JP-1652",
+    "type": "small_airport",
+    "name": "Bekanbe Airfield",
+    "latitude_deg": "43.32851",
+    "longitude_deg": "144.7079",
+    "elevation_ft": "390",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-01",
+    "municipality": "Akkeshi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Bekanbeushi"
+}

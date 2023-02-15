@@ -1,0 +1,20 @@
+{
+    "id": "43535",
+    "ident": "FR-0195",
+    "type": "heliport",
+    "name": "Hôpital La Timone Heliport",
+    "latitude_deg": "43.28944396972656",
+    "longitude_deg": "5.403889179229736",
+    "elevation_ft": "138",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-PAC",
+    "municipality": "Marseille",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

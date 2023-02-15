@@ -1,0 +1,20 @@
+{
+    "id": "31042",
+    "ident": "FAGA",
+    "type": "small_airport",
+    "name": "Grange Airport",
+    "latitude_deg": "-30.267000198364258",
+    "longitude_deg": "29.966999053955078",
+    "elevation_ft": "2600",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Umzimkulu",
+    "scheduled_service": "no",
+    "gps_code": "FAGA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "323905",
+    "ident": "JP-0041",
+    "type": "heliport",
+    "name": "JASDF Abashiri Sub Base Heliport",
+    "latitude_deg": "44.079566",
+    "longitude_deg": "144.230415",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-01",
+    "municipality": "Abashiri",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Abashiri, JASDF"
+}

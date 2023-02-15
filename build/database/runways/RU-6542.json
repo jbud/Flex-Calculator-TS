@@ -1,0 +1,20 @@
+{
+    "id": "35048",
+    "ident": "RU-6542",
+    "type": "small_airport",
+    "name": "Orenburg Air Base",
+    "latitude_deg": "51.709057",
+    "longitude_deg": "55.020046",
+    "elevation_ft": "367",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-ORE",
+    "municipality": "Orenburg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Orenburg_(air_base)",
+    "keywords": ""
+}

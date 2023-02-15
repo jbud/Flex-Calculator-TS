@@ -1,0 +1,20 @@
+{
+    "id": "506042",
+    "ident": "VN-0055",
+    "type": "medium_airport",
+    "name": "TK88",
+    "latitude_deg": "-0.000005",
+    "longitude_deg": "-0.000017",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "VN",
+    "iso_region": "VN-CH",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "504984",
+    "ident": "BR-1743",
+    "type": "small_airport",
+    "name": "Cel Porto Airstrip",
+    "latitude_deg": "-19.139358",
+    "longitude_deg": "-53.703667",
+    "elevation_ft": "1788",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Camapuã",
+    "scheduled_service": "no",
+    "gps_code": "SDXI",
+    "iata_code": "",
+    "local_code": "MS0060",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

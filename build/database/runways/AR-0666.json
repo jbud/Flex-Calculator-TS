@@ -1,0 +1,20 @@
+{
+    "id": "340029",
+    "ident": "AR-0666",
+    "type": "heliport",
+    "name": "Puerto Esperanza Heliport",
+    "latitude_deg": "-25.990346",
+    "longitude_deg": "-54.63825",
+    "elevation_ft": "509",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-N",
+    "municipality": "Esperanza",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "HPO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

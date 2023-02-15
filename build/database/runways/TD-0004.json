@@ -1,0 +1,20 @@
+{
+    "id": "319203",
+    "ident": "TD-0004",
+    "type": "small_airport",
+    "name": "Léré Airport",
+    "latitude_deg": "9.645894",
+    "longitude_deg": "14.173201",
+    "elevation_ft": "787",
+    "continent": "AF",
+    "iso_country": "TD",
+    "iso_region": "TD-MO",
+    "municipality": "Léré",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/L%C3%A9r%C3%A9_Airport",
+    "keywords": ""
+}

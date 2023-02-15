@@ -1,0 +1,20 @@
+{
+    "id": "30636",
+    "ident": "SPAR",
+    "type": "small_airport",
+    "name": "Alerta Airport",
+    "latitude_deg": "-11.682999610900879",
+    "longitude_deg": "-69.33300018310547",
+    "elevation_ft": "797",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-MDD",
+    "municipality": "Fortaleza",
+    "scheduled_service": "no",
+    "gps_code": "SPAR",
+    "iata_code": "ALD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

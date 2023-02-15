@@ -1,0 +1,20 @@
+{
+    "id": "32502",
+    "ident": "UATA",
+    "type": "small_airport",
+    "name": "Aralsk Airport",
+    "latitude_deg": "46.829607",
+    "longitude_deg": "61.607787",
+    "elevation_ft": "223",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-KZY",
+    "municipality": "Aralsk",
+    "scheduled_service": "no",
+    "gps_code": "UATA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Aral'sk Airport, Аэропорт Аральск"
+}

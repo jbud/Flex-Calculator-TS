@@ -1,0 +1,20 @@
+{
+    "id": "318674",
+    "ident": "TZ-0112",
+    "type": "small_airport",
+    "name": "Piti Airport",
+    "latitude_deg": "-7.20467",
+    "longitude_deg": "32.925773",
+    "elevation_ft": "3300",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-14",
+    "municipality": "Chunya",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

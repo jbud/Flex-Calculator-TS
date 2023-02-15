@@ -1,0 +1,20 @@
+{
+    "id": "320177",
+    "ident": "IT-0416",
+    "type": "small_airport",
+    "name": "Aviosuperficie Arcadia",
+    "latitude_deg": "45.501483",
+    "longitude_deg": "10.788964",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-34",
+    "municipality": "Pastrengo (VR)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "VR15",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Arcadia"
+}

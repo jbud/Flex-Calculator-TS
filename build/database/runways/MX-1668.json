@@ -1,0 +1,20 @@
+{
+    "id": "348632",
+    "ident": "MX-1668",
+    "type": "small_airport",
+    "name": "Güémez Airport",
+    "latitude_deg": "23.90318",
+    "longitude_deg": "-99.01402",
+    "elevation_ft": "577",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-TAM",
+    "municipality": "Güémez",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

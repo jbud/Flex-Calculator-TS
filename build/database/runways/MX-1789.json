@@ -1,0 +1,20 @@
+{
+    "id": "349101",
+    "ident": "MX-1789",
+    "type": "small_airport",
+    "name": "Rancho El Tinieblo Airstrip",
+    "latitude_deg": "24.323811",
+    "longitude_deg": "-98.506165",
+    "elevation_ft": "663",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-TAM",
+    "municipality": "Jimenez",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "AET",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

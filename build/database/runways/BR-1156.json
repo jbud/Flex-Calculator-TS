@@ -1,0 +1,20 @@
+{
+    "id": "336875",
+    "ident": "BR-1156",
+    "type": "small_airport",
+    "name": "Fazenda Buriti Airport",
+    "latitude_deg": "-20.480036",
+    "longitude_deg": "-50.187631",
+    "elevation_ft": "1398",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Valentim Gentil",
+    "scheduled_service": "no",
+    "gps_code": "SJNI",
+    "iata_code": "",
+    "local_code": "SP0211",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

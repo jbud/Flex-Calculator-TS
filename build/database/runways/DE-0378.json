@@ -1,0 +1,20 @@
+{
+    "id": "320906",
+    "ident": "DE-0378",
+    "type": "small_airport",
+    "name": "Schlierstadt",
+    "latitude_deg": "49.4435541",
+    "longitude_deg": "9.3619443",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://southsidebase.de",
+    "wikipedia_link": "",
+    "keywords": "South Side Base"
+}

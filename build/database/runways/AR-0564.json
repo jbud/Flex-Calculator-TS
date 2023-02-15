@@ -1,0 +1,20 @@
+{
+    "id": "318314",
+    "ident": "AR-0564",
+    "type": "small_airport",
+    "name": "Comequechen Airport",
+    "latitude_deg": "-33.93402",
+    "longitude_deg": "-64.415946",
+    "elevation_ft": "805",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-X",
+    "municipality": "Vicuña Mackenna",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "VMC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

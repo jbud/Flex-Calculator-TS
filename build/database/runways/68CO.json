@@ -1,0 +1,20 @@
+{
+    "id": "13100",
+    "ident": "68CO",
+    "type": "small_airport",
+    "name": "Singleton Ranch Airport",
+    "latitude_deg": "39.870245",
+    "longitude_deg": "-104.141246",
+    "elevation_ft": "4940",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Byers",
+    "scheduled_service": "no",
+    "gps_code": "68CO",
+    "iata_code": "",
+    "local_code": "68CO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

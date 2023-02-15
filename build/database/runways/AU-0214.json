@@ -1,0 +1,20 @@
+{
+    "id": "350200",
+    "ident": "AU-0214",
+    "type": "small_airport",
+    "name": "george lees airfield",
+    "latitude_deg": "-27.049228",
+    "longitude_deg": "151.274228",
+    "elevation_ft": "100",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Pirrinuan, QLD 4405",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

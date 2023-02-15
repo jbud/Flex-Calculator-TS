@@ -1,0 +1,20 @@
+{
+    "id": "44350",
+    "ident": "RU-0115",
+    "type": "small_airport",
+    "name": "Slavgorod North Air Base",
+    "latitude_deg": "53.051998",
+    "longitude_deg": "78.639999",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-ALT",
+    "municipality": "Slavgorod",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Slavgorod Severny Air Base, Slavgorod Severnity Air Base, Аэродром Славгород Северный"
+}

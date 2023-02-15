@@ -1,0 +1,20 @@
+{
+    "id": "41147",
+    "ident": "FAJV",
+    "type": "small_airport",
+    "name": "Jansenville Airport",
+    "latitude_deg": "-32.9390983581543",
+    "longitude_deg": "24.670700073242188",
+    "elevation_ft": "1430",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Jansenville",
+    "scheduled_service": "no",
+    "gps_code": "FAJV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

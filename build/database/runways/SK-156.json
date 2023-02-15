@@ -1,0 +1,20 @@
+{
+    "id": "40758",
+    "ident": "SK-156",
+    "type": "small_airport",
+    "name": "El Monasterio Airport",
+    "latitude_deg": "8.944722",
+    "longitude_deg": "-73.258333",
+    "elevation_ft": "745",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CES",
+    "municipality": "Acacias",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ACI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

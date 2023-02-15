@@ -1,0 +1,20 @@
+{
+    "id": "316752",
+    "ident": "IT-0154",
+    "type": "small_airport",
+    "name": "Aviosuperficie Alituscia",
+    "latitude_deg": "42.229167",
+    "longitude_deg": "12.120833",
+    "elevation_ft": "1270",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-62",
+    "municipality": "Vejano (VT)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "VTVEJ",
+    "home_link": "http://www.alituscia.it",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "46396",
+    "ident": "CU-0029",
+    "type": "small_airport",
+    "name": "El Dormitorio Airport",
+    "latitude_deg": "20.771763774900002",
+    "longitude_deg": "-77.07040071490002",
+    "elevation_ft": "66",
+    "continent": "NA",
+    "iso_country": "CU",
+    "iso_region": "CU-10",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

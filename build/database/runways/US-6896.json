@@ -1,0 +1,20 @@
+{
+    "id": "355365",
+    "ident": "US-6896",
+    "type": "small_airport",
+    "name": "San Clemente Rancho Airport",
+    "latitude_deg": "36.4097",
+    "longitude_deg": "-121.72911",
+    "elevation_ft": "2290",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Carmel-by-the-Sea",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Carmel Valley Village, KCAL"
+}

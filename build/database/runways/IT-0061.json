@@ -1,0 +1,20 @@
+{
+    "id": "314853",
+    "ident": "IT-0061",
+    "type": "heliport",
+    "name": "Capitalia Heliport",
+    "latitude_deg": "41.824691",
+    "longitude_deg": "12.381729",
+    "elevation_ft": "116",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-62",
+    "municipality": "Rome",
+    "scheduled_service": "no",
+    "gps_code": "LIAD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

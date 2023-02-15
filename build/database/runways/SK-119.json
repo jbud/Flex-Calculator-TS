@@ -1,0 +1,20 @@
+{
+    "id": "40644",
+    "ident": "SK-119",
+    "type": "small_airport",
+    "name": "San Fernandof Airport",
+    "latitude_deg": "5.666667",
+    "longitude_deg": "-71.683889",
+    "elevation_ft": "584",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAS",
+    "municipality": "Paz De Arif",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SAN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

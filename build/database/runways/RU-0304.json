@@ -1,0 +1,20 @@
+{
+    "id": "46129",
+    "ident": "RU-0304",
+    "type": "medium_airport",
+    "name": "Kapustin Yar Airfield",
+    "latitude_deg": "48.667",
+    "longitude_deg": "45.732",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-AST",
+    "municipality": "Znamensk",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэродром Капустин Яр"
+}

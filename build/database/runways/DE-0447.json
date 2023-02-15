@@ -1,0 +1,20 @@
+{
+    "id": "343912",
+    "ident": "DE-0447",
+    "type": "small_airport",
+    "name": "Bruchsal dropzone",
+    "latitude_deg": "49.0975",
+    "longitude_deg": "8.59495",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.fsc-bruchsal.de/dropzone",
+    "wikipedia_link": "",
+    "keywords": ""
+}

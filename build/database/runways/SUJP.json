@@ -1,0 +1,20 @@
+{
+    "id": "326538",
+    "ident": "SUJP",
+    "type": "small_airport",
+    "name": "José Pedro Varela Airport",
+    "latitude_deg": "-33.4753",
+    "longitude_deg": "-54.539702",
+    "elevation_ft": "316",
+    "continent": "SA",
+    "iso_country": "UY",
+    "iso_region": "UY-LA",
+    "municipality": "José Pedro Varela",
+    "scheduled_service": "no",
+    "gps_code": "SUJP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

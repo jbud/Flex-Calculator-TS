@@ -1,0 +1,20 @@
+{
+    "id": "309210",
+    "ident": "YRMH",
+    "type": "heliport",
+    "name": "Royal Melbourne Hospital Helipad",
+    "latitude_deg": "-37.799243",
+    "longitude_deg": "144.95593",
+    "elevation_ft": "221",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "Melbourne",
+    "scheduled_service": "no",
+    "gps_code": "YRMH",
+    "iata_code": "",
+    "local_code": "YRMH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

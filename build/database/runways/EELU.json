@@ -1,0 +1,20 @@
+{
+    "id": "318330",
+    "ident": "EELU",
+    "type": "small_airport",
+    "name": "Lyckholm Airstrip",
+    "latitude_deg": "59.02211",
+    "longitude_deg": "23.57808",
+    "elevation_ft": "20",
+    "continent": "EU",
+    "iso_country": "EE",
+    "iso_region": "EE-57",
+    "municipality": "Saare",
+    "scheduled_service": "no",
+    "gps_code": "EELU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

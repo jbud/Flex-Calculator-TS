@@ -1,0 +1,20 @@
+{
+    "id": "42483",
+    "ident": "HTMF",
+    "type": "small_airport",
+    "name": "Mufindi Airport",
+    "latitude_deg": "-8.732040405273438",
+    "longitude_deg": "35.3026008605957",
+    "elevation_ft": "4175",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-04",
+    "municipality": "Mufindi",
+    "scheduled_service": "no",
+    "gps_code": "HTMF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

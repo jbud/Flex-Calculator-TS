@@ -1,0 +1,20 @@
+{
+    "id": "344589",
+    "ident": "JP-2169",
+    "type": "heliport",
+    "name": "Kakegawa Inbound Parking Area Heliport",
+    "latitude_deg": "34.84102",
+    "longitude_deg": "138.04066",
+    "elevation_ft": "482",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-22",
+    "municipality": "Kakegawa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

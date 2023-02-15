@@ -1,0 +1,20 @@
+{
+    "id": "32377",
+    "ident": "SPVL",
+    "type": "small_airport",
+    "name": "Caraveli Airport",
+    "latitude_deg": "-15.77904",
+    "longitude_deg": "-73.36176",
+    "elevation_ft": "5675",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-ARE",
+    "municipality": "Caraveli",
+    "scheduled_service": "no",
+    "gps_code": "SPVL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "342105",
+    "ident": "ZHZH",
+    "type": "medium_airport",
+    "name": "Herschel Island Field",
+    "latitude_deg": "69.548229",
+    "longitude_deg": "-139.091608",
+    "elevation_ft": "19",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-YT",
+    "municipality": "Herschel Island (Yukon Territory)",
+    "scheduled_service": "yes",
+    "gps_code": "ZHZH",
+    "iata_code": "ZHH",
+    "local_code": "YK77",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

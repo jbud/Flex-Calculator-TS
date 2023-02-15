@@ -1,0 +1,20 @@
+{
+    "id": "41633",
+    "ident": "OPSW",
+    "type": "small_airport",
+    "name": "Sawan Airport",
+    "latitude_deg": "26.9662",
+    "longitude_deg": "68.878098",
+    "elevation_ft": "160",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-SD",
+    "municipality": "Sawan Gas Field",
+    "scheduled_service": "yes",
+    "gps_code": "OPSW",
+    "iata_code": "RZS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sawan_Airport",
+    "keywords": ""
+}

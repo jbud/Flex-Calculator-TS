@@ -1,0 +1,20 @@
+{
+    "id": "306971",
+    "ident": "NOM",
+    "type": "small_airport",
+    "name": "Nomad River Airport",
+    "latitude_deg": "-6.294",
+    "longitude_deg": "142.234166667",
+    "elevation_ft": "305",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": "Nomad River",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "NOM",
+    "local_code": "NDR",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/w/index.php?title=Nomad_River_Airport&action=edit&redlink=1",
+    "keywords": ""
+}

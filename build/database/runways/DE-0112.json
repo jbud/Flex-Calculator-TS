@@ -1,0 +1,20 @@
+{
+    "id": "311009",
+    "ident": "DE-0112",
+    "type": "small_airport",
+    "name": "Bisperode Airfield",
+    "latitude_deg": "52.0788",
+    "longitude_deg": "9.476",
+    "elevation_ft": "635",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Hamelin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.lsv-hameln.de/wordpress/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

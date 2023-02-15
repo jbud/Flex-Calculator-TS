@@ -1,0 +1,20 @@
+{
+    "id": "46547",
+    "ident": "IT-0003",
+    "type": "small_airport",
+    "name": "Aviosuperficie Palazzolo Avio",
+    "latitude_deg": "43.55916",
+    "longitude_deg": "12.155903",
+    "elevation_ft": "1050",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-52",
+    "municipality": "San Sepolcro (AR)",
+    "scheduled_service": "no",
+    "gps_code": "LIQF",
+    "iata_code": "",
+    "local_code": "AR01",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Palazzolo Avio"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "309908",
+    "ident": "DE-0092",
+    "type": "small_airport",
+    "name": "Ottenberg Airfield",
+    "latitude_deg": "49.3287",
+    "longitude_deg": "11.4797",
+    "elevation_ft": "1828",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Nuremberg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.acsn.de/flugplatz/historie.html",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "314697",
+    "ident": "AU-0084",
+    "type": "heliport",
+    "name": "Brisbane Water Police Helipad",
+    "latitude_deg": "-27.40104",
+    "longitude_deg": "153.16415",
+    "elevation_ft": "5",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Brisbane",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "OZHAW",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "BNWP"
+}

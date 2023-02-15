@@ -1,0 +1,20 @@
+{
+    "id": "29930",
+    "ident": "VYGW",
+    "type": "small_airport",
+    "name": "Gwa Airport",
+    "latitude_deg": "17.600000381469727",
+    "longitude_deg": "94.58329772949219",
+    "elevation_ft": "10",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-16",
+    "municipality": "Gwa",
+    "scheduled_service": "no",
+    "gps_code": "VYGW",
+    "iata_code": "GWA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

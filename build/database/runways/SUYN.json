@@ -1,0 +1,20 @@
+{
+    "id": "326541",
+    "ident": "SUYN",
+    "type": "small_airport",
+    "name": "Young Airport",
+    "latitude_deg": "-32.6872",
+    "longitude_deg": "-57.6581",
+    "elevation_ft": "230",
+    "continent": "SA",
+    "iso_country": "UY",
+    "iso_region": "UY-RN",
+    "municipality": "Young",
+    "scheduled_service": "no",
+    "gps_code": "SUYN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

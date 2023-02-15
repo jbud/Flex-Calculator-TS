@@ -1,0 +1,20 @@
+{
+    "id": "308980",
+    "ident": "DE-0071",
+    "type": "small_airport",
+    "name": "Bad Königshofen Airfield",
+    "latitude_deg": "50.2876",
+    "longitude_deg": "10.4225",
+    "elevation_ft": "1030",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Bad Königshofen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.amhimmelreich.com/home.html",
+    "wikipedia_link": "",
+    "keywords": "\"Kingdom of Heaven\""
+}

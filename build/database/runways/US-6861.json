@@ -1,0 +1,20 @@
+{
+    "id": "354977",
+    "ident": "US-6861",
+    "type": "small_airport",
+    "name": "Black Bridge Airport",
+    "latitude_deg": "37.61501",
+    "longitude_deg": "-79.50693",
+    "elevation_ft": "832",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Natural Bridge Station",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

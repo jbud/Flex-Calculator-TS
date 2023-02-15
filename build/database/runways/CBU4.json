@@ -1,0 +1,20 @@
+{
+    "id": "724",
+    "ident": "CBU4",
+    "type": "heliport",
+    "name": "Prince Rupert (Hydro) Heliport",
+    "latitude_deg": "54.31169891357422",
+    "longitude_deg": "-130.29400634765625",
+    "elevation_ft": "98",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Prince Rupert",
+    "scheduled_service": "no",
+    "gps_code": "CBU4",
+    "iata_code": "",
+    "local_code": "CBU4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "BU4"
+}

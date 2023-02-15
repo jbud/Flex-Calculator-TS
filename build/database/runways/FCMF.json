@@ -1,0 +1,20 @@
+{
+    "id": "31085",
+    "ident": "FCMF",
+    "type": "small_airport",
+    "name": "Loufoula Airport",
+    "latitude_deg": "-3",
+    "longitude_deg": "12",
+    "elevation_ft": "650",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-9",
+    "municipality": "Loufoula",
+    "scheduled_service": "no",
+    "gps_code": "FCMF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

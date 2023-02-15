@@ -1,0 +1,20 @@
+{
+    "id": "348370",
+    "ident": "KW-0016",
+    "type": "small_airport",
+    "name": "Skydive Kuwait Airport",
+    "latitude_deg": "28.60425",
+    "longitude_deg": "48.3093",
+    "elevation_ft": "49",
+    "continent": "AS",
+    "iso_country": "KW",
+    "iso_region": "KW-AH",
+    "municipality": "Al-Khiran",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

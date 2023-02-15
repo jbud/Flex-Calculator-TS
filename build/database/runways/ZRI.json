@@ -1,0 +1,20 @@
+{
+    "id": "356138",
+    "ident": "ZRI",
+    "type": "medium_airport",
+    "name": "Stevanus Rumbewas Airport",
+    "latitude_deg": "-1.82842",
+    "longitude_deg": "136.062402",
+    "elevation_ft": "20",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PA",
+    "municipality": "Serui",
+    "scheduled_service": "no",
+    "gps_code": "WABO",
+    "iata_code": "ZRI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Stevanus_Rumbewas_Airport",
+    "keywords": ""
+}

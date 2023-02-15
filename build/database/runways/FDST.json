@@ -1,0 +1,20 @@
+{
+    "id": "31109",
+    "ident": "FDST",
+    "type": "small_airport",
+    "name": "Siteki Airport",
+    "latitude_deg": "-26.471957",
+    "longitude_deg": "31.942567",
+    "elevation_ft": "2220",
+    "continent": "AF",
+    "iso_country": "SZ",
+    "iso_region": "SZ-LU",
+    "municipality": "Siteki",
+    "scheduled_service": "no",
+    "gps_code": "FDST",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

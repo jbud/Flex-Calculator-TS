@@ -1,0 +1,20 @@
+{
+    "id": "1030",
+    "ident": "CGL5",
+    "type": "heliport",
+    "name": "Gun Lake Heliport",
+    "latitude_deg": "50.88970184326172",
+    "longitude_deg": "-122.84700012207031",
+    "elevation_ft": "2950",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Gun Lake",
+    "scheduled_service": "no",
+    "gps_code": "CGL5",
+    "iata_code": "",
+    "local_code": "CGL5",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "GL5"
+}

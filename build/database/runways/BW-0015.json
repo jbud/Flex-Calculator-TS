@@ -1,0 +1,20 @@
+{
+    "id": "317669",
+    "ident": "BW-0015",
+    "type": "small_airport",
+    "name": "Kgoro Pan Airport",
+    "latitude_deg": "-21.2019",
+    "longitude_deg": "22.5038",
+    "elevation_ft": "3550",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-GH",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "FB30"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "41457",
+    "ident": "WIBR",
+    "type": "small_airport",
+    "name": "Rokot Airport",
+    "latitude_deg": "-2.100349",
+    "longitude_deg": "99.704319",
+    "elevation_ft": "1",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-SB",
+    "municipality": "Matobe",
+    "scheduled_service": "no",
+    "gps_code": "WIBR",
+    "iata_code": "RKO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Rokot Sipora Airport"
+}

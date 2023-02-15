@@ -1,0 +1,20 @@
+{
+    "id": "328306",
+    "ident": "US-0895",
+    "type": "small_airport",
+    "name": "Woodley 2 Airport",
+    "latitude_deg": "41.522504",
+    "longitude_deg": "-89.655636",
+    "elevation_ft": "640",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Walnut",
+    "scheduled_service": "no",
+    "gps_code": "5IL8",
+    "iata_code": "",
+    "local_code": "5IL8",
+    "home_link": "http://www.woodleyaerialspray.com/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

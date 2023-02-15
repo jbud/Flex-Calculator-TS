@@ -1,0 +1,20 @@
+{
+    "id": "40481",
+    "ident": "VE-0132",
+    "type": "small_airport",
+    "name": "Mavaca II Airport",
+    "latitude_deg": "2.5206899642944336",
+    "longitude_deg": "-65.1990966796875",
+    "elevation_ft": "1154",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-Z",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

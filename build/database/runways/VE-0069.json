@@ -1,0 +1,20 @@
+{
+    "id": "40418",
+    "ident": "VE-0069",
+    "type": "heliport",
+    "name": "Evhelca  Heliport",
+    "latitude_deg": "10.471667289733887",
+    "longitude_deg": "-64.19000244140625",
+    "elevation_ft": "35",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-R",
+    "municipality": "Cumaná",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

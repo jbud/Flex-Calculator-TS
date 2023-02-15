@@ -1,0 +1,20 @@
+{
+    "id": "351900",
+    "ident": "AU-0331",
+    "type": "small_airport",
+    "name": "Stirling North/Flinders Field Airport",
+    "latitude_deg": "-32.529886",
+    "longitude_deg": "137.85269",
+    "elevation_ft": "110",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "Stirling North",
+    "scheduled_service": "no",
+    "gps_code": "YFFD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40204",
+    "ident": "SVMK",
+    "type": "small_airport",
+    "name": "El Milagro Cojedes Airport",
+    "latitude_deg": "9.229999542236328",
+    "longitude_deg": "-67.97000122070312",
+    "elevation_ft": "262",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-H",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVMK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

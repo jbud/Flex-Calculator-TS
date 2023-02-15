@@ -1,0 +1,20 @@
+{
+    "id": "350291",
+    "ident": "US-5933",
+    "type": "small_airport",
+    "name": "White Mountain Airport",
+    "latitude_deg": "29.87156",
+    "longitude_deg": "-100.23501",
+    "elevation_ft": "2304",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Rocksprings",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

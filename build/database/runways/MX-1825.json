@@ -1,0 +1,20 @@
+{
+    "id": "349385",
+    "ident": "MX-1825",
+    "type": "small_airport",
+    "name": "Potrerillo Airport",
+    "latitude_deg": "25.15593",
+    "longitude_deg": "-107.03619",
+    "elevation_ft": "2807",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-DUR",
+    "municipality": "Tamazula",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

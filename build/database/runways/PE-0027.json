@@ -1,0 +1,20 @@
+{
+    "id": "356333",
+    "ident": "PE-0027",
+    "type": "small_airport",
+    "name": "San Bartolo Airport",
+    "latitude_deg": "-12.38084",
+    "longitude_deg": "-76.78206",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LIM",
+    "municipality": "San Bartolo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

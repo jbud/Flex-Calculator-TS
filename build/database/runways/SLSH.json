@@ -1,0 +1,20 @@
+{
+    "id": "39543",
+    "ident": "SLSH",
+    "type": "small_airport",
+    "name": "Santa Ana De Huachi Airport",
+    "latitude_deg": "-15.483333587646484",
+    "longitude_deg": "-67.48332977294922",
+    "elevation_ft": "1640",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-L",
+    "municipality": "Sud Yungas",
+    "scheduled_service": "no",
+    "gps_code": "SLSH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

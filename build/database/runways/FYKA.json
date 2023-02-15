@@ -1,0 +1,20 @@
+{
+    "id": "29571",
+    "ident": "FYKA",
+    "type": "small_airport",
+    "name": "Karibib Airport",
+    "latitude_deg": "-21.84779930114746",
+    "longitude_deg": "15.902799606323242",
+    "elevation_ft": "3829",
+    "continent": "AF",
+    "iso_country": "NA",
+    "iso_region": "NA-ER",
+    "municipality": "Karibib",
+    "scheduled_service": "no",
+    "gps_code": "FYKA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

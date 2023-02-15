@@ -1,0 +1,20 @@
+{
+    "id": "44917",
+    "ident": "RU-0223",
+    "type": "heliport",
+    "name": "Malino Heliport",
+    "latitude_deg": "55.085",
+    "longitude_deg": "38.145",
+    "elevation_ft": "604",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-MOS",
+    "municipality": "Malino",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Вертодром Малино"
+}

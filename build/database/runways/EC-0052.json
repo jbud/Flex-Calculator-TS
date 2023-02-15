@@ -1,0 +1,20 @@
+{
+    "id": "505097",
+    "ident": "EC-0052",
+    "type": "small_airport",
+    "name": "Tambillo Airport",
+    "latitude_deg": "-0.40349",
+    "longitude_deg": "-78.52983",
+    "elevation_ft": "8888",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-H",
+    "municipality": "Tambillo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "321110",
+    "ident": "IT-0496",
+    "type": "small_airport",
+    "name": "Campo di Volo Pellizzario",
+    "latitude_deg": "45.2927778",
+    "longitude_deg": "10.4466667",
+    "elevation_ft": "140",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-25",
+    "municipality": "Castel Goffredo (MN)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MNPEL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

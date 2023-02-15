@@ -1,0 +1,20 @@
+{
+    "id": "42727",
+    "ident": "NZ-0013",
+    "type": "small_airport",
+    "name": "Culverden",
+    "latitude_deg": "-42.76765060424805",
+    "longitude_deg": "172.8919677734375",
+    "elevation_ft": "597",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-CAN",
+    "municipality": "Hurunui District Council",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://anzfc.inet.net.nz/culverden.htm",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "345165",
+    "ident": "US-4352",
+    "type": "heliport",
+    "name": "McLaren Macomb Hospital Heliport",
+    "latitude_deg": "42.588711",
+    "longitude_deg": "-82.898347",
+    "elevation_ft": "600",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Mount Clemens",
+    "scheduled_service": "no",
+    "gps_code": "MI00",
+    "iata_code": "",
+    "local_code": "MI00",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

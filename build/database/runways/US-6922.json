@@ -1,0 +1,20 @@
+{
+    "id": "355499",
+    "ident": "US-6922",
+    "type": "small_airport",
+    "name": "TJ Airport",
+    "latitude_deg": "60.490493",
+    "longitude_deg": "-151.013109",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Soldotna",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "39562",
+    "ident": "PY-0001",
+    "type": "small_airport",
+    "name": "Aeródromo de Iturbe",
+    "latitude_deg": "-26.063066",
+    "longitude_deg": "-56.493378",
+    "elevation_ft": "328",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-4",
+    "municipality": "Iturbe",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

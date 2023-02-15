@@ -1,0 +1,20 @@
+{
+    "id": "44039",
+    "ident": "EKFA",
+    "type": "heliport",
+    "name": "Froðba Heliport",
+    "latitude_deg": "61.543701",
+    "longitude_deg": "-6.77442",
+    "elevation_ft": "77",
+    "continent": "EU",
+    "iso_country": "FO",
+    "iso_region": "FO-U-A",
+    "municipality": "Froðba",
+    "scheduled_service": "yes",
+    "gps_code": "EKFA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

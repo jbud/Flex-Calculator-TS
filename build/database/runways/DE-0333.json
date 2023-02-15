@@ -1,0 +1,20 @@
+{
+    "id": "316052",
+    "ident": "DE-0333",
+    "type": "small_airport",
+    "name": "Schäfhalde Airfield",
+    "latitude_deg": "48.6922",
+    "longitude_deg": "10.0995",
+    "elevation_ft": "2075",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Heidenheim",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.fliegergruppe-heidenheim.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "675",
+    "ident": "CBE3",
+    "type": "heliport",
+    "name": "Beamsville/Panterra Heliport",
+    "latitude_deg": "43.186552790200004",
+    "longitude_deg": "-79.47424471379999",
+    "elevation_ft": "300",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Beamsville",
+    "scheduled_service": "no",
+    "gps_code": "CBE3",
+    "iata_code": "",
+    "local_code": "CBE3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "BE3"
+}

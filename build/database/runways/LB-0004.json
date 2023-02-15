@@ -1,0 +1,20 @@
+{
+    "id": "340571",
+    "ident": "LB-0004",
+    "type": "small_airport",
+    "name": "Baadarâne Airport",
+    "latitude_deg": "33.636065",
+    "longitude_deg": "35.614209",
+    "elevation_ft": "3501",
+    "continent": "AS",
+    "iso_country": "LB",
+    "iso_region": "LB-JL",
+    "municipality": "Baadarâne",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

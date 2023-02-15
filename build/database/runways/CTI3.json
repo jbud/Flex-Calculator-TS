@@ -1,0 +1,20 @@
+{
+    "id": "28349",
+    "ident": "CTI3",
+    "type": "seaplane_base",
+    "name": "Ottawa / Gatineau Seaplane Base",
+    "latitude_deg": "45.4644012451",
+    "longitude_deg": "-75.68000030520001",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Gatineau",
+    "scheduled_service": "no",
+    "gps_code": "CTI3",
+    "iata_code": "",
+    "local_code": "CTI3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "TI3"
+}

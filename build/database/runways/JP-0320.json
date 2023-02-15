@@ -1,0 +1,20 @@
+{
+    "id": "334719",
+    "ident": "JP-0320",
+    "type": "small_airport",
+    "name": "Honda Airport",
+    "latitude_deg": "35.97633",
+    "longitude_deg": "139.524125",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-11",
+    "municipality": "Kawajima",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "RJT1",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Honda_Airport",
+    "keywords": "rjt1, rjoj, honda, kawataya, kawajima, okegawa"
+}

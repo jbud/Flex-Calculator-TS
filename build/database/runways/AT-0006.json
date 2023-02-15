@@ -1,0 +1,20 @@
+{
+    "id": "329106",
+    "ident": "AT-0006",
+    "type": "heliport",
+    "name": "Nenzing Heliport",
+    "latitude_deg": "47.208989",
+    "longitude_deg": "9.659822",
+    "elevation_ft": "1624",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-8",
+    "municipality": "Frastanz",
+    "scheduled_service": "no",
+    "gps_code": "LOJN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Christophorus 8"
+}

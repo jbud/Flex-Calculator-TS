@@ -1,0 +1,20 @@
+{
+    "id": "29051",
+    "ident": "EBSS",
+    "type": "heliport",
+    "name": "Sint-Lucas Heliport",
+    "latitude_deg": "51.183906",
+    "longitude_deg": "3.24999",
+    "elevation_ft": "16",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-VWV",
+    "municipality": "Brugge",
+    "scheduled_service": "no",
+    "gps_code": "EBSS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

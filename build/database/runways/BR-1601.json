@@ -1,0 +1,20 @@
+{
+    "id": "346502",
+    "ident": "BR-1601",
+    "type": "small_airport",
+    "name": "Boris Airport",
+    "latitude_deg": "-12.068207",
+    "longitude_deg": "-45.828671",
+    "elevation_ft": "2310",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Luís Eduardo Magalhães",
+    "scheduled_service": "no",
+    "gps_code": "SSHB",
+    "iata_code": "",
+    "local_code": "BA0158",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

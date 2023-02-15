@@ -1,0 +1,20 @@
+{
+    "id": "41437",
+    "ident": "WAKT",
+    "type": "medium_airport",
+    "name": "Tanah Merah Airport",
+    "latitude_deg": "-6.09669",
+    "longitude_deg": "140.303521",
+    "elevation_ft": "57",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PS",
+    "municipality": "Tanah Merah",
+    "scheduled_service": "yes",
+    "gps_code": "WAKT",
+    "iata_code": "TMH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

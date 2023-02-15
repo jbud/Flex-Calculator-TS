@@ -1,0 +1,20 @@
+{
+    "id": "31198",
+    "ident": "FNTO",
+    "type": "small_airport",
+    "name": "Toto Airport",
+    "latitude_deg": "-7.146389961242676",
+    "longitude_deg": "14.248600006103516",
+    "elevation_ft": "1775",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-UIG",
+    "municipality": "Toto",
+    "scheduled_service": "no",
+    "gps_code": "FNTO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

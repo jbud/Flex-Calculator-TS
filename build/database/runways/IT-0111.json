@@ -1,0 +1,20 @@
+{
+    "id": "315882",
+    "ident": "IT-0111",
+    "type": "small_airport",
+    "name": "Aviosuperficie dei Navigli",
+    "latitude_deg": "45.414722",
+    "longitude_deg": "8.895",
+    "elevation_ft": "374",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-25",
+    "municipality": "Abbiategrasso",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MIABB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

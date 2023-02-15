@@ -1,0 +1,20 @@
+{
+    "id": "35398",
+    "ident": "AR-0004",
+    "type": "small_airport",
+    "name": "Merlo Airport",
+    "latitude_deg": "-32.35820007324219",
+    "longitude_deg": "-65.01740264892578",
+    "elevation_ft": "796",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-D",
+    "municipality": "Merlo",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "RLO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

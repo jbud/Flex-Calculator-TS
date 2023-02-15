@@ -1,0 +1,20 @@
+{
+    "id": "335109",
+    "ident": "BR-0775",
+    "type": "small_airport",
+    "name": "Aníbal Airport",
+    "latitude_deg": "-4.847581",
+    "longitude_deg": "-37.942214",
+    "elevation_ft": "141",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-CE",
+    "municipality": "Russas",
+    "scheduled_service": "no",
+    "gps_code": "SSVT",
+    "iata_code": "",
+    "local_code": "CE0078",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

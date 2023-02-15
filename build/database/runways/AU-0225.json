@@ -1,0 +1,20 @@
+{
+    "id": "504997",
+    "ident": "AU-0225",
+    "type": "small_airport",
+    "name": "WILMINGTON RESIDENTIAL AIRPARK",
+    "latitude_deg": "-32.635309",
+    "longitude_deg": "138.107157",
+    "elevation_ft": "1080",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "Wilmington",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.wilmington-airpark.com/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

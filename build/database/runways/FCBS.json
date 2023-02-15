@@ -1,0 +1,20 @@
+{
+    "id": "32300",
+    "ident": "FCBS",
+    "type": "small_airport",
+    "name": "Sibiti Airport",
+    "latitude_deg": "-3.683000087738037",
+    "longitude_deg": "13.350000381469727",
+    "elevation_ft": "1883",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-2",
+    "municipality": "Sibiti",
+    "scheduled_service": "no",
+    "gps_code": "FCBS",
+    "iata_code": "SIB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

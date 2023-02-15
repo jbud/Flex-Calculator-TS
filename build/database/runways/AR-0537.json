@@ -1,0 +1,20 @@
+{
+    "id": "318269",
+    "ident": "AR-0537",
+    "type": "small_airport",
+    "name": "Campo San Jose Airport",
+    "latitude_deg": "-30.77778",
+    "longitude_deg": "-62.01472",
+    "elevation_ft": "331",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-X",
+    "municipality": "Morteros",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CSJ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

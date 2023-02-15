@@ -1,0 +1,20 @@
+{
+    "id": "345262",
+    "ident": "MX-1627",
+    "type": "small_airport",
+    "name": "San Bruno Airport",
+    "latitude_deg": "27.15172",
+    "longitude_deg": "-112.15918",
+    "elevation_ft": "49",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-BCS",
+    "municipality": "Mulegé",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "505595",
+    "ident": "PY-0074",
+    "type": "heliport",
+    "name": "Helipuerto Nº3 del Comando de Operaciones de Defensa Interna de las Fuerzas de Tarea Conjunta",
+    "latitude_deg": "-23.164785",
+    "longitude_deg": "-56.755264",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-1",
+    "municipality": "Comando de Operaciones de Defensa Interna",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

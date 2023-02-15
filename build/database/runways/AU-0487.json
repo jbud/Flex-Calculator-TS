@@ -1,0 +1,20 @@
+{
+    "id": "356184",
+    "ident": "AU-0487",
+    "type": "small_airport",
+    "name": "Tangorin Airport",
+    "latitude_deg": "-21.05649",
+    "longitude_deg": "144.20102",
+    "elevation_ft": "1014",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Tangorin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

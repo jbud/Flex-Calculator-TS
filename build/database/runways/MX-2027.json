@@ -1,0 +1,20 @@
+{
+    "id": "505576",
+    "ident": "MX-2027",
+    "type": "small_airport",
+    "name": "Base Nº19 de la Fuerza Aérea Mexicana",
+    "latitude_deg": "19.423767",
+    "longitude_deg": "-99.076102",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-DIF",
+    "municipality": "Ciudad de México",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.gob.mx/sedena/documentos/fuerza-aerea-mexicana",
+    "wikipedia_link": "https://es.m.wikipedia.org/wiki/Fuerza_Aérea_Mexicana",
+    "keywords": ""
+}

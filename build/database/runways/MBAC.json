@@ -1,0 +1,20 @@
+{
+    "id": "308443",
+    "ident": "MBAC",
+    "type": "small_airport",
+    "name": "Harold Charles International Airport",
+    "latitude_deg": "21.302649",
+    "longitude_deg": "-71.637168",
+    "elevation_ft": "9",
+    "continent": "NA",
+    "iso_country": "TC",
+    "iso_region": "TC-AC",
+    "municipality": "Big Ambergris Cay",
+    "scheduled_service": "no",
+    "gps_code": "MBAC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.ambergristci.com/documents/12(a).%20Ambergris%20Cay%20Paved%20Jet%20Strip.pdf",
+    "wikipedia_link": "",
+    "keywords": "Ambergris Cay Airport"
+}

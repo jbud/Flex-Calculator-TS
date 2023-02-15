@@ -1,0 +1,20 @@
+{
+    "id": "35325",
+    "ident": "AO-0001",
+    "type": "small_airport",
+    "name": "Catoca Airport",
+    "latitude_deg": "-9.430985",
+    "longitude_deg": "20.311478",
+    "elevation_ft": "3498",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-LSU",
+    "municipality": "Saurimo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "CTV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Catoca_Airport",
+    "keywords": "Saurimo North"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "345357",
+    "ident": "US-4430",
+    "type": "small_airport",
+    "name": "Shady Lawn Field",
+    "latitude_deg": "43.128584",
+    "longitude_deg": "-84.381293",
+    "elevation_ft": "683",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Bannister",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "4M4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

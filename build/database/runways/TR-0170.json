@@ -1,0 +1,20 @@
+{
+    "id": "355215",
+    "ident": "TR-0170",
+    "type": "heliport",
+    "name": "AFAD Helipad",
+    "latitude_deg": "39.906437",
+    "longitude_deg": "32.758553",
+    "elevation_ft": "856",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-06",
+    "municipality": "Çankaya",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

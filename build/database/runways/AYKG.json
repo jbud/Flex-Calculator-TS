@@ -1,0 +1,20 @@
+{
+    "id": "308795",
+    "ident": "AYKG",
+    "type": "small_airport",
+    "name": "Kopiago Airport",
+    "latitude_deg": "-5.3883",
+    "longitude_deg": "142.4977",
+    "elevation_ft": "4445",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-HE",
+    "municipality": "Kopiago",
+    "scheduled_service": "no",
+    "gps_code": "AYKG",
+    "iata_code": "KPA",
+    "local_code": "KGO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

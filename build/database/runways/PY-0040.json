@@ -1,0 +1,20 @@
+{
+    "id": "321681",
+    "ident": "PY-0040",
+    "type": "small_airport",
+    "name": "Aeródromo de San Miguel",
+    "latitude_deg": "-26.546805",
+    "longitude_deg": "-57.101111",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-8",
+    "municipality": "San Miguel",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

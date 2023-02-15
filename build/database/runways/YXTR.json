@@ -1,0 +1,20 @@
+{
+    "id": "310101",
+    "ident": "YXTR",
+    "type": "heliport",
+    "name": "Taree - Wrigley Park Helipad",
+    "latitude_deg": "-31.9064",
+    "longitude_deg": "152.4508",
+    "elevation_ft": "39",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Taree",
+    "scheduled_service": "no",
+    "gps_code": "YXTR",
+    "iata_code": "",
+    "local_code": "YXTR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

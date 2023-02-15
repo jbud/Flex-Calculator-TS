@@ -1,0 +1,20 @@
+{
+    "id": "29661",
+    "ident": "FQAG",
+    "type": "small_airport",
+    "name": "Angoche Airport",
+    "latitude_deg": "-16.181869506835938",
+    "longitude_deg": "39.94521713256836",
+    "elevation_ft": "121",
+    "continent": "AF",
+    "iso_country": "MZ",
+    "iso_region": "MZ-N",
+    "municipality": "Angoche",
+    "scheduled_service": "no",
+    "gps_code": "FQAG",
+    "iata_code": "ANO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

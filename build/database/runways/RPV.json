@@ -1,0 +1,20 @@
+{
+    "id": "314516",
+    "ident": "RPV",
+    "type": "small_airport",
+    "name": "Roper Valley Airport",
+    "latitude_deg": "-14.9215",
+    "longitude_deg": "134.05",
+    "elevation_ft": "237",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Roper Valley",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "RPV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

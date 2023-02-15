@@ -1,0 +1,20 @@
+{
+    "id": "322835",
+    "ident": "KR-0037",
+    "type": "heliport",
+    "name": "C-326 Heliport",
+    "latitude_deg": "38.132472",
+    "longitude_deg": "127.531786",
+    "elevation_ft": "1500",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-42",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "RK78",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "353693",
+    "ident": "CA-0056",
+    "type": "small_airport",
+    "name": "Saint-Bernard-de-Lacolle Airport",
+    "latitude_deg": "45.03072",
+    "longitude_deg": "-73.41959",
+    "elevation_ft": "299",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Saint-Bernard-de-Lacolle",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

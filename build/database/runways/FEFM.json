@@ -1,0 +1,20 @@
+{
+    "id": "30684",
+    "ident": "FEFM",
+    "type": "small_airport",
+    "name": "Bambari Airport",
+    "latitude_deg": "5.847012",
+    "longitude_deg": "20.64992",
+    "elevation_ft": "1549",
+    "continent": "AF",
+    "iso_country": "CF",
+    "iso_region": "CF-UK",
+    "municipality": "Bambari",
+    "scheduled_service": "no",
+    "gps_code": "FEFM",
+    "iata_code": "BBY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bambari_Airport",
+    "keywords": ""
+}

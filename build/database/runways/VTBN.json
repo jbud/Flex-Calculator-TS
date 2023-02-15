@@ -1,0 +1,20 @@
+{
+    "id": "32594",
+    "ident": "VTBN",
+    "type": "small_airport",
+    "name": "Prachuap Khiri Khan Airport",
+    "latitude_deg": "12.417200088500977",
+    "longitude_deg": "99.86940002441406",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-77",
+    "municipality": "Prachuap Khiri Khan",
+    "scheduled_service": "no",
+    "gps_code": "VTBN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

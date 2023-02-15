@@ -1,0 +1,20 @@
+{
+    "id": "27296",
+    "ident": "FATR",
+    "type": "small_airport",
+    "name": "Trennery's Airport",
+    "latitude_deg": "-32.639682",
+    "longitude_deg": "28.422969",
+    "elevation_ft": "114",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Qolora",
+    "scheduled_service": "no",
+    "gps_code": "FATR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "41768",
+    "ident": "UZ-0081",
+    "type": "small_airport",
+    "name": "Gulistan North Airport",
+    "latitude_deg": "40.51276",
+    "longitude_deg": "68.798999",
+    "elevation_ft": "893",
+    "continent": "AS",
+    "iso_country": "UZ",
+    "iso_region": "UZ-SI",
+    "municipality": "Gulistan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

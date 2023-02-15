@@ -1,0 +1,20 @@
+{
+    "id": "28465",
+    "ident": "CAE5",
+    "type": "seaplane_base",
+    "name": "Whistler/Green Lake Water Aerodrome",
+    "latitude_deg": "50.1436004639",
+    "longitude_deg": "-122.948997498",
+    "elevation_ft": "2100",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Whistler",
+    "scheduled_service": "yes",
+    "gps_code": "CAE5",
+    "iata_code": "YWS",
+    "local_code": "CAE5",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Whistler/Green_Lake_Water_Aerodrome",
+    "keywords": "AE5"
+}

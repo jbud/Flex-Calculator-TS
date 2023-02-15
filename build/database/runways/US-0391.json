@@ -1,0 +1,20 @@
+{
+    "id": "322054",
+    "ident": "US-0391",
+    "type": "small_airport",
+    "name": "Stateline Airport",
+    "latitude_deg": "40.536617",
+    "longitude_deg": "-80.513076",
+    "elevation_ft": "1151",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Hookstown",
+    "scheduled_service": "no",
+    "gps_code": "29PA",
+    "iata_code": "",
+    "local_code": "29PA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

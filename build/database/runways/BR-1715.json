@@ -1,0 +1,20 @@
+{
+    "id": "355741",
+    "ident": "BR-1715",
+    "type": "heliport",
+    "name": "Hospital Universitário UNIFAP Helipad",
+    "latitude_deg": "0.000032",
+    "longitude_deg": "-51.083325",
+    "elevation_ft": "59",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AP",
+    "municipality": "Macapá",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "AP0020",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

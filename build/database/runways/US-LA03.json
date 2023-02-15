@@ -1,0 +1,20 @@
+{
+    "id": "21470",
+    "ident": "US-LA03",
+    "type": "closed",
+    "name": "Daniel Airport",
+    "latitude_deg": "30.355631",
+    "longitude_deg": "-91.275771",
+    "elevation_ft": "18",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Addis",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "LA03"
+}

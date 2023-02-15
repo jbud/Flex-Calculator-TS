@@ -1,0 +1,20 @@
+{
+    "id": "317581",
+    "ident": "FBXI",
+    "type": "small_airport",
+    "name": "Xigera Airport",
+    "latitude_deg": "-19.385485",
+    "longitude_deg": "22.737648",
+    "elevation_ft": "3170",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-NW",
+    "municipality": "Xigera",
+    "scheduled_service": "no",
+    "gps_code": "FBXI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "FB95"
+}

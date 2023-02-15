@@ -1,0 +1,20 @@
+{
+    "id": "32366",
+    "ident": "SPPB",
+    "type": "small_airport",
+    "name": "Tipishsa Airport",
+    "latitude_deg": "-9.533060073852539",
+    "longitude_deg": "-72.75689697265625",
+    "elevation_ft": "783",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-UCA",
+    "municipality": "Puerto Breu",
+    "scheduled_service": "no",
+    "gps_code": "SPPB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

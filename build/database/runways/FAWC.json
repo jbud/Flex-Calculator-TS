@@ -1,0 +1,20 @@
+{
+    "id": "30569",
+    "ident": "FAWC",
+    "type": "small_airport",
+    "name": "Worcester Glider Airport",
+    "latitude_deg": "-33.66310119628906",
+    "longitude_deg": "19.415300369262695",
+    "elevation_ft": "673",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-WC",
+    "municipality": "Worcester",
+    "scheduled_service": "no",
+    "gps_code": "FAWC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

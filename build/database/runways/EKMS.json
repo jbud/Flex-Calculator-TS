@@ -1,0 +1,20 @@
+{
+    "id": "44041",
+    "ident": "EKMS",
+    "type": "heliport",
+    "name": "Mykines Heliport",
+    "latitude_deg": "62.102169",
+    "longitude_deg": "-7.645934",
+    "elevation_ft": "110",
+    "continent": "EU",
+    "iso_country": "FO",
+    "iso_region": "FO-U-A",
+    "municipality": "Mykines",
+    "scheduled_service": "yes",
+    "gps_code": "EKMS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

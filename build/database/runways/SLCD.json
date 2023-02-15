@@ -1,0 +1,20 @@
+{
+    "id": "39422",
+    "ident": "SLCD",
+    "type": "small_airport",
+    "name": "Cañada Airport",
+    "latitude_deg": "-20.025400161743164",
+    "longitude_deg": "-63.0890998840332",
+    "elevation_ft": "1954",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Gutierrez",
+    "scheduled_service": "no",
+    "gps_code": "SLCD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

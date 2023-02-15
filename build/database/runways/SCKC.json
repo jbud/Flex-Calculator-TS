@@ -1,0 +1,20 @@
+{
+    "id": "39183",
+    "ident": "SCKC",
+    "type": "small_airport",
+    "name": "Roberto Chavéz Airport",
+    "latitude_deg": "-38.906944274902344",
+    "longitude_deg": "-72.21527862548828",
+    "elevation_ft": "895",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-AR",
+    "municipality": "Cunco",
+    "scheduled_service": "no",
+    "gps_code": "SCKC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

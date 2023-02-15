@@ -1,0 +1,20 @@
+{
+    "id": "351939",
+    "ident": "OM-0023",
+    "type": "small_airport",
+    "name": "Mudayy Airport",
+    "latitude_deg": "17.46854",
+    "longitude_deg": "53.36056",
+    "elevation_ft": "1879",
+    "continent": "AS",
+    "iso_country": "OM",
+    "iso_region": "OM-ZU",
+    "municipality": "Mudayy",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

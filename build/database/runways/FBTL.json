@@ -1,0 +1,20 @@
+{
+    "id": "30077",
+    "ident": "FBTL",
+    "type": "small_airport",
+    "name": "Limpopo Valley Airport",
+    "latitude_deg": "-22.189199447599997",
+    "longitude_deg": "29.126899719199997",
+    "elevation_ft": "1772",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-CE",
+    "municipality": "Tuli Lodge",
+    "scheduled_service": "yes",
+    "gps_code": "FBLV",
+    "iata_code": "TLD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

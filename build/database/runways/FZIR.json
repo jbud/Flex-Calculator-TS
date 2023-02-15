@@ -1,0 +1,20 @@
+{
+    "id": "32716",
+    "ident": "FZIR",
+    "type": "small_airport",
+    "name": "Yangambi Airport",
+    "latitude_deg": "0.7829999923706055",
+    "longitude_deg": "24.466999053955078",
+    "elevation_ft": "1378",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-TS",
+    "municipality": "Yangambi",
+    "scheduled_service": "no",
+    "gps_code": "FZIR",
+    "iata_code": "YAN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "319749",
+    "ident": "LIRC",
+    "type": "heliport",
+    "name": "Centocelle Heliport",
+    "latitude_deg": "41.8729",
+    "longitude_deg": "12.5637",
+    "elevation_ft": "158",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-62",
+    "municipality": "Rome",
+    "scheduled_service": "no",
+    "gps_code": "LIRC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Centocelle_Airport",
+    "keywords": ""
+}

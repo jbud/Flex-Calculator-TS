@@ -1,0 +1,20 @@
+{
+    "id": "351098",
+    "ident": "US-6309",
+    "type": "heliport",
+    "name": "Santa Paula Hospital Heliport",
+    "latitude_deg": "34.36601",
+    "longitude_deg": "-119.06421",
+    "elevation_ft": "579",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Santa Paula",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

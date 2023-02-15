@@ -1,0 +1,20 @@
+{
+    "id": "32662",
+    "ident": "WMAE",
+    "type": "small_airport",
+    "name": "Bidor Airport",
+    "latitude_deg": "4.11638879776001",
+    "longitude_deg": "101.28199768066406",
+    "elevation_ft": "128",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-08",
+    "municipality": "Bidor",
+    "scheduled_service": "no",
+    "gps_code": "WMAE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

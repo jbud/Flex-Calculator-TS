@@ -1,0 +1,20 @@
+{
+    "id": "302436",
+    "ident": "BVR",
+    "type": "small_airport",
+    "name": "Esperadinha Airport",
+    "latitude_deg": "14.864306",
+    "longitude_deg": "-24.746",
+    "elevation_ft": "64",
+    "continent": "AF",
+    "iso_country": "CV",
+    "iso_region": "CV-S",
+    "municipality": "Brava Island",
+    "scheduled_service": "no",
+    "gps_code": "GVBR",
+    "iata_code": "BVR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

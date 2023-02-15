@@ -1,0 +1,20 @@
+{
+    "id": "326806",
+    "ident": "LPMB",
+    "type": "heliport",
+    "name": "Miguel Barros Heliport",
+    "latitude_deg": "37.149722",
+    "longitude_deg": "-7.953889",
+    "elevation_ft": "750",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-08",
+    "municipality": "Morgado da Apra - Loulé",
+    "scheduled_service": "no",
+    "gps_code": "LPMB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "HTA Helicópteros"
+}

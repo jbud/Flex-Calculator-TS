@@ -1,0 +1,20 @@
+{
+    "id": "321040",
+    "ident": "IT-0490",
+    "type": "small_airport",
+    "name": "Aviosuperficie Torre Foghe",
+    "latitude_deg": "40.1833333",
+    "longitude_deg": "8.4694444",
+    "elevation_ft": "295",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-88",
+    "municipality": "Tresnuraghes (OR)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ORTFO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

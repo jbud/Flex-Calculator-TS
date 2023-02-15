@@ -1,0 +1,20 @@
+{
+    "id": "320776",
+    "ident": "ES-0104",
+    "type": "small_airport",
+    "name": "Aerodromo El Busto",
+    "latitude_deg": "42.34463",
+    "longitude_deg": "-5.803481",
+    "elevation_ft": "2648",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CL",
+    "municipality": "Santa Maria del Páramo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Aeroclub Esparver"
+}

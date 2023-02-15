@@ -1,0 +1,20 @@
+{
+    "id": "30203",
+    "ident": "LKNY",
+    "type": "small_airport",
+    "name": "Nymburk Ul Ploch Airport",
+    "latitude_deg": "50.168598",
+    "longitude_deg": "15.0525",
+    "elevation_ft": "607",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-ST",
+    "municipality": "Nymburk",
+    "scheduled_service": "no",
+    "gps_code": "LKNY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.letistenymburk.cz",
+    "wikipedia_link": "",
+    "keywords": ""
+}

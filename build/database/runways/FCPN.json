@@ -1,0 +1,20 @@
+{
+    "id": "31101",
+    "ident": "FCPN",
+    "type": "small_airport",
+    "name": "Noumbi Airport",
+    "latitude_deg": "-4.144149",
+    "longitude_deg": "11.383476",
+    "elevation_ft": "39",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-5",
+    "municipality": "Noumbi",
+    "scheduled_service": "no",
+    "gps_code": "FCPN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

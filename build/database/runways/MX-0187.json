@@ -1,0 +1,20 @@
+{
+    "id": "319311",
+    "ident": "MX-0187",
+    "type": "small_airport",
+    "name": "Insurgente Marcos Escobedo Airport",
+    "latitude_deg": "21.99162",
+    "longitude_deg": "-103.282928",
+    "elevation_ft": "5709",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-JAL",
+    "municipality": "Colotlán",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "COT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "MM33, MM0Z"
+}

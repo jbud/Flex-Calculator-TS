@@ -1,0 +1,20 @@
+{
+    "id": "319914",
+    "ident": "KZ-0087",
+    "type": "small_airport",
+    "name": "Kambala Airport",
+    "latitude_deg": "46.02491",
+    "longitude_deg": "73.494567",
+    "elevation_ft": "1330",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-KAR",
+    "municipality": "Priozersk",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "XAAM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Камбала, Sary Shagan"
+}

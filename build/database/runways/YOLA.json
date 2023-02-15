@@ -1,0 +1,20 @@
+{
+    "id": "27865",
+    "ident": "YOLA",
+    "type": "small_airport",
+    "name": "Colac Airport",
+    "latitude_deg": "-38.286701",
+    "longitude_deg": "143.679993",
+    "elevation_ft": "450",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "Colac",
+    "scheduled_service": "no",
+    "gps_code": "YOLA",
+    "iata_code": "XCO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

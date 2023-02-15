@@ -1,0 +1,20 @@
+{
+    "id": "31308",
+    "ident": "FZAX",
+    "type": "small_airport",
+    "name": "Luheki Airport",
+    "latitude_deg": "-4.849999904632568",
+    "longitude_deg": "13.767000198364258",
+    "elevation_ft": "984",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KO",
+    "municipality": "Luheki",
+    "scheduled_service": "no",
+    "gps_code": "FZAX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

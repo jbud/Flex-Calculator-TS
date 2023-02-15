@@ -1,0 +1,20 @@
+{
+    "id": "40610",
+    "ident": "SK-086",
+    "type": "small_airport",
+    "name": "La Carpeta Airport",
+    "latitude_deg": "5.958611",
+    "longitude_deg": "-70.94",
+    "elevation_ft": "423",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAS",
+    "municipality": "Paz De Ariporo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LAP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

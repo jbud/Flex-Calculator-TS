@@ -1,0 +1,20 @@
+{
+    "id": "42472",
+    "ident": "EG-0006",
+    "type": "small_airport",
+    "name": "Fayed Air Base",
+    "latitude_deg": "30.329104",
+    "longitude_deg": "32.266932",
+    "elevation_ft": "52",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-IS",
+    "municipality": "Abo Swir Desert",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Fa' id Air Base"
+}

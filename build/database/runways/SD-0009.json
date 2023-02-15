@@ -1,0 +1,20 @@
+{
+    "id": "351450",
+    "ident": "SD-0009",
+    "type": "small_airport",
+    "name": "Kenana Air Base",
+    "latitude_deg": "13.089439",
+    "longitude_deg": "32.853462",
+    "elevation_ft": "1270",
+    "continent": "AF",
+    "iso_country": "SD",
+    "iso_region": "SD-08",
+    "municipality": "Sifeiya",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

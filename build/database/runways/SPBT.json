@@ -1,0 +1,20 @@
+{
+    "id": "39590",
+    "ident": "SPBT",
+    "type": "small_airport",
+    "name": "Obenteni Airport",
+    "latitude_deg": "-10.755137",
+    "longitude_deg": "-74.221749",
+    "elevation_ft": "3290",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-UCA",
+    "municipality": "Obenteni",
+    "scheduled_service": "no",
+    "gps_code": "SPBT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

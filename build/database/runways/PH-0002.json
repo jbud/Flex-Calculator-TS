@@ -1,0 +1,20 @@
+{
+    "id": "308652",
+    "ident": "PH-0002",
+    "type": "small_airport",
+    "name": "San Antonio Airport",
+    "latitude_deg": "12.417",
+    "longitude_deg": "124.2742",
+    "elevation_ft": "3",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-NSA",
+    "municipality": "San Antonio",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/San_Antonio_Airport_(Philippines)",
+    "keywords": "Dalupiri, Dalupiri Island National, Luparan han San Antonio, Paliparan ng San Antonio, Tugpahanan sa San Antonio"
+}

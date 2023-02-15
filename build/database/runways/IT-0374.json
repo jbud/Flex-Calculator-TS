@@ -1,0 +1,20 @@
+{
+    "id": "319954",
+    "ident": "IT-0374",
+    "type": "small_airport",
+    "name": "Campo di Volo \"Asolo Flight\"",
+    "latitude_deg": "45.758333",
+    "longitude_deg": "11.896111",
+    "elevation_ft": "252",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-34",
+    "municipality": "Asolo (TV)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "TVASO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Asolo Flight"
+}

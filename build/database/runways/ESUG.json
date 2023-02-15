@@ -1,0 +1,20 @@
+{
+    "id": "29377",
+    "ident": "ESUG",
+    "type": "small_airport",
+    "name": "Gargnäs Airport",
+    "latitude_deg": "65.3052978515625",
+    "longitude_deg": "17.975500106811523",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-AC",
+    "municipality": "Gargnäs",
+    "scheduled_service": "no",
+    "gps_code": "ESUG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

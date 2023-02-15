@@ -1,0 +1,20 @@
+{
+    "id": "308653",
+    "ident": "PH-0003",
+    "type": "small_airport",
+    "name": "Azagra Airstrip",
+    "latitude_deg": "12.2799",
+    "longitude_deg": "122.6246",
+    "elevation_ft": "10",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-ROM",
+    "municipality": "San Fernando",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

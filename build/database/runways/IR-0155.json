@@ -1,0 +1,20 @@
+{
+    "id": "505022",
+    "ident": "IR-0155",
+    "type": "small_airport",
+    "name": "Darband Airport",
+    "latitude_deg": "31.77942",
+    "longitude_deg": "56.99676",
+    "elevation_ft": "2110",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-08",
+    "municipality": "Darband",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

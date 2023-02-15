@@ -1,0 +1,20 @@
+{
+    "id": "309546",
+    "ident": "YXMA",
+    "type": "heliport",
+    "name": "Maclean Hospital Helipad",
+    "latitude_deg": "-29.45373",
+    "longitude_deg": "153.20143",
+    "elevation_ft": "20",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Maclean",
+    "scheduled_service": "no",
+    "gps_code": "YXMA",
+    "iata_code": "",
+    "local_code": "YXMA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

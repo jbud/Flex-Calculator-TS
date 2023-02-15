@@ -1,0 +1,20 @@
+{
+    "id": "46624",
+    "ident": "IN-0061",
+    "type": "small_airport",
+    "name": "Khandwa Airport",
+    "latitude_deg": "21.857117459599998",
+    "longitude_deg": "76.3369560242",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-MP",
+    "municipality": "Khandwa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

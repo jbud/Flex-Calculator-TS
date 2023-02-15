@@ -1,0 +1,20 @@
+{
+    "id": "349731",
+    "ident": "GB-0657",
+    "type": "closed",
+    "name": "RAF Wing",
+    "latitude_deg": "51.903056",
+    "longitude_deg": "-0.748333",
+    "elevation_ft": "469",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Wing",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Wing",
+    "keywords": "RAF"
+}

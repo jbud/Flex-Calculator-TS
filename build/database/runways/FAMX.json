@@ -1,0 +1,20 @@
+{
+    "id": "41255",
+    "ident": "FAMX",
+    "type": "small_airport",
+    "name": "Mbazwana Airport",
+    "latitude_deg": "-27.481399536132812",
+    "longitude_deg": "32.59389877319336",
+    "elevation_ft": "195",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Mbazwana",
+    "scheduled_service": "no",
+    "gps_code": "FAMX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

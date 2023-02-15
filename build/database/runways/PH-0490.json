@@ -1,0 +1,20 @@
+{
+    "id": "430069",
+    "ident": "PH-0490",
+    "type": "small_airport",
+    "name": "Camotes Airstrip",
+    "latitude_deg": "10.65955",
+    "longitude_deg": "124.37011",
+    "elevation_ft": "70",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-CEB",
+    "municipality": "San Francisco",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "319145",
+    "ident": "IT-0250",
+    "type": "small_airport",
+    "name": "Campo di Volo \"Valerio Glorialanza\"",
+    "latitude_deg": "44.376111",
+    "longitude_deg": "9.290278",
+    "elevation_ft": "49",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-42",
+    "municipality": "Certenoli",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "GECER",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Calvari"
+}

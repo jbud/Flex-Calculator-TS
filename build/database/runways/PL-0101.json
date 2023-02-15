@@ -1,0 +1,20 @@
+{
+    "id": "323512",
+    "ident": "PL-0101",
+    "type": "small_airport",
+    "name": "Makosieje Airfield",
+    "latitude_deg": "53.807373",
+    "longitude_deg": "22.540594",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-WN",
+    "municipality": "Makosieje",
+    "scheduled_service": "no",
+    "gps_code": "EPEK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

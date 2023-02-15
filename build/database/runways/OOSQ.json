@@ -1,0 +1,20 @@
+{
+    "id": "32119",
+    "ident": "OOSQ",
+    "type": "small_airport",
+    "name": "Saiq Airport",
+    "latitude_deg": "23.075545",
+    "longitude_deg": "57.643271",
+    "elevation_ft": "6500",
+    "continent": "AS",
+    "iso_country": "OM",
+    "iso_region": "OM-DA",
+    "municipality": "Saiq",
+    "scheduled_service": "no",
+    "gps_code": "OOSQ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

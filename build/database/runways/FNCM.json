@@ -1,0 +1,20 @@
+{
+    "id": "31191",
+    "ident": "FNCM",
+    "type": "small_airport",
+    "name": "Camabatela Airport",
+    "latitude_deg": "-8.217000007629395",
+    "longitude_deg": "15.366999626159668",
+    "elevation_ft": "410",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-CNO",
+    "municipality": "Camabatela",
+    "scheduled_service": "no",
+    "gps_code": "FNCM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

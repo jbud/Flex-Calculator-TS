@@ -1,0 +1,20 @@
+{
+    "id": "46331",
+    "ident": "RU-0406",
+    "type": "small_airport",
+    "name": "Novodmitriyevskaya Airstrip",
+    "latitude_deg": "44.8486583488",
+    "longitude_deg": "38.897244930300005",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KDA",
+    "municipality": "Novodmitriyevskaya",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Novodmitrievskaya Airstrip, ВПП Новодмитриевская"
+}

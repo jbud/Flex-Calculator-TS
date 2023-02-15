@@ -1,0 +1,20 @@
+{
+    "id": "333865",
+    "ident": "AU-0123",
+    "type": "small_airport",
+    "name": "Bullita Airfield",
+    "latitude_deg": "-16.119461",
+    "longitude_deg": "130.429044",
+    "elevation_ft": "372",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Gregory",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

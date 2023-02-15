@@ -1,0 +1,20 @@
+{
+    "id": "316621",
+    "ident": "AYPG",
+    "type": "small_airport",
+    "name": "Pangia Airport",
+    "latitude_deg": "-6.386",
+    "longitude_deg": "144.1084",
+    "elevation_ft": "5340",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-SHM",
+    "municipality": "Pangia",
+    "scheduled_service": "no",
+    "gps_code": "AYPG",
+    "iata_code": "PGN",
+    "local_code": "PNA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

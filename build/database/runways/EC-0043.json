@@ -1,0 +1,20 @@
+{
+    "id": "353415",
+    "ident": "EC-0043",
+    "type": "small_airport",
+    "name": "Barbones - Samuel Quimi Airport",
+    "latitude_deg": "-3.18885",
+    "longitude_deg": "-79.86874",
+    "elevation_ft": "20",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-O",
+    "municipality": "Barbones",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

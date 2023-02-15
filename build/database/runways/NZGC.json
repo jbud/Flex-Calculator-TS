@@ -1,0 +1,20 @@
+{
+    "id": "29901",
+    "ident": "NZGC",
+    "type": "small_airport",
+    "name": "Gore3 Airport",
+    "latitude_deg": "-46.156700134277344",
+    "longitude_deg": "168.8979949951172",
+    "elevation_ft": "200",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-STL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "NZGC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

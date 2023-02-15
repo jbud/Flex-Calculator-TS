@@ -1,0 +1,20 @@
+{
+    "id": "349459",
+    "ident": "IR-0037",
+    "type": "heliport",
+    "name": "Sonqor Heliport",
+    "latitude_deg": "34.78199",
+    "longitude_deg": "47.58784",
+    "elevation_ft": "5620",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-05",
+    "municipality": "Sonqor",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

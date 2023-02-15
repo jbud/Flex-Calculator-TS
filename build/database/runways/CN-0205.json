@@ -1,0 +1,20 @@
+{
+    "id": "348168",
+    "ident": "CN-0205",
+    "type": "small_airport",
+    "name": "Hefei Luogang Airport",
+    "latitude_deg": "31.77999",
+    "longitude_deg": "117.29833",
+    "elevation_ft": "108",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-34",
+    "municipality": "Hefei",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hefei_Luogang_Airport",
+    "keywords": "HFE, ZSOF"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "308224",
+    "ident": "GUE",
+    "type": "small_airport",
+    "name": "Guriaso (Keraso) Airport",
+    "latitude_deg": "-3.583167",
+    "longitude_deg": "141.5895",
+    "elevation_ft": "400",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-SAN",
+    "municipality": "Guriaso",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "GUE",
+    "local_code": "KSO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Kiraso"
+}

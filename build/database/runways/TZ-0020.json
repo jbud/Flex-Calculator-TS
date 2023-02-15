@@ -1,0 +1,20 @@
+{
+    "id": "318577",
+    "ident": "TZ-0020",
+    "type": "small_airport",
+    "name": "Lobo Airstrip",
+    "latitude_deg": "-2.009865",
+    "longitude_deg": "35.159105",
+    "elevation_ft": "5500",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-13",
+    "municipality": "Lobo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

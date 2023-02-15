@@ -1,0 +1,20 @@
+{
+    "id": "40770",
+    "ident": "SK-182",
+    "type": "small_airport",
+    "name": "Sala 77 Airport",
+    "latitude_deg": "10.355556",
+    "longitude_deg": "-73.333333",
+    "elevation_ft": "388",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CES",
+    "municipality": "Valledupa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SSC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

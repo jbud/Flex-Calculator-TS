@@ -1,0 +1,20 @@
+{
+    "id": "339719",
+    "ident": "US-2920",
+    "type": "small_airport",
+    "name": "Nelson Airport",
+    "latitude_deg": "60.48453",
+    "longitude_deg": "-150.92269",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Soldotna",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

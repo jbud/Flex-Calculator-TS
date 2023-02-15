@@ -1,0 +1,20 @@
+{
+    "id": "316628",
+    "ident": "AU-0106",
+    "type": "small_airport",
+    "name": "Valley View",
+    "latitude_deg": "-28.699218",
+    "longitude_deg": "114.911043",
+    "elevation_ft": "800",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Geraldton",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.valleyviewvintage.com.au/",
+    "wikipedia_link": "",
+    "keywords": "valley view, northern gully"
+}

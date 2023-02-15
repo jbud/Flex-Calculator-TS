@@ -1,0 +1,20 @@
+{
+    "id": "342434",
+    "ident": "BR-1469",
+    "type": "small_airport",
+    "name": "Fazenda Capivari Airstrip",
+    "latitude_deg": "-21.764028",
+    "longitude_deg": "-54.323365",
+    "elevation_ft": "709",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Rio Brilhante",
+    "scheduled_service": "no",
+    "gps_code": "SSGQ",
+    "iata_code": "",
+    "local_code": "MS0278",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

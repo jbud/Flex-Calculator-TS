@@ -1,0 +1,20 @@
+{
+    "id": "44032",
+    "ident": "EFEK",
+    "type": "heliport",
+    "name": "Kilpisjärvi Heliport",
+    "latitude_deg": "69.0022201538086",
+    "longitude_deg": "20.89638900756836",
+    "elevation_ft": "1584",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-10",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EFEK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "314404",
+    "ident": "DE-0161",
+    "type": "small_airport",
+    "name": "Pohlheim Airfield",
+    "latitude_deg": "50.5322",
+    "longitude_deg": "8.7334",
+    "elevation_ft": "787",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Pohlheim",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://sgs-pohlheim.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "41916",
+    "ident": "KZ-0064",
+    "type": "small_airport",
+    "name": "Volskoye Airport",
+    "latitude_deg": "50.38880157470703",
+    "longitude_deg": "73.09420013427734",
+    "elevation_ft": "1808",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-KAR",
+    "municipality": "Volskoye",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

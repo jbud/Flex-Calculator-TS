@@ -1,0 +1,20 @@
+{
+    "id": "356363",
+    "ident": "NE-0004",
+    "type": "small_airport",
+    "name": "Fachi Airport",
+    "latitude_deg": "18.1016",
+    "longitude_deg": "11.56553",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "NE",
+    "iso_region": "NE-1",
+    "municipality": "Fachi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

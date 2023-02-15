@@ -1,0 +1,20 @@
+{
+    "id": "348475",
+    "ident": "AR-0709",
+    "type": "small_airport",
+    "name": "Haras Wassermann Airport",
+    "latitude_deg": "-40.59622",
+    "longitude_deg": "-62.19203",
+    "elevation_ft": "10",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Bahía San Blas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

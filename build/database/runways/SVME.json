@@ -1,0 +1,20 @@
+{
+    "id": "40200",
+    "ident": "SVME",
+    "type": "small_airport",
+    "name": "Mapire Airport",
+    "latitude_deg": "7.7386298179626465",
+    "longitude_deg": "-64.71949768066406",
+    "elevation_ft": "196",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-Y",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVME",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

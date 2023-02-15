@@ -1,0 +1,20 @@
+{
+    "id": "335323",
+    "ident": "BR-0848",
+    "type": "small_airport",
+    "name": "Fazenda Santa Fé Airport",
+    "latitude_deg": "-12.224904",
+    "longitude_deg": "-44.039167",
+    "elevation_ft": "2575",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Tabocas do Brejo Velho",
+    "scheduled_service": "no",
+    "gps_code": "SIDZ",
+    "iata_code": "",
+    "local_code": "BA0085",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

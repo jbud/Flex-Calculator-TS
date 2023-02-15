@@ -1,0 +1,20 @@
+{
+    "id": "31320",
+    "ident": "FZBN",
+    "type": "small_airport",
+    "name": "Malebo Airport",
+    "latitude_deg": "-2.46461",
+    "longitude_deg": "16.48034",
+    "elevation_ft": "1411",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-MN",
+    "municipality": "Malebo",
+    "scheduled_service": "no",
+    "gps_code": "FZBN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

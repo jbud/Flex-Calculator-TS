@@ -1,0 +1,20 @@
+{
+    "id": "40676",
+    "ident": "SK-050",
+    "type": "small_airport",
+    "name": "Araguanen Airport",
+    "latitude_deg": "5.413056",
+    "longitude_deg": "-72.283056",
+    "elevation_ft": "784",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAS",
+    "municipality": "Yopal",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ARG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

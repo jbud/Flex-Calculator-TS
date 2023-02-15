@@ -1,0 +1,20 @@
+{
+    "id": "40724",
+    "ident": "SK-118",
+    "type": "small_airport",
+    "name": "Sabanalarga Airport",
+    "latitude_deg": "4.816667",
+    "longitude_deg": "-73.033333",
+    "elevation_ft": "1188",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAS",
+    "municipality": "Sabanalarga",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SLC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

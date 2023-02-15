@@ -1,0 +1,20 @@
+{
+    "id": "347625",
+    "ident": "US-5148",
+    "type": "small_airport",
+    "name": "Halfmoon Flats Airport",
+    "latitude_deg": "48.46106",
+    "longitude_deg": "-113.991",
+    "elevation_ft": "3445",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "West Glacier",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

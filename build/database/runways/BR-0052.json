@@ -1,0 +1,20 @@
+{
+    "id": "316795",
+    "ident": "BR-0052",
+    "type": "small_airport",
+    "name": "Bom Jardim de Goiás Airport",
+    "latitude_deg": "-16.2058",
+    "longitude_deg": "-52.1627",
+    "elevation_ft": "1378",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Bom Jardim de Goiás",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "28610",
+    "ident": "EDGI",
+    "type": "small_airport",
+    "name": "Sonderlandeplatz Ingelfingen-Bühlhof",
+    "latitude_deg": "49.321667",
+    "longitude_deg": "9.663056",
+    "elevation_ft": "1375",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Ingelfingen",
+    "scheduled_service": "no",
+    "gps_code": "EDGI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

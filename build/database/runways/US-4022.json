@@ -1,0 +1,20 @@
+{
+    "id": "344301",
+    "ident": "US-4022",
+    "type": "small_airport",
+    "name": "South Likely Airport",
+    "latitude_deg": "41.19157",
+    "longitude_deg": "-120.47164",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Likely",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

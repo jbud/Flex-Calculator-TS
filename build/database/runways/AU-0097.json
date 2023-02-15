@@ -1,0 +1,20 @@
+{
+    "id": "315734",
+    "ident": "AU-0097",
+    "type": "heliport",
+    "name": "Goomeri Oval Helicopter Landing Site",
+    "latitude_deg": "-26.1795",
+    "longitude_deg": "152.0658",
+    "elevation_ft": "802",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Goomeri",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "OZHBX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "GMI"
+}

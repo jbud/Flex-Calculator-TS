@@ -1,0 +1,20 @@
+{
+    "id": "27285",
+    "ident": "FAHH",
+    "type": "small_airport",
+    "name": "Hibberdene Airport",
+    "latitude_deg": "-30.583947",
+    "longitude_deg": "30.558562",
+    "elevation_ft": "89",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Hibberdene",
+    "scheduled_service": "no",
+    "gps_code": "FAHH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

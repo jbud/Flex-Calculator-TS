@@ -1,0 +1,20 @@
+{
+    "id": "40987",
+    "ident": "SK-470",
+    "type": "small_airport",
+    "name": "Udelva Airport",
+    "latitude_deg": "3.233889",
+    "longitude_deg": "-76.503889",
+    "elevation_ft": "3143",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-VAC",
+    "municipality": "Jamundi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "JDI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

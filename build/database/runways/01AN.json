@@ -1,0 +1,20 @@
+{
+    "id": "356168",
+    "ident": "01AN",
+    "type": "small_airport",
+    "name": "McHone Heights Airport",
+    "latitude_deg": "61.649095",
+    "longitude_deg": "-149.339025",
+    "elevation_ft": "610",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Wasilla",
+    "scheduled_service": "no",
+    "gps_code": "01AN",
+    "iata_code": "",
+    "local_code": "01AN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

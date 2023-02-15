@@ -1,0 +1,20 @@
+{
+    "id": "40315",
+    "ident": "SVAT",
+    "type": "small_airport",
+    "name": "San Fernando de Atabapo Airport",
+    "latitude_deg": "4.051683",
+    "longitude_deg": "-67.701133",
+    "elevation_ft": "301",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-Z",
+    "municipality": "San Fernando de Atabapo",
+    "scheduled_service": "no",
+    "gps_code": "SVAT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

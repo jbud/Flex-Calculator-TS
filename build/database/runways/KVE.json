@@ -1,0 +1,20 @@
+{
+    "id": "313830",
+    "ident": "KVE",
+    "type": "small_airport",
+    "name": "Kitava Airport",
+    "latitude_deg": "-8.6285",
+    "longitude_deg": "151.327",
+    "elevation_ft": "194",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-MBA",
+    "municipality": "Kitava Island",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "KVE",
+    "local_code": "KTV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

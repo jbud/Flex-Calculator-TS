@@ -1,0 +1,20 @@
+{
+    "id": "348636",
+    "ident": "PH-0424",
+    "type": "small_airport",
+    "name": "Malangas Airport",
+    "latitude_deg": "7.65118",
+    "longitude_deg": "123.01797",
+    "elevation_ft": "387",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-ZSI",
+    "municipality": "Malangas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "336724",
+    "ident": "JP-0456",
+    "type": "small_airport",
+    "name": "Kuju Gliderport",
+    "latitude_deg": "33.03444",
+    "longitude_deg": "131.23344",
+    "elevation_ft": "2625",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-44",
+    "municipality": "Taketa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

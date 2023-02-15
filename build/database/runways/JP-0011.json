@@ -1,0 +1,20 @@
+{
+    "id": "323778",
+    "ident": "JP-0011",
+    "type": "heliport",
+    "name": "Oshima Heliport",
+    "latitude_deg": "41.507912",
+    "longitude_deg": "139.383006",
+    "elevation_ft": "23",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-01",
+    "municipality": "Matsumae",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Oshima"
+}

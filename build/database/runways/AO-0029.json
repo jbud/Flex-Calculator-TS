@@ -1,0 +1,20 @@
+{
+    "id": "318524",
+    "ident": "AO-0029",
+    "type": "small_airport",
+    "name": "Quirima Airport",
+    "latitude_deg": "-10.902645",
+    "longitude_deg": "18.060368",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-MAL",
+    "municipality": "Quirima",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

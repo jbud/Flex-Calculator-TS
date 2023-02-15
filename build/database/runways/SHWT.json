@@ -1,0 +1,20 @@
+{
+    "id": "39412",
+    "ident": "SHWT",
+    "type": "heliport",
+    "name": "World Trade Center Heliport",
+    "latitude_deg": "-33.41642",
+    "longitude_deg": "-70.605274",
+    "elevation_ft": "2261",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Santiago",
+    "scheduled_service": "no",
+    "gps_code": "SHWT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

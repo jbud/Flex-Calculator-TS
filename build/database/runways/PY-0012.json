@@ -1,0 +1,20 @@
+{
+    "id": "41576",
+    "ident": "PY-0012",
+    "type": "small_airport",
+    "name": "Aeródromo de Puerto Calera",
+    "latitude_deg": "-22.541753",
+    "longitude_deg": "-57.825508",
+    "elevation_ft": "243",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-1",
+    "municipality": "Puerto Calera",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "343470",
+    "ident": "USDB",
+    "type": "medium_airport",
+    "name": "Bovanenkovo Airport",
+    "latitude_deg": "70.315278",
+    "longitude_deg": "68.333611",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-YAN",
+    "municipality": "Bovanenkovo",
+    "scheduled_service": "yes",
+    "gps_code": "USDB",
+    "iata_code": "BVJ",
+    "local_code": "",
+    "home_link": "https://avia.gazprom.com/about/airports/bovanenkovo/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bovanenkovo_Airport",
+    "keywords": "HELIOPS,GAZPROM,LNG"
+}

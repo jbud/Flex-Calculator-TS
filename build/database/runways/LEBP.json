@@ -1,0 +1,20 @@
+{
+    "id": "43239",
+    "ident": "LEBP",
+    "type": "heliport",
+    "name": "BP Oil España Heliport",
+    "latitude_deg": "39.957901",
+    "longitude_deg": "-0.011632",
+    "elevation_ft": "943",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-VC",
+    "municipality": "Castellón de La Plana",
+    "scheduled_service": "no",
+    "gps_code": "LEBP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

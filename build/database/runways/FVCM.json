@@ -1,0 +1,20 @@
+{
+    "id": "31225",
+    "ident": "FVCM",
+    "type": "small_airport",
+    "name": "Cam+Motor Airport",
+    "latitude_deg": "-18.299999",
+    "longitude_deg": "29.979444",
+    "elevation_ft": "3720",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MW",
+    "municipality": "Cam+Motor",
+    "scheduled_service": "no",
+    "gps_code": "FVCM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

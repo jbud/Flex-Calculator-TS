@@ -1,0 +1,20 @@
+{
+    "id": "32462",
+    "ident": "WBKM",
+    "type": "small_airport",
+    "name": "Tomanggong Airport",
+    "latitude_deg": "5.40257",
+    "longitude_deg": "118.65763",
+    "elevation_ft": "26",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-12",
+    "municipality": "Tomanggong",
+    "scheduled_service": "yes",
+    "gps_code": "WBKM",
+    "iata_code": "TMG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tommanggong_Airport",
+    "keywords": ""
+}

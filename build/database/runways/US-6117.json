@@ -1,0 +1,20 @@
+{
+    "id": "350665",
+    "ident": "US-6117",
+    "type": "small_airport",
+    "name": "Smith Aviation Airport",
+    "latitude_deg": "30.24247",
+    "longitude_deg": "-93.52531",
+    "elevation_ft": "23",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Vinton",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

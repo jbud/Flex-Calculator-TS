@@ -1,0 +1,20 @@
+{
+    "id": "317226",
+    "ident": "US-0300",
+    "type": "heliport",
+    "name": "Kern Valley Hospital Heliport",
+    "latitude_deg": "35.6345",
+    "longitude_deg": "-118.4069",
+    "elevation_ft": "2704",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Mountain Mesa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

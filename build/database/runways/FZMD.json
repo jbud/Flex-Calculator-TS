@@ -1,0 +1,20 @@
+{
+    "id": "31412",
+    "ident": "FZMD",
+    "type": "small_airport",
+    "name": "Nzovu Airport",
+    "latitude_deg": "-2.5829999446868896",
+    "longitude_deg": "27.982999801635742",
+    "elevation_ft": "1970",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-SK",
+    "municipality": "Nzovu",
+    "scheduled_service": "no",
+    "gps_code": "FZMD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

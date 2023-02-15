@@ -1,0 +1,20 @@
+{
+    "id": "29810",
+    "ident": "NZCS",
+    "type": "small_airport",
+    "name": "Cromwell Racecourse Aerodrome",
+    "latitude_deg": "-45.04859924316406",
+    "longitude_deg": "169.17100524902344",
+    "elevation_ft": "856",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-OTA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "NZCS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cromwell_Racecourse_Aerodrome",
+    "keywords": ""
+}

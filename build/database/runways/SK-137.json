@@ -1,0 +1,20 @@
+{
+    "id": "40978",
+    "ident": "SK-137",
+    "type": "small_airport",
+    "name": "Ingenio Incauca Airport",
+    "latitude_deg": "3.268889",
+    "longitude_deg": "-76.333889",
+    "elevation_ft": "3252",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAU",
+    "municipality": "Miranda",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MDA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

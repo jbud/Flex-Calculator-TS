@@ -1,0 +1,20 @@
+{
+    "id": "46484",
+    "ident": "ULBM",
+    "type": "small_airport",
+    "name": "Purnema Airfield",
+    "latitude_deg": "64.3854",
+    "longitude_deg": "37.441235",
+    "elevation_ft": "131",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-ARK",
+    "municipality": "Purnema",
+    "scheduled_service": "no",
+    "gps_code": "ULBM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Пурнема, УЛБМ"
+}

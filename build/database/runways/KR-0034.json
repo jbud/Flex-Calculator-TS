@@ -1,0 +1,20 @@
+{
+    "id": "322832",
+    "ident": "KR-0034",
+    "type": "heliport",
+    "name": "ROK Army 102nd Armor Brigade Heliport",
+    "latitude_deg": "38.145239",
+    "longitude_deg": "128.602998",
+    "elevation_ft": "50",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-42",
+    "municipality": "Jeongam-ri, Ganghyeon-myeon",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "RK84",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "C 423 Heliport"
+}

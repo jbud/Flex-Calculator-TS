@@ -1,0 +1,20 @@
+{
+    "id": "311547",
+    "ident": "DE-0121",
+    "type": "small_airport",
+    "name": "Bohlenbergerfeld Airfield",
+    "latitude_deg": "53.418",
+    "longitude_deg": "7.9039",
+    "elevation_ft": "26",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Zetel",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://lsg-segelflieger-zetel.de/willkommen.html",
+    "wikipedia_link": "",
+    "keywords": ""
+}

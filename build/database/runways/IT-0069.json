@@ -1,0 +1,20 @@
+{
+    "id": "308705",
+    "ident": "IT-0069",
+    "type": "small_airport",
+    "name": "Campo Volo Falchi della Baraggia",
+    "latitude_deg": "45.446736",
+    "longitude_deg": "8.191519",
+    "elevation_ft": "150",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-21",
+    "municipality": "fraz. SAN DAMIANO",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "VCCAR",
+    "home_link": "http://www.flyclubvoyager.it/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "39647",
+    "ident": "SPRG",
+    "type": "small_airport",
+    "name": "San Regis Airport",
+    "latitude_deg": "-13.5113",
+    "longitude_deg": "-76.08398",
+    "elevation_ft": "294",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-ICA",
+    "municipality": "Chincha",
+    "scheduled_service": "no",
+    "gps_code": "SPRG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

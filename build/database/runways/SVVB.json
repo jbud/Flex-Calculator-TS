@@ -1,0 +1,20 @@
+{
+    "id": "40333",
+    "ident": "SVVB",
+    "type": "small_airport",
+    "name": "Bajo Verde Airport",
+    "latitude_deg": "9.05138874053955",
+    "longitude_deg": "-66.46749877929688",
+    "elevation_ft": "492",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-J",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVVB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

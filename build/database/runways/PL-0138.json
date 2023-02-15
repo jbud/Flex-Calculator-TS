@@ -1,0 +1,20 @@
+{
+    "id": "324524",
+    "ident": "PL-0138",
+    "type": "small_airport",
+    "name": "Oleszyce Airstrip",
+    "latitude_deg": "50.170308",
+    "longitude_deg": "23.057722",
+    "elevation_ft": "591",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-PK",
+    "municipality": "Oleszyce",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

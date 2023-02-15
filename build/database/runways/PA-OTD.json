@@ -1,0 +1,20 @@
+{
+    "id": "35195",
+    "ident": "PA-OTD",
+    "type": "small_airport",
+    "name": "Raul Arias Espinoza Airport",
+    "latitude_deg": "8.62876",
+    "longitude_deg": "-79.034698",
+    "elevation_ft": "43",
+    "continent": "NA",
+    "iso_country": "PA",
+    "iso_region": "PA-8",
+    "municipality": "Contadora Island",
+    "scheduled_service": "yes",
+    "gps_code": "MPRA",
+    "iata_code": "OTD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Contadora_Airport",
+    "keywords": "Contadora Airport"
+}

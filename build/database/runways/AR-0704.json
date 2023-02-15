@@ -1,0 +1,20 @@
+{
+    "id": "348470",
+    "ident": "AR-0704",
+    "type": "small_airport",
+    "name": "Estancia La Maciega Airport",
+    "latitude_deg": "-44.45854",
+    "longitude_deg": "-65.60563",
+    "elevation_ft": "620",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-U",
+    "municipality": "Florentino Ameghino",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

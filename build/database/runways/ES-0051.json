@@ -1,0 +1,20 @@
+{
+    "id": "320246",
+    "ident": "ES-0051",
+    "type": "small_airport",
+    "name": "Aeródromo de Binéfar",
+    "latitude_deg": "41.853613",
+    "longitude_deg": "0.254904",
+    "elevation_ft": "1312",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AR",
+    "municipality": "Binéfar",
+    "scheduled_service": "no",
+    "gps_code": "LEBF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://aeroclubbinefar.com",
+    "wikipedia_link": "",
+    "keywords": ""
+}

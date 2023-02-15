@@ -1,0 +1,20 @@
+{
+    "id": "29735",
+    "ident": "ZMBR",
+    "type": "small_airport",
+    "name": "Bulagtai Resort Airport",
+    "latitude_deg": "43.749304",
+    "longitude_deg": "104.114985",
+    "elevation_ft": "4659",
+    "continent": "AS",
+    "iso_country": "MN",
+    "iso_region": "MN-055",
+    "municipality": "Khankhongor, Ömnögovi",
+    "scheduled_service": "no",
+    "gps_code": "ZMBR",
+    "iata_code": "UGT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

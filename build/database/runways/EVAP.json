@@ -1,0 +1,20 @@
+{
+    "id": "308833",
+    "ident": "EVAP",
+    "type": "heliport",
+    "name": "AMO Plant Heliport",
+    "latitude_deg": "56.6656",
+    "longitude_deg": "23.7792",
+    "elevation_ft": "7",
+    "continent": "EU",
+    "iso_country": "LV",
+    "iso_region": "LV-JEL",
+    "municipality": "Jelgava",
+    "scheduled_service": "no",
+    "gps_code": "EVAP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

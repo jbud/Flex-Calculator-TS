@@ -1,0 +1,20 @@
+{
+    "id": "32387",
+    "ident": "OOSR",
+    "type": "closed",
+    "name": "Sur Airport",
+    "latitude_deg": "22.537729",
+    "longitude_deg": "59.479766",
+    "elevation_ft": "20",
+    "continent": "AS",
+    "iso_country": "OM",
+    "iso_region": "OM-SH",
+    "municipality": "Sur",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sur_Airport",
+    "keywords": "OOSR, SUH"
+}

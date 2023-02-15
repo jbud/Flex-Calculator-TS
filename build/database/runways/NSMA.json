@@ -1,0 +1,20 @@
+{
+    "id": "35173",
+    "ident": "NSMA",
+    "type": "small_airport",
+    "name": "Maota Airport",
+    "latitude_deg": "-13.742300033569336",
+    "longitude_deg": "-172.25799560546875",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "WS",
+    "iso_region": "WS-PA",
+    "municipality": "Maota",
+    "scheduled_service": "yes",
+    "gps_code": "NSMA",
+    "iata_code": "MXS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Maota_Airport",
+    "keywords": "Savaii Island"
+}

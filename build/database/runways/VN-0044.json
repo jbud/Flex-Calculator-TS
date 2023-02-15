@@ -1,0 +1,20 @@
+{
+    "id": "430104",
+    "ident": "VN-0044",
+    "type": "small_airport",
+    "name": "Phu Giao Airport",
+    "latitude_deg": "11.30034",
+    "longitude_deg": "106.79325",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "VN",
+    "iso_region": "VN-SE",
+    "municipality": "Phu Giao",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

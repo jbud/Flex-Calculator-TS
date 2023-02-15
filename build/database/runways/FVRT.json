@@ -1,0 +1,20 @@
+{
+    "id": "31258",
+    "ident": "FVRT",
+    "type": "small_airport",
+    "name": "Rutenga Airport",
+    "latitude_deg": "-21.232999801635742",
+    "longitude_deg": "30.732999801635742",
+    "elevation_ft": "1825",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MV",
+    "municipality": "Rutenga",
+    "scheduled_service": "no",
+    "gps_code": "FVRT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

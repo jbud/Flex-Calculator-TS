@@ -1,0 +1,20 @@
+{
+    "id": "43021",
+    "ident": "EFHE",
+    "type": "heliport",
+    "name": "Hernesaari Heliport",
+    "latitude_deg": "60.147778",
+    "longitude_deg": "24.924444",
+    "elevation_ft": "7",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-18",
+    "municipality": "Helsinki",
+    "scheduled_service": "no",
+    "gps_code": "EFHE",
+    "iata_code": "HEN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hernesaari_Heliport",
+    "keywords": "Hernesaaren helikopterikenttä, Ärtholmens heliport"
+}

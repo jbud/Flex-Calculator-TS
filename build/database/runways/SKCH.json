@@ -1,0 +1,20 @@
+{
+    "id": "41057",
+    "ident": "SKCH",
+    "type": "small_airport",
+    "name": "El Pacífico Airport",
+    "latitude_deg": "1.35",
+    "longitude_deg": "-74.84",
+    "elevation_ft": "754",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAQ",
+    "municipality": "Cartagena Del Chiara",
+    "scheduled_service": "no",
+    "gps_code": "SKCH",
+    "iata_code": "",
+    "local_code": "CCH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

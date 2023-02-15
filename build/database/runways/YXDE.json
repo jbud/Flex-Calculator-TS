@@ -1,0 +1,20 @@
+{
+    "id": "313376",
+    "ident": "YXDE",
+    "type": "heliport",
+    "name": "Denman Helicopter Landing Site",
+    "latitude_deg": "-32.3868",
+    "longitude_deg": "150.682",
+    "elevation_ft": "388",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Denman",
+    "scheduled_service": "no",
+    "gps_code": "YXDE",
+    "iata_code": "",
+    "local_code": "YXDE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

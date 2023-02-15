@@ -1,0 +1,20 @@
+{
+    "id": "505195",
+    "ident": "CO-0081",
+    "type": "small_airport",
+    "name": "Tanela Airport",
+    "latitude_deg": "8.39047",
+    "longitude_deg": "-77.27398",
+    "elevation_ft": "260",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CHO",
+    "municipality": "Acandí",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

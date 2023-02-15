@@ -1,0 +1,20 @@
+{
+    "id": "351810",
+    "ident": "SDX7",
+    "type": "small_airport",
+    "name": "Alegretense Airport",
+    "latitude_deg": "-29.804506",
+    "longitude_deg": "-55.78572",
+    "elevation_ft": "325",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Alegrete",
+    "scheduled_service": "no",
+    "gps_code": "SDX7",
+    "iata_code": "",
+    "local_code": "RS0196",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

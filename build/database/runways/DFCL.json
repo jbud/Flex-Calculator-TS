@@ -1,0 +1,20 @@
+{
+    "id": "32705",
+    "ident": "DFCL",
+    "type": "small_airport",
+    "name": "Leo Airport",
+    "latitude_deg": "11.100000381469727",
+    "longitude_deg": "-2.0999999046325684",
+    "elevation_ft": "1181",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-SIS",
+    "municipality": "Leo",
+    "scheduled_service": "no",
+    "gps_code": "DFCL",
+    "iata_code": "XLU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

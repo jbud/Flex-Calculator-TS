@@ -1,0 +1,20 @@
+{
+    "id": "319206",
+    "ident": "TD-0007",
+    "type": "small_airport",
+    "name": "Goundi Airport",
+    "latitude_deg": "9.382597",
+    "longitude_deg": "17.380952",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "TD",
+    "iso_region": "TD-MA",
+    "municipality": "Goundi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

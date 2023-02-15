@@ -1,0 +1,20 @@
+{
+    "id": "35184",
+    "ident": "AYKK",
+    "type": "small_airport",
+    "name": "Kikori Airport",
+    "latitude_deg": "-7.424379825592041",
+    "longitude_deg": "144.2500762939453",
+    "elevation_ft": "50",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-GPK",
+    "municipality": "Kikori",
+    "scheduled_service": "yes",
+    "gps_code": "AYKK",
+    "iata_code": "KRI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

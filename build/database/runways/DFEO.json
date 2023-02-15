@@ -1,0 +1,20 @@
+{
+    "id": "30901",
+    "ident": "DFEO",
+    "type": "small_airport",
+    "name": "Zorgo Airport",
+    "latitude_deg": "12.249065",
+    "longitude_deg": "-0.620512",
+    "elevation_ft": "978",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-GAN",
+    "municipality": "Zorgo",
+    "scheduled_service": "no",
+    "gps_code": "DFEO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "321413",
+    "ident": "ES-0157",
+    "type": "small_airport",
+    "name": "Aeródromo de Ordis",
+    "latitude_deg": "42.2325",
+    "longitude_deg": "2.8869444",
+    "elevation_ft": "2231",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Ordis",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

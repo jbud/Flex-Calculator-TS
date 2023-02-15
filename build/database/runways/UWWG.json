@@ -1,0 +1,20 @@
+{
+    "id": "44614",
+    "ident": "UWWG",
+    "type": "medium_airport",
+    "name": "Bezymyanka Airfield",
+    "latitude_deg": "53.220001220703125",
+    "longitude_deg": "50.32500076293945",
+    "elevation_ft": "135",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-SAM",
+    "municipality": "Samara",
+    "scheduled_service": "no",
+    "gps_code": "UWWG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.aviacor.ru/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bezymyanka_%28airport%29",
+    "keywords": "Bezimyanka Airfield, Аэродром Безымянка"
+}

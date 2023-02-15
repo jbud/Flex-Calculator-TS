@@ -1,0 +1,20 @@
+{
+    "id": "40395",
+    "ident": "VE-0046",
+    "type": "small_airport",
+    "name": "Cerro Bolívar Airport",
+    "latitude_deg": "7.5",
+    "longitude_deg": "-63.400001525878906",
+    "elevation_ft": "492",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

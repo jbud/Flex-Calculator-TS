@@ -1,0 +1,20 @@
+{
+    "id": "42764",
+    "ident": "PG-KWO",
+    "type": "small_airport",
+    "name": "Kawito Airport",
+    "latitude_deg": "-7.977006912229999",
+    "longitude_deg": "142.823577881",
+    "elevation_ft": "72",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": "Kawito",
+    "scheduled_service": "no",
+    "gps_code": "AYKW",
+    "iata_code": "KWO",
+    "local_code": "KWT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

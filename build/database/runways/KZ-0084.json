@@ -1,0 +1,20 @@
+{
+    "id": "319911",
+    "ident": "KZ-0084",
+    "type": "small_airport",
+    "name": "Gora Sasyrly Airport",
+    "latitude_deg": "47.187197",
+    "longitude_deg": "71.388559",
+    "elevation_ft": "1800",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-KAR",
+    "municipality": "Dzhambul",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Gzhambul"
+}

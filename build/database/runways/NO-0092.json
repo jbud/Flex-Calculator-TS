@@ -1,0 +1,20 @@
+{
+    "id": "345031",
+    "ident": "NO-0092",
+    "type": "small_airport",
+    "name": "Skitnerød flyplass",
+    "latitude_deg": "58.98093",
+    "longitude_deg": "9.84491",
+    "elevation_ft": "3",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-38",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

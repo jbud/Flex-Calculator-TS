@@ -1,0 +1,20 @@
+{
+    "id": "32349",
+    "ident": "SPCM",
+    "type": "small_airport",
+    "name": "Contamana Airport",
+    "latitude_deg": "-7.335827",
+    "longitude_deg": "-74.992531",
+    "elevation_ft": "480",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LOR",
+    "municipality": "Contamana",
+    "scheduled_service": "no",
+    "gps_code": "SPCM",
+    "iata_code": "",
+    "local_code": "CTF",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

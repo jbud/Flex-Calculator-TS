@@ -1,0 +1,20 @@
+{
+    "id": "40384",
+    "ident": "VE-0035",
+    "type": "small_airport",
+    "name": "Caño Santo Airport",
+    "latitude_deg": "5.550000190734863",
+    "longitude_deg": "-66.25",
+    "elevation_ft": "730",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-Z",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

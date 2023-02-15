@@ -1,0 +1,20 @@
+{
+    "id": "349802",
+    "ident": "US-5748",
+    "type": "small_airport",
+    "name": "Porter Flying Services Airport",
+    "latitude_deg": "39.61668",
+    "longitude_deg": "-121.84831",
+    "elevation_ft": "135",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Chico",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "PM Dusters"
+}

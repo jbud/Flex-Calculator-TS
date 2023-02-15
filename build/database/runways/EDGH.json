@@ -1,0 +1,20 @@
+{
+    "id": "28595",
+    "ident": "EDGH",
+    "type": "small_airport",
+    "name": "Hettstadt Airport",
+    "latitude_deg": "49.79861068725586",
+    "longitude_deg": "9.83666706085205",
+    "elevation_ft": "1050",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Hettstadt",
+    "scheduled_service": "no",
+    "gps_code": "EDGH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

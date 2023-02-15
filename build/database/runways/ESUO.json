@@ -1,0 +1,20 @@
+{
+    "id": "29909",
+    "ident": "ESUO",
+    "type": "small_airport",
+    "name": "Graftavallen Airport",
+    "latitude_deg": "63.04169845581055",
+    "longitude_deg": "14.001399993896484",
+    "elevation_ft": "1640",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Z",
+    "municipality": "Graftavallen",
+    "scheduled_service": "no",
+    "gps_code": "ESUO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

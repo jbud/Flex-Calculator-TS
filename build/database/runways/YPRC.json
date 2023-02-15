@@ -1,0 +1,20 @@
+{
+    "id": "309309",
+    "ident": "YPRC",
+    "type": "heliport",
+    "name": "Prince Charles Hospital Helipad",
+    "latitude_deg": "-27.38761",
+    "longitude_deg": "153.02411",
+    "elevation_ft": "135",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Brisbane",
+    "scheduled_service": "no",
+    "gps_code": "YPRC",
+    "iata_code": "",
+    "local_code": "YPRC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

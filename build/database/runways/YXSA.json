@@ -1,0 +1,20 @@
+{
+    "id": "309342",
+    "ident": "YXSA",
+    "type": "heliport",
+    "name": "Sydney Adventist Hospital Helipad",
+    "latitude_deg": "-33.733386",
+    "longitude_deg": "151.100006",
+    "elevation_ft": "584",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Wahroonga",
+    "scheduled_service": "no",
+    "gps_code": "YXSA",
+    "iata_code": "",
+    "local_code": "YXSA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

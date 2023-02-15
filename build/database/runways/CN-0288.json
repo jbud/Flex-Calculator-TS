@@ -1,0 +1,20 @@
+{
+    "id": "351131",
+    "ident": "CN-0288",
+    "type": "small_airport",
+    "name": "Haikou Jiazi Airport",
+    "latitude_deg": "19.67521",
+    "longitude_deg": "110.37968",
+    "elevation_ft": "131",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-46",
+    "municipality": "Haikou (Ding'an)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

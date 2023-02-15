@@ -1,0 +1,20 @@
+{
+    "id": "35137",
+    "ident": "WPMN",
+    "type": "small_airport",
+    "name": "Maliana Airport",
+    "latitude_deg": "-8.97224",
+    "longitude_deg": "125.214996",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "TL",
+    "iso_region": "TL-BO",
+    "municipality": "Maliana",
+    "scheduled_service": "no",
+    "gps_code": "WPMN",
+    "iata_code": "MPT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Maliana_Airport",
+    "keywords": "Maliana"
+}

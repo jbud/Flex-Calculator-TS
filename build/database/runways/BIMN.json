@@ -1,0 +1,20 @@
+{
+    "id": "30737",
+    "ident": "BIMN",
+    "type": "small_airport",
+    "name": "Melanes Airport",
+    "latitude_deg": "65.51699829101562",
+    "longitude_deg": "-22.399999618530273",
+    "elevation_ft": "148",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-4",
+    "municipality": "Melanes",
+    "scheduled_service": "no",
+    "gps_code": "BIMN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

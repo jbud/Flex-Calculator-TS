@@ -1,0 +1,20 @@
+{
+    "id": "345022",
+    "ident": "JP-2281",
+    "type": "heliport",
+    "name": "Kimino Heliport",
+    "latitude_deg": "34.15183",
+    "longitude_deg": "135.35428",
+    "elevation_ft": "483",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-30",
+    "municipality": "Kimino",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

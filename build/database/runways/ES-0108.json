@@ -1,0 +1,20 @@
+{
+    "id": "320824",
+    "ident": "ES-0108",
+    "type": "small_airport",
+    "name": "Campo de Vuelo Casimiro Patiño",
+    "latitude_deg": "38.705783",
+    "longitude_deg": "-6.9997499994",
+    "elevation_ft": "820",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-EX",
+    "municipality": "Valverde de Leganés",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

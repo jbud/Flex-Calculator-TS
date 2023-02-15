@@ -1,0 +1,20 @@
+{
+    "id": "348951",
+    "ident": "US-5545",
+    "type": "small_airport",
+    "name": "Yellowstone Mesa Airport",
+    "latitude_deg": "36.75415",
+    "longitude_deg": "-112.94444",
+    "elevation_ft": "5520",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Fredonia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

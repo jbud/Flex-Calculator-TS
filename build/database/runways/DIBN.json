@@ -1,0 +1,20 @@
+{
+    "id": "30790",
+    "ident": "DIBN",
+    "type": "small_airport",
+    "name": "Bouna Airport",
+    "latitude_deg": "9.27750015258789",
+    "longitude_deg": "-3.025279998779297",
+    "elevation_ft": "1148",
+    "continent": "AF",
+    "iso_country": "CI",
+    "iso_region": "CI-ZZ",
+    "municipality": "Bouna",
+    "scheduled_service": "no",
+    "gps_code": "DIBN",
+    "iata_code": "BQO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

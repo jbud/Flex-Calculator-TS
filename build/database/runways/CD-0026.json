@@ -1,0 +1,20 @@
+{
+    "id": "344677",
+    "ident": "CD-0026",
+    "type": "small_airport",
+    "name": "Bolobo Airport",
+    "latitude_deg": "-2.17405",
+    "longitude_deg": "16.267987",
+    "elevation_ft": "1027",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-MN",
+    "municipality": "Bolobo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

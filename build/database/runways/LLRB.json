@@ -1,0 +1,20 @@
+{
+    "id": "316582",
+    "ident": "LLRB",
+    "type": "heliport",
+    "name": "Rambam Heliport",
+    "latitude_deg": "32.8352778",
+    "longitude_deg": "34.9858333",
+    "elevation_ft": "10",
+    "continent": "AS",
+    "iso_country": "IL",
+    "iso_region": "IL-HA",
+    "municipality": "Haifa",
+    "scheduled_service": "no",
+    "gps_code": "LLRB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

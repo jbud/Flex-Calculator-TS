@@ -1,0 +1,20 @@
+{
+    "id": "39644",
+    "ident": "SPPZ",
+    "type": "small_airport",
+    "name": "Palcazú Airport",
+    "latitude_deg": "-9.895833015441895",
+    "longitude_deg": "-75.1177749633789",
+    "elevation_ft": "932",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-PAS",
+    "municipality": "Porvenir",
+    "scheduled_service": "no",
+    "gps_code": "SPPZ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

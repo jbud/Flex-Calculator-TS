@@ -1,0 +1,20 @@
+{
+    "id": "348079",
+    "ident": "US-5315",
+    "type": "small_airport",
+    "name": "Escalante Mountain Airstrip",
+    "latitude_deg": "37.5323",
+    "longitude_deg": "-111.7063",
+    "elevation_ft": "7493",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Escalante",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31665",
+    "ident": "FZCB",
+    "type": "small_airport",
+    "name": "Idiofa Airport",
+    "latitude_deg": "-5",
+    "longitude_deg": "19.600000381469727",
+    "elevation_ft": "2299",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KU",
+    "municipality": "Idiofa",
+    "scheduled_service": "no",
+    "gps_code": "FZCB",
+    "iata_code": "IDF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

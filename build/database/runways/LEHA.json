@@ -1,0 +1,20 @@
+{
+    "id": "43265",
+    "ident": "LEHA",
+    "type": "heliport",
+    "name": "Alcorcón Hospital Heliport",
+    "latitude_deg": "40.349702",
+    "longitude_deg": "-3.83819",
+    "elevation_ft": "2269",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-MD",
+    "municipality": "Alcorcón",
+    "scheduled_service": "no",
+    "gps_code": "LEHA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "29690",
+    "ident": "FVBB",
+    "type": "small_airport",
+    "name": "Beitbridge Airport",
+    "latitude_deg": "-22.197617",
+    "longitude_deg": "30.012774",
+    "elevation_ft": "1509",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MS",
+    "municipality": "Beitbridge",
+    "scheduled_service": "no",
+    "gps_code": "FVBB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "334996",
+    "ident": "BR-0727",
+    "type": "small_airport",
+    "name": "André Textor Airport",
+    "latitude_deg": "-17.445179",
+    "longitude_deg": "-51.139827",
+    "elevation_ft": "2923",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Montividiu",
+    "scheduled_service": "no",
+    "gps_code": "SNON",
+    "iata_code": "",
+    "local_code": "GO0190",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

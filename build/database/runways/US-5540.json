@@ -1,0 +1,20 @@
+{
+    "id": "348880",
+    "ident": "US-5540",
+    "type": "small_airport",
+    "name": "Sunspot Airport",
+    "latitude_deg": "32.79288",
+    "longitude_deg": "-105.82026",
+    "elevation_ft": "9078",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Sunspot",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

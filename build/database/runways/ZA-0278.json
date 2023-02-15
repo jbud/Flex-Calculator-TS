@@ -1,0 +1,20 @@
+{
+    "id": "353379",
+    "ident": "ZA-0278",
+    "type": "small_airport",
+    "name": "Tzamenkomst Airport",
+    "latitude_deg": "-30.59866",
+    "longitude_deg": "25.30819",
+    "elevation_ft": "4049",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Colesberg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

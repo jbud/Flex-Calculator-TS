@@ -1,0 +1,20 @@
+{
+    "id": "32117",
+    "ident": "OOHA",
+    "type": "small_airport",
+    "name": "Haima Airport",
+    "latitude_deg": "19.966999053955078",
+    "longitude_deg": "56.28300094604492",
+    "elevation_ft": "400",
+    "continent": "AS",
+    "iso_country": "OM",
+    "iso_region": "OM-WU",
+    "municipality": "Haima",
+    "scheduled_service": "no",
+    "gps_code": "OOHA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

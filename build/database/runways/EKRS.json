@@ -1,0 +1,20 @@
+{
+    "id": "29244",
+    "ident": "EKRS",
+    "type": "small_airport",
+    "name": "Ringsted Airfield",
+    "latitude_deg": "55.4258",
+    "longitude_deg": "11.8067",
+    "elevation_ft": "113",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-85",
+    "municipality": "Ringsted",
+    "scheduled_service": "no",
+    "gps_code": "EKRS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

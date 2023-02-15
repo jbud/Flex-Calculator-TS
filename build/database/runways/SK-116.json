@@ -1,0 +1,20 @@
+{
+    "id": "41026",
+    "ident": "SK-116",
+    "type": "small_airport",
+    "name": "Pore Airport",
+    "latitude_deg": "5.733333",
+    "longitude_deg": "-71.983333",
+    "elevation_ft": "975",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAS",
+    "municipality": "Pore",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "PRE",
+    "local_code": "POR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

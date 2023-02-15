@@ -1,0 +1,20 @@
+{
+    "id": "40919",
+    "ident": "SK-445",
+    "type": "small_airport",
+    "name": "Varsovia Airport",
+    "latitude_deg": "4.017222",
+    "longitude_deg": "-75.1575",
+    "elevation_ft": "1308",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-TOL",
+    "municipality": "San Luis",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "VAV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

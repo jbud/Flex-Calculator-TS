@@ -1,0 +1,20 @@
+{
+    "id": "29817",
+    "ident": "NZDA",
+    "type": "small_airport",
+    "name": "Dargaville Aerodrome",
+    "latitude_deg": "-35.939701080322266",
+    "longitude_deg": "173.8939971923828",
+    "elevation_ft": "10",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-NTL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "NZDA",
+    "iata_code": "DGR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dargaville_Aerodrome",
+    "keywords": ""
+}

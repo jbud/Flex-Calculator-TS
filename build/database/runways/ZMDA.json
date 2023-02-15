@@ -1,0 +1,20 @@
+{
+    "id": "308754",
+    "ident": "ZMDA",
+    "type": "small_airport",
+    "name": "Dadal Airport",
+    "latitude_deg": "49.0124",
+    "longitude_deg": "111.509",
+    "elevation_ft": "3220",
+    "continent": "AS",
+    "iso_country": "MN",
+    "iso_region": "MN-039",
+    "municipality": "Dadal",
+    "scheduled_service": "no",
+    "gps_code": "ZMDA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dadal_Airport",
+    "keywords": ""
+}

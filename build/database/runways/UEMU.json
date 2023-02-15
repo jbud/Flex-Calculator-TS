@@ -1,0 +1,20 @@
+{
+    "id": "44668",
+    "ident": "UEMU",
+    "type": "small_airport",
+    "name": "Ust-Maya Airport",
+    "latitude_deg": "60.356998443604",
+    "longitude_deg": "134.43499755859",
+    "elevation_ft": "561",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-SA",
+    "municipality": "Ust-Maya",
+    "scheduled_service": "yes",
+    "gps_code": "UEMU",
+    "iata_code": "UMS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ust-Maya_Airport",
+    "keywords": "УЕМУ, Аэропорт Усть-Мая"
+}

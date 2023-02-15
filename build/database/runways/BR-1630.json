@@ -1,0 +1,20 @@
+{
+    "id": "347525",
+    "ident": "BR-1630",
+    "type": "small_airport",
+    "name": "Fazenda Santa Lúcia Airport",
+    "latitude_deg": "-10.74586",
+    "longitude_deg": "-69.199121",
+    "elevation_ft": "955",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AC",
+    "municipality": "Brasiléia",
+    "scheduled_service": "no",
+    "gps_code": "SWHJ",
+    "iata_code": "",
+    "local_code": "AC0013",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "346040",
+    "ident": "US-4682",
+    "type": "small_airport",
+    "name": "Flat Rock Mesa Airport",
+    "latitude_deg": "39.5546",
+    "longitude_deg": "-109.6958",
+    "elevation_ft": "7484",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Randlett",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

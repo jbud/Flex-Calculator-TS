@@ -1,0 +1,20 @@
+{
+    "id": "429844",
+    "ident": "NZDU",
+    "type": "heliport",
+    "name": "Dunstan Hospital Heliport",
+    "latitude_deg": "-45.20092",
+    "longitude_deg": "169.331669",
+    "elevation_ft": "554",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-OTA",
+    "municipality": "Clyde",
+    "scheduled_service": "no",
+    "gps_code": "NZDU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

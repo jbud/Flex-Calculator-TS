@@ -1,0 +1,20 @@
+{
+    "id": "505466",
+    "ident": "EG-0052",
+    "type": "heliport",
+    "name": "Suez Oil Heliport",
+    "latitude_deg": "28.9424",
+    "longitude_deg": "33.18593",
+    "elevation_ft": "42",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-JS",
+    "municipality": "Ras Abu Rudeis",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Ras Badran, Suco"
+}

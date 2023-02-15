@@ -1,0 +1,20 @@
+{
+    "id": "27335",
+    "ident": "YAPO",
+    "type": "small_airport",
+    "name": "Apollo Bay Airport",
+    "latitude_deg": "-38.774930231599996",
+    "longitude_deg": "143.661174774",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YAPO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

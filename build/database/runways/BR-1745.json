@@ -1,0 +1,20 @@
+{
+    "id": "505102",
+    "ident": "BR-1745",
+    "type": "small_airport",
+    "name": "Fazenda Santa Fé Airport",
+    "latitude_deg": "-3.056789",
+    "longitude_deg": "-60.849945",
+    "elevation_ft": "295",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Iranduba",
+    "scheduled_service": "no",
+    "gps_code": "SSKF",
+    "iata_code": "",
+    "local_code": "AM0040",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

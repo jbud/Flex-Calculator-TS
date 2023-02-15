@@ -1,0 +1,20 @@
+{
+    "id": "42983",
+    "ident": "RU-0046",
+    "type": "heliport",
+    "name": "Tatischevo Air Base",
+    "latitude_deg": "51.6843986511",
+    "longitude_deg": "45.5481147766",
+    "elevation_ft": "787",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-SAR",
+    "municipality": "Tatischevo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tatischevo_(airbase)",
+    "keywords": "Tatishchevo Air Base"
+}

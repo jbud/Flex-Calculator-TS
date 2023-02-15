@@ -1,0 +1,20 @@
+{
+    "id": "29084",
+    "ident": "EDPK",
+    "type": "small_airport",
+    "name": "Schönberg Airfield",
+    "latitude_deg": "48.047779",
+    "longitude_deg": "12.500556",
+    "elevation_ft": "1946",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Seebruck",
+    "scheduled_service": "no",
+    "gps_code": "EDPK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

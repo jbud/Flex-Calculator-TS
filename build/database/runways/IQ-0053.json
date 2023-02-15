@@ -1,0 +1,20 @@
+{
+    "id": "44547",
+    "ident": "IQ-0053",
+    "type": "small_airport",
+    "name": "Tikrit South Airport",
+    "latitude_deg": "34.534641",
+    "longitude_deg": "43.677574",
+    "elevation_ft": "356",
+    "continent": "AS",
+    "iso_country": "IQ",
+    "iso_region": "IQ-SD",
+    "municipality": "Tikrit",
+    "scheduled_service": "no",
+    "gps_code": "ORTS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tikrit_South_Air_Base",
+    "keywords": "FOB Packhorse, FOB Remagen"
+}

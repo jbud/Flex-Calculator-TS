@@ -1,0 +1,20 @@
+{
+    "id": "30209",
+    "ident": "YOBR",
+    "type": "small_airport",
+    "name": "Old Bar Heritage Airport",
+    "latitude_deg": "-31.965299606323242",
+    "longitude_deg": "152.59100341796875",
+    "elevation_ft": "10",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YOBR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

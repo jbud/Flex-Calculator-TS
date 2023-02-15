@@ -1,0 +1,20 @@
+{
+    "id": "320680",
+    "ident": "CPJ6",
+    "type": "small_airport",
+    "name": "St-Pierre-Jolys (Carl's Field)",
+    "latitude_deg": "49.436",
+    "longitude_deg": "-96.927002",
+    "elevation_ft": "828",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "St-Pierre-Jolys",
+    "scheduled_service": "no",
+    "gps_code": "CPJ6",
+    "iata_code": "",
+    "local_code": "CPJ6",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/St-Pierre-Jolys_(Carl%27s_Field)_Aerodrome",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "320266",
+    "ident": "DE-0354",
+    "type": "small_airport",
+    "name": "Ternberg Landing Field",
+    "latitude_deg": "47.93474",
+    "longitude_deg": "14.350854",
+    "elevation_ft": "1165",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-6",
+    "municipality": "Ternberg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Cumulus Paragleiter Eisenwurzen"
+}

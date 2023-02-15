@@ -1,0 +1,20 @@
+{
+    "id": "44998",
+    "ident": "RU-0240",
+    "type": "medium_airport",
+    "name": "Seshcha Air Base",
+    "latitude_deg": "53.715",
+    "longitude_deg": "33.34",
+    "elevation_ft": "692",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-BRY",
+    "municipality": "Dubrovka",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Sescha Air Base, Аэродром Сеща"
+}

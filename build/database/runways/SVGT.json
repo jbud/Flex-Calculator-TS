@@ -1,0 +1,20 @@
+{
+    "id": "32395",
+    "ident": "SVGT",
+    "type": "small_airport",
+    "name": "Guasipati Airport",
+    "latitude_deg": "7.474999904632568",
+    "longitude_deg": "-61.900001525878906",
+    "elevation_ft": "977",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVGT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "325762",
+    "ident": "RS-0005",
+    "type": "small_airport",
+    "name": "Vojka Airport",
+    "latitude_deg": "44.934325",
+    "longitude_deg": "20.171635",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RS",
+    "iso_region": "RS-07",
+    "municipality": "Vojka",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

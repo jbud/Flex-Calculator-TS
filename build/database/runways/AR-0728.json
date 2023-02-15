@@ -1,0 +1,20 @@
+{
+    "id": "349356",
+    "ident": "AR-0728",
+    "type": "small_airport",
+    "name": "Campomar Airport",
+    "latitude_deg": "-38.64912",
+    "longitude_deg": "-59.00613",
+    "elevation_ft": "49",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Necochea",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

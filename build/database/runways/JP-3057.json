@@ -1,0 +1,20 @@
+{
+    "id": "355609",
+    "ident": "JP-3057",
+    "type": "heliport",
+    "name": "IJHW Narita Hospital Heliport",
+    "latitude_deg": "35.75924",
+    "longitude_deg": "140.35046",
+    "elevation_ft": "121",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-12",
+    "municipality": "Narita",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

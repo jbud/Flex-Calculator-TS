@@ -1,0 +1,20 @@
+{
+    "id": "40621",
+    "ident": "SK-503",
+    "type": "small_airport",
+    "name": "Villa Gladys Airport",
+    "latitude_deg": "0.260556",
+    "longitude_deg": "-71.356389",
+    "elevation_ft": "549",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-VAU",
+    "municipality": "Mitu",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MVA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

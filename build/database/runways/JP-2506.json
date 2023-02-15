@@ -1,0 +1,20 @@
+{
+    "id": "347828",
+    "ident": "JP-2506",
+    "type": "heliport",
+    "name": "Inazawa Heliport",
+    "latitude_deg": "35.21125",
+    "longitude_deg": "136.78908",
+    "elevation_ft": "10",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-23",
+    "municipality": "Inazawa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

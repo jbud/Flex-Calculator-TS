@@ -1,0 +1,20 @@
+{
+    "id": "46441",
+    "ident": "CU-0073",
+    "type": "small_airport",
+    "name": "Santa Fe Airport",
+    "latitude_deg": "23.072507",
+    "longitude_deg": "-82.511487",
+    "elevation_ft": "15",
+    "continent": "NA",
+    "iso_country": "CU",
+    "iso_region": "CU-03",
+    "municipality": "La Habana",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

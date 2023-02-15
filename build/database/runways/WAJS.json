@@ -1,0 +1,20 @@
+{
+    "id": "41430",
+    "ident": "WAJS",
+    "type": "small_airport",
+    "name": "Senggeh Airport",
+    "latitude_deg": "-3.442448",
+    "longitude_deg": "140.778079",
+    "elevation_ft": "914",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PA",
+    "municipality": "Senggeh",
+    "scheduled_service": "yes",
+    "gps_code": "WAJS",
+    "iata_code": "SEH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Senggi"
+}

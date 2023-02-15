@@ -1,0 +1,20 @@
+{
+    "id": "349334",
+    "ident": "NC-0002",
+    "type": "small_airport",
+    "name": "Nakutakoin Ultralight Airport",
+    "latitude_deg": "-22.16896",
+    "longitude_deg": "166.4332",
+    "elevation_ft": "7",
+    "continent": "OC",
+    "iso_country": "NC",
+    "iso_region": "NC-U-A",
+    "municipality": "Dumbéa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "NWDU, Dumbéa"
+}

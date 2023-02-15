@@ -1,0 +1,20 @@
+{
+    "id": "349281",
+    "ident": "BR-1666",
+    "type": "heliport",
+    "name": "Cidade Helipad",
+    "latitude_deg": "-23.545891",
+    "longitude_deg": "-46.632532",
+    "elevation_ft": "2634",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São Paulo",
+    "scheduled_service": "no",
+    "gps_code": "SDIA",
+    "iata_code": "",
+    "local_code": "SP0353",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

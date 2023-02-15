@@ -1,0 +1,20 @@
+{
+    "id": "309639",
+    "ident": "DE-0086",
+    "type": "small_airport",
+    "name": "Greiling Airfield",
+    "latitude_deg": "47.7654",
+    "longitude_deg": "11.59546",
+    "elevation_ft": "2357",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Bad Tölz",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.lsv-greiling.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

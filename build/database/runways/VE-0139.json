@@ -1,0 +1,20 @@
+{
+    "id": "40488",
+    "ident": "VE-0139",
+    "type": "small_airport",
+    "name": "Misión Padamo Airport",
+    "latitude_deg": "3",
+    "longitude_deg": "-65.28333282470703",
+    "elevation_ft": "528",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-Z",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

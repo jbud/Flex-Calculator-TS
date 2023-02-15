@@ -1,0 +1,20 @@
+{
+    "id": "30561",
+    "ident": "FAWO",
+    "type": "small_airport",
+    "name": "Willowmore Airport",
+    "latitude_deg": "-33.263301849365234",
+    "longitude_deg": "23.4906005859375",
+    "elevation_ft": "2608",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Willowmore",
+    "scheduled_service": "no",
+    "gps_code": "FAWO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

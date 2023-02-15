@@ -1,0 +1,20 @@
+{
+    "id": "316112",
+    "ident": "US-0279",
+    "type": "heliport",
+    "name": "Williamson ARH Hospital Heliport",
+    "latitude_deg": "37.6766",
+    "longitude_deg": "-82.2964",
+    "elevation_ft": "679",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "South Williamson",
+    "scheduled_service": "no",
+    "gps_code": "3KY6",
+    "iata_code": "",
+    "local_code": "3KY6",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

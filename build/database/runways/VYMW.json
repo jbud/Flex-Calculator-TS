@@ -1,0 +1,20 @@
+{
+    "id": "30101",
+    "ident": "VYMW",
+    "type": "small_airport",
+    "name": "Magway Airport",
+    "latitude_deg": "20.1656",
+    "longitude_deg": "94.941399",
+    "elevation_ft": "279",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-03",
+    "municipality": "Magway",
+    "scheduled_service": "yes",
+    "gps_code": "VYMW",
+    "iata_code": "MWQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Magway_Airport",
+    "keywords": ""
+}

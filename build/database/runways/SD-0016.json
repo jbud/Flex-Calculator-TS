@@ -1,0 +1,20 @@
+{
+    "id": "356223",
+    "ident": "SD-0016",
+    "type": "small_airport",
+    "name": "Abri Airport",
+    "latitude_deg": "20.77819",
+    "longitude_deg": "30.3489",
+    "elevation_ft": "692",
+    "continent": "AF",
+    "iso_country": "SD",
+    "iso_region": "SD-01",
+    "municipality": "Abri",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

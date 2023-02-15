@@ -1,0 +1,20 @@
+{
+    "id": "312663",
+    "ident": "AO-0006",
+    "type": "small_airport",
+    "name": "Caluquembe Airport",
+    "latitude_deg": "-13.775546",
+    "longitude_deg": "14.694916",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-HUI",
+    "municipality": "Calequembe",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

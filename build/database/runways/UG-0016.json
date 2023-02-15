@@ -1,0 +1,20 @@
+{
+    "id": "505675",
+    "ident": "UG-0016",
+    "type": "small_airport",
+    "name": "Kayonza Airport",
+    "latitude_deg": "-0.862163",
+    "longitude_deg": "29.639553",
+    "elevation_ft": "3800",
+    "continent": "AF",
+    "iso_country": "UG",
+    "iso_region": "UG-W",
+    "municipality": "Kyabuyorwa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

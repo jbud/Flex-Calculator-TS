@@ -1,0 +1,20 @@
+{
+    "id": "348476",
+    "ident": "AR-0710",
+    "type": "small_airport",
+    "name": "Estancia El Reducto Airport",
+    "latitude_deg": "-39.7964",
+    "longitude_deg": "-62.31613",
+    "elevation_ft": "16",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Villarino",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

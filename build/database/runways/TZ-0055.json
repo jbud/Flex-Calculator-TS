@@ -1,0 +1,20 @@
+{
+    "id": "318616",
+    "ident": "TZ-0055",
+    "type": "small_airport",
+    "name": "Ngorongoro Airport",
+    "latitude_deg": "-3.221398",
+    "longitude_deg": "35.476965",
+    "elevation_ft": "7795",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-01",
+    "municipality": "Ngorongoro",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

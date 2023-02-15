@@ -1,0 +1,20 @@
+{
+    "id": "42762",
+    "ident": "PG-LMI",
+    "type": "small_airport",
+    "name": "Lumi Airport",
+    "latitude_deg": "-3.47683951134",
+    "longitude_deg": "142.041292191",
+    "elevation_ft": "1750",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-SAN",
+    "municipality": "Lumi",
+    "scheduled_service": "no",
+    "gps_code": "AYLU",
+    "iata_code": "LMI",
+    "local_code": "LUMI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

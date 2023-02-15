@@ -1,0 +1,20 @@
+{
+    "id": "1393",
+    "ident": "CPE2",
+    "type": "heliport",
+    "name": "Ajax (Pickering General Hospital) Heliport",
+    "latitude_deg": "43.835887893400006",
+    "longitude_deg": "-79.0173760056",
+    "elevation_ft": "300",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Ajax",
+    "scheduled_service": "no",
+    "gps_code": "CPE2",
+    "iata_code": "",
+    "local_code": "CPE2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "PE2"
+}

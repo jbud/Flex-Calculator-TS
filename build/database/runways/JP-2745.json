@@ -1,0 +1,20 @@
+{
+    "id": "351353",
+    "ident": "JP-2745",
+    "type": "heliport",
+    "name": "JMSDF Kamitsushima Monitoring Station Heliport",
+    "latitude_deg": "34.68476",
+    "longitude_deg": "129.43036",
+    "elevation_ft": "361",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-42",
+    "municipality": "Tsushima",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

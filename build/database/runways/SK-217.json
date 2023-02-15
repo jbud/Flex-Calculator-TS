@@ -1,0 +1,20 @@
+{
+    "id": "41038",
+    "ident": "SK-217",
+    "type": "small_airport",
+    "name": "Medina Airport",
+    "latitude_deg": "4.483687",
+    "longitude_deg": "-73.344739",
+    "elevation_ft": "1315",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CUN",
+    "municipality": "Medina",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "MND",
+    "local_code": "MND",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

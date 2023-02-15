@@ -1,0 +1,20 @@
+{
+    "id": "31470",
+    "ident": "FZUN",
+    "type": "small_airport",
+    "name": "Luebo Airport",
+    "latitude_deg": "-5.349999904632568",
+    "longitude_deg": "21.33300018310547",
+    "elevation_ft": "1640",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KI",
+    "municipality": "Luebo",
+    "scheduled_service": "no",
+    "gps_code": "FZUN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

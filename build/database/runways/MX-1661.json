@@ -1,0 +1,20 @@
+{
+    "id": "348310",
+    "ident": "MX-1661",
+    "type": "small_airport",
+    "name": "San Felipe Airport",
+    "latitude_deg": "26.64943",
+    "longitude_deg": "-99.83051",
+    "elevation_ft": "607",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-NLE",
+    "municipality": "Vallecillo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

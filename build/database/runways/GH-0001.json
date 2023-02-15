@@ -1,0 +1,20 @@
+{
+    "id": "322506",
+    "ident": "GH-0001",
+    "type": "small_airport",
+    "name": "Kpong Airfield",
+    "latitude_deg": "6.114864",
+    "longitude_deg": "0.057761",
+    "elevation_ft": "89",
+    "continent": "AF",
+    "iso_country": "GH",
+    "iso_region": "GH-EP",
+    "municipality": "Kpong",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kpong_Airfield",
+    "keywords": ""
+}

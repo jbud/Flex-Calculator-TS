@@ -1,0 +1,20 @@
+{
+    "id": "308306",
+    "ident": "SS-0008",
+    "type": "small_airport",
+    "name": "Yuai Airstrip",
+    "latitude_deg": "7.904872",
+    "longitude_deg": "31.888386",
+    "elevation_ft": "1341",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-23",
+    "municipality": "Yuai",
+    "scheduled_service": "no",
+    "gps_code": "HJYU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

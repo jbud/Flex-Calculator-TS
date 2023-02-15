@@ -1,0 +1,20 @@
+{
+    "id": "31660",
+    "ident": "UOII",
+    "type": "medium_airport",
+    "name": "Igarka Airport",
+    "latitude_deg": "67.43720245361328",
+    "longitude_deg": "86.62190246582031",
+    "elevation_ft": "82",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-KYA",
+    "municipality": "Igarka",
+    "scheduled_service": "yes",
+    "gps_code": "UOII",
+    "iata_code": "IAA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Igarka_Airport",
+    "keywords": ""
+}

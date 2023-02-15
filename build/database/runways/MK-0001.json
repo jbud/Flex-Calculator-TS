@@ -1,0 +1,20 @@
+{
+    "id": "316169",
+    "ident": "MK-0001",
+    "type": "small_airport",
+    "name": "Gradsko Airfield",
+    "latitude_deg": "41.552778",
+    "longitude_deg": "21.948889",
+    "elevation_ft": "623",
+    "continent": "EU",
+    "iso_country": "MK",
+    "iso_region": "MK-001",
+    "municipality": "Gradsko",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

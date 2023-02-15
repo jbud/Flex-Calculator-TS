@@ -1,0 +1,20 @@
+{
+    "id": "32319",
+    "ident": "SKSG",
+    "type": "small_airport",
+    "name": "San Gil Airport",
+    "latitude_deg": "6.58444",
+    "longitude_deg": "-73.1283",
+    "elevation_ft": "5498",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-SAN",
+    "municipality": "San Gil",
+    "scheduled_service": "no",
+    "gps_code": "SKSG",
+    "iata_code": "",
+    "local_code": "SGL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

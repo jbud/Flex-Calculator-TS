@@ -1,0 +1,20 @@
+{
+    "id": "336565",
+    "ident": "BR-1141",
+    "type": "small_airport",
+    "name": "Josidith Airport",
+    "latitude_deg": "-6.831574",
+    "longitude_deg": "-47.817961",
+    "elevation_ft": "1309",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-TO",
+    "municipality": "Darcinópolis",
+    "scheduled_service": "no",
+    "gps_code": "SJHD",
+    "iata_code": "",
+    "local_code": "TO0029",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "321718",
+    "ident": "ES-0219",
+    "type": "small_airport",
+    "name": "Aeródromo de Camarenilla",
+    "latitude_deg": "40.024702",
+    "longitude_deg": "-4.0712017",
+    "elevation_ft": "1742",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CM",
+    "municipality": "Camarenilla",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.volarenavioneta.es",
+    "wikipedia_link": "",
+    "keywords": ""
+}

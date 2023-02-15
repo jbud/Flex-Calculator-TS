@@ -1,0 +1,20 @@
+{
+    "id": "336629",
+    "ident": "JP-0385",
+    "type": "heliport",
+    "name": "Kitagishima Helipad",
+    "latitude_deg": "34.37665",
+    "longitude_deg": "133.54643",
+    "elevation_ft": "10",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-33",
+    "municipality": "Kasaoka",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "北木島ヘリポート"
+}

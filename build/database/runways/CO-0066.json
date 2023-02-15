@@ -1,0 +1,20 @@
+{
+    "id": "353305",
+    "ident": "CO-0066",
+    "type": "small_airport",
+    "name": "Arabia Airport",
+    "latitude_deg": "3.60726",
+    "longitude_deg": "-69.046761",
+    "elevation_ft": "486",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-GUA",
+    "municipality": "Barranco Minas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

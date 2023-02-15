@@ -1,0 +1,20 @@
+{
+    "id": "41074",
+    "ident": "SK-020",
+    "type": "small_airport",
+    "name": "San Juan De Uraba Airport",
+    "latitude_deg": "8.766667",
+    "longitude_deg": "-76.533333",
+    "elevation_ft": "10",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-ANT",
+    "municipality": "San Juan De Uraba",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "SJR",
+    "local_code": "SJR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

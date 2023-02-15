@@ -1,0 +1,20 @@
+{
+    "id": "30752",
+    "ident": "BISV",
+    "type": "small_airport",
+    "name": "Skálavatn Airport",
+    "latitude_deg": "64.11579895019531",
+    "longitude_deg": "-18.783300399780273",
+    "elevation_ft": "2000",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-8",
+    "municipality": "Skálavatn",
+    "scheduled_service": "no",
+    "gps_code": "BISV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

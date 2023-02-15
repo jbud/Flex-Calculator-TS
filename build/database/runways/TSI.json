@@ -1,0 +1,20 @@
+{
+    "id": "316424",
+    "ident": "TSI",
+    "type": "small_airport",
+    "name": "Tsile Tsile Airport",
+    "latitude_deg": "-6.8498",
+    "longitude_deg": "146.3554",
+    "elevation_ft": "500",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Tsile Tsile",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "TSI",
+    "local_code": "TSL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

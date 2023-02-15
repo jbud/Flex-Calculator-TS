@@ -1,0 +1,20 @@
+{
+    "id": "309332",
+    "ident": "YTWH",
+    "type": "heliport",
+    "name": "The Tweed Hospital Helipad",
+    "latitude_deg": "-28.17769",
+    "longitude_deg": "153.5466",
+    "elevation_ft": "10",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Tweed Heads",
+    "scheduled_service": "no",
+    "gps_code": "YTWH",
+    "iata_code": "",
+    "local_code": "YTWH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

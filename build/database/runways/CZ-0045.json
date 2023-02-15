@@ -1,0 +1,20 @@
+{
+    "id": "43962",
+    "ident": "CZ-0045",
+    "type": "heliport",
+    "name": "Hospital Heliport",
+    "latitude_deg": "49.29138946533203",
+    "longitude_deg": "17.381389617919922",
+    "elevation_ft": "666",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-ZL",
+    "municipality": "Kroměříž",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

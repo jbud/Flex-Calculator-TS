@@ -1,0 +1,20 @@
+{
+    "id": "316161",
+    "ident": "IT-0143",
+    "type": "small_airport",
+    "name": "Aviosuperficie \"San Giuseppe\"",
+    "latitude_deg": "45.85649",
+    "longitude_deg": "12.06555",
+    "elevation_ft": "419",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-34",
+    "municipality": "Vidor (TV)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "TVBOS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

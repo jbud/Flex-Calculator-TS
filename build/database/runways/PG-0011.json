@@ -1,0 +1,20 @@
+{
+    "id": "46180",
+    "ident": "PG-0011",
+    "type": "small_airport",
+    "name": "Gonaili Airport",
+    "latitude_deg": "-5.527716614",
+    "longitude_deg": "151.5733333",
+    "elevation_ft": "40",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-EBR",
+    "municipality": "Gonaili",
+    "scheduled_service": "no",
+    "gps_code": "AYGL",
+    "iata_code": "GOE",
+    "local_code": "GON",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Gonali, Gonalia"
+}

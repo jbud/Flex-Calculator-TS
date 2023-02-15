@@ -1,0 +1,20 @@
+{
+    "id": "32711",
+    "ident": "DFEP",
+    "type": "small_airport",
+    "name": "Pama Airport",
+    "latitude_deg": "11.25",
+    "longitude_deg": "0.699999988079071",
+    "elevation_ft": "699",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-KMP",
+    "municipality": "Pama",
+    "scheduled_service": "no",
+    "gps_code": "DFEP",
+    "iata_code": "XPA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

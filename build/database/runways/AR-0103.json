@@ -1,0 +1,20 @@
+{
+    "id": "38778",
+    "ident": "AR-0103",
+    "type": "small_airport",
+    "name": "Cinco Saltos Airport",
+    "latitude_deg": "-38.801666",
+    "longitude_deg": "-68.037224",
+    "elevation_ft": "1171",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-R",
+    "municipality": "Cinco Saltos",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

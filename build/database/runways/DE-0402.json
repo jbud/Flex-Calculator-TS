@@ -1,0 +1,20 @@
+{
+    "id": "321284",
+    "ident": "DE-0402",
+    "type": "small_airport",
+    "name": "Donstorf UL",
+    "latitude_deg": "52.655",
+    "longitude_deg": "8.556944",
+    "elevation_ft": "128",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

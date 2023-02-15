@@ -1,0 +1,20 @@
+{
+    "id": "46178",
+    "ident": "PG-0009",
+    "type": "small_airport",
+    "name": "Garaina Airport",
+    "latitude_deg": "-7.875625027460001",
+    "longitude_deg": "147.141265869",
+    "elevation_ft": "2497",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Garaina",
+    "scheduled_service": "no",
+    "gps_code": "AYGI",
+    "iata_code": "GAR",
+    "local_code": "GNA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

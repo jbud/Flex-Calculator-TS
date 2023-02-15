@@ -1,0 +1,20 @@
+{
+    "id": "321513",
+    "ident": "ES-0185",
+    "type": "small_airport",
+    "name": "Aeródromo Pelayos de la Presa",
+    "latitude_deg": "40.3720107",
+    "longitude_deg": "-4.3826756",
+    "elevation_ft": "2215",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-MD",
+    "municipality": "Pelayos de la Presa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

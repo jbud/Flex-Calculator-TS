@@ -1,0 +1,20 @@
+{
+    "id": "42530",
+    "ident": "HKBA",
+    "type": "small_airport",
+    "name": "Busia Airport",
+    "latitude_deg": "0.4570850133895874",
+    "longitude_deg": "34.130279541015625",
+    "elevation_ft": "3989",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-900",
+    "municipality": "Busia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "42506",
+    "ident": "NZ-0010",
+    "type": "small_airport",
+    "name": "Dingleburn Station Airstrip",
+    "latitude_deg": "-44.4380989074707",
+    "longitude_deg": "169.39100646972656",
+    "elevation_ft": "1000",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-OTA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.dingleburnstation.com/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

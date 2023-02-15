@@ -1,0 +1,20 @@
+{
+    "id": "351352",
+    "ident": "JP-2744",
+    "type": "heliport",
+    "name": "JASDF Unishima Sub Base Heliport",
+    "latitude_deg": "34.70648",
+    "longitude_deg": "129.44038",
+    "elevation_ft": "79",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-42",
+    "municipality": "Tsushima",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

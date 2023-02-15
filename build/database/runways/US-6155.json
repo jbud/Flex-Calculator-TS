@@ -1,0 +1,20 @@
+{
+    "id": "350707",
+    "ident": "US-6155",
+    "type": "small_airport",
+    "name": "Five Points Airport",
+    "latitude_deg": "36.42548",
+    "longitude_deg": "-120.1034",
+    "elevation_ft": "226",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Five Points",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

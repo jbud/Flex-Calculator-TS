@@ -1,0 +1,20 @@
+{
+    "id": "328243",
+    "ident": "PL-0158",
+    "type": "small_airport",
+    "name": "Konary Airstrip",
+    "latitude_deg": "52.287427",
+    "longitude_deg": "20.277461",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-MZ",
+    "municipality": "Brochow",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "EPBH"
+}

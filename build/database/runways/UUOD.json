@@ -1,0 +1,20 @@
+{
+    "id": "42995",
+    "ident": "UUOD",
+    "type": "small_airport",
+    "name": "Pridacha Airport",
+    "latitude_deg": "51.65227127075195",
+    "longitude_deg": "39.255523681640625",
+    "elevation_ft": "344",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-VOR",
+    "municipality": "Voronezh",
+    "scheduled_service": "no",
+    "gps_code": "UUOD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.vaso.ru/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pridacha_Airport",
+    "keywords": "Аэропорт Придача, Repnoe Airport, Voronezh East Airport"
+}

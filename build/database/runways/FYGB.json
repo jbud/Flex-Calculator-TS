@@ -1,0 +1,20 @@
+{
+    "id": "29555",
+    "ident": "FYGB",
+    "type": "small_airport",
+    "name": "Gobabis Airport",
+    "latitude_deg": "-22.5044",
+    "longitude_deg": "18.973101",
+    "elevation_ft": "4731",
+    "continent": "AF",
+    "iso_country": "NA",
+    "iso_region": "NA-OH",
+    "municipality": "Gobabis",
+    "scheduled_service": "no",
+    "gps_code": "FYGB",
+    "iata_code": "GOG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gobabis_Airport",
+    "keywords": ""
+}

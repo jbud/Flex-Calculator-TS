@@ -1,0 +1,20 @@
+{
+    "id": "44670",
+    "ident": "NZBC",
+    "type": "heliport",
+    "name": "ASB Bank Centre Heliport",
+    "latitude_deg": "-36.84989929199219",
+    "longitude_deg": "174.76199340820312",
+    "elevation_ft": "468",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-AUK",
+    "municipality": "Aukland",
+    "scheduled_service": "no",
+    "gps_code": "NZBC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

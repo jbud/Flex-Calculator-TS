@@ -1,0 +1,20 @@
+{
+    "id": "505533",
+    "ident": "PY-0044",
+    "type": "heliport",
+    "name": "Helipuerto del Palacio Legislativo",
+    "latitude_deg": "-25.278782",
+    "longitude_deg": "-57.635699",
+    "elevation_ft": "229",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-ASU",
+    "municipality": "Palacio Legislativo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.congreso.gov.py",
+    "wikipedia_link": "https://es.wikipedia.org/wiki/Congreso_de_Paraguay",
+    "keywords": ""
+}

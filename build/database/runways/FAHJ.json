@@ -1,0 +1,20 @@
+{
+    "id": "29937",
+    "ident": "FAHJ",
+    "type": "small_airport",
+    "name": "Harding Airport",
+    "latitude_deg": "-30.574533",
+    "longitude_deg": "29.90565",
+    "elevation_ft": "2890",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Harding",
+    "scheduled_service": "no",
+    "gps_code": "FAHJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

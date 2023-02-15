@@ -1,0 +1,20 @@
+{
+    "id": "345881",
+    "ident": "US-4599",
+    "type": "small_airport",
+    "name": "Dymesich Airport",
+    "latitude_deg": "40.40435",
+    "longitude_deg": "-122.21366",
+    "elevation_ft": "414",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Cottonwood",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

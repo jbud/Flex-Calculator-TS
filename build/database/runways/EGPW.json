@@ -1,0 +1,20 @@
+{
+    "id": "29176",
+    "ident": "EGPW",
+    "type": "small_airport",
+    "name": "Unst Airport",
+    "latitude_deg": "60.74720001220703",
+    "longitude_deg": "-0.8538500070571899",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Shetland Islands",
+    "scheduled_service": "no",
+    "gps_code": "EGPW",
+    "iata_code": "UNT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

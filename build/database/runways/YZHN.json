@@ -1,0 +1,20 @@
+{
+    "id": "28100",
+    "ident": "YZHN",
+    "type": "small_airport",
+    "name": "Zeehan Airport",
+    "latitude_deg": "-41.888804",
+    "longitude_deg": "145.350768",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-TAS",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YZHN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

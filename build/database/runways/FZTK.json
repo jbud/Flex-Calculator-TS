@@ -1,0 +1,20 @@
+{
+    "id": "31764",
+    "ident": "FZTK",
+    "type": "small_airport",
+    "name": "Kaniama Airport",
+    "latitude_deg": "-7.599343",
+    "longitude_deg": "24.158592",
+    "elevation_ft": "2772",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-HL",
+    "municipality": "Kaniama",
+    "scheduled_service": "no",
+    "gps_code": "FZTK",
+    "iata_code": "KNM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

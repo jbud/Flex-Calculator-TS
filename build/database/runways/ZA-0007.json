@@ -1,0 +1,20 @@
+{
+    "id": "41161",
+    "ident": "ZA-0007",
+    "type": "small_airport",
+    "name": "Stockdale Landing Strip Airport",
+    "latitude_deg": "-31.245100021362305",
+    "longitude_deg": "26.298500061035156",
+    "elevation_ft": "5315",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Alfalfa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "322312",
+    "ident": "CM-0008",
+    "type": "small_airport",
+    "name": "Gribi Airport",
+    "latitude_deg": "3.787821",
+    "longitude_deg": "14.984021",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "CM",
+    "iso_region": "CM-ES",
+    "municipality": "Gribi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

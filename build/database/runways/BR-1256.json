@@ -1,0 +1,20 @@
+{
+    "id": "337574",
+    "ident": "BR-1256",
+    "type": "small_airport",
+    "name": "Fazenda São João Airport",
+    "latitude_deg": "-10.328423",
+    "longitude_deg": "-54.580896",
+    "elevation_ft": "971",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Matupá",
+    "scheduled_service": "no",
+    "gps_code": "SJJM",
+    "iata_code": "",
+    "local_code": "MT0186",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

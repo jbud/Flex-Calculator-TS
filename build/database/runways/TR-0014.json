@@ -1,0 +1,20 @@
+{
+    "id": "44778",
+    "ident": "TR-0014",
+    "type": "small_airport",
+    "name": "Aksaray Airport",
+    "latitude_deg": "38.314704",
+    "longitude_deg": "33.8055",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-68",
+    "municipality": "Aksaray",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

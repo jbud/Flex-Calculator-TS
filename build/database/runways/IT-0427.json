@@ -1,0 +1,20 @@
+{
+    "id": "320234",
+    "ident": "IT-0427",
+    "type": "small_airport",
+    "name": "Campo di Volo Andrea Bozzo",
+    "latitude_deg": "44.863742",
+    "longitude_deg": "7.407068",
+    "elevation_ft": "984",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-21",
+    "municipality": "Pinerolo Buriasco (TO)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "TO13",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Andrea Bozzo"
+}

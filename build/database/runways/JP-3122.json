@@ -1,0 +1,20 @@
+{
+    "id": "430570",
+    "ident": "JP-3122",
+    "type": "heliport",
+    "name": "Imazaike Heliport",
+    "latitude_deg": "35.43961",
+    "longitude_deg": "133.50004",
+    "elevation_ft": "800",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-31",
+    "municipality": "Daisen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

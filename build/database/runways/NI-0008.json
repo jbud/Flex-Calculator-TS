@@ -1,0 +1,20 @@
+{
+    "id": "353600",
+    "ident": "NI-0008",
+    "type": "small_airport",
+    "name": "Las Parcelas Airport",
+    "latitude_deg": "12.35403",
+    "longitude_deg": "-86.78902",
+    "elevation_ft": "240",
+    "continent": "NA",
+    "iso_country": "NI",
+    "iso_region": "NI-LE",
+    "municipality": "Las Parcelas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "322149",
+    "ident": "BY-0028",
+    "type": "small_airport",
+    "name": "Vidzy Airstrip",
+    "latitude_deg": "55.37879",
+    "longitude_deg": "26.626022",
+    "elevation_ft": "466",
+    "continent": "EU",
+    "iso_country": "BY",
+    "iso_region": "BY-VI",
+    "municipality": "Vidzy",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

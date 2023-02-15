@@ -1,0 +1,20 @@
+{
+    "id": "309209",
+    "ident": "YRHO",
+    "type": "heliport",
+    "name": "Royal Childrens Hospital Helipad",
+    "latitude_deg": "-37.794058",
+    "longitude_deg": "144.951309",
+    "elevation_ft": "126",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "Melbourne",
+    "scheduled_service": "no",
+    "gps_code": "YRHO",
+    "iata_code": "",
+    "local_code": "YRHO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

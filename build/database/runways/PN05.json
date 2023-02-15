@@ -1,0 +1,20 @@
+{
+    "id": "24115",
+    "ident": "PN05",
+    "type": "heliport",
+    "name": "Fort Lee Heliport",
+    "latitude_deg": "40.65140151977539",
+    "longitude_deg": "-78.82720184326172",
+    "elevation_ft": "1995",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Barnsboro",
+    "scheduled_service": "no",
+    "gps_code": "PN05",
+    "iata_code": "",
+    "local_code": "PN05",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

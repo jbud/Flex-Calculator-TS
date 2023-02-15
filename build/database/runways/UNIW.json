@@ -1,0 +1,20 @@
+{
+    "id": "32544",
+    "ident": "UNIW",
+    "type": "medium_airport",
+    "name": "Vanavara Airport",
+    "latitude_deg": "60.356229",
+    "longitude_deg": "102.309641",
+    "elevation_ft": "892",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KYA",
+    "municipality": "Vanavara",
+    "scheduled_service": "yes",
+    "gps_code": "UNIW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Vanavara_Airport",
+    "keywords": "Аэропорт Ванавара"
+}

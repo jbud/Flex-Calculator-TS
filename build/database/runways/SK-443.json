@@ -1,0 +1,20 @@
+{
+    "id": "40911",
+    "ident": "SK-443",
+    "type": "small_airport",
+    "name": "Tamarindo Airport",
+    "latitude_deg": "3.790278",
+    "longitude_deg": "-75.081111",
+    "elevation_ft": "1076",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-TOL",
+    "municipality": "Coyaima",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CYA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

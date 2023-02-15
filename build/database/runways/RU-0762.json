@@ -1,0 +1,20 @@
+{
+    "id": "347904",
+    "ident": "RU-0762",
+    "type": "small_airport",
+    "name": "Khamakar Airport",
+    "latitude_deg": "61.989",
+    "longitude_deg": "108.17978",
+    "elevation_ft": "889",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-IRK",
+    "municipality": "Khamakar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "41151",
+    "ident": "FAZP",
+    "type": "small_airport",
+    "name": "Mazeppa Bay Airport",
+    "latitude_deg": "-32.472152",
+    "longitude_deg": "28.65052",
+    "elevation_ft": "13",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Mazeppa Bay",
+    "scheduled_service": "no",
+    "gps_code": "FAZP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Kob Inn Airstrip"
+}

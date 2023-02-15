@@ -1,0 +1,20 @@
+{
+    "id": "40745",
+    "ident": "SK-308",
+    "type": "small_airport",
+    "name": "La Mansión Airport",
+    "latitude_deg": "3.779444",
+    "longitude_deg": "-73.220556",
+    "elevation_ft": "713",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-MET",
+    "municipality": "San Carlos De Guaroa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SDG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

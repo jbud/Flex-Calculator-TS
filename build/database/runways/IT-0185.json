@@ -1,0 +1,20 @@
+{
+    "id": "317373",
+    "ident": "IT-0185",
+    "type": "small_airport",
+    "name": "Aviosuperficie Pantano",
+    "latitude_deg": "40.56167",
+    "longitude_deg": "15.7599",
+    "elevation_ft": "2625",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-77",
+    "municipality": "Pignola",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "PZPAN",
+    "home_link": "http://www.centroicaro.it/icaro/aviosuperficie.asp",
+    "wikipedia_link": "",
+    "keywords": "Pantano, Centro Icaro"
+}

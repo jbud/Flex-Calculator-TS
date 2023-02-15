@@ -1,0 +1,20 @@
+{
+    "id": "308680",
+    "ident": "IT-0044",
+    "type": "small_airport",
+    "name": "Campo di Volo Beltrutta",
+    "latitude_deg": "44.498333",
+    "longitude_deg": "7.723333",
+    "elevation_ft": "1174",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-21",
+    "municipality": "Pezzolo Valle Uzzone (CN)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CN04",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

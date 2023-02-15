@@ -1,0 +1,20 @@
+{
+    "id": "308304",
+    "ident": "SS-0006",
+    "type": "small_airport",
+    "name": "Waat Airstrip",
+    "latitude_deg": "8.189647",
+    "longitude_deg": "32.152873",
+    "elevation_ft": "1329",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-23",
+    "municipality": "Waat",
+    "scheduled_service": "no",
+    "gps_code": "HJWT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

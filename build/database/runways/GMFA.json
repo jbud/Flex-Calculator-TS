@@ -1,0 +1,20 @@
+{
+    "id": "30228",
+    "ident": "GMFA",
+    "type": "small_airport",
+    "name": "Ouezzane Airport",
+    "latitude_deg": "34.793361",
+    "longitude_deg": "-5.635986",
+    "elevation_ft": "571",
+    "continent": "AF",
+    "iso_country": "MA",
+    "iso_region": "MA-TET",
+    "municipality": "Beni Malek",
+    "scheduled_service": "no",
+    "gps_code": "GMFA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

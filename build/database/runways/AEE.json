@@ -1,0 +1,20 @@
+{
+    "id": "300307",
+    "ident": "AEE",
+    "type": "small_airport",
+    "name": "Adareil Airport",
+    "latitude_deg": "10.053611",
+    "longitude_deg": "32.959444",
+    "elevation_ft": "1301",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-23",
+    "municipality": "Adar",
+    "scheduled_service": "no",
+    "gps_code": "HJAR",
+    "iata_code": "AEE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

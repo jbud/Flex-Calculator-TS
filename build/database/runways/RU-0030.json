@@ -1,0 +1,20 @@
+{
+    "id": "42331",
+    "ident": "RU-0030",
+    "type": "small_airport",
+    "name": "Tyukhtet North",
+    "latitude_deg": "56.562099",
+    "longitude_deg": "89.329002",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KYA",
+    "municipality": "Tyukhtet",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

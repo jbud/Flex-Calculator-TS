@@ -1,0 +1,20 @@
+{
+    "id": "345459",
+    "ident": "SE-0063",
+    "type": "small_airport",
+    "name": "Hedemora Flygfält",
+    "latitude_deg": "60.239545",
+    "longitude_deg": "15.98397",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-W",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

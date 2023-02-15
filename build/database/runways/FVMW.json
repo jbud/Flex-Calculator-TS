@@ -1,0 +1,20 @@
+{
+    "id": "31253",
+    "ident": "FVMW",
+    "type": "small_airport",
+    "name": "Murewa Airport",
+    "latitude_deg": "-17.649999618530273",
+    "longitude_deg": "31.799999237060547",
+    "elevation_ft": "4579",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-ME",
+    "municipality": "Murewa",
+    "scheduled_service": "no",
+    "gps_code": "FVMW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

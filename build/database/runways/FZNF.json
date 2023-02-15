@@ -1,0 +1,20 @@
+{
+    "id": "31418",
+    "ident": "FZNF",
+    "type": "small_airport",
+    "name": "Lubero Airport",
+    "latitude_deg": "-0.139505",
+    "longitude_deg": "29.241677",
+    "elevation_ft": "5906",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-NK",
+    "municipality": "Lubero",
+    "scheduled_service": "no",
+    "gps_code": "FZNF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lubero_Airport",
+    "keywords": ""
+}

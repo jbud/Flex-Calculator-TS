@@ -1,0 +1,20 @@
+{
+    "id": "46016",
+    "ident": "US-0103",
+    "type": "small_airport",
+    "name": "Hapworths Private Landing Area Airport",
+    "latitude_deg": "44.64030075",
+    "longitude_deg": "-69.67030334",
+    "elevation_ft": "250",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "North Fairfield",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

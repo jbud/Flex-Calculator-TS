@@ -1,0 +1,20 @@
+{
+    "id": "321112",
+    "ident": "ES-0126",
+    "type": "small_airport",
+    "name": "Aires de Doñana",
+    "latitude_deg": "37.25689",
+    "longitude_deg": "-6.562895",
+    "elevation_ft": "213",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Almonte",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.aeroclubdehuelva.es/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

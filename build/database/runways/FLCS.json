@@ -1,0 +1,20 @@
+{
+    "id": "31139",
+    "ident": "FLCS",
+    "type": "small_airport",
+    "name": "Chinsali Airport",
+    "latitude_deg": "-10.582491",
+    "longitude_deg": "32.079678",
+    "elevation_ft": "4350",
+    "continent": "AF",
+    "iso_country": "ZM",
+    "iso_region": "ZM-10",
+    "municipality": "Chinsali",
+    "scheduled_service": "no",
+    "gps_code": "FLCS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

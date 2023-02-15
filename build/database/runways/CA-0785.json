@@ -1,0 +1,20 @@
+{
+    "id": "354380",
+    "ident": "CA-0785",
+    "type": "small_airport",
+    "name": "Long Harbour Airport",
+    "latitude_deg": "48.858482",
+    "longitude_deg": "-123.47487",
+    "elevation_ft": "50",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Long Harbour",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CLH3",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Long_Harbour_Aerodrome",
+    "keywords": ""
+}

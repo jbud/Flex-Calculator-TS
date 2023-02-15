@@ -1,0 +1,20 @@
+{
+    "id": "505544",
+    "ident": "PY-0055",
+    "type": "heliport",
+    "name": "Helipuerto de la Academia Militar \"Mcal. Francisco Solano López\"",
+    "latitude_deg": "-25.360112",
+    "longitude_deg": "-57.429582",
+    "elevation_ft": "360",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-11",
+    "municipality": "Academia Militar \"Mcal. Francisco Solano López\"",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.ejercito.mil.py/index.php/educacion/academil-oficiales",
+    "wikipedia_link": "https://es.wikipedia.org/wiki/Academia_Militar_Mariscal_Francisco_Solano_López",
+    "keywords": ""
+}

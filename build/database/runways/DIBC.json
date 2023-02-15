@@ -1,0 +1,20 @@
+{
+    "id": "30914",
+    "ident": "DIBC",
+    "type": "small_airport",
+    "name": "Bocanda Airport",
+    "latitude_deg": "7.0329999923706055",
+    "longitude_deg": "-4.5329999923706055",
+    "elevation_ft": "427",
+    "continent": "AF",
+    "iso_country": "CI",
+    "iso_region": "CI-LC",
+    "municipality": "Bocanda",
+    "scheduled_service": "no",
+    "gps_code": "DIBC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

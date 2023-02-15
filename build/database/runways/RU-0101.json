@@ -1,0 +1,20 @@
+{
+    "id": "44331",
+    "ident": "RU-0101",
+    "type": "small_airport",
+    "name": "Ashuluk Airfield",
+    "latitude_deg": "47.42257",
+    "longitude_deg": "47.92717",
+    "elevation_ft": "-66",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-AST",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Kordon Airfield, Аэродром Ашулук, Аэродром Кордон"
+}

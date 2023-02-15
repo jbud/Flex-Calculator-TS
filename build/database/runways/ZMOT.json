@@ -1,0 +1,20 @@
+{
+    "id": "308351",
+    "ident": "ZMOT",
+    "type": "small_airport",
+    "name": "Khanbumbat Airport",
+    "latitude_deg": "43.145552",
+    "longitude_deg": "106.843509",
+    "elevation_ft": "3924",
+    "continent": "AS",
+    "iso_country": "MN",
+    "iso_region": "MN-055",
+    "municipality": "Khanbogd, Ömnögovi",
+    "scheduled_service": "no",
+    "gps_code": "ZMKB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://ot.mn/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Khanbumbat_Airport",
+    "keywords": "ZMOT, Oyu Tolgoi, Umnugobi"
+}

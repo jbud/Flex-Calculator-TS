@@ -1,0 +1,20 @@
+{
+    "id": "333930",
+    "ident": "BR-0615",
+    "type": "small_airport",
+    "name": "Grupo IOWA Airport",
+    "latitude_deg": "-13.070162",
+    "longitude_deg": "-45.936828",
+    "elevation_ft": "2687",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "São Desidério",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SSEG"
+}

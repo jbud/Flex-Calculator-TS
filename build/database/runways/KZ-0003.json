@@ -1,0 +1,20 @@
+{
+    "id": "41855",
+    "ident": "KZ-0003",
+    "type": "small_airport",
+    "name": "Arys Northeast Airport",
+    "latitude_deg": "42.470298767089844",
+    "longitude_deg": "68.83820343017578",
+    "elevation_ft": "750",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-YUZ",
+    "municipality": "Arys",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

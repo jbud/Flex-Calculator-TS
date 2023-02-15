@@ -1,0 +1,20 @@
+{
+    "id": "40090",
+    "ident": "SVBJ",
+    "type": "small_airport",
+    "name": "Hato Viejo Airport",
+    "latitude_deg": "7.321667194366455",
+    "longitude_deg": "-69.66999816894531",
+    "elevation_ft": "524",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVBJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

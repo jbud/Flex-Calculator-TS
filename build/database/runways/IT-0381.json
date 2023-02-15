@@ -1,0 +1,20 @@
+{
+    "id": "319981",
+    "ident": "IT-0381",
+    "type": "small_airport",
+    "name": "Campo di Volo Vallermosa",
+    "latitude_deg": "39.3561",
+    "longitude_deg": "8.7919",
+    "elevation_ft": "235",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-88",
+    "municipality": "Vallermosa (CA)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CAVAL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

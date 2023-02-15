@@ -1,0 +1,20 @@
+{
+    "id": "44171",
+    "ident": "CN-0093",
+    "type": "small_airport",
+    "name": "Jinan Qihe Air Base",
+    "latitude_deg": "36.769139",
+    "longitude_deg": "116.639787",
+    "elevation_ft": "82",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-37",
+    "municipality": "Jinan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

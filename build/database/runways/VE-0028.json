@@ -1,0 +1,20 @@
+{
+    "id": "40377",
+    "ident": "VE-0028",
+    "type": "small_airport",
+    "name": "Cacuri Airport",
+    "latitude_deg": "4.821667194366455",
+    "longitude_deg": "-65.33999633789062",
+    "elevation_ft": "857",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-Z",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

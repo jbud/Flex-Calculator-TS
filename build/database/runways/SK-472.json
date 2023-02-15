@@ -1,0 +1,20 @@
+{
+    "id": "40581",
+    "ident": "SK-472",
+    "type": "small_airport",
+    "name": "Belén De Inambú Airport",
+    "latitude_deg": "0.470833",
+    "longitude_deg": "-70.184722",
+    "elevation_ft": "567",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-VAU",
+    "municipality": "Mitu",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MIB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

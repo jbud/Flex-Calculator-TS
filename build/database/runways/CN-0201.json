@@ -1,0 +1,20 @@
+{
+    "id": "44279",
+    "ident": "CN-0201",
+    "type": "medium_airport",
+    "name": "Pingquan Air Base",
+    "latitude_deg": "40.900409",
+    "longitude_deg": "118.677878",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-13",
+    "municipality": "Chengde",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

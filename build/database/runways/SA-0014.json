@@ -1,0 +1,20 @@
+{
+    "id": "340211",
+    "ident": "SA-0014",
+    "type": "small_airport",
+    "name": "Wadi Al Musayr Airfield",
+    "latitude_deg": "28.13516",
+    "longitude_deg": "34.92503",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-07",
+    "municipality": "Gayal",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Wadi Al Asalah"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31049",
+    "ident": "FAKK",
+    "type": "small_airport",
+    "name": "Kakamas Airport",
+    "latitude_deg": "-28.808598",
+    "longitude_deg": "20.644936",
+    "elevation_ft": "2322",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Kakamas",
+    "scheduled_service": "no",
+    "gps_code": "FAKK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

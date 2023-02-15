@@ -1,0 +1,20 @@
+{
+    "id": "40115",
+    "ident": "SVDR",
+    "type": "small_airport",
+    "name": "Cordereño Airport",
+    "latitude_deg": "7.933332920074463",
+    "longitude_deg": "-69.9000015258789",
+    "elevation_ft": "268",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-E",
+    "municipality": "Cordereño",
+    "scheduled_service": "no",
+    "gps_code": "SVDR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

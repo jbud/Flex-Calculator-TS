@@ -1,0 +1,20 @@
+{
+    "id": "351336",
+    "ident": "NI-0001",
+    "type": "small_airport",
+    "name": "Santa Elena Airport",
+    "latitude_deg": "12.50328",
+    "longitude_deg": "-86.41501",
+    "elevation_ft": "153",
+    "continent": "NA",
+    "iso_country": "NI",
+    "iso_region": "NI-LE",
+    "municipality": "Santa Elena",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

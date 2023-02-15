@@ -1,0 +1,20 @@
+{
+    "id": "31360",
+    "ident": "FZDU",
+    "type": "small_airport",
+    "name": "Kimpangu Airport",
+    "latitude_deg": "-5.833000183105469",
+    "longitude_deg": "15",
+    "elevation_ft": "2133",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KO",
+    "municipality": "Kimpangu",
+    "scheduled_service": "no",
+    "gps_code": "FZDU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

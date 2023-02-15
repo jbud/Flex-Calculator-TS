@@ -1,0 +1,20 @@
+{
+    "id": "41225",
+    "ident": "FAUC",
+    "type": "small_airport",
+    "name": "Ulco Airport",
+    "latitude_deg": "-28.35449981689453",
+    "longitude_deg": "24.22909927368164",
+    "elevation_ft": "3512",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Ulco",
+    "scheduled_service": "no",
+    "gps_code": "FAUC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

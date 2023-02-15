@@ -1,0 +1,20 @@
+{
+    "id": "39476",
+    "ident": "SLVN",
+    "type": "small_airport",
+    "name": "Villa Negrita Airport",
+    "latitude_deg": "-13.265800476074219",
+    "longitude_deg": "-65.87580108642578",
+    "elevation_ft": "872",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-B",
+    "municipality": "Yacuma",
+    "scheduled_service": "no",
+    "gps_code": "SLVN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "43446",
+    "ident": "FR-0106",
+    "type": "heliport",
+    "name": "Centre Médical Heliport",
+    "latitude_deg": "46.133331298828125",
+    "longitude_deg": "1.8833329677581787",
+    "elevation_ft": "1542",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NAQ",
+    "municipality": "Saint-Feyre",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "318612",
+    "ident": "TZ-0051",
+    "type": "small_airport",
+    "name": "Rungwa Airport",
+    "latitude_deg": "-6.935716",
+    "longitude_deg": "33.530089",
+    "elevation_ft": "4110",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-23",
+    "municipality": "Rungwa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

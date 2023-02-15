@@ -1,0 +1,20 @@
+{
+    "id": "313252",
+    "ident": "HRN",
+    "type": "heliport",
+    "name": "Heron Island Helipad",
+    "latitude_deg": "-23.441765",
+    "longitude_deg": "151.911416",
+    "elevation_ft": "8",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Heron Island",
+    "scheduled_service": "no",
+    "gps_code": "YHRN",
+    "iata_code": "",
+    "local_code": "YHRN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "HRN"
+}

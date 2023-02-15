@@ -1,0 +1,20 @@
+{
+    "id": "314915",
+    "ident": "CCG5",
+    "type": "small_airport",
+    "name": "Cayuga Airport",
+    "latitude_deg": "42.9512",
+    "longitude_deg": "-79.825",
+    "elevation_ft": "630",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Cayuga",
+    "scheduled_service": "no",
+    "gps_code": "CCG5",
+    "iata_code": "",
+    "local_code": "CCG5",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

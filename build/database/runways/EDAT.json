@@ -1,0 +1,20 @@
+{
+    "id": "28655",
+    "ident": "EDAT",
+    "type": "small_airport",
+    "name": "Nardt Airfield",
+    "latitude_deg": "51.451111",
+    "longitude_deg": "14.199444",
+    "elevation_ft": "384",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-SN",
+    "municipality": "Hoyerswerda",
+    "scheduled_service": "no",
+    "gps_code": "EDAT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

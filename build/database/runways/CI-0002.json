@@ -1,0 +1,20 @@
+{
+    "id": "340297",
+    "ident": "CI-0002",
+    "type": "small_airport",
+    "name": "Cosrou Airport",
+    "latitude_deg": "5.3156",
+    "longitude_deg": "-4.6459",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "CI",
+    "iso_region": "CI-LG",
+    "municipality": "Cosrou",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

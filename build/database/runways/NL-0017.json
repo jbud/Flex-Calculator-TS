@@ -1,0 +1,20 @@
+{
+    "id": "43712",
+    "ident": "NL-0017",
+    "type": "heliport",
+    "name": "Erasmus Medisch Centrum Heliport",
+    "latitude_deg": "51.90999984741211",
+    "longitude_deg": "4.470832824707031",
+    "elevation_ft": "30",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-ZH",
+    "municipality": "Rotterdam",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "EH0018"
+}

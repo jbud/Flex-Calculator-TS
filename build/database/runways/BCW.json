@@ -1,0 +1,20 @@
+{
+    "id": "27301",
+    "ident": "BCW",
+    "type": "medium_airport",
+    "name": "Benguera Island Airport",
+    "latitude_deg": "-21.853300094604492",
+    "longitude_deg": "35.43830108642578",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "MZ",
+    "iso_region": "MZ-I",
+    "municipality": "Benguera Island",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "BCW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Benguera_Island_Airport",
+    "keywords": ""
+}

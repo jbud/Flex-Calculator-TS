@@ -1,0 +1,20 @@
+{
+    "id": "29919",
+    "ident": "FAGL",
+    "type": "small_airport",
+    "name": "Groblersdal Kob Airport",
+    "latitude_deg": "-25.186899",
+    "longitude_deg": "29.403299",
+    "elevation_ft": "3051",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "Groblersdal",
+    "scheduled_service": "no",
+    "gps_code": "FAGL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

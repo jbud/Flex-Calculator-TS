@@ -1,0 +1,20 @@
+{
+    "id": "311666",
+    "ident": "DE-0124",
+    "type": "small_airport",
+    "name": "Osterholz-Scharmbeck Airfield",
+    "latitude_deg": "53.2135",
+    "longitude_deg": "8.8102",
+    "elevation_ft": "3",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Osterholz-Scharmbeck",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.segelflug.de/vereine/osterholz/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "1292",
+    "ident": "CNB4",
+    "type": "heliport",
+    "name": "Cobourg (Northumberland Hills Hospital) Heliport",
+    "latitude_deg": "43.97719955444336",
+    "longitude_deg": "-78.19999694824219",
+    "elevation_ft": "343",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Cobourg",
+    "scheduled_service": "no",
+    "gps_code": "CNB4",
+    "iata_code": "",
+    "local_code": "CNB4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "NB4"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "430652",
+    "ident": "ID-0270",
+    "type": "small_airport",
+    "name": "Milki Airstrip",
+    "latitude_deg": "-4.097372",
+    "longitude_deg": "140.711331",
+    "elevation_ft": "1004",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PP",
+    "municipality": "Milki",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

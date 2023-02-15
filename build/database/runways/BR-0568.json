@@ -1,0 +1,20 @@
+{
+    "id": "333194",
+    "ident": "BR-0568",
+    "type": "small_airport",
+    "name": "São Pedro Airport",
+    "latitude_deg": "-16.753778",
+    "longitude_deg": "-39.316389",
+    "elevation_ft": "262",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Porto Seguro",
+    "scheduled_service": "no",
+    "gps_code": "SSDO",
+    "iata_code": "",
+    "local_code": "BA0155",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

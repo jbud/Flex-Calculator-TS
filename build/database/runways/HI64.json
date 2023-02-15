@@ -1,0 +1,20 @@
+{
+    "id": "4782",
+    "ident": "HI64",
+    "type": "heliport",
+    "name": "Tinian Dynasty Heliport",
+    "latitude_deg": "14.962748",
+    "longitude_deg": "145.629863",
+    "elevation_ft": "175",
+    "continent": "OC",
+    "iso_country": "MP",
+    "iso_region": "MP-U-A",
+    "municipality": "San Jose, Tinian",
+    "scheduled_service": "no",
+    "gps_code": "HI64",
+    "iata_code": "",
+    "local_code": "HI64",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Tinian Star Heliport"
+}

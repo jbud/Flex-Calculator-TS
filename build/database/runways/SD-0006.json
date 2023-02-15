@@ -1,0 +1,20 @@
+{
+    "id": "330405",
+    "ident": "SD-0006",
+    "type": "small_airport",
+    "name": "Songo Airstrip",
+    "latitude_deg": "9.774332",
+    "longitude_deg": "24.306231",
+    "elevation_ft": "1813",
+    "continent": "AF",
+    "iso_country": "SD",
+    "iso_region": "SD-11",
+    "municipality": "Songo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Radom National Park"
+}

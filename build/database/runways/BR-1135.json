@@ -1,0 +1,20 @@
+{
+    "id": "336551",
+    "ident": "BR-1135",
+    "type": "small_airport",
+    "name": "Santa Maria Airport",
+    "latitude_deg": "-14.802849",
+    "longitude_deg": "-46.656978",
+    "elevation_ft": "1713",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Flores de Goiás",
+    "scheduled_service": "no",
+    "gps_code": "SJGR",
+    "iata_code": "",
+    "local_code": "GO0074",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

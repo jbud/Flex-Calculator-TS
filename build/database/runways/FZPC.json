@@ -1,0 +1,20 @@
+{
+    "id": "31436",
+    "ident": "FZPC",
+    "type": "small_airport",
+    "name": "Lugushwa Airport",
+    "latitude_deg": "-3.316999912261963",
+    "longitude_deg": "27.882999420166016",
+    "elevation_ft": "2300",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-SK",
+    "municipality": "Lugushwa",
+    "scheduled_service": "no",
+    "gps_code": "FZPC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

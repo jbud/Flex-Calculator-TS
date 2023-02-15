@@ -1,0 +1,20 @@
+{
+    "id": "30815",
+    "ident": "OACC",
+    "type": "small_airport",
+    "name": "Chaghcharan Airport",
+    "latitude_deg": "34.526465",
+    "longitude_deg": "65.27102",
+    "elevation_ft": "7383",
+    "continent": "AS",
+    "iso_country": "AF",
+    "iso_region": "AF-GHO",
+    "municipality": "Chaghcharan",
+    "scheduled_service": "yes",
+    "gps_code": "OACC",
+    "iata_code": "CCN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chaghcharan_Airport",
+    "keywords": "Chakcharan"
+}

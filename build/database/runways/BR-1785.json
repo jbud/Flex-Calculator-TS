@@ -1,0 +1,20 @@
+{
+    "id": "505693",
+    "ident": "BR-1785",
+    "type": "small_airport",
+    "name": "Fazenda Triflora Airport",
+    "latitude_deg": "-12.448897",
+    "longitude_deg": "-45.680652",
+    "elevation_ft": "2438",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "São Desidério",
+    "scheduled_service": "no",
+    "gps_code": "SWXF",
+    "iata_code": "",
+    "local_code": "BA0187",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

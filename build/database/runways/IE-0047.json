@@ -1,0 +1,20 @@
+{
+    "id": "322003",
+    "ident": "IE-0047",
+    "type": "small_airport",
+    "name": "Fethard Airstrip",
+    "latitude_deg": "52.471738",
+    "longitude_deg": "-7.734409",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IE",
+    "iso_region": "IE-TA",
+    "municipality": "Fethard",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

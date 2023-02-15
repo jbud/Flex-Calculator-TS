@@ -1,0 +1,20 @@
+{
+    "id": "309591",
+    "ident": "IN-0087",
+    "type": "small_airport",
+    "name": "Gauchar Airstrip",
+    "latitude_deg": "30.284585",
+    "longitude_deg": "79.161665",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-UT",
+    "municipality": "Gauchar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Gaucher"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "318649",
+    "ident": "TZ-0088",
+    "type": "small_airport",
+    "name": "Makau Airport",
+    "latitude_deg": "-3.367409",
+    "longitude_deg": "34.824166",
+    "elevation_ft": "5131",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-22",
+    "municipality": "Makau",
+    "scheduled_service": "no",
+    "gps_code": "HTMH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

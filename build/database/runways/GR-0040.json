@@ -1,0 +1,20 @@
+{
+    "id": "342893",
+    "ident": "GR-0040",
+    "type": "heliport",
+    "name": "Anafi Heliport",
+    "latitude_deg": "36.35641",
+    "longitude_deg": "25.77269",
+    "elevation_ft": "973",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-L",
+    "municipality": "Anafi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

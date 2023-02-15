@@ -1,0 +1,20 @@
+{
+    "id": "505549",
+    "ident": "PY-0060",
+    "type": "heliport",
+    "name": "Helipuerto del Área Naval de Itapú",
+    "latitude_deg": "-27.367747",
+    "longitude_deg": "-55.853634",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-7",
+    "municipality": "Área Naval de Itapúa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.armadaparaguaya.mil.py/",
+    "wikipedia_link": "https://es.m.wikipedia.org/wiki/Armada_Paraguaya",
+    "keywords": ""
+}

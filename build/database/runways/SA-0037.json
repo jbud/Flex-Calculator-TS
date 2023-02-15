@@ -1,0 +1,20 @@
+{
+    "id": "351969",
+    "ident": "SA-0037",
+    "type": "heliport",
+    "name": "King Abdullah Medical City Heliport",
+    "latitude_deg": "21.38324",
+    "longitude_deg": "39.87932",
+    "elevation_ft": "929",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-02",
+    "municipality": "Mecca",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "41109",
+    "ident": "SEPX",
+    "type": "small_airport",
+    "name": "Payo Airport",
+    "latitude_deg": "-2.309999942779541",
+    "longitude_deg": "-79.45999908447266",
+    "elevation_ft": "101",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-G",
+    "municipality": "Hacienda Payo",
+    "scheduled_service": "no",
+    "gps_code": "SEPX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

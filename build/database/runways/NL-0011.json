@@ -1,0 +1,20 @@
+{
+    "id": "43706",
+    "ident": "NL-0011",
+    "type": "heliport",
+    "name": "Rode Kruis Ziekenhuis Heliport",
+    "latitude_deg": "52.4791374206543",
+    "longitude_deg": "4.651556015014648",
+    "elevation_ft": "68",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-NH",
+    "municipality": "Beverwijk",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "EH0002"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "351455",
+    "ident": "SS-0044",
+    "type": "small_airport",
+    "name": "Paguir Airport",
+    "latitude_deg": "9.11176",
+    "longitude_deg": "30.76653",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-20",
+    "municipality": "Paguir",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

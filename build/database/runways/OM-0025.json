@@ -1,0 +1,20 @@
+{
+    "id": "351941",
+    "ident": "OM-0025",
+    "type": "small_airport",
+    "name": "Maqshin Airport",
+    "latitude_deg": "19.53667",
+    "longitude_deg": "54.8847",
+    "elevation_ft": "456",
+    "continent": "AS",
+    "iso_country": "OM",
+    "iso_region": "OM-ZU",
+    "municipality": "Maqshin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

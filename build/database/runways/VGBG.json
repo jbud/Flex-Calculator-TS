@@ -1,0 +1,20 @@
+{
+    "id": "309876",
+    "ident": "VGBG",
+    "type": "small_airport",
+    "name": "Bogra Airport",
+    "latitude_deg": "24.8668",
+    "longitude_deg": "89.3165",
+    "elevation_ft": "69",
+    "continent": "AS",
+    "iso_country": "BD",
+    "iso_region": "BD-5",
+    "municipality": "Bogra",
+    "scheduled_service": "no",
+    "gps_code": "VGBG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bogra_STOLport",
+    "keywords": ""
+}

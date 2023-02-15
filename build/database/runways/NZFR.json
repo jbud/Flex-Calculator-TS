@@ -1,0 +1,20 @@
+{
+    "id": "319530",
+    "ident": "NZFR",
+    "type": "heliport",
+    "name": "Franz Josef Heliport",
+    "latitude_deg": "-43.37657",
+    "longitude_deg": "170.19396",
+    "elevation_ft": "434",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-WTC",
+    "municipality": "Franz Josef Glacier",
+    "scheduled_service": "no",
+    "gps_code": "NZFR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

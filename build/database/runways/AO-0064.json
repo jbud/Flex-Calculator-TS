@@ -1,0 +1,20 @@
+{
+    "id": "351720",
+    "ident": "AO-0064",
+    "type": "small_airport",
+    "name": "Ganda Airport",
+    "latitude_deg": "-12.99473",
+    "longitude_deg": "14.64698",
+    "elevation_ft": "4170",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-BGU",
+    "municipality": "Ganda",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

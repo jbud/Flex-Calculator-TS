@@ -1,0 +1,20 @@
+{
+    "id": "315723",
+    "ident": "DE-0253",
+    "type": "small_airport",
+    "name": "Montabaur Airfield",
+    "latitude_deg": "50.424",
+    "longitude_deg": "7.83",
+    "elevation_ft": "930",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-RP",
+    "municipality": "Westerwald",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.lsc-ww.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40954",
+    "ident": "SK-017",
+    "type": "small_airport",
+    "name": "Rancho Ae Airport",
+    "latitude_deg": "6.522222",
+    "longitude_deg": "-75.808056",
+    "elevation_ft": "1479",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-ANT",
+    "municipality": "Santafe De Antioquía",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "RAN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

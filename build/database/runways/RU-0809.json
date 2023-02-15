@@ -1,0 +1,20 @@
+{
+    "id": "352501",
+    "ident": "RU-0809",
+    "type": "heliport",
+    "name": "Zhuravlevka Heliport",
+    "latitude_deg": "49.09049",
+    "longitude_deg": "129.99353",
+    "elevation_ft": "305",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-AMU",
+    "municipality": "Zhuravlevka",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "32458",
+    "ident": "OPTA",
+    "type": "small_airport",
+    "name": "Tarbela Dam Airport",
+    "latitude_deg": "33.9860992432",
+    "longitude_deg": "72.61139678960001",
+    "elevation_ft": "1114",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-KP",
+    "municipality": "Tarbela",
+    "scheduled_service": "no",
+    "gps_code": "OPTA",
+    "iata_code": "TLB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tarbela_Dam_Airport",
+    "keywords": ""
+}

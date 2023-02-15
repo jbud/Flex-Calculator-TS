@@ -1,0 +1,20 @@
+{
+    "id": "41630",
+    "ident": "PK-GRT",
+    "type": "small_airport",
+    "name": "Gujrat Airport",
+    "latitude_deg": "32.62826",
+    "longitude_deg": "74.067287",
+    "elevation_ft": "760",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-PB",
+    "municipality": "Gujrat",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "GRT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

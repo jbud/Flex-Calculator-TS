@@ -1,0 +1,20 @@
+{
+    "id": "41008",
+    "ident": "SK-361",
+    "type": "small_airport",
+    "name": "Guinulero Airport",
+    "latitude_deg": "1.727778",
+    "longitude_deg": "-78.940278",
+    "elevation_ft": "23",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-NAR",
+    "municipality": "Tumaco",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "GUI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

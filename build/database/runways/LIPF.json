@@ -1,0 +1,20 @@
+{
+    "id": "29435",
+    "ident": "LIPF",
+    "type": "small_airport",
+    "name": "Ferrara Airport",
+    "latitude_deg": "44.816002",
+    "longitude_deg": "11.6134",
+    "elevation_ft": "20",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-45",
+    "municipality": "Ferrara",
+    "scheduled_service": "no",
+    "gps_code": "LIPF",
+    "iata_code": "",
+    "local_code": "FE05",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

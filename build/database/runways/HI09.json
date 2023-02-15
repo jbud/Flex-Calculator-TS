@@ -1,0 +1,20 @@
+{
+    "id": "17629",
+    "ident": "HI09",
+    "type": "heliport",
+    "name": "Honolulu Municipal Building Heliport",
+    "latitude_deg": "21.304213",
+    "longitude_deg": "-157.854802",
+    "elevation_ft": "231",
+    "continent": "OC",
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Honolulu",
+    "scheduled_service": "no",
+    "gps_code": "HI09",
+    "iata_code": "",
+    "local_code": "HI09",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "348990",
+    "ident": "MX-1766",
+    "type": "small_airport",
+    "name": "Las Azoteas Airstrip",
+    "latitude_deg": "24.171741",
+    "longitude_deg": "-106.176628",
+    "elevation_ft": "4216",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-SIN",
+    "municipality": "San Ignacio",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LAS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

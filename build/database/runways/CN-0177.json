@@ -1,0 +1,20 @@
+{
+    "id": "348149",
+    "ident": "CN-0177",
+    "type": "small_airport",
+    "name": "Shijiazhuang Luancheng Airport",
+    "latitude_deg": "37.91305",
+    "longitude_deg": "114.59166",
+    "elevation_ft": "197",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-13",
+    "municipality": "Shijiazhuang",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "LCT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

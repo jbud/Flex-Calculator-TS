@@ -1,0 +1,20 @@
+{
+    "id": "351459",
+    "ident": "SS-0048",
+    "type": "small_airport",
+    "name": "Nimni Airport",
+    "latitude_deg": "9.31332",
+    "longitude_deg": "30.01904",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-20",
+    "municipality": "Nimni",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

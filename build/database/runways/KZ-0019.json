@@ -1,0 +1,20 @@
+{
+    "id": "41871",
+    "ident": "KZ-0019",
+    "type": "small_airport",
+    "name": "Bayserke Airport",
+    "latitude_deg": "43.448002",
+    "longitude_deg": "77.049599",
+    "elevation_ft": "2038",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-ALM",
+    "municipality": "Otegen Batyr",
+    "scheduled_service": "no",
+    "gps_code": "UAAC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Zakirovskiy Airport"
+}

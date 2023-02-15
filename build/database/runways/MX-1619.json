@@ -1,0 +1,20 @@
+{
+    "id": "344863",
+    "ident": "MX-1619",
+    "type": "small_airport",
+    "name": "Santa Bárbara Airport",
+    "latitude_deg": "27.79306",
+    "longitude_deg": "-100.09104",
+    "elevation_ft": "625",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-COA",
+    "municipality": "Hidalgo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

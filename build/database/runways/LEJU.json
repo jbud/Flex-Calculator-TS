@@ -1,0 +1,20 @@
+{
+    "id": "43277",
+    "ident": "LEJU",
+    "type": "small_airport",
+    "name": "La Juliana Airport",
+    "latitude_deg": "37.29499816894531",
+    "longitude_deg": "-6.162499904632568",
+    "elevation_ft": "148",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Sevilla",
+    "scheduled_service": "no",
+    "gps_code": "LEJU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

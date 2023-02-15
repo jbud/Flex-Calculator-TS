@@ -1,0 +1,20 @@
+{
+    "id": "39649",
+    "ident": "SPSA",
+    "type": "small_airport",
+    "name": "Casma Airport",
+    "latitude_deg": "-9.450235",
+    "longitude_deg": "-78.294346",
+    "elevation_ft": "248",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-ANC",
+    "municipality": "Casma",
+    "scheduled_service": "no",
+    "gps_code": "SPSA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

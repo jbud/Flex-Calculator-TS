@@ -1,0 +1,20 @@
+{
+    "id": "31153",
+    "ident": "FLKW",
+    "type": "small_airport",
+    "name": "Milliken Airport",
+    "latitude_deg": "-14.4506",
+    "longitude_deg": "28.3792",
+    "elevation_ft": "3920",
+    "continent": "AF",
+    "iso_country": "ZM",
+    "iso_region": "ZM-02",
+    "municipality": "Kabwe",
+    "scheduled_service": "no",
+    "gps_code": "FLKW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

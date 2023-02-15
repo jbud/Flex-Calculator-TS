@@ -1,0 +1,20 @@
+{
+    "id": "332836",
+    "ident": "SHPD",
+    "type": "heliport",
+    "name": "Titanium Heliport",
+    "latitude_deg": "-33.413156",
+    "longitude_deg": "-70.603804",
+    "elevation_ft": "2727",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Santiago",
+    "scheduled_service": "no",
+    "gps_code": "SHPD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

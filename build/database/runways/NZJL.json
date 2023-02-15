@@ -1,0 +1,20 @@
+{
+    "id": "44671",
+    "ident": "NZJL",
+    "type": "heliport",
+    "name": "Aukland Hospital Helipad",
+    "latitude_deg": "-36.85919952392578",
+    "longitude_deg": "174.7689971923828",
+    "elevation_ft": "204",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-AUK",
+    "municipality": "Aukland",
+    "scheduled_service": "no",
+    "gps_code": "NZJL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

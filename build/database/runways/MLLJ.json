@@ -1,0 +1,20 @@
+{
+    "id": "41921",
+    "ident": "MLLJ",
+    "type": "small_airport",
+    "name": "La Javilla Airport",
+    "latitude_deg": "9.81112003326416",
+    "longitude_deg": "-85.29550170898438",
+    "elevation_ft": "43",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-G",
+    "municipality": "Guanacaste",
+    "scheduled_service": "no",
+    "gps_code": "MLLJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

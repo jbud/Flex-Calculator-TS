@@ -1,0 +1,20 @@
+{
+    "id": "45099",
+    "ident": "SKCP",
+    "type": "small_airport",
+    "name": "Cupica Airport",
+    "latitude_deg": "6.691944",
+    "longitude_deg": "-77.477222",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CHO",
+    "municipality": "Bahía Solano",
+    "scheduled_service": "no",
+    "gps_code": "SKCP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

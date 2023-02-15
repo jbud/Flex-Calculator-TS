@@ -1,0 +1,20 @@
+{
+    "id": "43219",
+    "ident": "BGNQ",
+    "type": "heliport",
+    "name": "Nuugaatsiaq Heliport",
+    "latitude_deg": "71.538769",
+    "longitude_deg": "-53.205038",
+    "elevation_ft": "57",
+    "continent": "NA",
+    "iso_country": "GL",
+    "iso_region": "GL-AV",
+    "municipality": "Nuugaatsiaq",
+    "scheduled_service": "yes",
+    "gps_code": "BGNQ",
+    "iata_code": "JUU",
+    "local_code": "NUG",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nuugaatsiaq_Heliport",
+    "keywords": ""
+}

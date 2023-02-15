@@ -1,0 +1,20 @@
+{
+    "id": "44737",
+    "ident": "PL-0077",
+    "type": "small_airport",
+    "name": "Konstancin-Jeziorna Airfield",
+    "latitude_deg": "52.07500076293945",
+    "longitude_deg": "21.187000274658203",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-MZ",
+    "municipality": "Konstancin-Jeziorna",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.jbi.com.pl/",
+    "wikipedia_link": "",
+    "keywords": "Obory Airfield"
+}

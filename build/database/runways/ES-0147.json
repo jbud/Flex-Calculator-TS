@@ -1,0 +1,20 @@
+{
+    "id": "321380",
+    "ident": "ES-0147",
+    "type": "small_airport",
+    "name": "Villaumbrales UL",
+    "latitude_deg": "42.095282",
+    "longitude_deg": "-4.595404",
+    "elevation_ft": "2658",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CL",
+    "municipality": "Villaumbrales",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Liberty Air"
+}

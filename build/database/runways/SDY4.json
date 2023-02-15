@@ -1,0 +1,20 @@
+{
+    "id": "352681",
+    "ident": "SDY4",
+    "type": "small_airport",
+    "name": "Fazenda Bom Pai Airport",
+    "latitude_deg": "-15.310533",
+    "longitude_deg": "-48.407596",
+    "elevation_ft": "2201",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Padre Bernardo",
+    "scheduled_service": "no",
+    "gps_code": "SDY4",
+    "iata_code": "",
+    "local_code": "GO0332",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

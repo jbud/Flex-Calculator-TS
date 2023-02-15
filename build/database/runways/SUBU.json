@@ -1,0 +1,20 @@
+{
+    "id": "41564",
+    "ident": "SUBU",
+    "type": "small_airport",
+    "name": "Bella Union Airport",
+    "latitude_deg": "-30.3333339691",
+    "longitude_deg": "-57.0833320618",
+    "elevation_ft": "70",
+    "continent": "SA",
+    "iso_country": "UY",
+    "iso_region": "UY-AR",
+    "municipality": "Bella Union",
+    "scheduled_service": "no",
+    "gps_code": "SUBU",
+    "iata_code": "BUV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

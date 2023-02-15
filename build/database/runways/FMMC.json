@@ -1,0 +1,20 @@
+{
+    "id": "32671",
+    "ident": "FMMC",
+    "type": "small_airport",
+    "name": "Malaimbandy Airport",
+    "latitude_deg": "-20.355390292099997",
+    "longitude_deg": "45.5433726311",
+    "elevation_ft": "597",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-U",
+    "municipality": "Malaimbandy",
+    "scheduled_service": "no",
+    "gps_code": "FMMC",
+    "iata_code": "WML",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

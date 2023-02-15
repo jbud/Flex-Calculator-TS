@@ -1,0 +1,20 @@
+{
+    "id": "42966",
+    "ident": "UUBM",
+    "type": "medium_airport",
+    "name": "Myachkovo Airport",
+    "latitude_deg": "55.5600013733",
+    "longitude_deg": "37.9850006104",
+    "elevation_ft": "410",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-MOS",
+    "municipality": "Moscow",
+    "scheduled_service": "no",
+    "gps_code": "UUBM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.miachkovo.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Myachkovo_Airport",
+    "keywords": "Аэропорт Мячково"
+}

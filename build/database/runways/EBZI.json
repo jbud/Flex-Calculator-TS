@@ -1,0 +1,20 @@
+{
+    "id": "29057",
+    "ident": "EBZI",
+    "type": "heliport",
+    "name": "Zingem heliport",
+    "latitude_deg": "50.926387786865234",
+    "longitude_deg": "3.6172220706939697",
+    "elevation_ft": "30",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-VOV",
+    "municipality": "Zingem",
+    "scheduled_service": "no",
+    "gps_code": "EBZI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

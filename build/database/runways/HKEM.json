@@ -1,0 +1,20 @@
+{
+    "id": "31580",
+    "ident": "HKEM",
+    "type": "small_airport",
+    "name": "Embu Airport",
+    "latitude_deg": "-0.57327",
+    "longitude_deg": "37.49726",
+    "elevation_ft": "4150",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-400",
+    "municipality": "Embu",
+    "scheduled_service": "no",
+    "gps_code": "HKEM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

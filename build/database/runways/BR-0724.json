@@ -1,0 +1,20 @@
+{
+    "id": "334990",
+    "ident": "BR-0724",
+    "type": "small_airport",
+    "name": "Condomínio Liberty Airport",
+    "latitude_deg": "-16.449075",
+    "longitude_deg": "-49.012169",
+    "elevation_ft": "3353",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Montividiu",
+    "scheduled_service": "no",
+    "gps_code": "SNLL",
+    "iata_code": "",
+    "local_code": "GO0191",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

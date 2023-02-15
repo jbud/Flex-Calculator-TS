@@ -1,0 +1,20 @@
+{
+    "id": "335776",
+    "ident": "BR-1037",
+    "type": "small_airport",
+    "name": "Fazenda Estrela do Sul Airport",
+    "latitude_deg": "-21.79032",
+    "longitude_deg": "-54.083658",
+    "elevation_ft": "991",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Rio Brilhante",
+    "scheduled_service": "no",
+    "gps_code": "STIX",
+    "iata_code": "",
+    "local_code": "MS0132",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

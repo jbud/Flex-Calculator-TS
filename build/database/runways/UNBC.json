@@ -1,0 +1,20 @@
+{
+    "id": "315320",
+    "ident": "UNBC",
+    "type": "heliport",
+    "name": "Akkem Heliport",
+    "latitude_deg": "49.9071",
+    "longitude_deg": "86.5442",
+    "elevation_ft": "6695",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-AL",
+    "municipality": "Akkem Lake",
+    "scheduled_service": "no",
+    "gps_code": "UNBC",
+    "iata_code": "",
+    "local_code": "UNBC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "УНБЦ, Аккем"
+}

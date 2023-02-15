@@ -1,0 +1,20 @@
+{
+    "id": "320610",
+    "ident": "GB-0419",
+    "type": "small_airport",
+    "name": "Banbury Airfield",
+    "latitude_deg": "52.100634",
+    "longitude_deg": "-1.381742",
+    "elevation_ft": "525",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Shotteswell",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Church Farm"
+}

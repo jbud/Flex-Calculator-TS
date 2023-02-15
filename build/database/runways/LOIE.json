@@ -1,0 +1,20 @@
+{
+    "id": "43833",
+    "ident": "LOIE",
+    "type": "heliport",
+    "name": "Reutte Heliport",
+    "latitude_deg": "47.473027",
+    "longitude_deg": "10.711678",
+    "elevation_ft": "2822",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Reutte",
+    "scheduled_service": "no",
+    "gps_code": "LOIE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

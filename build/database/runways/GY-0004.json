@@ -1,0 +1,20 @@
+{
+    "id": "342240",
+    "ident": "GY-0004",
+    "type": "small_airport",
+    "name": "Fort Wellington Airport",
+    "latitude_deg": "6.37616",
+    "longitude_deg": "-57.606478",
+    "elevation_ft": "7",
+    "continent": "SA",
+    "iso_country": "GY",
+    "iso_region": "GY-MA",
+    "municipality": "Fort Wellington",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "345004",
+    "ident": "US-4303",
+    "type": "small_airport",
+    "name": "Mountain View Airfield",
+    "latitude_deg": "37.900694",
+    "longitude_deg": "-84.177778",
+    "elevation_ft": "900",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Winchester,",
+    "scheduled_service": "no",
+    "gps_code": "78KY",
+    "iata_code": "",
+    "local_code": "78KY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

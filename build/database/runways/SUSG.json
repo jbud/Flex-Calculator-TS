@@ -1,0 +1,20 @@
+{
+    "id": "326557",
+    "ident": "SUSG",
+    "type": "small_airport",
+    "name": "San Gregorio Airport",
+    "latitude_deg": "-32.526501",
+    "longitude_deg": "-55.841636",
+    "elevation_ft": "371",
+    "continent": "SA",
+    "iso_country": "UY",
+    "iso_region": "UY-TA",
+    "municipality": "Cerro Chato",
+    "scheduled_service": "no",
+    "gps_code": "SUSG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

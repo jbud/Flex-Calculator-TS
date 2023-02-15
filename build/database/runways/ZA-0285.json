@@ -1,0 +1,20 @@
+{
+    "id": "353388",
+    "ident": "ZA-0285",
+    "type": "small_airport",
+    "name": "Holpan Airport",
+    "latitude_deg": "-28.38082",
+    "longitude_deg": "24.60613",
+    "elevation_ft": "3806",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Holpan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

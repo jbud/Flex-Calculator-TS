@@ -1,0 +1,20 @@
+{
+    "id": "335741",
+    "ident": "BR-1015",
+    "type": "small_airport",
+    "name": "Fazenda Figueira II Airport",
+    "latitude_deg": "-20.167285",
+    "longitude_deg": "-53.070656",
+    "elevation_ft": "1355",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Água Clara",
+    "scheduled_service": "no",
+    "gps_code": "SITL",
+    "iata_code": "",
+    "local_code": "MS0130",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

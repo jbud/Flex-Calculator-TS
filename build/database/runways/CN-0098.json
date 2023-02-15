@@ -1,0 +1,20 @@
+{
+    "id": "335266",
+    "ident": "CN-0098",
+    "type": "small_airport",
+    "name": "Hailar Southwest Airport",
+    "latitude_deg": "49.164182",
+    "longitude_deg": "119.693685",
+    "elevation_ft": "2031",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-15",
+    "municipality": "Hailar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

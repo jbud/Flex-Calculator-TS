@@ -1,0 +1,20 @@
+{
+    "id": "30765",
+    "ident": "FTTK",
+    "type": "small_airport",
+    "name": "Bokoro Airport",
+    "latitude_deg": "12.385511",
+    "longitude_deg": "17.070989",
+    "elevation_ft": "984",
+    "continent": "AF",
+    "iso_country": "TD",
+    "iso_region": "TD-HL",
+    "municipality": "Bokoro",
+    "scheduled_service": "no",
+    "gps_code": "FTTK",
+    "iata_code": "BKR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bokoro_Airport",
+    "keywords": ""
+}

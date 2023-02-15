@@ -1,0 +1,20 @@
+{
+    "id": "43733",
+    "ident": "EBSW",
+    "type": "heliport",
+    "name": "Sint-Pieters-Leeuw Heliport",
+    "latitude_deg": "50.763845",
+    "longitude_deg": "4.218782",
+    "elevation_ft": "197",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-VBR",
+    "municipality": "Sint-Pieters-Leeuw",
+    "scheduled_service": "no",
+    "gps_code": "EBSW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

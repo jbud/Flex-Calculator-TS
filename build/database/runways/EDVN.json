@@ -1,0 +1,20 @@
+{
+    "id": "28674",
+    "ident": "EDVN",
+    "type": "small_airport",
+    "name": "Flugplatz Northeim",
+    "latitude_deg": "51.70639",
+    "longitude_deg": "10.039722",
+    "elevation_ft": "404",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Northeim",
+    "scheduled_service": "no",
+    "gps_code": "EDVN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

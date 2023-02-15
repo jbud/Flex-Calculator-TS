@@ -1,0 +1,20 @@
+{
+    "id": "344647",
+    "ident": "BR-1563",
+    "type": "small_airport",
+    "name": "Selma Nunes Airport",
+    "latitude_deg": "-13.09448",
+    "longitude_deg": "-42.5529",
+    "elevation_ft": "1900",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Macaúbas",
+    "scheduled_service": "no",
+    "gps_code": "SWZX",
+    "iata_code": "",
+    "local_code": "BA0322",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

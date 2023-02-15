@@ -1,0 +1,20 @@
+{
+    "id": "31883",
+    "ident": "SPBB",
+    "type": "small_airport",
+    "name": "Moyobamba Airport",
+    "latitude_deg": "-6.0188889503479",
+    "longitude_deg": "-76.98832702636719",
+    "elevation_ft": "2749",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-SAM",
+    "municipality": "Moyobamba",
+    "scheduled_service": "no",
+    "gps_code": "SPBB",
+    "iata_code": "MBP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

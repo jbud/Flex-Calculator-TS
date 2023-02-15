@@ -1,0 +1,20 @@
+{
+    "id": "40500",
+    "ident": "VE-0151",
+    "type": "small_airport",
+    "name": "Pista Larga Airport",
+    "latitude_deg": "5.983333110809326",
+    "longitude_deg": "-66.23332977294922",
+    "elevation_ft": "1379",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

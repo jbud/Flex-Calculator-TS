@@ -1,0 +1,20 @@
+{
+    "id": "328694",
+    "ident": "SE-0052",
+    "type": "small_airport",
+    "name": "Bergs Airstrip",
+    "latitude_deg": "62.7788937",
+    "longitude_deg": "14.4059394",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Z",
+    "municipality": "Berg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

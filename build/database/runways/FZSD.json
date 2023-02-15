@@ -1,0 +1,20 @@
+{
+    "id": "31457",
+    "ident": "FZSD",
+    "type": "small_airport",
+    "name": "Sandoa Airport",
+    "latitude_deg": "-9.715488",
+    "longitude_deg": "22.929325",
+    "elevation_ft": "3022",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-LU",
+    "municipality": "Sandoa",
+    "scheduled_service": "no",
+    "gps_code": "FZSD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

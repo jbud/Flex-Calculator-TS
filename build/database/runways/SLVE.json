@@ -1,0 +1,20 @@
+{
+    "id": "39474",
+    "ident": "SLVE",
+    "type": "small_airport",
+    "name": "Venecia Airport",
+    "latitude_deg": "-14.63599967956543",
+    "longitude_deg": "-66.75029754638672",
+    "elevation_ft": "722",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-B",
+    "municipality": "Yacuma",
+    "scheduled_service": "no",
+    "gps_code": "SLVE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "351060",
+    "ident": "SDS6",
+    "type": "small_airport",
+    "name": "Fazenda Caraíbas Airstrip",
+    "latitude_deg": "-3.751667",
+    "longitude_deg": "-42.297778",
+    "elevation_ft": "282",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PI",
+    "municipality": "Morro do Chapéu do Piauí",
+    "scheduled_service": "no",
+    "gps_code": "SDS6",
+    "iata_code": "",
+    "local_code": "PI0087",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

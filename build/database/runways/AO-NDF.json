@@ -1,0 +1,20 @@
+{
+    "id": "43326",
+    "ident": "AO-NDF",
+    "type": "small_airport",
+    "name": "N'dalatando Airport",
+    "latitude_deg": "-9.280378",
+    "longitude_deg": "14.982432",
+    "elevation_ft": "2684",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-CNO",
+    "municipality": "N'dalatando",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "NDF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

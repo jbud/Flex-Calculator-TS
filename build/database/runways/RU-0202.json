@@ -1,0 +1,20 @@
+{
+    "id": "44751",
+    "ident": "RU-0202",
+    "type": "small_airport",
+    "name": "Karachikha Airfield",
+    "latitude_deg": "57.650002",
+    "longitude_deg": "39.759998",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-YAR",
+    "municipality": "Yaroslavl",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "XUDA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэродром Карачиха"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "351608",
+    "ident": "QA-0013",
+    "type": "heliport",
+    "name": "Halul Heliport",
+    "latitude_deg": "25.67712",
+    "longitude_deg": "52.41562",
+    "elevation_ft": "40",
+    "continent": "AS",
+    "iso_country": "QA",
+    "iso_region": "QA-DA",
+    "municipality": "Halul Island",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

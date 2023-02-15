@@ -1,0 +1,20 @@
+{
+    "id": "314150",
+    "ident": "DE-0153",
+    "type": "small_airport",
+    "name": "Homberg/Ohm Airfield",
+    "latitude_deg": "50.7465",
+    "longitude_deg": "9.0192",
+    "elevation_ft": "1157",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Homberg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.segelflug.de/vereine/homberg-ohm/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

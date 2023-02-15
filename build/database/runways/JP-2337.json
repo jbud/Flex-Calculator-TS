@@ -1,0 +1,20 @@
+{
+    "id": "346270",
+    "ident": "JP-2337",
+    "type": "heliport",
+    "name": "JMSDF Yura Naval Base Heliport",
+    "latitude_deg": "33.95815",
+    "longitude_deg": "135.11433",
+    "elevation_ft": "10",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-30",
+    "municipality": "Yura",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

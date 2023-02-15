@@ -1,0 +1,20 @@
+{
+    "id": "43273",
+    "ident": "LEHJ",
+    "type": "heliport",
+    "name": "Hospital Universitario Joan XXIII Heliport",
+    "latitude_deg": "41.1255989074707",
+    "longitude_deg": "1.23812997341156",
+    "elevation_ft": "75",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Tarragona",
+    "scheduled_service": "no",
+    "gps_code": "LEHJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "356228",
+    "ident": "ET-0007",
+    "type": "small_airport",
+    "name": "Dolo Airport",
+    "latitude_deg": "4.17489",
+    "longitude_deg": "42.03296",
+    "elevation_ft": "630",
+    "continent": "AF",
+    "iso_country": "ET",
+    "iso_region": "ET-SO",
+    "municipality": "Dolo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

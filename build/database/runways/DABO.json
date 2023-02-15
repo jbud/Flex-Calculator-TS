@@ -1,0 +1,20 @@
+{
+    "id": "42529",
+    "ident": "DABO",
+    "type": "small_airport",
+    "name": "Oum El Bouaghi Air Base",
+    "latitude_deg": "35.8797",
+    "longitude_deg": "7.2708",
+    "elevation_ft": "2980",
+    "continent": "AF",
+    "iso_country": "DZ",
+    "iso_region": "DZ-04",
+    "municipality": "Oum El Bouaghi",
+    "scheduled_service": "no",
+    "gps_code": "DAEO",
+    "iata_code": "QMH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Oum_el_Bouaghi_Airport",
+    "keywords": "DABO"
+}

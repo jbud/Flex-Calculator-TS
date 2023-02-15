@@ -1,0 +1,20 @@
+{
+    "id": "315547",
+    "ident": "ZMD",
+    "type": "small_airport",
+    "name": "Sena Madureira Airport",
+    "latitude_deg": "-9.116",
+    "longitude_deg": "-68.6108",
+    "elevation_ft": "540",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AC",
+    "municipality": "Sena Madureira",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "ZMD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://pt.wikipedia.org/wiki/Aeroporto_de_Sena_Madureira",
+    "keywords": ""
+}

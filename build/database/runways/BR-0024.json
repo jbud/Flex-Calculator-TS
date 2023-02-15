@@ -1,0 +1,20 @@
+{
+    "id": "314974",
+    "ident": "BR-0024",
+    "type": "small_airport",
+    "name": "Fazenda Montenegro Airport",
+    "latitude_deg": "-0.2525",
+    "longitude_deg": "-49.52",
+    "elevation_ft": "27",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Chaves",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "41884",
+    "ident": "KZ-0032",
+    "type": "small_airport",
+    "name": "Chubarovka Airport",
+    "latitude_deg": "42.57350158691406",
+    "longitude_deg": "69.3644027709961",
+    "elevation_ft": "1100",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-YUZ",
+    "municipality": "Chubarovka",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

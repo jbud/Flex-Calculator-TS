@@ -1,0 +1,20 @@
+{
+    "id": "44036",
+    "ident": "EFPT",
+    "type": "heliport",
+    "name": "Tampere University Hospital Heliport",
+    "latitude_deg": "61.50639",
+    "longitude_deg": "23.8125",
+    "elevation_ft": "436",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-11",
+    "municipality": "Tampere",
+    "scheduled_service": "no",
+    "gps_code": "EFPT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

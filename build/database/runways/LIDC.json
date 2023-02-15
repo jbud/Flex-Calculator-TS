@@ -1,0 +1,20 @@
+{
+    "id": "31823",
+    "ident": "LIDC",
+    "type": "small_airport",
+    "name": "Cà Negra Airport",
+    "latitude_deg": "45.08300018310547",
+    "longitude_deg": "12.149999618530273",
+    "elevation_ft": "1",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-34",
+    "municipality": "Cà Negra",
+    "scheduled_service": "no",
+    "gps_code": "LIDC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

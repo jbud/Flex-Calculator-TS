@@ -1,0 +1,20 @@
+{
+    "id": "333207",
+    "ident": "CF-0010",
+    "type": "small_airport",
+    "name": "Nola Airport",
+    "latitude_deg": "3.507713",
+    "longitude_deg": "16.041763",
+    "elevation_ft": "1323",
+    "continent": "AF",
+    "iso_country": "CF",
+    "iso_region": "CF-SE",
+    "municipality": "Nola",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

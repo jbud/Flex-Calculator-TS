@@ -1,0 +1,20 @@
+{
+    "id": "31338",
+    "ident": "FZCU",
+    "type": "small_airport",
+    "name": "Ito Airport",
+    "latitude_deg": "-3.3329999446868896",
+    "longitude_deg": "17.466999053955078",
+    "elevation_ft": "1148",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KU",
+    "municipality": "Ito",
+    "scheduled_service": "no",
+    "gps_code": "FZCU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "30486",
+    "ident": "EYMA",
+    "type": "small_airport",
+    "name": "Tirkšliai Airfield",
+    "latitude_deg": "56.230598",
+    "longitude_deg": "22.259399",
+    "elevation_ft": "259",
+    "continent": "EU",
+    "iso_country": "LT",
+    "iso_region": "LT-TE",
+    "municipality": "Tirkšliai / Mažeikiai",
+    "scheduled_service": "no",
+    "gps_code": "EYMA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

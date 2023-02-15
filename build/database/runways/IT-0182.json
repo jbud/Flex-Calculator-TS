@@ -1,0 +1,20 @@
+{
+    "id": "317368",
+    "ident": "IT-0182",
+    "type": "small_airport",
+    "name": "Campo di Volo \"San Felice\"",
+    "latitude_deg": "44.8325",
+    "longitude_deg": "11.120833",
+    "elevation_ft": "90",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-45",
+    "municipality": "San Felice sul Panaro (MO)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MOSFP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

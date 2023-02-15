@@ -1,0 +1,20 @@
+{
+    "id": "44381",
+    "ident": "RU-0129",
+    "type": "small_airport",
+    "name": "Buzuluk Airport",
+    "latitude_deg": "52.8129997253418",
+    "longitude_deg": "52.22200012207031",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-ORE",
+    "municipality": "Buzuluk",
+    "scheduled_service": "no",
+    "gps_code": "UWOX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Бузулук"
+}

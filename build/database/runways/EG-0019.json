@@ -1,0 +1,20 @@
+{
+    "id": "351447",
+    "ident": "EG-0019",
+    "type": "heliport",
+    "name": "Kafr el-Sheikh Heliport",
+    "latitude_deg": "31.09911",
+    "longitude_deg": "30.95668",
+    "elevation_ft": "16",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-KFS",
+    "municipality": "Kafr el-Sheikh",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

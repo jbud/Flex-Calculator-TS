@@ -1,0 +1,20 @@
+{
+    "id": "311115",
+    "ident": "PG-0064",
+    "type": "small_airport",
+    "name": "Dodomona Airstrip",
+    "latitude_deg": "-6.2437",
+    "longitude_deg": "142.6158",
+    "elevation_ft": "1910",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": "Dodomona",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "DMN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "DMA"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "349899",
+    "ident": "AU-0213",
+    "type": "small_airport",
+    "name": "mount archer",
+    "latitude_deg": "-26.973333",
+    "longitude_deg": "152.666745",
+    "elevation_ft": "50",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "mount archer",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://archerfallsairfield.com.au",
+    "wikipedia_link": "",
+    "keywords": ""
+}

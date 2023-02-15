@@ -1,0 +1,20 @@
+{
+    "id": "32715",
+    "ident": "DFEZ",
+    "type": "small_airport",
+    "name": "Zabré Airport",
+    "latitude_deg": "11.166999816894531",
+    "longitude_deg": "-0.6169999837875366",
+    "elevation_ft": "886",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-BLG",
+    "municipality": "Zabré",
+    "scheduled_service": "no",
+    "gps_code": "DFEZ",
+    "iata_code": "XZA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

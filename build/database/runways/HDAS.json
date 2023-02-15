@@ -1,0 +1,20 @@
+{
+    "id": "39580",
+    "ident": "HDAS",
+    "type": "small_airport",
+    "name": "Ali-Sabieh Airport",
+    "latitude_deg": "11.146889",
+    "longitude_deg": "42.72",
+    "elevation_ft": "2313",
+    "continent": "AF",
+    "iso_country": "DJ",
+    "iso_region": "DJ-AS",
+    "municipality": "Ali-Sabieh",
+    "scheduled_service": "no",
+    "gps_code": "HDAS",
+    "iata_code": "AII",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ali-Sabieh_Airport",
+    "keywords": ""
+}

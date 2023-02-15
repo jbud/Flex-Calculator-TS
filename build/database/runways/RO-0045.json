@@ -1,0 +1,20 @@
+{
+    "id": "354773",
+    "ident": "RO-0045",
+    "type": "small_airport",
+    "name": "Aerodrom Barza Târgu-Jiu",
+    "latitude_deg": "45.00333",
+    "longitude_deg": "23.33389",
+    "elevation_ft": "667",
+    "continent": "EU",
+    "iso_country": "RO",
+    "iso_region": "RO-GJ",
+    "municipality": "Bucureasa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

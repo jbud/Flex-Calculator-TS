@@ -1,0 +1,20 @@
+{
+    "id": "44231",
+    "ident": "CN-0153",
+    "type": "medium_airport",
+    "name": "Hangzhou Jianqiao Airport",
+    "latitude_deg": "30.3353",
+    "longitude_deg": "120.240997",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-33",
+    "municipality": "Hangzhou",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hangzhou_Jianqiao_Airport",
+    "keywords": ""
+}

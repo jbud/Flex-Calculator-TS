@@ -1,0 +1,20 @@
+{
+    "id": "40290",
+    "ident": "SVRO",
+    "type": "small_airport",
+    "name": "El Rosario Airport",
+    "latitude_deg": "10.436667442321777",
+    "longitude_deg": "-63.91666793823242",
+    "elevation_ft": "693",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-R",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVRO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

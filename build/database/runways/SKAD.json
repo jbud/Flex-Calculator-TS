@@ -1,0 +1,20 @@
+{
+    "id": "30613",
+    "ident": "SKAD",
+    "type": "small_airport",
+    "name": "Alcides Fernández Airport",
+    "latitude_deg": "8.497847",
+    "longitude_deg": "-77.274106",
+    "elevation_ft": "50",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CHO",
+    "municipality": "Acandí",
+    "scheduled_service": "no",
+    "gps_code": "SKAD",
+    "iata_code": "ACD",
+    "local_code": "ACD",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Alcides_Fern%C3%A1ndez_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "334439",
+    "ident": "JP-0113",
+    "type": "small_airport",
+    "name": "Kasaoka Air Station",
+    "latitude_deg": "34.476022",
+    "longitude_deg": "133.488961",
+    "elevation_ft": "1",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-33",
+    "municipality": "Kasaoka",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "RJKS",
+    "home_link": "",
+    "wikipedia_link": "https://ja.wikipedia.org/wiki/%E7%AC%A0%E5%B2%A1%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E7%A9%BA%E6%B8%AF",
+    "keywords": "笠岡ふれあい空港, Kasaoka Agricultural Airfield, Kasaoka Community Airport, Kasaoka Farm Road Airport"
+}

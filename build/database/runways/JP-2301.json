@@ -1,0 +1,20 @@
+{
+    "id": "345199",
+    "ident": "JP-2301",
+    "type": "heliport",
+    "name": "JCHO Kumamoto General Hospital",
+    "latitude_deg": "32.50712",
+    "longitude_deg": "130.60306",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-43",
+    "municipality": "Yatsushiro",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

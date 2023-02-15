@@ -1,0 +1,20 @@
+{
+    "id": "348472",
+    "ident": "AR-0706",
+    "type": "small_airport",
+    "name": "Punta Ninfas Airport",
+    "latitude_deg": "-42.97667",
+    "longitude_deg": "-64.3528",
+    "elevation_ft": "241",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-U",
+    "municipality": "Rawson",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

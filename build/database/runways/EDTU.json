@@ -1,0 +1,20 @@
+{
+    "id": "28714",
+    "ident": "EDTU",
+    "type": "small_airport",
+    "name": "Flugplatz Saulgau",
+    "latitude_deg": "48.029446",
+    "longitude_deg": "9.507222",
+    "elevation_ft": "1903",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Bad Saulgau",
+    "scheduled_service": "no",
+    "gps_code": "EDTU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

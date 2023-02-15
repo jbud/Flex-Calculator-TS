@@ -1,0 +1,20 @@
+{
+    "id": "30365",
+    "ident": "FASU",
+    "type": "small_airport",
+    "name": "Sace Airport",
+    "latitude_deg": "-25.956899642944336",
+    "longitude_deg": "29.211700439453125",
+    "elevation_ft": "5151",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-MP",
+    "municipality": "Sace",
+    "scheduled_service": "no",
+    "gps_code": "FASU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

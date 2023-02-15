@@ -1,0 +1,20 @@
+{
+    "id": "353304",
+    "ident": "CO-0065",
+    "type": "small_airport",
+    "name": "Cejal Airport",
+    "latitude_deg": "3.99822",
+    "longitude_deg": "-68.33819",
+    "elevation_ft": "322",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-VID",
+    "municipality": "Cejal",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

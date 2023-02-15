@@ -1,0 +1,20 @@
+{
+    "id": "41069",
+    "ident": "SK-467",
+    "type": "small_airport",
+    "name": "San Marino Airport",
+    "latitude_deg": "4.37695",
+    "longitude_deg": "-76.0664",
+    "elevation_ft": "3044",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-VAC",
+    "municipality": "Zarzal",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ZAR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

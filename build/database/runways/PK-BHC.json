@@ -1,0 +1,20 @@
+{
+    "id": "41628",
+    "ident": "PK-BHC",
+    "type": "small_airport",
+    "name": "Bhurban Heliport",
+    "latitude_deg": "33.96099853515625",
+    "longitude_deg": "73.4520034790039",
+    "elevation_ft": "5750",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-KP",
+    "municipality": "Bhurban",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "BHC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

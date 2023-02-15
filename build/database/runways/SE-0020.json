@@ -1,0 +1,20 @@
+{
+    "id": "320294",
+    "ident": "SE-0020",
+    "type": "small_airport",
+    "name": "Bänkås Hoppfält",
+    "latitude_deg": "62.389086",
+    "longitude_deg": "17.452807",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Y",
+    "municipality": "Sundsvall",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Sundsvalls Fallskärmsklubb"
+}

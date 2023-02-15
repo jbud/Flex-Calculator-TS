@@ -1,0 +1,20 @@
+{
+    "id": "44844",
+    "ident": "NZJU",
+    "type": "heliport",
+    "name": "Wanganui Hospital Heliport",
+    "latitude_deg": "-39.94329833984375",
+    "longitude_deg": "175.03900146484375",
+    "elevation_ft": "42",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-MWT",
+    "municipality": "Wanganui",
+    "scheduled_service": "no",
+    "gps_code": "NZJU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

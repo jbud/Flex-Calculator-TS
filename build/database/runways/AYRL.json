@@ -1,0 +1,20 @@
+{
+    "id": "313204",
+    "ident": "AYRL",
+    "type": "small_airport",
+    "name": "Maralina Airstrip",
+    "latitude_deg": "-6.9015",
+    "longitude_deg": "146.3698",
+    "elevation_ft": "431",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Maralina",
+    "scheduled_service": "no",
+    "gps_code": "AYRL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

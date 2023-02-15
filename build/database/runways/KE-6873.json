@@ -1,0 +1,20 @@
+{
+    "id": "42620",
+    "ident": "KE-6873",
+    "type": "small_airport",
+    "name": "George Smith Farm Airport",
+    "latitude_deg": "0.6166669726371765",
+    "longitude_deg": "35.29999923706055",
+    "elevation_ft": "6880",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-700",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

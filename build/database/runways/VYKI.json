@@ -1,0 +1,20 @@
+{
+    "id": "31749",
+    "ident": "VYKI",
+    "type": "small_airport",
+    "name": "Kanti Airport",
+    "latitude_deg": "25.988300323486328",
+    "longitude_deg": "95.67440032958984",
+    "elevation_ft": "6000",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-01",
+    "municipality": "Kanti",
+    "scheduled_service": "yes",
+    "gps_code": "VYKI",
+    "iata_code": "KHM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

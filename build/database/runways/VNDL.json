@@ -1,0 +1,20 @@
+{
+    "id": "30875",
+    "ident": "VNDL",
+    "type": "small_airport",
+    "name": "Darchula Airport",
+    "latitude_deg": "29.669200897216797",
+    "longitude_deg": "80.54840087890625",
+    "elevation_ft": "2132",
+    "continent": "AS",
+    "iso_country": "NP",
+    "iso_region": "NP-P7",
+    "municipality": "Darchula",
+    "scheduled_service": "no",
+    "gps_code": "VNDL",
+    "iata_code": "DAP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

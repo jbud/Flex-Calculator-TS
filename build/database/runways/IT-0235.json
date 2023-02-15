@@ -1,0 +1,20 @@
+{
+    "id": "318148",
+    "ident": "IT-0235",
+    "type": "small_airport",
+    "name": "Campo di Volo Ciannocio",
+    "latitude_deg": "43.122253",
+    "longitude_deg": "11.920488",
+    "elevation_ft": "826",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-55",
+    "municipality": "Castiglione del Lago (PG)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "PGCDL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

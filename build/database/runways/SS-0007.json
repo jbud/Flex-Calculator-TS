@@ -1,0 +1,20 @@
+{
+    "id": "308305",
+    "ident": "SS-0007",
+    "type": "small_airport",
+    "name": "Pieri Airstrip",
+    "latitude_deg": "8.04048",
+    "longitude_deg": "32.028816",
+    "elevation_ft": "1347",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-23",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "HJPR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

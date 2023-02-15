@@ -1,0 +1,20 @@
+{
+    "id": "41911",
+    "ident": "KZ-0059",
+    "type": "small_airport",
+    "name": "Tamerlanovka Airport",
+    "latitude_deg": "42.614498138427734",
+    "longitude_deg": "69.2490005493164",
+    "elevation_ft": "1033",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-YUZ",
+    "municipality": "Tamerlannovka",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

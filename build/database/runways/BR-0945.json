@@ -1,0 +1,20 @@
+{
+    "id": "335588",
+    "ident": "BR-0945",
+    "type": "small_airport",
+    "name": "Dois Rios Airport",
+    "latitude_deg": "-7.564006",
+    "longitude_deg": "-62.814347",
+    "elevation_ft": "236",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Humaitá",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SILV"
+}

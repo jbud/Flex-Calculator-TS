@@ -1,0 +1,20 @@
+{
+    "id": "311535",
+    "ident": "AYIT",
+    "type": "small_airport",
+    "name": "Iteri Airstrip",
+    "latitude_deg": "-4.2418",
+    "longitude_deg": "141.5234",
+    "elevation_ft": "242",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-ESW",
+    "municipality": "Iteri",
+    "scheduled_service": "no",
+    "gps_code": "AYIT",
+    "iata_code": "",
+    "local_code": "ITR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

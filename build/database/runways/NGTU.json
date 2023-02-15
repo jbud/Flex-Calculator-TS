@@ -1,0 +1,20 @@
+{
+    "id": "30681",
+    "ident": "NGTU",
+    "type": "small_airport",
+    "name": "Butaritari Airport",
+    "latitude_deg": "3.08583",
+    "longitude_deg": "172.811005",
+    "elevation_ft": "5",
+    "continent": "OC",
+    "iso_country": "KI",
+    "iso_region": "KI-G",
+    "municipality": "Butaritari",
+    "scheduled_service": "yes",
+    "gps_code": "NGTU",
+    "iata_code": "BBG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Butaritari_Atoll_Airport",
+    "keywords": "Makin"
+}

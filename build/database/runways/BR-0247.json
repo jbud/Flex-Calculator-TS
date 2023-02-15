@@ -1,0 +1,20 @@
+{
+    "id": "323728",
+    "ident": "BR-0247",
+    "type": "small_airport",
+    "name": "Pau dos Ferros Airport",
+    "latitude_deg": "-6.154339",
+    "longitude_deg": "-38.196588",
+    "elevation_ft": "2615",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RN",
+    "municipality": "Pau dos Ferros",
+    "scheduled_service": "no",
+    "gps_code": "SSKJ",
+    "iata_code": "",
+    "local_code": "RN0012",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

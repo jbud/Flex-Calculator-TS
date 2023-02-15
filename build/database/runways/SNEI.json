@@ -1,0 +1,20 @@
+{
+    "id": "335240",
+    "ident": "SNEI",
+    "type": "small_airport",
+    "name": "Fazenda São Miguel Airport",
+    "latitude_deg": "-30.175022",
+    "longitude_deg": "-52.169479",
+    "elevation_ft": "243",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Rio Pardo",
+    "scheduled_service": "no",
+    "gps_code": "SNEI",
+    "iata_code": "",
+    "local_code": "RS0083",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "44804",
+    "ident": "NZDC",
+    "type": "heliport",
+    "name": "Dunedin City Heliport",
+    "latitude_deg": "-45.882596",
+    "longitude_deg": "170.507947",
+    "elevation_ft": "5",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-OTA",
+    "municipality": "Dunedin",
+    "scheduled_service": "no",
+    "gps_code": "NZDC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

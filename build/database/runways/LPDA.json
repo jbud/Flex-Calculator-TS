@@ -1,0 +1,20 @@
+{
+    "id": "317145",
+    "ident": "LPDA",
+    "type": "heliport",
+    "name": "Porto Heliport",
+    "latitude_deg": "41.146597",
+    "longitude_deg": "-8.632665",
+    "elevation_ft": "13",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-13",
+    "municipality": "Porto",
+    "scheduled_service": "no",
+    "gps_code": "LPDA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

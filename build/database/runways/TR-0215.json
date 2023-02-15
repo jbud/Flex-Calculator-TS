@@ -1,0 +1,20 @@
+{
+    "id": "430017",
+    "ident": "TR-0215",
+    "type": "balloonport",
+    "name": "Nevşehir Heliport",
+    "latitude_deg": "38.66602",
+    "longitude_deg": "34.81896",
+    "elevation_ft": "3645",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-50",
+    "municipality": "Nevşehir",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

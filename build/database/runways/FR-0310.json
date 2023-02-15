@@ -1,0 +1,20 @@
+{
+    "id": "43653",
+    "ident": "FR-0310",
+    "type": "small_airport",
+    "name": "Altisurface de Valloire - Bonnenuit",
+    "latitude_deg": "45.121113",
+    "longitude_deg": "6.419444",
+    "elevation_ft": "5512",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-ARA",
+    "municipality": "Valloire",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF7332",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

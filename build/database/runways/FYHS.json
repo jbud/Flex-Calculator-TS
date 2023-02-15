@@ -1,0 +1,20 @@
+{
+    "id": "29951",
+    "ident": "FYHS",
+    "type": "small_airport",
+    "name": "Hobas Airport",
+    "latitude_deg": "-27.624399185180664",
+    "longitude_deg": "17.693300247192383",
+    "elevation_ft": "2313",
+    "continent": "AF",
+    "iso_country": "NA",
+    "iso_region": "NA-KA",
+    "municipality": "Hobas",
+    "scheduled_service": "no",
+    "gps_code": "FYHS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

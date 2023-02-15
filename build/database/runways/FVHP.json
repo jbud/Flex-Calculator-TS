@@ -1,0 +1,20 @@
+{
+    "id": "31237",
+    "ident": "FVHP",
+    "type": "small_airport",
+    "name": "Home Park Airport",
+    "latitude_deg": "-18.200000762939453",
+    "longitude_deg": "31.732999801635742",
+    "elevation_ft": "5150",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-ME",
+    "municipality": "Home Park",
+    "scheduled_service": "no",
+    "gps_code": "FVHP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

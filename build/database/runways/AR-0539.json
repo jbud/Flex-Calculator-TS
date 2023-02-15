@@ -1,0 +1,20 @@
+{
+    "id": "318271",
+    "ident": "AR-0539",
+    "type": "small_airport",
+    "name": "Finca Toloche Airport",
+    "latitude_deg": "-25.4346",
+    "longitude_deg": "-63.8578",
+    "elevation_ft": "1040",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-A",
+    "municipality": "Nuestra Señora De Talavera",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "NST",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

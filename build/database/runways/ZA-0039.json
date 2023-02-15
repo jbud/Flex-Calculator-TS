@@ -1,0 +1,20 @@
+{
+    "id": "41209",
+    "ident": "ZA-0039",
+    "type": "small_airport",
+    "name": "Blackie Swart Airport",
+    "latitude_deg": "-25.57550048828125",
+    "longitude_deg": "30.975860595703125",
+    "elevation_ft": "3300",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-MP",
+    "municipality": "Blackie Swart",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "30891",
+    "ident": "DFCI",
+    "type": "small_airport",
+    "name": "Titao Airport",
+    "latitude_deg": "13.767000198364258",
+    "longitude_deg": "-2.0829999446868896",
+    "elevation_ft": "1047",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-LOR",
+    "municipality": "Titao",
+    "scheduled_service": "no",
+    "gps_code": "DFCI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

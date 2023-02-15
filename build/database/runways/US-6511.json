@@ -1,0 +1,20 @@
+{
+    "id": "352859",
+    "ident": "US-6511",
+    "type": "small_airport",
+    "name": "Kohlmeyer Airport",
+    "latitude_deg": "43.750116",
+    "longitude_deg": "-92.203832",
+    "elevation_ft": "1306",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Fountain",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

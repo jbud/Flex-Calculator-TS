@@ -1,0 +1,20 @@
+{
+    "id": "32404",
+    "ident": "WMBA",
+    "type": "small_airport",
+    "name": "Sitiawan Airport",
+    "latitude_deg": "4.2222",
+    "longitude_deg": "100.6993",
+    "elevation_ft": "25",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-08",
+    "municipality": "Sitiawan",
+    "scheduled_service": "no",
+    "gps_code": "WMBA",
+    "iata_code": "SWY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sitiawan_Airport",
+    "keywords": ""
+}

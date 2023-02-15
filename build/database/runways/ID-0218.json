@@ -1,0 +1,20 @@
+{
+    "id": "354036",
+    "ident": "ID-0218",
+    "type": "small_airport",
+    "name": "Kawor Airstrip",
+    "latitude_deg": "-5.232712",
+    "longitude_deg": "140.519992",
+    "elevation_ft": "469",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PS",
+    "municipality": "Kawor",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

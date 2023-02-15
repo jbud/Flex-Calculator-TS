@@ -1,0 +1,20 @@
+{
+    "id": "318791",
+    "ident": "TZ-0133",
+    "type": "small_airport",
+    "name": "Nkinga Airport",
+    "latitude_deg": "-4.425665",
+    "longitude_deg": "33.450677",
+    "elevation_ft": "4000",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-24",
+    "municipality": "Nkinga",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "351421",
+    "ident": "MX-1914",
+    "type": "heliport",
+    "name": "Embarcadero Heliport",
+    "latitude_deg": "21.144041",
+    "longitude_deg": "-86.788334",
+    "elevation_ft": "46",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-ROO",
+    "municipality": "Cancún",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "HMG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "HMB"
+}

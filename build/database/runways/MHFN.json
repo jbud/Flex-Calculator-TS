@@ -1,0 +1,20 @@
+{
+    "id": "42063",
+    "ident": "MHFN",
+    "type": "small_airport",
+    "name": "San Fernando Airport",
+    "latitude_deg": "14.113332748413086",
+    "longitude_deg": "-86.9527816772461",
+    "elevation_ft": "648",
+    "continent": "NA",
+    "iso_country": "HN",
+    "iso_region": "HN-FM",
+    "municipality": "San Fernando",
+    "scheduled_service": "no",
+    "gps_code": "MHFN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

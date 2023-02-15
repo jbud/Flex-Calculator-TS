@@ -1,0 +1,20 @@
+{
+    "id": "41285",
+    "ident": "FAMH",
+    "type": "small_airport",
+    "name": "Musina(Messina) Airport",
+    "latitude_deg": "-22.356000900299996",
+    "longitude_deg": "29.9862003326",
+    "elevation_ft": "1904",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "Musina",
+    "scheduled_service": "no",
+    "gps_code": "FAMH",
+    "iata_code": "MEZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

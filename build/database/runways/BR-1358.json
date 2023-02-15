@@ -1,0 +1,20 @@
+{
+    "id": "340055",
+    "ident": "BR-1358",
+    "type": "small_airport",
+    "name": "Fazenda Joá Airport",
+    "latitude_deg": "-22.561137",
+    "longitude_deg": "-54.963828",
+    "elevation_ft": "1585",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Caarapó",
+    "scheduled_service": "no",
+    "gps_code": "SNEL",
+    "iata_code": "",
+    "local_code": "MS0204",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

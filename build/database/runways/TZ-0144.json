@@ -1,0 +1,20 @@
+{
+    "id": "351484",
+    "ident": "TZ-0144",
+    "type": "small_airport",
+    "name": "Milambi Airport",
+    "latitude_deg": "-1.40561",
+    "longitude_deg": "30.74995",
+    "elevation_ft": "4279",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-05",
+    "municipality": "Milambi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

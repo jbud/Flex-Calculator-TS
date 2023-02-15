@@ -1,0 +1,20 @@
+{
+    "id": "346302",
+    "ident": "JP-2354",
+    "type": "heliport",
+    "name": "Nagasaki Goto Central Hospital",
+    "latitude_deg": "32.68929",
+    "longitude_deg": "128.81734",
+    "elevation_ft": "141",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-42",
+    "municipality": "Goto",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

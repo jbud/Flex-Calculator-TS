@@ -1,0 +1,20 @@
+{
+    "id": "346982",
+    "ident": "GR-0048",
+    "type": "small_airport",
+    "name": "Lechaio Airfield",
+    "latitude_deg": "37.92649",
+    "longitude_deg": "22.859559",
+    "elevation_ft": "46",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-J",
+    "municipality": "Lechaio",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

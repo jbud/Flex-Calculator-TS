@@ -1,0 +1,20 @@
+{
+    "id": "30811",
+    "ident": "FNCZ",
+    "type": "small_airport",
+    "name": "Cazombo Airport",
+    "latitude_deg": "-11.8931",
+    "longitude_deg": "22.916239",
+    "elevation_ft": "3700",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-MOX",
+    "municipality": "Cazombo",
+    "scheduled_service": "no",
+    "gps_code": "FNCZ",
+    "iata_code": "CAV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cazombo_Airport",
+    "keywords": ""
+}

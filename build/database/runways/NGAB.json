@@ -1,0 +1,20 @@
+{
+    "id": "30611",
+    "ident": "NGAB",
+    "type": "small_airport",
+    "name": "Abaiang Airport",
+    "latitude_deg": "1.79861",
+    "longitude_deg": "173.041",
+    "elevation_ft": "26",
+    "continent": "OC",
+    "iso_country": "KI",
+    "iso_region": "KI-G",
+    "municipality": "Abaiang",
+    "scheduled_service": "no",
+    "gps_code": "NGAB",
+    "iata_code": "ABF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

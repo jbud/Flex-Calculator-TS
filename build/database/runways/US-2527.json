@@ -1,0 +1,20 @@
+{
+    "id": "338903",
+    "ident": "US-2527",
+    "type": "small_airport",
+    "name": "Lima Airport",
+    "latitude_deg": "29.85647",
+    "longitude_deg": "-99.37684",
+    "elevation_ft": "1750",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Medina",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Horse Valley Ranch"
+}

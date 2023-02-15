@@ -1,0 +1,20 @@
+{
+    "id": "348601",
+    "ident": "BR-1652",
+    "type": "small_airport",
+    "name": "Rancho do Povo Airport",
+    "latitude_deg": "-4.72725",
+    "longitude_deg": "-37.83157",
+    "elevation_ft": "125",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-CE",
+    "municipality": "Itaiçaba",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

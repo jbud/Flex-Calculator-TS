@@ -1,0 +1,20 @@
+{
+    "id": "349454",
+    "ident": "SY-0010",
+    "type": "small_airport",
+    "name": "Al-Mayadin Airport",
+    "latitude_deg": "34.99724",
+    "longitude_deg": "40.42123",
+    "elevation_ft": "755",
+    "continent": "AS",
+    "iso_country": "SY",
+    "iso_region": "SY-DY",
+    "municipality": "Al-Mayadin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

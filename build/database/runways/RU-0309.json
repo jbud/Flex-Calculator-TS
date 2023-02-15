@@ -1,0 +1,20 @@
+{
+    "id": "46134",
+    "ident": "RU-0309",
+    "type": "small_airport",
+    "name": "Kholodnogorskiy Airfield",
+    "latitude_deg": "44.983",
+    "longitude_deg": "42.118",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-STA",
+    "municipality": "Stavropol",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Kholodnogorsky Airfield, Аэродром Холодногорский"
+}

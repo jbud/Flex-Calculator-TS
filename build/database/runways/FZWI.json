@@ -1,0 +1,20 @@
+{
+    "id": "31495",
+    "ident": "FZWI",
+    "type": "small_airport",
+    "name": "Kashia Airport",
+    "latitude_deg": "-7.22216",
+    "longitude_deg": "23.758707",
+    "elevation_ft": "2887",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-LO",
+    "municipality": "Kashia",
+    "scheduled_service": "no",
+    "gps_code": "FZWI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

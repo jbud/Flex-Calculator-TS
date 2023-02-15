@@ -1,0 +1,20 @@
+{
+    "id": "41351",
+    "ident": "MY-0020",
+    "type": "small_airport",
+    "name": "Marak Parak Airport",
+    "latitude_deg": "6.312222003936768",
+    "longitude_deg": "116.72972106933594",
+    "elevation_ft": "400",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-12",
+    "municipality": "Marak Parak",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

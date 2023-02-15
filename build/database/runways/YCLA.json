@@ -1,0 +1,20 @@
+{
+    "id": "29789",
+    "ident": "YCLA",
+    "type": "small_airport",
+    "name": "Clare Station Airport",
+    "latitude_deg": "-33.406898498535156",
+    "longitude_deg": "143.94000244140625",
+    "elevation_ft": "266",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YCLA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

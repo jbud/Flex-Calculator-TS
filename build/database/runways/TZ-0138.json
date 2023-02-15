@@ -1,0 +1,20 @@
+{
+    "id": "318796",
+    "ident": "TZ-0138",
+    "type": "small_airport",
+    "name": "Kasense Airport",
+    "latitude_deg": "-5.784903",
+    "longitude_deg": "31.355212",
+    "elevation_ft": "3000",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-24",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "HTKN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

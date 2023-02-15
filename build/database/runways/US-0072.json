@@ -1,0 +1,20 @@
+{
+    "id": "45985",
+    "ident": "US-0072",
+    "type": "small_airport",
+    "name": "Ranger Ranch Airport",
+    "latitude_deg": "38.416401",
+    "longitude_deg": "-107.904367",
+    "elevation_ft": "6197",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Montrose",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "7CO2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "64CO, Happy Canyon Aero Ranch"
+}

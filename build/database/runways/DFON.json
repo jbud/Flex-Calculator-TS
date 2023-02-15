@@ -1,0 +1,20 @@
+{
+    "id": "32710",
+    "ident": "DFON",
+    "type": "small_airport",
+    "name": "Nouna Airport",
+    "latitude_deg": "12.75",
+    "longitude_deg": "-3.867000103",
+    "elevation_ft": "886",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-KOS",
+    "municipality": "Nouna",
+    "scheduled_service": "no",
+    "gps_code": "DFON",
+    "iata_code": "XNU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nouna_Airport",
+    "keywords": ""
+}

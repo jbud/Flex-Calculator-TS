@@ -1,0 +1,20 @@
+{
+    "id": "35284",
+    "ident": "GL-QCU",
+    "type": "heliport",
+    "name": "Akunnaaq Heliport",
+    "latitude_deg": "68.744273",
+    "longitude_deg": "-52.340369",
+    "elevation_ft": "59",
+    "continent": "NA",
+    "iso_country": "GL",
+    "iso_region": "GL-QK",
+    "municipality": "Akunnaaq",
+    "scheduled_service": "yes",
+    "gps_code": "BGAK",
+    "iata_code": "QCU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Akunnaaq_Heliport",
+    "keywords": "Akúnâk"
+}

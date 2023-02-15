@@ -1,0 +1,20 @@
+{
+    "id": "309907",
+    "ident": "DE-0091",
+    "type": "small_airport",
+    "name": "Oeventrop Airfield",
+    "latitude_deg": "51.3961",
+    "longitude_deg": "8.1445",
+    "elevation_ft": "718",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Arnsberg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.lsc-oeventrop.de/",
+    "wikipedia_link": "http://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Oeventrop-Ruhrwiesen",
+    "keywords": "Oeventrop-Ruhrwiesen"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "348074",
+    "ident": "US-5310",
+    "type": "small_airport",
+    "name": "East Bench Airport",
+    "latitude_deg": "39.92163",
+    "longitude_deg": "-109.4551",
+    "elevation_ft": "5488",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Jensen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

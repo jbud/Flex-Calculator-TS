@@ -1,0 +1,20 @@
+{
+    "id": "30832",
+    "ident": "VGCM",
+    "type": "small_airport",
+    "name": "Comilla Airport",
+    "latitude_deg": "23.43720054626465",
+    "longitude_deg": "91.189697265625",
+    "elevation_ft": "25",
+    "continent": "AS",
+    "iso_country": "BD",
+    "iso_region": "BD-2",
+    "municipality": "Comilla",
+    "scheduled_service": "no",
+    "gps_code": "VGCM",
+    "iata_code": "CLA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

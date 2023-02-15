@@ -1,0 +1,20 @@
+{
+    "id": "30770",
+    "ident": "WBGC",
+    "type": "small_airport",
+    "name": "Belaga Airport",
+    "latitude_deg": "2.652143",
+    "longitude_deg": "113.767043",
+    "elevation_ft": "200",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-13",
+    "municipality": "Belaga",
+    "scheduled_service": "no",
+    "gps_code": "WBGC",
+    "iata_code": "BLG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Belaga_Airport",
+    "keywords": ""
+}

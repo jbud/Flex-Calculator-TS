@@ -1,0 +1,20 @@
+{
+    "id": "318923",
+    "ident": "EH-0001",
+    "type": "small_airport",
+    "name": "Tifariti Airstrip",
+    "latitude_deg": "26.15126",
+    "longitude_deg": "-10.564245",
+    "elevation_ft": "1624",
+    "continent": "AF",
+    "iso_country": "EH",
+    "iso_region": "EH-U-A",
+    "municipality": "Tifariti",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "GSSM"
+}

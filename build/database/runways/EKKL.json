@@ -1,0 +1,20 @@
+{
+    "id": "29239",
+    "ident": "EKKL",
+    "type": "small_airport",
+    "name": "Kalundborg Airfield",
+    "latitude_deg": "55.700298",
+    "longitude_deg": "11.25",
+    "elevation_ft": "1",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-85",
+    "municipality": "Kalundborg",
+    "scheduled_service": "no",
+    "gps_code": "EKKL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "30051",
+    "ident": "VYKU",
+    "type": "small_airport",
+    "name": "Kyauktu Airport",
+    "latitude_deg": "21.399999618530273",
+    "longitude_deg": "94.13330078125",
+    "elevation_ft": "1250",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-03",
+    "municipality": "Kyauktu",
+    "scheduled_service": "no",
+    "gps_code": "VYKU",
+    "iata_code": "KYT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

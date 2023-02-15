@@ -1,0 +1,20 @@
+{
+    "id": "311951",
+    "ident": "PG-0071",
+    "type": "small_airport",
+    "name": "Pori Airstrip",
+    "latitude_deg": "-5.5782",
+    "longitude_deg": "142.7065",
+    "elevation_ft": "5235",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-HE",
+    "municipality": "Pori",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

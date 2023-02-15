@@ -1,0 +1,20 @@
+{
+    "id": "353744",
+    "ident": "SI2T",
+    "type": "small_airport",
+    "name": "José Gilberto Pannunzio Airport",
+    "latitude_deg": "-19.155455",
+    "longitude_deg": "-48.390518",
+    "elevation_ft": "2736",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Uberlândia",
+    "scheduled_service": "no",
+    "gps_code": "SI2T",
+    "iata_code": "",
+    "local_code": "MG0519",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

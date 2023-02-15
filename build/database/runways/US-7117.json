@@ -1,0 +1,20 @@
+{
+    "id": "430056",
+    "ident": "US-7117",
+    "type": "small_airport",
+    "name": "Clark Ranch Airport",
+    "latitude_deg": "39.6692",
+    "longitude_deg": "-123.47953",
+    "elevation_ft": "1643",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Laytonville",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

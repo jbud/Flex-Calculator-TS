@@ -1,0 +1,20 @@
+{
+    "id": "321131",
+    "ident": "ES-0128",
+    "type": "small_airport",
+    "name": "Aeròdrom de Llabiá",
+    "latitude_deg": "42.011798",
+    "longitude_deg": "3.089483",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Llabiá",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

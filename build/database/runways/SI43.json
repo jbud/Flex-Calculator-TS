@@ -1,0 +1,20 @@
+{
+    "id": "354190",
+    "ident": "SI43",
+    "type": "small_airport",
+    "name": "Fazenda Amoreira Airstrip",
+    "latitude_deg": "-10.834444",
+    "longitude_deg": "-54.780556",
+    "elevation_ft": "1145",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Nova Santa Helena",
+    "scheduled_service": "no",
+    "gps_code": "SI43",
+    "iata_code": "",
+    "local_code": "MT0811",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

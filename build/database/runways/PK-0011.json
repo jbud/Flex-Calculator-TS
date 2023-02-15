@@ -1,0 +1,20 @@
+{
+    "id": "41644",
+    "ident": "PK-0011",
+    "type": "heliport",
+    "name": "Walton Heliport",
+    "latitude_deg": "31.48979949951172",
+    "longitude_deg": "74.34880065917969",
+    "elevation_ft": "695",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-PB",
+    "municipality": "Walton",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

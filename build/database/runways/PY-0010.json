@@ -1,0 +1,20 @@
+{
+    "id": "41574",
+    "ident": "PY-0010",
+    "type": "small_airport",
+    "name": "Aeródromo de Puerto Risso",
+    "latitude_deg": "-22.373204",
+    "longitude_deg": "-57.81655",
+    "elevation_ft": "268",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-1",
+    "municipality": "Puerto Risso",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

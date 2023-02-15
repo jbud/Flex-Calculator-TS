@@ -1,0 +1,20 @@
+{
+    "id": "41347",
+    "ident": "MY-0016",
+    "type": "small_airport",
+    "name": "Jeroco Airport",
+    "latitude_deg": "5.406111240386963",
+    "longitude_deg": "118.3963851928711",
+    "elevation_ft": "60",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-12",
+    "municipality": "Jeroco",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

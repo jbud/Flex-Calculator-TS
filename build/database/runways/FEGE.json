@@ -1,0 +1,20 @@
+{
+    "id": "31916",
+    "ident": "FEGE",
+    "type": "small_airport",
+    "name": "M'Boki Airport",
+    "latitude_deg": "5.33301019669",
+    "longitude_deg": "25.931900024399997",
+    "elevation_ft": "1969",
+    "continent": "AF",
+    "iso_country": "CF",
+    "iso_region": "CF-HM",
+    "municipality": "Mboki",
+    "scheduled_service": "no",
+    "gps_code": "FEGE",
+    "iata_code": "MKI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/M%27Boki_Airport",
+    "keywords": ""
+}

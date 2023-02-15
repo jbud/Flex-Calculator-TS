@@ -1,0 +1,20 @@
+{
+    "id": "321218",
+    "ident": "ES-0136",
+    "type": "small_airport",
+    "name": "Aeródromo de Sigüenza",
+    "latitude_deg": "41.044793",
+    "longitude_deg": "-2.629209",
+    "elevation_ft": "3445",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CM",
+    "municipality": "Sigüenza",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.aeroclubseguntino.com/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "336181",
+    "ident": "BR-1099",
+    "type": "heliport",
+    "name": "Colombo I Heliport",
+    "latitude_deg": "-21.24779",
+    "longitude_deg": "-48.810137",
+    "elevation_ft": "1982",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Santa Adélia",
+    "scheduled_service": "no",
+    "gps_code": "SJCK",
+    "iata_code": "",
+    "local_code": "SP0605",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

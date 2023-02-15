@@ -1,0 +1,20 @@
+{
+    "id": "318641",
+    "ident": "TZ-0080",
+    "type": "small_airport",
+    "name": "Kwajoni Airport",
+    "latitude_deg": "-5.512166",
+    "longitude_deg": "38.965097",
+    "elevation_ft": "15",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-25",
+    "municipality": "Kwajoni",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

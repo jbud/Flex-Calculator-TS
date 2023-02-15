@@ -1,0 +1,20 @@
+{
+    "id": "42002",
+    "ident": "MRZP",
+    "type": "small_airport",
+    "name": "Zapotal De Guanacaste Airport",
+    "latitude_deg": "9.994009971618652",
+    "longitude_deg": "-85.3102035522461",
+    "elevation_ft": "1305",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-G",
+    "municipality": "Zapotal",
+    "scheduled_service": "no",
+    "gps_code": "MRZP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

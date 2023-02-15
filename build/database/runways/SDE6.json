@@ -1,0 +1,20 @@
+{
+    "id": "348147",
+    "ident": "SDE6",
+    "type": "small_airport",
+    "name": "Fazenda ITK Agro Airport",
+    "latitude_deg": "-30.031667",
+    "longitude_deg": "-55.313611",
+    "elevation_ft": "607",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Alegrete",
+    "scheduled_service": "no",
+    "gps_code": "SDE6",
+    "iata_code": "",
+    "local_code": "RS0181",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

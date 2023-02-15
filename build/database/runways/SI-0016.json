@@ -1,0 +1,20 @@
+{
+    "id": "313055",
+    "ident": "SI-0016",
+    "type": "small_airport",
+    "name": "Gorica-Smartno UL field",
+    "latitude_deg": "46.27079",
+    "longitude_deg": "15.23875",
+    "elevation_ft": "829",
+    "continent": "EU",
+    "iso_country": "SI",
+    "iso_region": "SI-011",
+    "municipality": "Gorica pri Smartnem v.R.d.",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

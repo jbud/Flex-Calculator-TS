@@ -1,0 +1,20 @@
+{
+    "id": "32704",
+    "ident": "DFCA",
+    "type": "small_airport",
+    "name": "Kaya Airport",
+    "latitude_deg": "13.067000389099121",
+    "longitude_deg": "-1.100000023841858",
+    "elevation_ft": "984",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-SMT",
+    "municipality": "Kaya",
+    "scheduled_service": "no",
+    "gps_code": "DFCA",
+    "iata_code": "XKY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

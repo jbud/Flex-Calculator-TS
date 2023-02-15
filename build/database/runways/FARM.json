@@ -1,0 +1,20 @@
+{
+    "id": "41213",
+    "ident": "FARM",
+    "type": "small_airport",
+    "name": "Richmond Airport",
+    "latitude_deg": "-31.423500061035156",
+    "longitude_deg": "23.978200912475586",
+    "elevation_ft": "4731",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Richmond",
+    "scheduled_service": "no",
+    "gps_code": "FARM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

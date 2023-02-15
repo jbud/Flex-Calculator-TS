@@ -1,0 +1,20 @@
+{
+    "id": "355557",
+    "ident": "DE-0496",
+    "type": "heliport",
+    "name": "University of Hamburg Medical Center Eppendorf Helipad",
+    "latitude_deg": "53.591518",
+    "longitude_deg": "9.973955",
+    "elevation_ft": "200",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HH",
+    "municipality": "Hamburg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/University_Medical_Center_Hamburg-Eppendorf",
+    "keywords": ""
+}

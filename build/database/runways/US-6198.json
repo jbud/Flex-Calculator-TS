@@ -1,0 +1,20 @@
+{
+    "id": "350776",
+    "ident": "US-6198",
+    "type": "small_airport",
+    "name": "Alma Airport",
+    "latitude_deg": "26.732986",
+    "longitude_deg": "-81.571042",
+    "elevation_ft": "18",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Alva",
+    "scheduled_service": "no",
+    "gps_code": "87FL",
+    "iata_code": "",
+    "local_code": "87FL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "348594",
+    "ident": "BR-1645",
+    "type": "small_airport",
+    "name": "Pontinha Airport",
+    "latitude_deg": "-13.159467",
+    "longitude_deg": "-38.856039",
+    "elevation_ft": "23",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Jaguaripe",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

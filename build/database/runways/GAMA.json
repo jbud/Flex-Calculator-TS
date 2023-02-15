@@ -1,0 +1,20 @@
+{
+    "id": "31511",
+    "ident": "GAMA",
+    "type": "closed",
+    "name": "Markala Airport",
+    "latitude_deg": "13.7",
+    "longitude_deg": "-6.067",
+    "elevation_ft": "1251",
+    "continent": "AF",
+    "iso_country": "ML",
+    "iso_region": "ML-4",
+    "municipality": "Markala",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Markala_Airport",
+    "keywords": "GAMA"
+}

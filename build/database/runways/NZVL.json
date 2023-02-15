@@ -1,0 +1,20 @@
+{
+    "id": "30107",
+    "ident": "NZVL",
+    "type": "small_airport",
+    "name": "Mandeville Aerodrome",
+    "latitude_deg": "-45.990299224853516",
+    "longitude_deg": "168.81199645996094",
+    "elevation_ft": "351",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-STL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "NZVL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

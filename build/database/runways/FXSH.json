@@ -1,0 +1,20 @@
+{
+    "id": "30404",
+    "ident": "FXSH",
+    "type": "small_airport",
+    "name": "Sehonghong Airport",
+    "latitude_deg": "-29.731088",
+    "longitude_deg": "28.767945",
+    "elevation_ft": "6500",
+    "continent": "AF",
+    "iso_country": "LS",
+    "iso_region": "LS-K",
+    "municipality": "Sehonghong",
+    "scheduled_service": "no",
+    "gps_code": "FXSH",
+    "iata_code": "SHK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

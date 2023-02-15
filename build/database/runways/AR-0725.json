@@ -1,0 +1,20 @@
+{
+    "id": "348749",
+    "ident": "AR-0725",
+    "type": "small_airport",
+    "name": "Stroeder Southeast Airport",
+    "latitude_deg": "-40.20968",
+    "longitude_deg": "-62.60485",
+    "elevation_ft": "92",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Stroeder",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

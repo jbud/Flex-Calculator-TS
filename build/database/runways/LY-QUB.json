@@ -1,0 +1,20 @@
+{
+    "id": "32195",
+    "ident": "LY-QUB",
+    "type": "small_airport",
+    "name": "Ubari Airport",
+    "latitude_deg": "26.567499",
+    "longitude_deg": "12.8231",
+    "elevation_ft": "1528",
+    "continent": "AF",
+    "iso_country": "LY",
+    "iso_region": "LY-WD",
+    "municipality": "Ubari",
+    "scheduled_service": "yes",
+    "gps_code": "HLUB",
+    "iata_code": "QUB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ubari_Airport",
+    "keywords": ""
+}

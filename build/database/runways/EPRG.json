@@ -1,0 +1,20 @@
+{
+    "id": "30359",
+    "ident": "EPRG",
+    "type": "small_airport",
+    "name": "Rybnik-Gotarowice Glider Field",
+    "latitude_deg": "50.070801",
+    "longitude_deg": "18.6283",
+    "elevation_ft": "840",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-SL",
+    "municipality": "Rybnik",
+    "scheduled_service": "no",
+    "gps_code": "EPRG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

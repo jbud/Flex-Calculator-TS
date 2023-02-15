@@ -1,0 +1,20 @@
+{
+    "id": "43704",
+    "ident": "NL-0009",
+    "type": "heliport",
+    "name": "Maxima Medisch Centrum Heliport",
+    "latitude_deg": "51.404998779296875",
+    "longitude_deg": "5.419722080230713",
+    "elevation_ft": "62",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-NB",
+    "municipality": "Veldhoven",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "EH0025"
+}

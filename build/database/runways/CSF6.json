@@ -1,0 +1,20 @@
+{
+    "id": "1515",
+    "ident": "CSF6",
+    "type": "heliport",
+    "name": "Ste-Marguerite Heliport",
+    "latitude_deg": "46.03110122680664",
+    "longitude_deg": "-74.05329895019531",
+    "elevation_ft": "1100",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Ste-Marguerite",
+    "scheduled_service": "no",
+    "gps_code": "CSF6",
+    "iata_code": "",
+    "local_code": "CSF6",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SF6"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "41205",
+    "ident": "FANL",
+    "type": "small_airport",
+    "name": "New Largo Airport",
+    "latitude_deg": "-25.978500366210938",
+    "longitude_deg": "28.984399795532227",
+    "elevation_ft": "5038",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-MP",
+    "municipality": "Witbank",
+    "scheduled_service": "no",
+    "gps_code": "FANL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

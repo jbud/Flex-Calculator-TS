@@ -1,0 +1,20 @@
+{
+    "id": "30899",
+    "ident": "DFEC",
+    "type": "small_airport",
+    "name": "Komin-Yanga Airport",
+    "latitude_deg": "11.699999809265137",
+    "longitude_deg": "0.15000000596046448",
+    "elevation_ft": "1116",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-KOP",
+    "municipality": "Komin-Yanga",
+    "scheduled_service": "no",
+    "gps_code": "DFEC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "334380",
+    "ident": "BR-0660",
+    "type": "heliport",
+    "name": "Engevix Helipad",
+    "latitude_deg": "-23.50244",
+    "longitude_deg": "-46.827722",
+    "elevation_ft": "2575",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Barueri",
+    "scheduled_service": "no",
+    "gps_code": "SWEG",
+    "iata_code": "",
+    "local_code": "SP0802",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

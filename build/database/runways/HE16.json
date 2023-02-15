@@ -1,0 +1,20 @@
+{
+    "id": "42471",
+    "ident": "HE16",
+    "type": "medium_airport",
+    "name": "Birma Air Base",
+    "latitude_deg": "30.836599",
+    "longitude_deg": "30.936001",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-GH",
+    "municipality": "Tanta",
+    "scheduled_service": "no",
+    "gps_code": "HE16",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "333931",
+    "ident": "SSEH",
+    "type": "small_airport",
+    "name": "Fazenda Pantera Airport",
+    "latitude_deg": "-17.953015",
+    "longitude_deg": "-53.246868",
+    "elevation_ft": "2946",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Alto Taquari",
+    "scheduled_service": "no",
+    "gps_code": "SSEH",
+    "iata_code": "",
+    "local_code": "MT0288",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

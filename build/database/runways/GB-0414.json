@@ -1,0 +1,20 @@
+{
+    "id": "320548",
+    "ident": "GB-0414",
+    "type": "small_airport",
+    "name": "RAF Weston-on-the-Green",
+    "latitude_deg": "51.8787124",
+    "longitude_deg": "-1.2187748",
+    "elevation_ft": "282",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Weston-on-the-Green",
+    "keywords": ""
+}

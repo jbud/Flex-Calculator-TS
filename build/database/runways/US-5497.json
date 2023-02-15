@@ -1,0 +1,20 @@
+{
+    "id": "348742",
+    "ident": "US-5497",
+    "type": "small_airport",
+    "name": "Warm Springs Airport",
+    "latitude_deg": "38.18834",
+    "longitude_deg": "-116.36399",
+    "elevation_ft": "5420",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Warm Springs",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

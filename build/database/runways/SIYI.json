@@ -1,0 +1,20 @@
+{
+    "id": "335906",
+    "ident": "SIYI",
+    "type": "small_airport",
+    "name": "Fazenda Planalto Airport",
+    "latitude_deg": "-17.261915",
+    "longitude_deg": "-51.146516",
+    "elevation_ft": "2874",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Montividiu",
+    "scheduled_service": "no",
+    "gps_code": "SIYI",
+    "iata_code": "",
+    "local_code": "GO0181",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

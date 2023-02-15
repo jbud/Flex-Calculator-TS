@@ -1,0 +1,20 @@
+{
+    "id": "318461",
+    "ident": "BR-0105",
+    "type": "small_airport",
+    "name": "Chapadinha Airport",
+    "latitude_deg": "-3.748136",
+    "longitude_deg": "-43.31068",
+    "elevation_ft": "354",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MA",
+    "municipality": "Chapadinha",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MA0086",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

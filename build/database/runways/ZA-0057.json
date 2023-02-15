@@ -1,0 +1,20 @@
+{
+    "id": "41236",
+    "ident": "ZA-0057",
+    "type": "small_airport",
+    "name": "Diamond Valley Airport",
+    "latitude_deg": "-30.27199935913086",
+    "longitude_deg": "29.39739990234375",
+    "elevation_ft": "4900",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Swartberg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

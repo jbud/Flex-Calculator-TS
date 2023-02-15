@@ -1,0 +1,20 @@
+{
+    "id": "41156",
+    "ident": "FABT",
+    "type": "small_airport",
+    "name": "Bethesda Road Airport",
+    "latitude_deg": "-31.873199462890625",
+    "longitude_deg": "24.796899795532227",
+    "elevation_ft": "4630",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Bethesda",
+    "scheduled_service": "no",
+    "gps_code": "FABT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

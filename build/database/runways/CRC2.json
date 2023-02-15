@@ -1,0 +1,20 @@
+{
+    "id": "1484",
+    "ident": "CRC2",
+    "type": "heliport",
+    "name": "Fredericton (RCMP) Heliport",
+    "latitude_deg": "45.931740055599995",
+    "longitude_deg": "-66.66668057439999",
+    "elevation_ft": "369",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NB",
+    "municipality": "Fredericton",
+    "scheduled_service": "no",
+    "gps_code": "CRC2",
+    "iata_code": "",
+    "local_code": "CRC2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "RC2"
+}

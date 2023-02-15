@@ -1,0 +1,20 @@
+{
+    "id": "505515",
+    "ident": "US-7412",
+    "type": "small_airport",
+    "name": "Marble Airstrip",
+    "latitude_deg": "39.07483",
+    "longitude_deg": "-107.21479",
+    "elevation_ft": "7820",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Marble",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Marble International Airport"
+}

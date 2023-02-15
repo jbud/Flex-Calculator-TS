@@ -1,0 +1,20 @@
+{
+    "id": "348593",
+    "ident": "BR-1644",
+    "type": "small_airport",
+    "name": "Praia Santana Airport",
+    "latitude_deg": "-13.91231",
+    "longitude_deg": "-38.93468",
+    "elevation_ft": "20",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Maraú",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

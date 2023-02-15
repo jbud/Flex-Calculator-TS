@@ -1,0 +1,20 @@
+{
+    "id": "40606",
+    "ident": "SK-513",
+    "type": "small_airport",
+    "name": "Cumachagua Airport",
+    "latitude_deg": "4.016667",
+    "longitude_deg": "-70.883333",
+    "elevation_ft": "433",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-VID",
+    "municipality": "Santa Rosalìa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CAV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

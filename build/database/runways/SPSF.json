@@ -1,0 +1,20 @@
+{
+    "id": "39650",
+    "ident": "SPSF",
+    "type": "small_airport",
+    "name": "San Francisco Airport",
+    "latitude_deg": "-6.6166801452637",
+    "longitude_deg": "-77.766700744629",
+    "elevation_ft": "8202",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-AMA",
+    "municipality": "San Francisco de Yeso",
+    "scheduled_service": "no",
+    "gps_code": "SPSF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

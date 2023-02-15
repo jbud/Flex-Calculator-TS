@@ -1,0 +1,20 @@
+{
+    "id": "31190",
+    "ident": "FNCC",
+    "type": "small_airport",
+    "name": "Cacolo Airport",
+    "latitude_deg": "-10.110278",
+    "longitude_deg": "19.287304",
+    "elevation_ft": "4400",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-LSU",
+    "municipality": "Cacolo",
+    "scheduled_service": "no",
+    "gps_code": "FNCC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cacolo_Airport",
+    "keywords": ""
+}

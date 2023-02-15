@@ -1,0 +1,20 @@
+{
+    "id": "335869",
+    "ident": "US-1523",
+    "type": "heliport",
+    "name": "LZ Elbert Heliport",
+    "latitude_deg": "39.180966",
+    "longitude_deg": "-104.495483",
+    "elevation_ft": "7084",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Elbert",
+    "scheduled_service": "no",
+    "gps_code": "CO77",
+    "iata_code": "",
+    "local_code": "CO77",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

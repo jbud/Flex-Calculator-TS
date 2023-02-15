@@ -1,0 +1,20 @@
+{
+    "id": "42669",
+    "ident": "KE-0026",
+    "type": "small_airport",
+    "name": "Oserongoni Airport",
+    "latitude_deg": "-0.8190000057220459",
+    "longitude_deg": "36.28783416748047",
+    "elevation_ft": "6200",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-700",
+    "municipality": "Oserongoni",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Oserian"
+}

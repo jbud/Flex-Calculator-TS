@@ -1,0 +1,20 @@
+{
+    "id": "300118",
+    "ident": "RJ03",
+    "type": "heliport",
+    "name": "Sagami Depot Heliport",
+    "latitude_deg": "35.585555555599996",
+    "longitude_deg": "139.384722222",
+    "elevation_ft": "374",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-14",
+    "municipality": "Sagamihara",
+    "scheduled_service": "no",
+    "gps_code": "RJ03",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

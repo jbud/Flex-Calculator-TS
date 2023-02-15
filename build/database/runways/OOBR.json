@@ -1,0 +1,20 @@
+{
+    "id": "32217",
+    "ident": "OOBR",
+    "type": "small_airport",
+    "name": "Buraimi Airport",
+    "latitude_deg": "24.241626",
+    "longitude_deg": "55.783674",
+    "elevation_ft": "970",
+    "continent": "AS",
+    "iso_country": "OM",
+    "iso_region": "OM-BU",
+    "municipality": "Buraimi",
+    "scheduled_service": "no",
+    "gps_code": "OOBR",
+    "iata_code": "RMB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Buraimi_Airport",
+    "keywords": ""
+}

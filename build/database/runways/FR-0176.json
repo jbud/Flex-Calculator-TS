@@ -1,0 +1,20 @@
+{
+    "id": "43516",
+    "ident": "FR-0176",
+    "type": "heliport",
+    "name": "Centre Hospitalier de Saintongues Heliport",
+    "latitude_deg": "45.747779846191406",
+    "longitude_deg": "-0.6549999713897705",
+    "elevation_ft": "135",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NAQ",
+    "municipality": "Saintes",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

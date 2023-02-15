@@ -1,0 +1,20 @@
+{
+    "id": "32695",
+    "ident": "DFOU",
+    "type": "small_airport",
+    "name": "Diebougou Airport",
+    "latitude_deg": "10.949999809265137",
+    "longitude_deg": "-3.25",
+    "elevation_ft": "984",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-BGR",
+    "municipality": "Diebougou",
+    "scheduled_service": "no",
+    "gps_code": "DFOU",
+    "iata_code": "XDE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

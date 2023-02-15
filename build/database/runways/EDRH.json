@@ -1,0 +1,20 @@
+{
+    "id": "28605",
+    "ident": "EDRH",
+    "type": "small_airport",
+    "name": "Hoppstädten-Weiersbach Airfield",
+    "latitude_deg": "49.610558",
+    "longitude_deg": "7.186667",
+    "elevation_ft": "1093",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-RP",
+    "municipality": "Hoppstädten",
+    "scheduled_service": "no",
+    "gps_code": "EDRH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

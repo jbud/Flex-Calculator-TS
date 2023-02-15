@@ -1,0 +1,20 @@
+{
+    "id": "42050",
+    "ident": "MHCP",
+    "type": "heliport",
+    "name": "Cochino Pequeño Heliport",
+    "latitude_deg": "15.952824",
+    "longitude_deg": "-86.498635",
+    "elevation_ft": "1",
+    "continent": "NA",
+    "iso_country": "HN",
+    "iso_region": "HN-IB",
+    "municipality": "Cochino Pequeño Island",
+    "scheduled_service": "no",
+    "gps_code": "MHCP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

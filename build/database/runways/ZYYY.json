@@ -1,0 +1,20 @@
+{
+    "id": "32753",
+    "ident": "ZYYY",
+    "type": "medium_airport",
+    "name": "Shenyang Dongta Airport",
+    "latitude_deg": "41.784401",
+    "longitude_deg": "123.496002",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-21",
+    "municipality": "Dadong, Shenyang",
+    "scheduled_service": "no",
+    "gps_code": "ZYYY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

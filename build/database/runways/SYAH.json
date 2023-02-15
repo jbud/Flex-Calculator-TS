@@ -1,0 +1,20 @@
+{
+    "id": "30624",
+    "ident": "SYAH",
+    "type": "small_airport",
+    "name": "Aishalton Airport",
+    "latitude_deg": "2.473206",
+    "longitude_deg": "-59.321596",
+    "elevation_ft": "587",
+    "continent": "SA",
+    "iso_country": "GY",
+    "iso_region": "GY-UT",
+    "municipality": "Aishalton",
+    "scheduled_service": "no",
+    "gps_code": "SYAH",
+    "iata_code": "AHL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

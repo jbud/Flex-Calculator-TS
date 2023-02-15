@@ -1,0 +1,20 @@
+{
+    "id": "42292",
+    "ident": "CU-0009",
+    "type": "small_airport",
+    "name": "La Asunción Agricultural Aviation Airport",
+    "latitude_deg": "22.583034",
+    "longitude_deg": "-83.227931",
+    "elevation_ft": "122",
+    "continent": "NA",
+    "iso_country": "CU",
+    "iso_region": "CU-01",
+    "municipality": "La Asunción",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

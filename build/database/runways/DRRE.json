@@ -1,0 +1,20 @@
+{
+    "id": "30941",
+    "ident": "DRRE",
+    "type": "small_airport",
+    "name": "Tera Airport",
+    "latitude_deg": "13.949999809265137",
+    "longitude_deg": "0.7329999804496765",
+    "elevation_ft": "850",
+    "continent": "AF",
+    "iso_country": "NE",
+    "iso_region": "NE-6",
+    "municipality": "Tera",
+    "scheduled_service": "no",
+    "gps_code": "DRRE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

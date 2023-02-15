@@ -1,0 +1,20 @@
+{
+    "id": "40281",
+    "ident": "SVRE",
+    "type": "small_airport",
+    "name": "Aracay Abajo Airport",
+    "latitude_deg": "8.393333435058594",
+    "longitude_deg": "-65.86666870117188",
+    "elevation_ft": "420",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-J",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVRE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

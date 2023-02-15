@@ -1,0 +1,20 @@
+{
+    "id": "30896",
+    "ident": "DFCT",
+    "type": "small_airport",
+    "name": "Tenado Airport",
+    "latitude_deg": "12.199999809265137",
+    "longitude_deg": "-2.5829999446868896",
+    "elevation_ft": "951",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-SNG",
+    "municipality": "Tenado",
+    "scheduled_service": "no",
+    "gps_code": "DFCT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "44799",
+    "ident": "TR-0035",
+    "type": "small_airport",
+    "name": "Tatvan Airport",
+    "latitude_deg": "38.54180145263672",
+    "longitude_deg": "42.332401275634766",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-13",
+    "municipality": "Tatvan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "32058",
+    "ident": "NVVJ",
+    "type": "small_airport",
+    "name": "Forari Airport",
+    "latitude_deg": "-17.701099395751953",
+    "longitude_deg": "168.52699279785156",
+    "elevation_ft": "351",
+    "continent": "OC",
+    "iso_country": "VU",
+    "iso_region": "VU-SEE",
+    "municipality": "Forari",
+    "scheduled_service": "no",
+    "gps_code": "NVVJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

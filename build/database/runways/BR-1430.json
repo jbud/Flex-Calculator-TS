@@ -1,0 +1,20 @@
+{
+    "id": "341729",
+    "ident": "BR-1430",
+    "type": "small_airport",
+    "name": "Fazenda Chaparral Airport",
+    "latitude_deg": "-13.473932",
+    "longitude_deg": "-45.372463",
+    "elevation_ft": "2549",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Correntina",
+    "scheduled_service": "no",
+    "gps_code": "SWHF",
+    "iata_code": "",
+    "local_code": "BA0178",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

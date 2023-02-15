@@ -1,0 +1,20 @@
+{
+    "id": "29643",
+    "ident": "FAAE",
+    "type": "small_airport",
+    "name": "Aberdeen Airport",
+    "latitude_deg": "-32.46670150756836",
+    "longitude_deg": "24.066699981689453",
+    "elevation_ft": "2461",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Aberdeen",
+    "scheduled_service": "no",
+    "gps_code": "FAAE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

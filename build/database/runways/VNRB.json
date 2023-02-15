@@ -1,0 +1,20 @@
+{
+    "id": "32213",
+    "ident": "VNRB",
+    "type": "small_airport",
+    "name": "Rajbiraj Airport",
+    "latitude_deg": "26.510066",
+    "longitude_deg": "86.733902",
+    "elevation_ft": "250",
+    "continent": "AS",
+    "iso_country": "NP",
+    "iso_region": "NP-P2",
+    "municipality": "Rajbiraj",
+    "scheduled_service": "no",
+    "gps_code": "VNRB",
+    "iata_code": "RJB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

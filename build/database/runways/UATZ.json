@@ -1,0 +1,20 @@
+{
+    "id": "351217",
+    "ident": "UATZ",
+    "type": "small_airport",
+    "name": "Tengiz Airport",
+    "latitude_deg": "46.301673",
+    "longitude_deg": "53.427308",
+    "elevation_ft": "-78",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-ATY",
+    "municipality": "Tengiz",
+    "scheduled_service": "no",
+    "gps_code": "UATZ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "TCOV"
+}

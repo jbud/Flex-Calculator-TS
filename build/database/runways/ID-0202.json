@@ -1,0 +1,20 @@
+{
+    "id": "350486",
+    "ident": "ID-0202",
+    "type": "small_airport",
+    "name": "Mipol Airstrip",
+    "latitude_deg": "-4.605771",
+    "longitude_deg": "140.634806",
+    "elevation_ft": "4800",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PP",
+    "municipality": "Pegunungan Bintang Regency",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

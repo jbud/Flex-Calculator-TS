@@ -1,0 +1,20 @@
+{
+    "id": "43212",
+    "ident": "JP-0002",
+    "type": "heliport",
+    "name": "Urayasu Heliport",
+    "latitude_deg": "35.623658",
+    "longitude_deg": "139.894506",
+    "elevation_ft": "16",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-12",
+    "municipality": "Urayasu",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

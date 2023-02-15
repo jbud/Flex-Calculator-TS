@@ -1,0 +1,20 @@
+{
+    "id": "330828",
+    "ident": "PE-0008",
+    "type": "small_airport",
+    "name": "Saramuro Airport",
+    "latitude_deg": "-4.707892",
+    "longitude_deg": "-74.876733",
+    "elevation_ft": "367",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LOR",
+    "municipality": "Saramuro",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

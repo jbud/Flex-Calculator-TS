@@ -1,0 +1,20 @@
+{
+    "id": "352886",
+    "ident": "BR-1674",
+    "type": "small_airport",
+    "name": "Monte Azul Airstrip",
+    "latitude_deg": "-15.200473",
+    "longitude_deg": "-42.895957",
+    "elevation_ft": "2000",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Monte Azul",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "321476",
+    "ident": "ES-0176",
+    "type": "small_airport",
+    "name": "Aeródromo de Guadalix de la SIerra",
+    "latitude_deg": "40.7848296",
+    "longitude_deg": "-3.6397313",
+    "elevation_ft": "2756",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-MD",
+    "municipality": "El Vellón",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

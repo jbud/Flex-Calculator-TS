@@ -1,0 +1,20 @@
+{
+    "id": "31951",
+    "ident": "MRPA",
+    "type": "small_airport",
+    "name": "Palo Arco Airport",
+    "latitude_deg": "9.851409912109375",
+    "longitude_deg": "-85.23789978027344",
+    "elevation_ft": "324",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-G",
+    "municipality": "Nandayure",
+    "scheduled_service": "no",
+    "gps_code": "MRPA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

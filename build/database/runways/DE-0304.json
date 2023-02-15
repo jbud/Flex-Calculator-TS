@@ -1,0 +1,20 @@
+{
+    "id": "315991",
+    "ident": "DE-0304",
+    "type": "small_airport",
+    "name": "Hayingen Glider Field",
+    "latitude_deg": "48.2848",
+    "longitude_deg": "9.4657",
+    "elevation_ft": "2328",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Hayingen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.lsv-hayingen.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "30841",
+    "ident": "AU-COB",
+    "type": "small_airport",
+    "name": "Coolibah Airport",
+    "latitude_deg": "-15.548299789428711",
+    "longitude_deg": "130.96200561523438",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Coolibah",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "COB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

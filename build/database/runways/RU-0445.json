@@ -1,0 +1,20 @@
+{
+    "id": "315694",
+    "ident": "RU-0445",
+    "type": "small_airport",
+    "name": "Aerodrom Tsherskaia",
+    "latitude_deg": "57.633923",
+    "longitude_deg": "28.223795",
+    "elevation_ft": "164",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-PSK",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ZCX8",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ЗЦЬ8, Черская"
+}

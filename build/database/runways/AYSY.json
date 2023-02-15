@@ -1,0 +1,20 @@
+{
+    "id": "312021",
+    "ident": "AYSY",
+    "type": "small_airport",
+    "name": "Serra Airstrip",
+    "latitude_deg": "-2.9739",
+    "longitude_deg": "141.9297",
+    "elevation_ft": "37",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-SAN",
+    "municipality": "Serai",
+    "scheduled_service": "no",
+    "gps_code": "AYSY",
+    "iata_code": "",
+    "local_code": "SER",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "318387",
+    "ident": "CM-0001",
+    "type": "small_airport",
+    "name": "Campo Airport",
+    "latitude_deg": "2.341137",
+    "longitude_deg": "9.847089",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "CM",
+    "iso_region": "CM-SW",
+    "municipality": "Campo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

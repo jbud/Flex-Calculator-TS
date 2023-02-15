@@ -1,0 +1,20 @@
+{
+    "id": "313853",
+    "ident": "LBM",
+    "type": "small_airport",
+    "name": "Luabo Airport",
+    "latitude_deg": "-18.4139",
+    "longitude_deg": "36.1068",
+    "elevation_ft": "36",
+    "continent": "AF",
+    "iso_country": "MZ",
+    "iso_region": "MZ-Q",
+    "municipality": "Luabo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "LBM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

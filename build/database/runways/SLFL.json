@@ -1,0 +1,20 @@
+{
+    "id": "39440",
+    "ident": "SLFL",
+    "type": "small_airport",
+    "name": "Florida Airport",
+    "latitude_deg": "-14.614166259765625",
+    "longitude_deg": "-61.1974983215332",
+    "elevation_ft": "600",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Moira",
+    "scheduled_service": "no",
+    "gps_code": "SLFL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

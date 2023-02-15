@@ -1,0 +1,20 @@
+{
+    "id": "344062",
+    "ident": "SS-0036",
+    "type": "small_airport",
+    "name": "Koch Airport",
+    "latitude_deg": "8.60289",
+    "longitude_deg": "29.98998",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-22",
+    "municipality": "Koch",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

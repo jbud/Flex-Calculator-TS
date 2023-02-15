@@ -1,0 +1,20 @@
+{
+    "id": "320735",
+    "ident": "ES-0095",
+    "type": "small_airport",
+    "name": "Aeródromo de Tudela",
+    "latitude_deg": "42.109262",
+    "longitude_deg": "-1.686976",
+    "elevation_ft": "778",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-NC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Aguasalada,Agua Salada"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "505946",
+    "ident": "US-7483",
+    "type": "small_airport",
+    "name": "Salmom Bar Airport",
+    "latitude_deg": "45.860257",
+    "longitude_deg": "-116.797873",
+    "elevation_ft": "947",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Imnaha",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "O48",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

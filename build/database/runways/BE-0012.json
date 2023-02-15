@@ -1,0 +1,20 @@
+{
+    "id": "324445",
+    "ident": "BE-0012",
+    "type": "balloonport",
+    "name": "Céroux-Mousty Balloon Field",
+    "latitude_deg": "50.660241",
+    "longitude_deg": "4.513276",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-WBR",
+    "municipality": "Céroux-Mousty",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.europeanballoon.be/fr/site-decollage-place-ceroux-mousty.html",
+    "wikipedia_link": "",
+    "keywords": ""
+}

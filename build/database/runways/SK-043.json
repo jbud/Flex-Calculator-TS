@@ -1,0 +1,20 @@
+{
+    "id": "40943",
+    "ident": "SK-043",
+    "type": "small_airport",
+    "name": "Vegas Del Rio Airport",
+    "latitude_deg": "5.441667",
+    "longitude_deg": "-75.65",
+    "elevation_ft": "3762",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAL",
+    "municipality": "Supia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "VDR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

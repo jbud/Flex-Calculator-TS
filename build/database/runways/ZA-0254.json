@@ -1,0 +1,20 @@
+{
+    "id": "353216",
+    "ident": "ZA-0254",
+    "type": "small_airport",
+    "name": "Auchas Airport",
+    "latitude_deg": "-28.33486",
+    "longitude_deg": "16.79609",
+    "elevation_ft": "141",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Auchas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

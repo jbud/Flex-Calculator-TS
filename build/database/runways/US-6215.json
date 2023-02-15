@@ -1,0 +1,20 @@
+{
+    "id": "350823",
+    "ident": "US-6215",
+    "type": "small_airport",
+    "name": "Simpson Flying Services Airport",
+    "latitude_deg": "35.79651",
+    "longitude_deg": "-90.07822",
+    "elevation_ft": "232",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Manila",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

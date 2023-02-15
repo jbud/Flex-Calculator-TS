@@ -1,0 +1,20 @@
+{
+    "id": "321785",
+    "ident": "COR8",
+    "type": "small_airport",
+    "name": "Orangeville/Rosehill Airfield",
+    "latitude_deg": "43.901929",
+    "longitude_deg": "-80.023782",
+    "elevation_ft": "1500",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "COR8",
+    "iata_code": "",
+    "local_code": "COR8",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

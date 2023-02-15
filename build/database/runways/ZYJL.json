@@ -1,0 +1,20 @@
+{
+    "id": "31701",
+    "ident": "ZYJL",
+    "type": "small_airport",
+    "name": "Jilin Ertaizi Airport",
+    "latitude_deg": "44.002652",
+    "longitude_deg": "126.395244",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-22",
+    "municipality": "Jilin",
+    "scheduled_service": "no",
+    "gps_code": "ZYJL",
+    "iata_code": "JIL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jilin_Ertaizi_Airport",
+    "keywords": ""
+}

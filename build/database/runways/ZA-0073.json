@@ -1,0 +1,20 @@
+{
+    "id": "41272",
+    "ident": "ZA-0073",
+    "type": "small_airport",
+    "name": "Nederland Airport",
+    "latitude_deg": "-24.299759",
+    "longitude_deg": "31.288934",
+    "elevation_ft": "1298",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-MP",
+    "municipality": "Nederland",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

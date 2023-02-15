@@ -1,0 +1,20 @@
+{
+    "id": "32507",
+    "ident": "UEBB",
+    "type": "small_airport",
+    "name": "Batagay Airport",
+    "latitude_deg": "67.648002624512",
+    "longitude_deg": "134.69500732422",
+    "elevation_ft": "696",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-SA",
+    "municipality": "Batagay",
+    "scheduled_service": "yes",
+    "gps_code": "UEBB",
+    "iata_code": "BQJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Batagay_Airport",
+    "keywords": "УЕББ, Батагай"
+}

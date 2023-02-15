@@ -1,0 +1,20 @@
+{
+    "id": "346444",
+    "ident": "PL-0203",
+    "type": "small_airport",
+    "name": "Nowy Tomyśl Airstrip",
+    "latitude_deg": "52.308",
+    "longitude_deg": "16.145643",
+    "elevation_ft": "187",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-WP",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "321689",
+    "ident": "ES-0214",
+    "type": "small_airport",
+    "name": "Campo de Vuelo de Caspe",
+    "latitude_deg": "41.2287652",
+    "longitude_deg": "-0.085876",
+    "elevation_ft": "656",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AR",
+    "municipality": "Caspe",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

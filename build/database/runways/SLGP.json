@@ -1,0 +1,20 @@
+{
+    "id": "39508",
+    "ident": "SLGP",
+    "type": "small_airport",
+    "name": "Guirapembi Airport",
+    "latitude_deg": "-18.055999755859375",
+    "longitude_deg": "-63.16316604614258",
+    "elevation_ft": "1493",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Cordillera",
+    "scheduled_service": "no",
+    "gps_code": "SLGP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

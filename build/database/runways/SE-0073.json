@@ -1,0 +1,20 @@
+{
+    "id": "348974",
+    "ident": "SE-0073",
+    "type": "small_airport",
+    "name": "Väster Private Airstrip",
+    "latitude_deg": "55.52905",
+    "longitude_deg": "12.92175",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-M",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

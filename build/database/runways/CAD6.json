@@ -1,0 +1,20 @@
+{
+    "id": "28164",
+    "ident": "CAD6",
+    "type": "seaplane_base",
+    "name": "Atlin Seaplane Base",
+    "latitude_deg": "59.5666999817",
+    "longitude_deg": "-133.716995239",
+    "elevation_ft": "2190",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Atlin",
+    "scheduled_service": "no",
+    "gps_code": "CAD6",
+    "iata_code": "",
+    "local_code": "CAD6",
+    "home_link": "",
+    "wikipedia_link": "https://en.wiki2.org/wiki/Atlin_Water_Aerodrome",
+    "keywords": "AD6"
+}

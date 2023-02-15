@@ -1,0 +1,20 @@
+{
+    "id": "340190",
+    "ident": "IR-0021",
+    "type": "small_airport",
+    "name": "Hendorabi Airport",
+    "latitude_deg": "26.68653",
+    "longitude_deg": "53.60539",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-22",
+    "municipality": "Hendorabi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

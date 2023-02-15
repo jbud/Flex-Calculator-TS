@@ -1,0 +1,20 @@
+{
+    "id": "321175",
+    "ident": "MX-0325",
+    "type": "small_airport",
+    "name": "El Salto Airport",
+    "latitude_deg": "23.77356",
+    "longitude_deg": "-105.326658",
+    "elevation_ft": "8464",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-DUR",
+    "municipality": "El Salto",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ELS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

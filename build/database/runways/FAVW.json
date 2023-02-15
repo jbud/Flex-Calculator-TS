@@ -1,0 +1,20 @@
+{
+    "id": "30529",
+    "ident": "FAVW",
+    "type": "small_airport",
+    "name": "Victoria West Airport",
+    "latitude_deg": "-31.39940071105957",
+    "longitude_deg": "23.156400680541992",
+    "elevation_ft": "4124",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Victoria West",
+    "scheduled_service": "no",
+    "gps_code": "FAVW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

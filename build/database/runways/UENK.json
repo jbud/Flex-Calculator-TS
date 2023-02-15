@@ -1,0 +1,20 @@
+{
+    "id": "42978",
+    "ident": "UENK",
+    "type": "medium_airport",
+    "name": "Kyzyl-Syr Airport",
+    "latitude_deg": "63.8849983215332",
+    "longitude_deg": "122.7770004272461",
+    "elevation_ft": "331",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-SA",
+    "municipality": "Kyzyl-Syr",
+    "scheduled_service": "no",
+    "gps_code": "UENK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kyzyl-Syr_Airport",
+    "keywords": "Аэропорт Кызыл-Сыр"
+}

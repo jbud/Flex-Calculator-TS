@@ -1,0 +1,20 @@
+{
+    "id": "307336",
+    "ident": "TF-0001",
+    "type": "small_airport",
+    "name": "Tromelin Island Airstrip",
+    "latitude_deg": "-15.8916666667",
+    "longitude_deg": "54.5222222222",
+    "elevation_ft": "20",
+    "continent": "AF",
+    "iso_country": "TF",
+    "iso_region": "TF-U-A",
+    "municipality": "Ile Tromelin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

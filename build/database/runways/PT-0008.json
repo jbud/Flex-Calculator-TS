@@ -1,0 +1,20 @@
+{
+    "id": "43776",
+    "ident": "PT-0008",
+    "type": "heliport",
+    "name": "Hospital Distrital de Faro Heliport",
+    "latitude_deg": "37.02532",
+    "longitude_deg": "-7.929432",
+    "elevation_ft": "149",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-08",
+    "municipality": "Faro",
+    "scheduled_service": "no",
+    "gps_code": "LPFO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

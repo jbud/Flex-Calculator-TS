@@ -1,0 +1,20 @@
+{
+    "id": "323815",
+    "ident": "EC-0014",
+    "type": "small_airport",
+    "name": "Macuma Airstrip",
+    "latitude_deg": "-2.145775",
+    "longitude_deg": "-77.700306",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-S",
+    "municipality": "Macuma",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "AG8076"
+}

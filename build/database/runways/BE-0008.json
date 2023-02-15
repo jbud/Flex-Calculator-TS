@@ -1,0 +1,20 @@
+{
+    "id": "323796",
+    "ident": "BE-0008",
+    "type": "heliport",
+    "name": "Brecht/Vochten Heliport",
+    "latitude_deg": "51.332",
+    "longitude_deg": "4.62466",
+    "elevation_ft": "87",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-VAN",
+    "municipality": "Brecht",
+    "scheduled_service": "no",
+    "gps_code": "EBBV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

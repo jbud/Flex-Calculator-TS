@@ -1,0 +1,20 @@
+{
+    "id": "30548",
+    "ident": "NZWM",
+    "type": "small_airport",
+    "name": "Waimate Airport",
+    "latitude_deg": "-44.790343",
+    "longitude_deg": "171.090087",
+    "elevation_ft": "79",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-CAN",
+    "municipality": "Waimate",
+    "scheduled_service": "no",
+    "gps_code": "NZWM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

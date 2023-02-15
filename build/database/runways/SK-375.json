@@ -1,0 +1,20 @@
+{
+    "id": "40956",
+    "ident": "SK-375",
+    "type": "small_airport",
+    "name": "El Diamante Airport",
+    "latitude_deg": "4.823611",
+    "longitude_deg": "-75.845278",
+    "elevation_ft": "3891",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-RIS",
+    "municipality": "Pereira",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "PEP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

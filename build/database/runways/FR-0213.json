@@ -1,0 +1,20 @@
+{
+    "id": "43553",
+    "ident": "FR-0213",
+    "type": "heliport",
+    "name": "Centre Hospitalier Heliport",
+    "latitude_deg": "45.476112365722656",
+    "longitude_deg": "4.5155558586120605",
+    "elevation_ft": "1249",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-ARA",
+    "municipality": "Saint Chamond",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

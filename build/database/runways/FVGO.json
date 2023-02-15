@@ -1,0 +1,20 @@
+{
+    "id": "29900",
+    "ident": "FVGO",
+    "type": "small_airport",
+    "name": "Gokwe Airport",
+    "latitude_deg": "-18.238705",
+    "longitude_deg": "28.96625",
+    "elevation_ft": "4199",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MI",
+    "municipality": "Gokwe",
+    "scheduled_service": "no",
+    "gps_code": "FVGO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

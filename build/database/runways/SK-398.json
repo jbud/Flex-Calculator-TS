@@ -1,0 +1,20 @@
+{
+    "id": "40874",
+    "ident": "SK-398",
+    "type": "small_airport",
+    "name": "Aerosport Airport",
+    "latitude_deg": "4.183889",
+    "longitude_deg": "-74.834722",
+    "elevation_ft": "958",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-TOL",
+    "municipality": "Flandes",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "FLD",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

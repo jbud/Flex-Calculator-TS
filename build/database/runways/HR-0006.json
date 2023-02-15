@@ -1,0 +1,20 @@
+{
+    "id": "327858",
+    "ident": "HR-0006",
+    "type": "small_airport",
+    "name": "Pisarovina Airfield",
+    "latitude_deg": "45.618117",
+    "longitude_deg": "15.79348",
+    "elevation_ft": "377",
+    "continent": "EU",
+    "iso_country": "HR",
+    "iso_region": "HR-01",
+    "municipality": "Bratina",
+    "scheduled_service": "no",
+    "gps_code": "LDZR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://pan-avia.com/airport/",
+    "wikipedia_link": "",
+    "keywords": "Panavia"
+}

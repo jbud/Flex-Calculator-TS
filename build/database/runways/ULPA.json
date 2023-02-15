@@ -1,0 +1,20 @@
+{
+    "id": "44657",
+    "ident": "ULPA",
+    "type": "small_airport",
+    "name": "Pudozh Airport",
+    "latitude_deg": "61.8250007629",
+    "longitude_deg": "36.5800018311",
+    "elevation_ft": "144",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KR",
+    "municipality": "Pudozh",
+    "scheduled_service": "yes",
+    "gps_code": "ULPA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Пудож, УЛПА"
+}

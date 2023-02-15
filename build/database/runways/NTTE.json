@@ -1,0 +1,20 @@
+{
+    "id": "32480",
+    "ident": "NTTE",
+    "type": "small_airport",
+    "name": "Tetiaroa Airport",
+    "latitude_deg": "-17.015095",
+    "longitude_deg": "-149.589372",
+    "elevation_ft": "7",
+    "continent": "OC",
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "Tetiaroa",
+    "scheduled_service": "no",
+    "gps_code": "NTTE",
+    "iata_code": "TTI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

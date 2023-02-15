@@ -1,0 +1,20 @@
+{
+    "id": "343552",
+    "ident": "SC-0005",
+    "type": "heliport",
+    "name": "La Digue Heliport",
+    "latitude_deg": "-4.3608",
+    "longitude_deg": "55.82495",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SC",
+    "iso_region": "SC-15",
+    "municipality": "La Digue",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

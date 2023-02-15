@@ -1,0 +1,20 @@
+{
+    "id": "31707",
+    "ident": "UWKJ",
+    "type": "medium_airport",
+    "name": "Yoshkar-Ola Airport",
+    "latitude_deg": "56.700599670410156",
+    "longitude_deg": "47.904701232910156",
+    "elevation_ft": "348",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-ME",
+    "municipality": "Yoshkar-Ola",
+    "scheduled_service": "yes",
+    "gps_code": "UWKJ",
+    "iata_code": "JOK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yoshkar-Ola_Airport",
+    "keywords": "Аэропорт Йошкар-Ола"
+}

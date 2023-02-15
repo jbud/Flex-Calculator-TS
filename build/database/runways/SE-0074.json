@@ -1,0 +1,20 @@
+{
+    "id": "349442",
+    "ident": "SE-0074",
+    "type": "small_airport",
+    "name": "Muskö Airstrip",
+    "latitude_deg": "59.00512",
+    "longitude_deg": "18.11521",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-AB",
+    "municipality": "Muskö",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

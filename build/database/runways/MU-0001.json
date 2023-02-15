@@ -1,0 +1,20 @@
+{
+    "id": "42756",
+    "ident": "MU-0001",
+    "type": "small_airport",
+    "name": "Agalega Island Airstrip",
+    "latitude_deg": "-10.3731002808",
+    "longitude_deg": "56.6097984314",
+    "elevation_ft": "4",
+    "continent": "AF",
+    "iso_country": "MU",
+    "iso_region": "MU-AG",
+    "municipality": "Vingt Cinq",
+    "scheduled_service": "no",
+    "gps_code": "FIMA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "North Island"
+}

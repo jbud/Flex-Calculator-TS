@@ -1,0 +1,20 @@
+{
+    "id": "356104",
+    "ident": "IN-0321",
+    "type": "heliport",
+    "name": "Jhakri SJVN Heliport",
+    "latitude_deg": "31.4899",
+    "longitude_deg": "77.70754",
+    "elevation_ft": "4420",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-HP",
+    "municipality": "Shimla",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

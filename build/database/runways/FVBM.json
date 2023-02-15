@@ -1,0 +1,20 @@
+{
+    "id": "31220",
+    "ident": "FVBM",
+    "type": "small_airport",
+    "name": "Bumi Hills Airport",
+    "latitude_deg": "-16.816485",
+    "longitude_deg": "28.344786",
+    "elevation_ft": "1650",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MW",
+    "municipality": "Bumi",
+    "scheduled_service": "no",
+    "gps_code": "FVBM",
+    "iata_code": "BZH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

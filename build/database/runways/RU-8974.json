@@ -1,0 +1,20 @@
+{
+    "id": "35119",
+    "ident": "RU-8974",
+    "type": "medium_airport",
+    "name": "Yaroslavl Levtsovo Air Base",
+    "latitude_deg": "57.729377",
+    "longitude_deg": "40.046008",
+    "elevation_ft": "331",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-YAR",
+    "municipality": "Yaroslavl",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yaroslavl_Levtsovo",
+    "keywords": ""
+}

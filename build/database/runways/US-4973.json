@@ -1,0 +1,20 @@
+{
+    "id": "346908",
+    "ident": "US-4973",
+    "type": "heliport",
+    "name": "King Air Heliport",
+    "latitude_deg": "40.622639",
+    "longitude_deg": "-75.900833",
+    "elevation_ft": "561",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Kempton",
+    "scheduled_service": "no",
+    "gps_code": "3PS6",
+    "iata_code": "",
+    "local_code": "3PS6",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

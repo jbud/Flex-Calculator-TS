@@ -1,0 +1,20 @@
+{
+    "id": "43757",
+    "ident": "EBLO",
+    "type": "heliport",
+    "name": "Orban heliport",
+    "latitude_deg": "50.630727",
+    "longitude_deg": "5.571717",
+    "elevation_ft": "160",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-WLG",
+    "municipality": "Liège",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "EBLO"
+}

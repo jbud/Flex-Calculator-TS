@@ -1,0 +1,20 @@
+{
+    "id": "32522",
+    "ident": "MHUT",
+    "type": "small_airport",
+    "name": "Utila Airport",
+    "latitude_deg": "16.1131",
+    "longitude_deg": "-86.880302",
+    "elevation_ft": "29",
+    "continent": "NA",
+    "iso_country": "HN",
+    "iso_region": "HN-IB",
+    "municipality": "Utila Island",
+    "scheduled_service": "yes",
+    "gps_code": "MHUT",
+    "iata_code": "UII",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/%C3%9Atila_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31462",
+    "ident": "FZTS",
+    "type": "small_airport",
+    "name": "Kasese Kaniama Airport",
+    "latitude_deg": "-7.698494",
+    "longitude_deg": "24.049416",
+    "elevation_ft": "2871",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-HL",
+    "municipality": "Kasese",
+    "scheduled_service": "no",
+    "gps_code": "FZTS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "353938",
+    "ident": "SI3A",
+    "type": "small_airport",
+    "name": "Fazenda Santa Joana Airports",
+    "latitude_deg": "-20.181194",
+    "longitude_deg": "-52.979625",
+    "elevation_ft": "1430",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Água Clara",
+    "scheduled_service": "no",
+    "gps_code": "SI3A",
+    "iata_code": "",
+    "local_code": "MS0606",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

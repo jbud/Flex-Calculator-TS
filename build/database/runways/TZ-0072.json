@@ -1,0 +1,20 @@
+{
+    "id": "318633",
+    "ident": "TZ-0072",
+    "type": "small_airport",
+    "name": "Ihanda Airstrip",
+    "latitude_deg": "-1.552361",
+    "longitude_deg": "31.104871",
+    "elevation_ft": "4900",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-05",
+    "municipality": "Ihanda",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

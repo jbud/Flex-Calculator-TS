@@ -1,0 +1,20 @@
+{
+    "id": "31728",
+    "ident": "GFBO",
+    "type": "medium_airport",
+    "name": "Bo Airport",
+    "latitude_deg": "7.9444",
+    "longitude_deg": "-11.761",
+    "elevation_ft": "328",
+    "continent": "AF",
+    "iso_country": "SL",
+    "iso_region": "SL-S",
+    "municipality": "Bo",
+    "scheduled_service": "yes",
+    "gps_code": "GFBO",
+    "iata_code": "KBS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bo_Airport",
+    "keywords": ""
+}

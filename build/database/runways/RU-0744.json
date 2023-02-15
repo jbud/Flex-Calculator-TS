@@ -1,0 +1,20 @@
+{
+    "id": "346999",
+    "ident": "RU-0744",
+    "type": "small_airport",
+    "name": "Khokhlatskaya-1 Airport",
+    "latitude_deg": "48.61991",
+    "longitude_deg": "135.12234",
+    "elevation_ft": "118",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KHA",
+    "municipality": "Vinogradovka",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ZB0K",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

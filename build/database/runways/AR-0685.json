@@ -1,0 +1,20 @@
+{
+    "id": "348451",
+    "ident": "AR-0685",
+    "type": "small_airport",
+    "name": "Monte Aymond Airport",
+    "latitude_deg": "-52.12706",
+    "longitude_deg": "-69.50706",
+    "elevation_ft": "538",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-Z",
+    "municipality": "Estancia Monte Aymond",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "353582",
+    "ident": "ZA-0296",
+    "type": "small_airport",
+    "name": "Twee Rivieren Airport",
+    "latitude_deg": "-26.44869",
+    "longitude_deg": "20.60723",
+    "elevation_ft": "2933",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Twee Rivieren",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Two Rivers"
+}

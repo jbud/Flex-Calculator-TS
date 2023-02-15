@@ -1,0 +1,20 @@
+{
+    "id": "31380",
+    "ident": "FZFS",
+    "type": "small_airport",
+    "name": "Karawa Airport",
+    "latitude_deg": "3.36156",
+    "longitude_deg": "20.298979",
+    "elevation_ft": "1640",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-NU",
+    "municipality": "Karawa",
+    "scheduled_service": "no",
+    "gps_code": "FZFS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

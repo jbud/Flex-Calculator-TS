@@ -1,0 +1,20 @@
+{
+    "id": "46480",
+    "ident": "AU-0046",
+    "type": "small_airport",
+    "name": "Lake Eyre North",
+    "latitude_deg": "-28.416666666699996",
+    "longitude_deg": "137.3",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LEYN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

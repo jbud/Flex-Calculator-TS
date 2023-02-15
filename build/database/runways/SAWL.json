@@ -1,0 +1,20 @@
+{
+    "id": "41560",
+    "ident": "SAWL",
+    "type": "small_airport",
+    "name": "Tolhuin Lago Fagnano Airport",
+    "latitude_deg": "-54.499596",
+    "longitude_deg": "-67.172084",
+    "elevation_ft": "90",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-V",
+    "municipality": "Tolhuin",
+    "scheduled_service": "no",
+    "gps_code": "SAWL",
+    "iata_code": "",
+    "local_code": "TOL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

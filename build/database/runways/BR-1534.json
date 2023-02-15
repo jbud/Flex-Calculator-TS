@@ -1,0 +1,20 @@
+{
+    "id": "343317",
+    "ident": "BR-1534",
+    "type": "small_airport",
+    "name": "Fazenda Seriema Airstrip",
+    "latitude_deg": "-22.053386",
+    "longitude_deg": "-53.338666",
+    "elevation_ft": "1440",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Nova Andradina",
+    "scheduled_service": "no",
+    "gps_code": "SNPS",
+    "iata_code": "",
+    "local_code": "MS0409",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "322403",
+    "ident": "FK-0022",
+    "type": "small_airport",
+    "name": "Lively Island Airport",
+    "latitude_deg": "-51.995626",
+    "longitude_deg": "-58.459238",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "FK",
+    "iso_region": "FK-U-A",
+    "municipality": "Lively",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

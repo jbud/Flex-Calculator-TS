@@ -1,0 +1,20 @@
+{
+    "id": "313838",
+    "ident": "AU-0081",
+    "type": "small_airport",
+    "name": "Lady Elliot Island Airstrip",
+    "latitude_deg": "-24.1129",
+    "longitude_deg": "152.7156",
+    "elevation_ft": "20",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Lady Elliot Island",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "LYT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "308530",
+    "ident": "YLP",
+    "type": "small_airport",
+    "name": "Mingan Airport",
+    "latitude_deg": "50.2869",
+    "longitude_deg": "-64.1528",
+    "elevation_ft": "70",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Longue-Pointe-de-Mingan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "YLP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Longue-Pointe-de-Mingan"
+}

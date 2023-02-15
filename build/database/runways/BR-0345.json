@@ -1,0 +1,20 @@
+{
+    "id": "328890",
+    "ident": "BR-0345",
+    "type": "heliport",
+    "name": "AVL Heliport",
+    "latitude_deg": "-22.100428",
+    "longitude_deg": "-41.782074",
+    "elevation_ft": "89",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Conceição de Macabu",
+    "scheduled_service": "no",
+    "gps_code": "SSAX",
+    "iata_code": "",
+    "local_code": "RJ0143",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

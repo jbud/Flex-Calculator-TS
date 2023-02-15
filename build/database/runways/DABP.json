@@ -1,0 +1,20 @@
+{
+    "id": "312615",
+    "ident": "DABP",
+    "type": "closed",
+    "name": "Skikda Airport",
+    "latitude_deg": "36.8641",
+    "longitude_deg": "6.9516",
+    "elevation_ft": "27",
+    "continent": "AF",
+    "iso_country": "DZ",
+    "iso_region": "DZ-21",
+    "municipality": "Skikda",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Skikda_Airport",
+    "keywords": "DABP, SKI, Philippeville Airfield"
+}

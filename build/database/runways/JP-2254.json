@@ -1,0 +1,20 @@
+{
+    "id": "344858",
+    "ident": "JP-2254",
+    "type": "small_airport",
+    "name": "Shirosato Auxiliary Airfield",
+    "latitude_deg": "36.53145",
+    "longitude_deg": "140.35816",
+    "elevation_ft": "70",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-08",
+    "municipality": "Shirosato",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

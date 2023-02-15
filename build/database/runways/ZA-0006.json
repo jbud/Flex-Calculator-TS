@@ -1,0 +1,20 @@
+{
+    "id": "41160",
+    "ident": "ZA-0006",
+    "type": "small_airport",
+    "name": "Brosterlea Farm Airport",
+    "latitude_deg": "-31.28333282470703",
+    "longitude_deg": "26.566667556762695",
+    "elevation_ft": "5500",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Brosterlea Farm",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

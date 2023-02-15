@@ -1,0 +1,20 @@
+{
+    "id": "353245",
+    "ident": "ZA-0261",
+    "type": "small_airport",
+    "name": "Kakamas West Airport",
+    "latitude_deg": "-28.76598",
+    "longitude_deg": "20.57473",
+    "elevation_ft": "2224",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Kakamas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

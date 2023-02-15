@@ -1,0 +1,20 @@
+{
+    "id": "321710",
+    "ident": "AR-0588",
+    "type": "small_airport",
+    "name": "Malfatto Airport",
+    "latitude_deg": "-35.1517",
+    "longitude_deg": "-60.5056",
+    "elevation_ft": "187",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Bragado",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "BMO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Pulverizaciones Aereas Walter Malfatto"
+}

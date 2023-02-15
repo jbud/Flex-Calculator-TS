@@ -1,0 +1,20 @@
+{
+    "id": "29857",
+    "ident": "FAES",
+    "type": "small_airport",
+    "name": "Eshowe Airport",
+    "latitude_deg": "-28.880199432373047",
+    "longitude_deg": "31.45490074157715",
+    "elevation_ft": "1601",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Eshowe",
+    "scheduled_service": "no",
+    "gps_code": "FAES",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

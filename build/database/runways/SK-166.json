@@ -1,0 +1,20 @@
+{
+    "id": "40784",
+    "ident": "SK-166",
+    "type": "small_airport",
+    "name": "La Dilia Airport",
+    "latitude_deg": "9.895",
+    "longitude_deg": "-73.408889",
+    "elevation_ft": "208",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CES",
+    "municipality": "Codazzi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LAD",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

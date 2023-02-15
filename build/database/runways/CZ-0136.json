@@ -1,0 +1,20 @@
+{
+    "id": "321090",
+    "ident": "CZ-0136",
+    "type": "small_airport",
+    "name": "Strachotice Airstrip",
+    "latitude_deg": "48.806369",
+    "longitude_deg": "16.162371",
+    "elevation_ft": "695",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-JM",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

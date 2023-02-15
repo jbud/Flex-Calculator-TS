@@ -1,0 +1,20 @@
+{
+    "id": "308189",
+    "ident": "AYMK",
+    "type": "small_airport",
+    "name": "Mok Airport",
+    "latitude_deg": "-5.730238",
+    "longitude_deg": "149.056583",
+    "elevation_ft": "1050",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-WBK",
+    "municipality": "Mok",
+    "scheduled_service": "no",
+    "gps_code": "AYMK",
+    "iata_code": "",
+    "local_code": "MOK",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

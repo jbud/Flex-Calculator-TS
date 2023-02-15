@@ -1,0 +1,20 @@
+{
+    "id": "430257",
+    "ident": "CA-0814",
+    "type": "small_airport",
+    "name": "Brébeuf Airport",
+    "latitude_deg": "48.39487",
+    "longitude_deg": "-66.38389",
+    "elevation_ft": "1923",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Nouvelle-Ouest",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

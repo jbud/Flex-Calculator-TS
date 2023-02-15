@@ -1,0 +1,20 @@
+{
+    "id": "337109",
+    "ident": "BR-1195",
+    "type": "small_airport",
+    "name": "Fazenda Timbaúba Airport",
+    "latitude_deg": "-12.519207",
+    "longitude_deg": "-46.150635",
+    "elevation_ft": "2851",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Luís Eduardo Magalhães",
+    "scheduled_service": "no",
+    "gps_code": "SNTV",
+    "iata_code": "",
+    "local_code": "BA0144",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

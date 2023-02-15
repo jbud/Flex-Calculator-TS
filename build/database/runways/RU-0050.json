@@ -1,0 +1,20 @@
+{
+    "id": "42991",
+    "ident": "RU-0050",
+    "type": "medium_airport",
+    "name": "Yamburg Airport",
+    "latitude_deg": "67.986664",
+    "longitude_deg": "75.099998",
+    "elevation_ft": "108",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-YAN",
+    "municipality": "Yamburg",
+    "scheduled_service": "yes",
+    "gps_code": "USMQ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yamburg_Airport",
+    "keywords": ""
+}

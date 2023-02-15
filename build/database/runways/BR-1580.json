@@ -1,0 +1,20 @@
+{
+    "id": "345410",
+    "ident": "BR-1580",
+    "type": "small_airport",
+    "name": "Fazenda Bom Retiro Airstrip",
+    "latitude_deg": "-22.177192",
+    "longitude_deg": "-50.387186",
+    "elevation_ft": "1411",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Quintana",
+    "scheduled_service": "no",
+    "gps_code": "SNTK",
+    "iata_code": "",
+    "local_code": "SP1284",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

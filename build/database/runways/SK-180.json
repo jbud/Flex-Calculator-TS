@@ -1,0 +1,20 @@
+{
+    "id": "40762",
+    "ident": "SK-180",
+    "type": "small_airport",
+    "name": "Pororó Airport",
+    "latitude_deg": "9.9375",
+    "longitude_deg": "-73.273889",
+    "elevation_ft": "291",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CES",
+    "municipality": "Codazzi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "PRO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "44067",
+    "ident": "GL-0004",
+    "type": "small_airport",
+    "name": "Raven Skiway",
+    "latitude_deg": "66.316666",
+    "longitude_deg": "-46.283333",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "GL",
+    "iso_region": "GL-QA",
+    "municipality": "Raven Camp",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "RABVA, DYE-2 Radar Site"
+}

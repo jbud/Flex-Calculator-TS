@@ -1,0 +1,20 @@
+{
+    "id": "28493",
+    "ident": "EDGA",
+    "type": "small_airport",
+    "name": "Ailertchen Airport",
+    "latitude_deg": "50.593055725097656",
+    "longitude_deg": "7.945000171661377",
+    "elevation_ft": "1542",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-RP",
+    "municipality": "Ailertchen",
+    "scheduled_service": "no",
+    "gps_code": "EDGA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

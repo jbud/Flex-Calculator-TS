@@ -1,0 +1,20 @@
+{
+    "id": "505503",
+    "ident": "US-7402",
+    "type": "small_airport",
+    "name": "Ora Airport",
+    "latitude_deg": "31.65656",
+    "longitude_deg": "-89.58551",
+    "elevation_ft": "339",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Collins",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

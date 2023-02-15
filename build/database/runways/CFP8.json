@@ -1,0 +1,20 @@
+{
+    "id": "979",
+    "ident": "CFP8",
+    "type": "small_airport",
+    "name": "Whitehorse / Cousins Airport",
+    "latitude_deg": "60.8117343999",
+    "longitude_deg": "-135.182132721",
+    "elevation_ft": "2200",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-YT",
+    "municipality": "Whitehorse",
+    "scheduled_service": "no",
+    "gps_code": "CFP8",
+    "iata_code": "",
+    "local_code": "CFP8",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Whitehorse/Cousins_Airport",
+    "keywords": "FP8"
+}

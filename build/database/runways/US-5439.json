@@ -1,0 +1,20 @@
+{
+    "id": "348295",
+    "ident": "US-5439",
+    "type": "small_airport",
+    "name": "RT-337 Landing Strip",
+    "latitude_deg": "31.44336",
+    "longitude_deg": "-85.86206",
+    "elevation_ft": "427",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "New Brockton",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

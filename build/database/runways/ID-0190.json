@@ -1,0 +1,20 @@
+{
+    "id": "347153",
+    "ident": "ID-0190",
+    "type": "small_airport",
+    "name": "Sorake Airport",
+    "latitude_deg": "0.58884",
+    "longitude_deg": "97.71899",
+    "elevation_ft": "125",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-SU",
+    "municipality": "Teluk Dalam",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

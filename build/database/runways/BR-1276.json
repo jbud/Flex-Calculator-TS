@@ -1,0 +1,20 @@
+{
+    "id": "337873",
+    "ident": "BR-1276",
+    "type": "small_airport",
+    "name": "Fazenda Formosa Airstrip",
+    "latitude_deg": "-10.703416",
+    "longitude_deg": "-45.389524",
+    "elevation_ft": "2516",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Formosa do Rio Preto",
+    "scheduled_service": "no",
+    "gps_code": "SJQU",
+    "iata_code": "",
+    "local_code": "BA0121",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

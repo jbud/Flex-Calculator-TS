@@ -1,0 +1,20 @@
+{
+    "id": "429917",
+    "ident": "NZ-0045",
+    "type": "small_airport",
+    "name": "Sandhills Airstrip",
+    "latitude_deg": "-35.05828",
+    "longitude_deg": "173.21385",
+    "elevation_ft": "85",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-NTL",
+    "municipality": "Awanui",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

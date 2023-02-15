@@ -1,0 +1,20 @@
+{
+    "id": "39458",
+    "ident": "SLSS",
+    "type": "small_airport",
+    "name": "Sunsas Airport",
+    "latitude_deg": "-18.4754",
+    "longitude_deg": "-58.2767",
+    "elevation_ft": "855",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Sunsas",
+    "scheduled_service": "no",
+    "gps_code": "SLSS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

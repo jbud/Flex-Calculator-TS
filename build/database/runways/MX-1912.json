@@ -1,0 +1,20 @@
+{
+    "id": "351410",
+    "ident": "MX-1912",
+    "type": "heliport",
+    "name": "Torre Lomas Helipad",
+    "latitude_deg": "19.428518",
+    "longitude_deg": "-99.216059",
+    "elevation_ft": "7372",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-DIF",
+    "municipality": "Torre Lomas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "HLT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

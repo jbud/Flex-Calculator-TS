@@ -1,0 +1,20 @@
+{
+    "id": "320214",
+    "ident": "RO-0014",
+    "type": "small_airport",
+    "name": "Aerodromul Alexeni",
+    "latitude_deg": "44.704857",
+    "longitude_deg": "26.720739",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RO",
+    "iso_region": "RO-IL",
+    "municipality": "Alexeni",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

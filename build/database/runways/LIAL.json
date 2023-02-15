@@ -1,0 +1,20 @@
+{
+    "id": "317856",
+    "ident": "LIAL",
+    "type": "small_airport",
+    "name": "Aviosuperficie Sant'Illuminato",
+    "latitude_deg": "43.353667",
+    "longitude_deg": "12.216667",
+    "elevation_ft": "984",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-55",
+    "municipality": "Città di Castello (PG)",
+    "scheduled_service": "no",
+    "gps_code": "LIAL",
+    "iata_code": "",
+    "local_code": "PG07",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "44473",
+    "ident": "UHMK",
+    "type": "medium_airport",
+    "name": "Keperveem Airport",
+    "latitude_deg": "67.845001",
+    "longitude_deg": "166.139999",
+    "elevation_ft": "623",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-CHU",
+    "municipality": "Keperveem",
+    "scheduled_service": "yes",
+    "gps_code": "UHMK",
+    "iata_code": "KPW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Keperveyem Airport, Аэропорт Кепервеем"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "322354",
+    "ident": "CF-0004",
+    "type": "small_airport",
+    "name": "Boda Airport",
+    "latitude_deg": "4.313039",
+    "longitude_deg": "17.48594",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "CF",
+    "iso_region": "CF-LB",
+    "municipality": "Boda",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "345143",
+    "ident": "SD3P",
+    "type": "small_airport",
+    "name": "Fazenda Morando Airstrip",
+    "latitude_deg": "-22.085556",
+    "longitude_deg": "-52.851389",
+    "elevation_ft": "1188",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Anaurilândia",
+    "scheduled_service": "no",
+    "gps_code": "SD3P",
+    "iata_code": "",
+    "local_code": "MS0503",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "323766",
+    "ident": "LPGO",
+    "type": "heliport",
+    "name": "Almada Hospital Heliport",
+    "latitude_deg": "38.675075",
+    "longitude_deg": "-9.177355",
+    "elevation_ft": "338",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-11",
+    "municipality": "Almada",
+    "scheduled_service": "no",
+    "gps_code": "LPGO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

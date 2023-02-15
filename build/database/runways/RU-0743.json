@@ -1,0 +1,20 @@
+{
+    "id": "346998",
+    "ident": "RU-0743",
+    "type": "small_airport",
+    "name": "Khabarovsk Tsentralny Airfield",
+    "latitude_deg": "48.46262",
+    "longitude_deg": "135.15165",
+    "elevation_ft": "190",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KHA",
+    "municipality": "Khabarovsk",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Khabarovsk_Tsentralny",
+    "keywords": ""
+}

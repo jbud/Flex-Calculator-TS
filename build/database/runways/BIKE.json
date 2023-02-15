@@ -1,0 +1,20 @@
+{
+    "id": "30732",
+    "ident": "BIKE",
+    "type": "small_airport",
+    "name": "Kerlingafjöll Airport",
+    "latitude_deg": "64.70500183105469",
+    "longitude_deg": "-19.410600662231445",
+    "elevation_ft": "2100",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-8",
+    "municipality": "Kerlingafjöll",
+    "scheduled_service": "no",
+    "gps_code": "BIKE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

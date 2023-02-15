@@ -1,0 +1,20 @@
+{
+    "id": "42931",
+    "ident": "UIBV",
+    "type": "medium_airport",
+    "name": "Zheleznogorsk Airport",
+    "latitude_deg": "56.487701416015625",
+    "longitude_deg": "104.10600280761719",
+    "elevation_ft": "1946",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-IRK",
+    "municipality": "Zheleznogorsk-Ilimsky",
+    "scheduled_service": "no",
+    "gps_code": "UIBV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Zheleznogorsk_Airport",
+    "keywords": "Аэропорт Железногорск"
+}

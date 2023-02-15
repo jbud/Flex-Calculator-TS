@@ -1,0 +1,20 @@
+{
+    "id": "41929",
+    "ident": "MRBM",
+    "type": "small_airport",
+    "name": "Bremen Airport",
+    "latitude_deg": "10.219499588012695",
+    "longitude_deg": "-83.58450317382812",
+    "elevation_ft": "102",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-L",
+    "municipality": "Guacimo",
+    "scheduled_service": "no",
+    "gps_code": "MRBM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "314040",
+    "ident": "MJJ",
+    "type": "small_airport",
+    "name": "Moki Airport",
+    "latitude_deg": "-5.7181",
+    "longitude_deg": "145.2404",
+    "elevation_ft": "3030",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-MPM",
+    "municipality": "Moki",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "MJJ",
+    "local_code": "MOKI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

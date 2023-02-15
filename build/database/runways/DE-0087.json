@@ -1,0 +1,20 @@
+{
+    "id": "309873",
+    "ident": "DE-0087",
+    "type": "small_airport",
+    "name": "Hallertau Airfield",
+    "latitude_deg": "48.64972",
+    "longitude_deg": "11.59687",
+    "elevation_ft": "1266",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Holledau",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.lsv-paf.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

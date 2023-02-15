@@ -1,0 +1,20 @@
+{
+    "id": "9000",
+    "ident": "24IN",
+    "type": "small_airport",
+    "name": "Kenstin Manor Airport",
+    "latitude_deg": "39.262813",
+    "longitude_deg": "-86.289003",
+    "elevation_ft": "658",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Helmsburg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "24IN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "24IN"
+}

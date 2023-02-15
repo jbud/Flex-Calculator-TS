@@ -1,0 +1,20 @@
+{
+    "id": "312933",
+    "ident": "IBI",
+    "type": "small_airport",
+    "name": "Iboki Airport",
+    "latitude_deg": "-5.5536",
+    "longitude_deg": "149.19",
+    "elevation_ft": "13",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-WBK",
+    "municipality": "Iboki",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "IBI",
+    "local_code": "IBK",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Iaboki"
+}

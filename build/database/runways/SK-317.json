@@ -1,0 +1,20 @@
+{
+    "id": "40800",
+    "ident": "SK-317",
+    "type": "small_airport",
+    "name": "Las Juanas Airport",
+    "latitude_deg": "3.823333",
+    "longitude_deg": "-73.532222",
+    "elevation_ft": "1017",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-MET",
+    "municipality": "Castilla La Nueva",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LAU",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

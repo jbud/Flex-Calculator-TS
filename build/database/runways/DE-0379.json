@@ -1,0 +1,20 @@
+{
+    "id": "320912",
+    "ident": "DE-0379",
+    "type": "small_airport",
+    "name": "UL-Flugplatz Litzlohe",
+    "latitude_deg": "49.3519444",
+    "longitude_deg": "11.4888889",
+    "elevation_ft": "1876",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Pilsach auf der Heid",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Litzlohe"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31955",
+    "ident": "MRSL",
+    "type": "small_airport",
+    "name": "Salama Airport",
+    "latitude_deg": "8.789362",
+    "longitude_deg": "-83.271432",
+    "elevation_ft": "32",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-P",
+    "municipality": "Salama",
+    "scheduled_service": "no",
+    "gps_code": "MRSL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

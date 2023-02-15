@@ -1,0 +1,20 @@
+{
+    "id": "34968",
+    "ident": "RU-4827",
+    "type": "medium_airport",
+    "name": "Cheryomushki Air Base",
+    "latitude_deg": "52.072963",
+    "longitude_deg": "113.433267",
+    "elevation_ft": "2221",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-CHI",
+    "municipality": "Chita",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chita_Northwest",
+    "keywords": "Chita-2 Air Base, Chita Northwest Air Base, Аэродром Черёмушки, Аэродром Черемушки, Аэродром Чита-2"
+}

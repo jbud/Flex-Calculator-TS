@@ -1,0 +1,20 @@
+{
+    "id": "320176",
+    "ident": "IT-0415",
+    "type": "small_airport",
+    "name": "Campo di Volo Scaligero",
+    "latitude_deg": "45.317999",
+    "longitude_deg": "10.708789",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-34",
+    "municipality": "Valeggio (VR)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "VRVAL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Scaligero"
+}

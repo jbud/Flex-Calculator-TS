@@ -1,0 +1,20 @@
+{
+    "id": "41649",
+    "ident": "KG-0010",
+    "type": "small_airport",
+    "name": "Frunze Northwest Airport",
+    "latitude_deg": "42.91419982910156",
+    "longitude_deg": "74.50830078125",
+    "elevation_ft": "2311",
+    "continent": "AS",
+    "iso_country": "KG",
+    "iso_region": "KG-C",
+    "municipality": "Bishkek",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

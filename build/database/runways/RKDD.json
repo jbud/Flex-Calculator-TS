@@ -1,0 +1,20 @@
+{
+    "id": "300346",
+    "ident": "RKDD",
+    "type": "heliport",
+    "name": "N 105 Helipad",
+    "latitude_deg": "37.239445",
+    "longitude_deg": "131.868781",
+    "elevation_ft": "270",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-47",
+    "municipality": "Dokdo (Liancourt Rocks)",
+    "scheduled_service": "yes",
+    "gps_code": "RKDD",
+    "iata_code": "",
+    "local_code": "RK8A",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Dokdo Island"
+}

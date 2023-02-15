@@ -1,0 +1,20 @@
+{
+    "id": "342267",
+    "ident": "RU-0701",
+    "type": "heliport",
+    "name": "Vertikos Heliport",
+    "latitude_deg": "59.37987",
+    "longitude_deg": "79.67266",
+    "elevation_ft": "290",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-TOM",
+    "municipality": "Vertikos",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

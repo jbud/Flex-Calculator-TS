@@ -1,0 +1,20 @@
+{
+    "id": "41849",
+    "ident": "JP-0001",
+    "type": "seaplane_base",
+    "name": "JMSDF Chichijima Airfield",
+    "latitude_deg": "27.090231",
+    "longitude_deg": "142.192032",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-13",
+    "municipality": "Ogasawara",
+    "scheduled_service": "no",
+    "gps_code": "RJAO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chichijima_Airfield",
+    "keywords": "rjao, chichijima"
+}

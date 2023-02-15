@@ -1,0 +1,20 @@
+{
+    "id": "39329",
+    "ident": "SHAC",
+    "type": "heliport",
+    "name": "Asociación Chilena de Seguridad Heliport",
+    "latitude_deg": "-33.44361114501953",
+    "longitude_deg": "-70.6322250366211",
+    "elevation_ft": "1969",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Santiago",
+    "scheduled_service": "no",
+    "gps_code": "SHAC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "43671",
+    "ident": "UWWB",
+    "type": "medium_airport",
+    "name": "Buguruslan Severny Airport",
+    "latitude_deg": "53.71839904789999",
+    "longitude_deg": "52.3718986511",
+    "elevation_ft": "728",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-ORE",
+    "municipality": "Buguruslan",
+    "scheduled_service": "no",
+    "gps_code": "UWWB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Buguruslan North Airport, Аэропорт Бугуруслан Северный"
+}

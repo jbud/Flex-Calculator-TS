@@ -1,0 +1,20 @@
+{
+    "id": "323800",
+    "ident": "SE-0042",
+    "type": "small_airport",
+    "name": "Pålsträsket Airstrip",
+    "latitude_deg": "65.639347",
+    "longitude_deg": "21.231589",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-BD",
+    "municipality": "Pålsträsk",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

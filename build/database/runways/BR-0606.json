@@ -1,0 +1,20 @@
+{
+    "id": "333798",
+    "ident": "BR-0606",
+    "type": "small_airport",
+    "name": "Pousada Juruena Airstrip",
+    "latitude_deg": "-9.369167",
+    "longitude_deg": "-58.541389",
+    "elevation_ft": "696",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Nova Bandeirantes",
+    "scheduled_service": "no",
+    "gps_code": "SSPJ",
+    "iata_code": "",
+    "local_code": "MT0603",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

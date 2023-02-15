@@ -1,0 +1,20 @@
+{
+    "id": "43234",
+    "ident": "LELM",
+    "type": "small_airport",
+    "name": "Almansa Airfield",
+    "latitude_deg": "38.895",
+    "longitude_deg": "-1.11318",
+    "elevation_ft": "2248",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CM",
+    "municipality": "Almansa",
+    "scheduled_service": "no",
+    "gps_code": "LELM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

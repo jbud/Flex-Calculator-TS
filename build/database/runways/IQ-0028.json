@@ -1,0 +1,20 @@
+{
+    "id": "44521",
+    "ident": "IQ-0028",
+    "type": "small_airport",
+    "name": "Karbala Northeast Airport",
+    "latitude_deg": "32.755466",
+    "longitude_deg": "44.127552",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "IQ",
+    "iso_region": "IQ-BB",
+    "municipality": "Karbala",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

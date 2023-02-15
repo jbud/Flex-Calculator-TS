@@ -1,0 +1,20 @@
+{
+    "id": "342269",
+    "ident": "RU-0703",
+    "type": "small_airport",
+    "name": "Parabel Airport",
+    "latitude_deg": "58.70748",
+    "longitude_deg": "81.46433",
+    "elevation_ft": "177",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-TOM",
+    "municipality": "Parabel",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

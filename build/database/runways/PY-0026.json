@@ -1,0 +1,20 @@
+{
+    "id": "505532",
+    "ident": "PY-0026",
+    "type": "heliport",
+    "name": "Helipuerto del Edificio Miami",
+    "latitude_deg": "-25.297592",
+    "longitude_deg": "-57.575859",
+    "elevation_ft": "416",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-ASU",
+    "municipality": "Edificio Miami",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.cci.com.py/portfolio-item/edificio-miami/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

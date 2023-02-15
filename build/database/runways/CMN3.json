@@ -1,0 +1,20 @@
+{
+    "id": "320678",
+    "ident": "CMN3",
+    "type": "small_airport",
+    "name": "St-Michel-de-Napierville Airport",
+    "latitude_deg": "45.213804",
+    "longitude_deg": "-73.576",
+    "elevation_ft": "206",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "St-Michel-de-Napierville",
+    "scheduled_service": "no",
+    "gps_code": "CMN3",
+    "iata_code": "",
+    "local_code": "CMN3",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Saint-Michel-de-Napierville_Aerodrome",
+    "keywords": ""
+}

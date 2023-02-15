@@ -1,0 +1,20 @@
+{
+    "id": "352133",
+    "ident": "TN-0011",
+    "type": "heliport",
+    "name": "A1 Utique Heliport",
+    "latitude_deg": "37.05679",
+    "longitude_deg": "9.99858",
+    "elevation_ft": "62",
+    "continent": "AF",
+    "iso_country": "TN",
+    "iso_region": "TN-23",
+    "municipality": "Utique",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

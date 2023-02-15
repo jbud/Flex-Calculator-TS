@@ -1,0 +1,20 @@
+{
+    "id": "44545",
+    "ident": "IQ-0051",
+    "type": "medium_airport",
+    "name": "Tal Ashtah New Air Base",
+    "latitude_deg": "35.139721",
+    "longitude_deg": "44.133888",
+    "elevation_ft": "611",
+    "continent": "AS",
+    "iso_country": "IQ",
+    "iso_region": "IQ-TS",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

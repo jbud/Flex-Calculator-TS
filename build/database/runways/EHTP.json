@@ -1,0 +1,20 @@
+{
+    "id": "43209",
+    "ident": "EHTP",
+    "type": "heliport",
+    "name": "Maasvlakte Heliport",
+    "latitude_deg": "51.95940017700195",
+    "longitude_deg": "4.090000152587891",
+    "elevation_ft": "3",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-ZH",
+    "municipality": "Rotterdam",
+    "scheduled_service": "no",
+    "gps_code": "EHTP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Maasvlakte_Heliport",
+    "keywords": ""
+}

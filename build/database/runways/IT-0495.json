@@ -1,0 +1,20 @@
+{
+    "id": "321109",
+    "ident": "IT-0495",
+    "type": "small_airport",
+    "name": "Campo di Volo privato Bigarello",
+    "latitude_deg": "45.170815",
+    "longitude_deg": "10.929061",
+    "elevation_ft": "70",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-25",
+    "municipality": "Bigarello (MN)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MNBIG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

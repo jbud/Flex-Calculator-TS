@@ -1,0 +1,20 @@
+{
+    "id": "31054",
+    "ident": "FAOL",
+    "type": "small_airport",
+    "name": "Othawa Airport",
+    "latitude_deg": "-24.732999801635742",
+    "longitude_deg": "31.399999618530273",
+    "elevation_ft": "1098",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "Otthawa",
+    "scheduled_service": "no",
+    "gps_code": "FAOL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "340490",
+    "ident": "EHAD",
+    "type": "heliport",
+    "name": "Ameland Heliport",
+    "latitude_deg": "53.450925",
+    "longitude_deg": "5.682351",
+    "elevation_ft": "11",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-FR",
+    "municipality": "Ameland",
+    "scheduled_service": "no",
+    "gps_code": "EHAD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.ehal.nl/",
+    "wikipedia_link": "https://nl.wikipedia.org/wiki/Ameland_Airport_Ballum",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "42493",
+    "ident": "TZ-0001",
+    "type": "small_airport",
+    "name": "Mtera Airport",
+    "latitude_deg": "-7.097152",
+    "longitude_deg": "35.981575",
+    "elevation_ft": "2399",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-03",
+    "municipality": "Mtera",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

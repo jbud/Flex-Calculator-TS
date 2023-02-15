@@ -1,0 +1,20 @@
+{
+    "id": "323060",
+    "ident": "SE-0028",
+    "type": "small_airport",
+    "name": "Charlottenberg Airstrip",
+    "latitude_deg": "59.8942235",
+    "longitude_deg": "12.2722539",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-S",
+    "municipality": "Charlottenberg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

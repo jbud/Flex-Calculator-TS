@@ -1,0 +1,20 @@
+{
+    "id": "44977",
+    "ident": "IR-0013",
+    "type": "small_airport",
+    "name": "Sarvestan Airport",
+    "latitude_deg": "29.235207",
+    "longitude_deg": "53.127337",
+    "elevation_ft": "4898",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-07",
+    "municipality": "Taleb Beygi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

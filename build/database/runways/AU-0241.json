@@ -1,0 +1,20 @@
+{
+    "id": "350523",
+    "ident": "AU-0241",
+    "type": "small_airport",
+    "name": "Saint Lawrence",
+    "latitude_deg": "-22.375139",
+    "longitude_deg": "149.459767",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Saint Lawrence",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

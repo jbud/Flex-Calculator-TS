@@ -1,0 +1,20 @@
+{
+    "id": "336749",
+    "ident": "JP-0481",
+    "type": "heliport",
+    "name": "Akita University Hospital Heliport",
+    "latitude_deg": "39.729873",
+    "longitude_deg": "140.151075",
+    "elevation_ft": "87",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-05",
+    "municipality": "Akita",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

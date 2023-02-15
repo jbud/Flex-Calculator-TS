@@ -1,0 +1,20 @@
+{
+    "id": "42455",
+    "ident": "GR-0005",
+    "type": "closed",
+    "name": "Spetsai Airport",
+    "latitude_deg": "37.3489",
+    "longitude_deg": "23.254",
+    "elevation_ft": "1",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-J",
+    "municipality": "Spetsai",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

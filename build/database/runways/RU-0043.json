@@ -1,0 +1,20 @@
+{
+    "id": "42971",
+    "ident": "RU-0043",
+    "type": "medium_airport",
+    "name": "Mius Airport",
+    "latitude_deg": "54.9583320618",
+    "longitude_deg": "43.311668396",
+    "elevation_ft": "525",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-NIZ",
+    "municipality": "Sarov",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "XUDM",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sarovo_Airport",
+    "keywords": "Sarov Airport, Аэропорт Миус, Аэропорт Саров, ЬУДМ"
+}

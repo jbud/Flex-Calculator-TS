@@ -1,0 +1,20 @@
+{
+    "id": "41234",
+    "ident": "FADM",
+    "type": "small_airport",
+    "name": "Kokstad Airport",
+    "latitude_deg": "-30.556499481201172",
+    "longitude_deg": "29.408199310302734",
+    "elevation_ft": "4084",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Kokstad",
+    "scheduled_service": "no",
+    "gps_code": "FADM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

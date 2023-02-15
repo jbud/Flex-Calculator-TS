@@ -1,0 +1,20 @@
+{
+    "id": "315624",
+    "ident": "DPT",
+    "type": "small_airport",
+    "name": "Deputatskiy Airport",
+    "latitude_deg": "69.392503",
+    "longitude_deg": "139.890012",
+    "elevation_ft": "950",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-SA",
+    "municipality": "Deputatskiy",
+    "scheduled_service": "yes",
+    "gps_code": "UEBD",
+    "iata_code": "DPT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Deputatsky_Airport",
+    "keywords": "УЕБД, Deputatsky Airport, Аэропорт Депутатский, Deputy Airport"
+}

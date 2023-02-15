@@ -1,0 +1,20 @@
+{
+    "id": "29321",
+    "ident": "ESGC",
+    "type": "small_airport",
+    "name": "Ålleberg Airport",
+    "latitude_deg": "58.134498596191406",
+    "longitude_deg": "13.60260009765625",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Q",
+    "municipality": "Ålleberg",
+    "scheduled_service": "no",
+    "gps_code": "ESGC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

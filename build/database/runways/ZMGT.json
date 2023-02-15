@@ -1,0 +1,20 @@
+{
+    "id": "354385",
+    "ident": "ZMGT",
+    "type": "small_airport",
+    "name": "Ovoot Airport",
+    "latitude_deg": "43.01192",
+    "longitude_deg": "101.333781",
+    "elevation_ft": "5171",
+    "continent": "AS",
+    "iso_country": "MN",
+    "iso_region": "MN-055",
+    "municipality": "Ovoot Tolgoi, Ömnögovi",
+    "scheduled_service": "no",
+    "gps_code": "ZMGT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ovoot_Airport",
+    "keywords": ""
+}

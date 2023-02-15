@@ -1,0 +1,20 @@
+{
+    "id": "41110",
+    "ident": "SETG",
+    "type": "small_airport",
+    "name": "Tenguel Airport",
+    "latitude_deg": "-2.998017",
+    "longitude_deg": "-79.795922",
+    "elevation_ft": "33",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-G",
+    "municipality": "Tenguel",
+    "scheduled_service": "no",
+    "gps_code": "SETG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

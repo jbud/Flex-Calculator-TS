@@ -1,0 +1,20 @@
+{
+    "id": "39421",
+    "ident": "SLCE",
+    "type": "small_airport",
+    "name": "Cabezas Airport",
+    "latitude_deg": "-18.795400619506836",
+    "longitude_deg": "-63.30030059814453",
+    "elevation_ft": "1328",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Cordillera",
+    "scheduled_service": "no",
+    "gps_code": "SLCE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

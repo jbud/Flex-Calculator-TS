@@ -1,0 +1,20 @@
+{
+    "id": "309310",
+    "ident": "YPRI",
+    "type": "heliport",
+    "name": "Princess Alexandra Hospital Helipad",
+    "latitude_deg": "-27.50018",
+    "longitude_deg": "153.0338",
+    "elevation_ft": "200",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Brisbane",
+    "scheduled_service": "no",
+    "gps_code": "YPRI",
+    "iata_code": "",
+    "local_code": "YPRI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

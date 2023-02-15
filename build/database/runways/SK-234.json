@@ -1,0 +1,20 @@
+{
+    "id": "40931",
+    "ident": "SK-234",
+    "type": "small_airport",
+    "name": "El Limonar Airport",
+    "latitude_deg": "2.626944",
+    "longitude_deg": "-75.356944",
+    "elevation_ft": "1888",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-HUI",
+    "municipality": "Campo Alegre",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ELH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "43736",
+    "ident": "EBHA",
+    "type": "heliport",
+    "name": "Ham heliport",
+    "latitude_deg": "51.07935333251953",
+    "longitude_deg": "5.109154224395752",
+    "elevation_ft": "98",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-VLI",
+    "municipality": "Ham",
+    "scheduled_service": "no",
+    "gps_code": "EBHA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "42460",
+    "ident": "MM-0005",
+    "type": "small_airport",
+    "name": "Shinbweyang Airport",
+    "latitude_deg": "26.68600082397461",
+    "longitude_deg": "96.21040344238281",
+    "elevation_ft": "1680",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-11",
+    "municipality": "Shinbweyang",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

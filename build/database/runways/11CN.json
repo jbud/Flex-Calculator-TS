@@ -1,0 +1,20 @@
+{
+    "id": "322667",
+    "ident": "11CN",
+    "type": "heliport",
+    "name": "Shasta Regional Medical Center Heliport",
+    "latitude_deg": "40.585095",
+    "longitude_deg": "-122.387899",
+    "elevation_ft": "622",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Redding",
+    "scheduled_service": "no",
+    "gps_code": "11CN",
+    "iata_code": "",
+    "local_code": "11CN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

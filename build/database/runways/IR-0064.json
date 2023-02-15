@@ -1,0 +1,20 @@
+{
+    "id": "351579",
+    "ident": "IR-0064",
+    "type": "small_airport",
+    "name": "Karzin Airport",
+    "latitude_deg": "28.4315",
+    "longitude_deg": "53.0847",
+    "elevation_ft": "2287",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-07",
+    "municipality": "Karzin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

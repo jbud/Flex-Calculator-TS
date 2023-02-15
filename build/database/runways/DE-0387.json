@@ -1,0 +1,20 @@
+{
+    "id": "320995",
+    "ident": "DE-0387",
+    "type": "small_airport",
+    "name": "Geilsheim UL",
+    "latitude_deg": "49.0244444",
+    "longitude_deg": "10.6591667",
+    "elevation_ft": "1565",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Geilsheim",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

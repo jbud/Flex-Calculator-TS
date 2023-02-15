@@ -1,0 +1,20 @@
+{
+    "id": "340835",
+    "ident": "CN-0122",
+    "type": "heliport",
+    "name": "Fuzhou Zhuqi Heliport",
+    "latitude_deg": "26.123906",
+    "longitude_deg": "119.113959",
+    "elevation_ft": "200",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-35",
+    "municipality": "Fuzhou (Minhou)",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

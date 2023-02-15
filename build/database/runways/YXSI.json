@@ -1,0 +1,20 @@
+{
+    "id": "309351",
+    "ident": "YXSI",
+    "type": "heliport",
+    "name": "Singleton Hospital Helipad",
+    "latitude_deg": "-32.56708",
+    "longitude_deg": "151.186865",
+    "elevation_ft": "151",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Singleton",
+    "scheduled_service": "no",
+    "gps_code": "YXSI",
+    "iata_code": "",
+    "local_code": "YXSI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

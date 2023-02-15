@@ -1,0 +1,20 @@
+{
+    "id": "349460",
+    "ident": "IR-0038",
+    "type": "small_airport",
+    "name": "Mirmiro Agricultural Airport",
+    "latitude_deg": "34.56826",
+    "longitude_deg": "45.82255",
+    "elevation_ft": "1752",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-05",
+    "municipality": "Mirmiro",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

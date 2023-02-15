@@ -1,0 +1,20 @@
+{
+    "id": "41105",
+    "ident": "SEIS",
+    "type": "small_airport",
+    "name": "Isabel Maria Airport",
+    "latitude_deg": "-1.86667001247406",
+    "longitude_deg": "-79.7332992553711",
+    "elevation_ft": "20",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-G",
+    "municipality": "América",
+    "scheduled_service": "no",
+    "gps_code": "SEIS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

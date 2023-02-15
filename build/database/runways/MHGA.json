@@ -1,0 +1,20 @@
+{
+    "id": "42064",
+    "ident": "MHGA",
+    "type": "small_airport",
+    "name": "Chumbagua Airport",
+    "latitude_deg": "15.24246",
+    "longitude_deg": "-88.49044",
+    "elevation_ft": "300",
+    "continent": "NA",
+    "iso_country": "HN",
+    "iso_region": "HN-SB",
+    "municipality": "Chumbagua",
+    "scheduled_service": "no",
+    "gps_code": "MHGA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

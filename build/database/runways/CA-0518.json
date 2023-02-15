@@ -1,0 +1,20 @@
+{
+    "id": "307391",
+    "ident": "CA-0518",
+    "type": "small_airport",
+    "name": "Ivanhoe Airstrip",
+    "latitude_deg": "48.1830555556",
+    "longitude_deg": "-82.5492361111",
+    "elevation_ft": "1195",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Ivanhoe",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "29492",
+    "ident": "LPSR",
+    "type": "small_airport",
+    "name": "Santarém Airfield",
+    "latitude_deg": "39.209499",
+    "longitude_deg": "-8.6883",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-14",
+    "municipality": "Santarém",
+    "scheduled_service": "no",
+    "gps_code": "LPSR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

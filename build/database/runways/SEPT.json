@@ -1,0 +1,20 @@
+{
+    "id": "41130",
+    "ident": "SEPT",
+    "type": "small_airport",
+    "name": "Putumayo Airport",
+    "latitude_deg": "0.115949",
+    "longitude_deg": "-75.85022",
+    "elevation_ft": "733",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-U",
+    "municipality": "Puerto Putumayo",
+    "scheduled_service": "no",
+    "gps_code": "SEPT",
+    "iata_code": "PYO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

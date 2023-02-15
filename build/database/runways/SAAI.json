@@ -1,0 +1,20 @@
+{
+    "id": "30303",
+    "ident": "SAAI",
+    "type": "small_airport",
+    "name": "Punta Indio Naval Air Base",
+    "latitude_deg": "-35.353298",
+    "longitude_deg": "-57.290001",
+    "elevation_ft": "49",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Veronica",
+    "scheduled_service": "no",
+    "gps_code": "SAAI",
+    "iata_code": "",
+    "local_code": "PDI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "30515",
+    "ident": "FAUR",
+    "type": "small_airport",
+    "name": "Utrecht Airport",
+    "latitude_deg": "-27.680500030517578",
+    "longitude_deg": "30.31679916381836",
+    "elevation_ft": "4101",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Utrecht",
+    "scheduled_service": "no",
+    "gps_code": "FAUR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

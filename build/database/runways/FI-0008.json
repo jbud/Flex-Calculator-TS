@@ -1,0 +1,20 @@
+{
+    "id": "347090",
+    "ident": "FI-0008",
+    "type": "small_airport",
+    "name": "Soini Airfield",
+    "latitude_deg": "62.861405",
+    "longitude_deg": "24.165115",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-03",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

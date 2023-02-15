@@ -1,0 +1,20 @@
+{
+    "id": "355524",
+    "ident": "US-6936",
+    "type": "small_airport",
+    "name": "Lake Camp Airport",
+    "latitude_deg": "58.680683",
+    "longitude_deg": "-156.497895",
+    "elevation_ft": "213",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "King Salmon",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

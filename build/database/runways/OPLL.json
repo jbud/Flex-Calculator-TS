@@ -1,0 +1,20 @@
+{
+    "id": "41620",
+    "ident": "OPLL",
+    "type": "small_airport",
+    "name": "Loralai Airport",
+    "latitude_deg": "30.355499267578125",
+    "longitude_deg": "68.6135025024414",
+    "elevation_ft": "4631",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-BA",
+    "municipality": "Loralai",
+    "scheduled_service": "no",
+    "gps_code": "OPLL",
+    "iata_code": "LRG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

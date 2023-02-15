@@ -1,0 +1,20 @@
+{
+    "id": "315567",
+    "ident": "DE-0229",
+    "type": "small_airport",
+    "name": "Schlechtenfeld Airport",
+    "latitude_deg": "48.284722",
+    "longitude_deg": "9.673333",
+    "elevation_ft": "1811",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Ehingen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.sfc-ehingen.de",
+    "wikipedia_link": "",
+    "keywords": ""
+}

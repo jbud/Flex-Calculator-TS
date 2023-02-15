@@ -1,0 +1,20 @@
+{
+    "id": "41103",
+    "ident": "SE17",
+    "type": "heliport",
+    "name": "Pepsicola Heliport",
+    "latitude_deg": "-2.1191670894622803",
+    "longitude_deg": "-79.9352798461914",
+    "elevation_ft": "15",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-G",
+    "municipality": "Guayaquil",
+    "scheduled_service": "no",
+    "gps_code": "SE17",
+    "iata_code": "",
+    "local_code": "SE17",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

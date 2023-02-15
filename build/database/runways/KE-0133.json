@@ -1,0 +1,20 @@
+{
+    "id": "318736",
+    "ident": "KE-0133",
+    "type": "small_airport",
+    "name": "Kichwa Tembo Airport",
+    "latitude_deg": "-1.263497",
+    "longitude_deg": "35.027533",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-700",
+    "municipality": "Kichwa Tembo",
+    "scheduled_service": "no",
+    "gps_code": "HKTB",
+    "iata_code": "KTJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "41432",
+    "ident": "WAKD",
+    "type": "small_airport",
+    "name": "Mindiptana Airport",
+    "latitude_deg": "-5.876929",
+    "longitude_deg": "140.70946",
+    "elevation_ft": "121",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PS",
+    "municipality": "Mindiptana-Papua Island",
+    "scheduled_service": "no",
+    "gps_code": "WAKD",
+    "iata_code": "MDP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://id.wikipedia.org/wiki/Bandar_Udara_Mindiptana",
+    "keywords": ""
+}

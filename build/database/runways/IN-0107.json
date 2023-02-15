@@ -1,0 +1,20 @@
+{
+    "id": "331218",
+    "ident": "IN-0107",
+    "type": "small_airport",
+    "name": "Sindhudurg Airport",
+    "latitude_deg": "16.002552",
+    "longitude_deg": "73.529846",
+    "elevation_ft": "203",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-MM",
+    "municipality": "Chipi",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sindhudurg_Airport",
+    "keywords": "VA85"
+}

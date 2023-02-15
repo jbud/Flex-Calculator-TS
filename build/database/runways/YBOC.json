@@ -1,0 +1,20 @@
+{
+    "id": "27401",
+    "ident": "YBOC",
+    "type": "small_airport",
+    "name": "Booleroo Centre Airport",
+    "latitude_deg": "-32.88989",
+    "longitude_deg": "138.366382",
+    "elevation_ft": "418",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YBOC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

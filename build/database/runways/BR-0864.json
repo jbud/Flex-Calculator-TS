@@ -1,0 +1,20 @@
+{
+    "id": "335394",
+    "ident": "BR-0864",
+    "type": "heliport",
+    "name": "Heliponto Conduspar",
+    "latitude_deg": "-25.572524",
+    "longitude_deg": "-49.152381",
+    "elevation_ft": "3064",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "São José dos Pinhais",
+    "scheduled_service": "no",
+    "gps_code": "SIFY",
+    "iata_code": "",
+    "local_code": "PR0107",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

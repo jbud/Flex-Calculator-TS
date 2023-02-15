@@ -1,0 +1,20 @@
+{
+    "id": "40267",
+    "ident": "SVQK",
+    "type": "small_airport",
+    "name": "Tierra Negra Airport",
+    "latitude_deg": "9.678333282470703",
+    "longitude_deg": "-66.163330078125",
+    "elevation_ft": "924",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-J",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVQK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

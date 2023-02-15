@@ -1,0 +1,20 @@
+{
+    "id": "350275",
+    "ident": "US-5919",
+    "type": "small_airport",
+    "name": "Irvin Ranch Airport",
+    "latitude_deg": "31.0666",
+    "longitude_deg": "-98.24368",
+    "elevation_ft": "1220",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Lampasas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

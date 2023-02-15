@@ -1,0 +1,20 @@
+{
+    "id": "31961",
+    "ident": "GVMT",
+    "type": "small_airport",
+    "name": "Mosteiros Airport",
+    "latitude_deg": "15.045000076293945",
+    "longitude_deg": "-24.33919906616211",
+    "elevation_ft": "66",
+    "continent": "AF",
+    "iso_country": "CV",
+    "iso_region": "CV-S",
+    "municipality": "Vila do Mosteiros",
+    "scheduled_service": "no",
+    "gps_code": "GVMT",
+    "iata_code": "MTI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Fogo Island"
+}

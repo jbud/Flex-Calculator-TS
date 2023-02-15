@@ -1,0 +1,20 @@
+{
+    "id": "46281",
+    "ident": "RU-0391",
+    "type": "small_airport",
+    "name": "Vikhrevo Airfield",
+    "latitude_deg": "56.240187",
+    "longitude_deg": "38.159867",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-MOS",
+    "municipality": "Sergiyev Posad",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.vihrevo.ru/",
+    "wikipedia_link": "",
+    "keywords": "Аэродром Вихрево"
+}

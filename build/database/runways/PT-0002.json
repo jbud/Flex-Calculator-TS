@@ -1,0 +1,20 @@
+{
+    "id": "43770",
+    "ident": "PT-0002",
+    "type": "heliport",
+    "name": "Barlavento Algarvio Hospital Heliport",
+    "latitude_deg": "37.156737",
+    "longitude_deg": "-8.540811",
+    "elevation_ft": "161",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-08",
+    "municipality": "Portimão",
+    "scheduled_service": "no",
+    "gps_code": "LPBA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

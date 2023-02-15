@@ -1,0 +1,20 @@
+{
+    "id": "430508",
+    "ident": "CN-0396",
+    "type": "medium_airport",
+    "name": "Shaodong Airport",
+    "latitude_deg": "27.2235",
+    "longitude_deg": "111.6741",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-43",
+    "municipality": "Shaoyang (Shaodong)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "32714",
+    "ident": "VYYE",
+    "type": "small_airport",
+    "name": "Ye Airport",
+    "latitude_deg": "15.301361",
+    "longitude_deg": "97.864288",
+    "elevation_ft": "30",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-15",
+    "municipality": "Ye",
+    "scheduled_service": "no",
+    "gps_code": "VYYE",
+    "iata_code": "XYE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

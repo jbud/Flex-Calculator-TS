@@ -1,0 +1,20 @@
+{
+    "id": "32251",
+    "ident": "OPSB",
+    "type": "small_airport",
+    "name": "Sibi Airport",
+    "latitude_deg": "29.571199417114258",
+    "longitude_deg": "67.847900390625",
+    "elevation_ft": "436",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-BA",
+    "municipality": "Sibi",
+    "scheduled_service": "no",
+    "gps_code": "OPSB",
+    "iata_code": "SBQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

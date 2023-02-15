@@ -1,0 +1,20 @@
+{
+    "id": "340282",
+    "ident": "FYHN",
+    "type": "small_airport",
+    "name": "Henties Bay Airport",
+    "latitude_deg": "-22.10345",
+    "longitude_deg": "14.3025",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "NA",
+    "iso_region": "NA-ER",
+    "municipality": "Henties Bay",
+    "scheduled_service": "no",
+    "gps_code": "FYHN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

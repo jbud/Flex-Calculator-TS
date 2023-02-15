@@ -1,0 +1,20 @@
+{
+    "id": "318672",
+    "ident": "TZ-0110",
+    "type": "small_airport",
+    "name": "Ng'Wazi Airport",
+    "latitude_deg": "-8.522635",
+    "longitude_deg": "35.179545",
+    "elevation_ft": "6040",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-04",
+    "municipality": "Ng'Wazi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

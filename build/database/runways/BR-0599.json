@@ -1,0 +1,20 @@
+{
+    "id": "333786",
+    "ident": "BR-0599",
+    "type": "small_airport",
+    "name": "Fazenda São Diego Airport",
+    "latitude_deg": "-10.628026",
+    "longitude_deg": "-45.742818",
+    "elevation_ft": "2510",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Formosa do Rio Preto",
+    "scheduled_service": "no",
+    "gps_code": "SDYE",
+    "iata_code": "",
+    "local_code": "BA0082",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

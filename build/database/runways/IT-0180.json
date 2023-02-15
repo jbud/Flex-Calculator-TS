@@ -1,0 +1,20 @@
+{
+    "id": "317363",
+    "ident": "IT-0180",
+    "type": "small_airport",
+    "name": "Aviosuperficie \"Il Gabbiano\"",
+    "latitude_deg": "43.051711",
+    "longitude_deg": "10.552012",
+    "elevation_ft": "43",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-52",
+    "municipality": "San Vincenzo (LI)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LISVC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Gabbiano, Il Gabbiano"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40129",
+    "ident": "SVEW",
+    "type": "small_airport",
+    "name": "El Cenizo Airport",
+    "latitude_deg": "9.550000190734863",
+    "longitude_deg": "-70.68333435058594",
+    "elevation_ft": "426",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-T",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVEW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

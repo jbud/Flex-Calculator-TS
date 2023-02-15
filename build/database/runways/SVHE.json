@@ -1,0 +1,20 @@
+{
+    "id": "40152",
+    "ident": "SVHE",
+    "type": "small_airport",
+    "name": "Hato Rancho Alegre Airport",
+    "latitude_deg": "9.566666603088379",
+    "longitude_deg": "-67.56666564941406",
+    "elevation_ft": "534",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-J",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVHE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

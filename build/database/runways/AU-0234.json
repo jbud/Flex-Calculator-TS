@@ -1,0 +1,20 @@
+{
+    "id": "350511",
+    "ident": "AU-0234",
+    "type": "small_airport",
+    "name": "Texas AIrstrip",
+    "latitude_deg": "-28.834683",
+    "longitude_deg": "151.15208",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Texas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

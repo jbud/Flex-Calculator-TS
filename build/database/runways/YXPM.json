@@ -1,0 +1,20 @@
+{
+    "id": "309376",
+    "ident": "YXPM",
+    "type": "heliport",
+    "name": "Port Macquarie Hospital Helipad",
+    "latitude_deg": "-31.452683",
+    "longitude_deg": "152.88076",
+    "elevation_ft": "32",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Port Macquarie",
+    "scheduled_service": "no",
+    "gps_code": "YXPM",
+    "iata_code": "",
+    "local_code": "YXPM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40839",
+    "ident": "SK-173",
+    "type": "small_airport",
+    "name": "La Palma Airport",
+    "latitude_deg": "9.839444",
+    "longitude_deg": "-73.867222",
+    "elevation_ft": "175",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CES",
+    "municipality": "Bosconia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LPA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

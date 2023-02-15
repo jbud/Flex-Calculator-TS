@@ -1,0 +1,20 @@
+{
+    "id": "354504",
+    "ident": "FLFW",
+    "type": "small_airport",
+    "name": "Fiwila Airport",
+    "latitude_deg": "-13.975102",
+    "longitude_deg": "29.6259",
+    "elevation_ft": "3983",
+    "continent": "AF",
+    "iso_country": "ZM",
+    "iso_region": "ZM-02",
+    "municipality": "Fiwila",
+    "scheduled_service": "no",
+    "gps_code": "FLFW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

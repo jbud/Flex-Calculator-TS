@@ -1,0 +1,20 @@
+{
+    "id": "351017",
+    "ident": "RU-0774",
+    "type": "small_airport",
+    "name": "Galitskiy Aerodrome",
+    "latitude_deg": "54.83703",
+    "longitude_deg": "58.36763",
+    "elevation_ft": "1388",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-CHE",
+    "municipality": "Yuryuzan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

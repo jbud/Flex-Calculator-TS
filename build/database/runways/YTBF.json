@@ -1,0 +1,20 @@
+{
+    "id": "298312",
+    "ident": "YTBF",
+    "type": "small_airport",
+    "name": "Pattaya Airpark",
+    "latitude_deg": "12.8325",
+    "longitude_deg": "100.949444",
+    "elevation_ft": "100",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-20",
+    "municipality": "Pattaya (Bang Lamung)",
+    "scheduled_service": "no",
+    "gps_code": "VTBF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pattaya_Airpark",
+    "keywords": ""
+}

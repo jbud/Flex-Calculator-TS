@@ -1,0 +1,20 @@
+{
+    "id": "30759",
+    "ident": "BIBK",
+    "type": "small_airport",
+    "name": "Bakkafjörður Airport",
+    "latitude_deg": "66.02189636230469",
+    "longitude_deg": "-14.824399948120117",
+    "elevation_ft": "14",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-6",
+    "municipality": "Bakkafjörður",
+    "scheduled_service": "no",
+    "gps_code": "BIBK",
+    "iata_code": "BJD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "505427",
+    "ident": "EG-0030",
+    "type": "heliport",
+    "name": "El Tor Sinai Armed Forces Hospital Heliport",
+    "latitude_deg": "28.22944",
+    "longitude_deg": "33.63996",
+    "elevation_ft": "92",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-JS",
+    "municipality": "El Tor",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

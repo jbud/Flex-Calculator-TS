@@ -1,0 +1,20 @@
+{
+    "id": "324359",
+    "ident": "BR-0293",
+    "type": "heliport",
+    "name": "Fronteira Heliport",
+    "latitude_deg": "-23.767603",
+    "longitude_deg": "-45.348194",
+    "elevation_ft": "269",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Ilhabela",
+    "scheduled_service": "no",
+    "gps_code": "SWZB",
+    "iata_code": "",
+    "local_code": "SP0844",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

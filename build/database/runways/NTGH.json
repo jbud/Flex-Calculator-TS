@@ -1,0 +1,20 @@
+{
+    "id": "31577",
+    "ident": "NTGH",
+    "type": "small_airport",
+    "name": "Hikueru Airport",
+    "latitude_deg": "-17.548297",
+    "longitude_deg": "-142.612037",
+    "elevation_ft": "5",
+    "continent": "OC",
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "Hikueru",
+    "scheduled_service": "no",
+    "gps_code": "NTGH",
+    "iata_code": "HHZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

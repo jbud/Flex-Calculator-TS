@@ -1,0 +1,20 @@
+{
+    "id": "506400",
+    "ident": "SJ48",
+    "type": "small_airport",
+    "name": "Fazenda São Vicente Airport",
+    "latitude_deg": "-15.915035",
+    "longitude_deg": "-55.304195",
+    "elevation_ft": "2733",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Jaciara",
+    "scheduled_service": "no",
+    "gps_code": "SJ48",
+    "iata_code": "",
+    "local_code": "MT0817",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

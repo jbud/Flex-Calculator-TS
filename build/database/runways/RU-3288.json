@@ -1,0 +1,20 @@
+{
+    "id": "35105",
+    "ident": "RU-3288",
+    "type": "small_airport",
+    "name": "Umbozero Air Base",
+    "latitude_deg": "67.5134273155",
+    "longitude_deg": "34.3068695068",
+    "elevation_ft": "518",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-MUR",
+    "municipality": "Umbozero",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Umbozero_(airport)",
+    "keywords": ""
+}

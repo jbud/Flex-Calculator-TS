@@ -1,0 +1,20 @@
+{
+    "id": "430492",
+    "ident": "BR-1733",
+    "type": "small_airport",
+    "name": "Fazenda Santa Alaydes Airstrip",
+    "latitude_deg": "-18.459633",
+    "longitude_deg": "-55.533335",
+    "elevation_ft": "531",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Corumbá",
+    "scheduled_service": "no",
+    "gps_code": "SDDA",
+    "iata_code": "",
+    "local_code": "MS0026",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

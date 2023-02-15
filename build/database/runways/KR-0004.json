@@ -1,0 +1,20 @@
+{
+    "id": "300043",
+    "ident": "KR-0004",
+    "type": "heliport",
+    "name": "Ganghwa Do Heliport",
+    "latitude_deg": "37.767488",
+    "longitude_deg": "126.437163",
+    "elevation_ft": "146",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-28",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "RK90",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

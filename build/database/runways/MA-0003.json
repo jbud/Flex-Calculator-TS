@@ -1,0 +1,20 @@
+{
+    "id": "356161",
+    "ident": "MA-0003",
+    "type": "medium_airport",
+    "name": "Mahbes Airbase",
+    "latitude_deg": "27.726982",
+    "longitude_deg": "-9.237865",
+    "elevation_ft": "1623",
+    "continent": "AF",
+    "iso_country": "MA",
+    "iso_region": "MA-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "GMAR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

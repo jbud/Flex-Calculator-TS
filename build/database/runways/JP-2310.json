@@ -1,0 +1,20 @@
+{
+    "id": "345703",
+    "ident": "JP-2310",
+    "type": "heliport",
+    "name": "Mishima Heliport",
+    "latitude_deg": "35.12286",
+    "longitude_deg": "138.94456",
+    "elevation_ft": "259",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-22",
+    "municipality": "Mishima",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

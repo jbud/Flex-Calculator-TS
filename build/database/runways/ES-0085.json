@@ -1,0 +1,20 @@
+{
+    "id": "320645",
+    "ident": "ES-0085",
+    "type": "small_airport",
+    "name": "Aeródromo forestal de Ademuz",
+    "latitude_deg": "40.091464",
+    "longitude_deg": "-1.210474",
+    "elevation_ft": "3970",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-VC",
+    "municipality": "Ademuz",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

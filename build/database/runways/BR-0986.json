@@ -1,0 +1,20 @@
+{
+    "id": "335680",
+    "ident": "BR-0986",
+    "type": "small_airport",
+    "name": "Pista Aldeia Pykatô",
+    "latitude_deg": "-8.475134",
+    "longitude_deg": "-51.663419",
+    "elevation_ft": "1073",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Cumaru do Norte",
+    "scheduled_service": "no",
+    "gps_code": "SIPY",
+    "iata_code": "",
+    "local_code": "PA0053",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

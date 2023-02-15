@@ -1,0 +1,20 @@
+{
+    "id": "504547",
+    "ident": "CA-0817",
+    "type": "small_airport",
+    "name": "Cheney",
+    "latitude_deg": "45.400971",
+    "longitude_deg": "-75.242771",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Cheney",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40102",
+    "ident": "SVCM",
+    "type": "small_airport",
+    "name": "Cañita Mendera Airport",
+    "latitude_deg": "9.683333396911621",
+    "longitude_deg": "-68.41666412353516",
+    "elevation_ft": "662",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-H",
+    "municipality": "Tinaco",
+    "scheduled_service": "no",
+    "gps_code": "SVCM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

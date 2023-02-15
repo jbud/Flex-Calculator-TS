@@ -1,0 +1,20 @@
+{
+    "id": "505014",
+    "ident": "IR-0148",
+    "type": "small_airport",
+    "name": "Bayda Agricultural Airport",
+    "latitude_deg": "29.92596",
+    "longitude_deg": "52.49911",
+    "elevation_ft": "5246",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-07",
+    "municipality": "Jari Abad",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

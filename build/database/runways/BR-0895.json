@@ -1,0 +1,20 @@
+{
+    "id": "335451",
+    "ident": "BR-0895",
+    "type": "heliport",
+    "name": "Bira Guimarães Heliport",
+    "latitude_deg": "-23.195379",
+    "longitude_deg": "-46.094771",
+    "elevation_ft": "2290",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Igaratá",
+    "scheduled_service": "no",
+    "gps_code": "SIIX",
+    "iata_code": "",
+    "local_code": "SP0508",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

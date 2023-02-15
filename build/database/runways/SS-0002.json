@@ -1,0 +1,20 @@
+{
+    "id": "308300",
+    "ident": "SS-0002",
+    "type": "small_airport",
+    "name": "Duk Payuel Airstrip",
+    "latitude_deg": "7.47704",
+    "longitude_deg": "31.51449",
+    "elevation_ft": "1357",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-20",
+    "municipality": "Duk Payuel",
+    "scheduled_service": "no",
+    "gps_code": "HJDP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Duk Faiwil, Ager"
+}

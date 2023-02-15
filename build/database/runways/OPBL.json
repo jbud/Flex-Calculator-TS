@@ -1,0 +1,20 @@
+{
+    "id": "41611",
+    "ident": "OPBL",
+    "type": "small_airport",
+    "name": "Bela Airport",
+    "latitude_deg": "29.49220085144043",
+    "longitude_deg": "71.11840057373047",
+    "elevation_ft": "347",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-PB",
+    "municipality": "Khan Bela",
+    "scheduled_service": "no",
+    "gps_code": "OPBL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

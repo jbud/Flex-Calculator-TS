@@ -1,0 +1,20 @@
+{
+    "id": "32002",
+    "ident": "SYAN",
+    "type": "small_airport",
+    "name": "Annai Airport",
+    "latitude_deg": "3.959439992904663",
+    "longitude_deg": "-59.12419891357422",
+    "elevation_ft": "301",
+    "continent": "SA",
+    "iso_country": "GY",
+    "iso_region": "GY-UT",
+    "municipality": "Annai",
+    "scheduled_service": "no",
+    "gps_code": "SYAN",
+    "iata_code": "NAI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

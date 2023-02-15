@@ -1,0 +1,20 @@
+{
+    "id": "42016",
+    "ident": "MSRC",
+    "type": "small_airport",
+    "name": "El Ronco Airport",
+    "latitude_deg": "14.31871509552002",
+    "longitude_deg": "-89.50689697265625",
+    "elevation_ft": "1460",
+    "continent": "NA",
+    "iso_country": "SV",
+    "iso_region": "SV-SA",
+    "municipality": "Metapán",
+    "scheduled_service": "no",
+    "gps_code": "MSRC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

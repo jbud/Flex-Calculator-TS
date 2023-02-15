@@ -1,0 +1,20 @@
+{
+    "id": "41144",
+    "ident": "FALR",
+    "type": "small_airport",
+    "name": "Steytlerville Airport",
+    "latitude_deg": "-33.33700180053711",
+    "longitude_deg": "24.321399688720703",
+    "elevation_ft": "1450",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Steytlerville",
+    "scheduled_service": "no",
+    "gps_code": "FALR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

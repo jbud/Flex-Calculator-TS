@@ -1,0 +1,20 @@
+{
+    "id": "31272",
+    "ident": "FVYT",
+    "type": "small_airport",
+    "name": "Inyati Airport",
+    "latitude_deg": "-19.700000762939453",
+    "longitude_deg": "28.850000381469727",
+    "elevation_ft": "4400",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MN",
+    "municipality": "Inyati",
+    "scheduled_service": "no",
+    "gps_code": "FVYT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

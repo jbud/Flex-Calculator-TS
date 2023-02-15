@@ -1,0 +1,20 @@
+{
+    "id": "309254",
+    "ident": "YMHP",
+    "type": "heliport",
+    "name": "Mackay Base Hospital Helipad",
+    "latitude_deg": "-21.14543",
+    "longitude_deg": "149.15445",
+    "elevation_ft": "34",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Mackay",
+    "scheduled_service": "no",
+    "gps_code": "YMHP",
+    "iata_code": "",
+    "local_code": "YMHP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

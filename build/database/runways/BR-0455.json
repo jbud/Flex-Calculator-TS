@@ -1,0 +1,20 @@
+{
+    "id": "331766",
+    "ident": "BR-0455",
+    "type": "heliport",
+    "name": "Praia da Costa Helipad",
+    "latitude_deg": "-20.343285",
+    "longitude_deg": "-40.289668",
+    "elevation_ft": "187",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-ES",
+    "municipality": "Vila Velha",
+    "scheduled_service": "no",
+    "gps_code": "SNBP",
+    "iata_code": "",
+    "local_code": "ES0021",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

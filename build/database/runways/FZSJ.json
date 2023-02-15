@@ -1,0 +1,20 @@
+{
+    "id": "31460",
+    "ident": "FZSJ",
+    "type": "small_airport",
+    "name": "Kasaji Airport",
+    "latitude_deg": "-10.371989",
+    "longitude_deg": "23.42577",
+    "elevation_ft": "3297",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-LU",
+    "municipality": "Kasaji",
+    "scheduled_service": "no",
+    "gps_code": "FZSJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "336185",
+    "ident": "BR-1103",
+    "type": "heliport",
+    "name": "Helicentro do Pontal",
+    "latitude_deg": "-23.01408",
+    "longitude_deg": "-43.500232",
+    "elevation_ft": "7",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Rio de Janeiro",
+    "scheduled_service": "no",
+    "gps_code": "SJDA",
+    "iata_code": "",
+    "local_code": "RJ0099",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

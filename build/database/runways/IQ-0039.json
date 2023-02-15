@@ -1,0 +1,20 @@
+{
+    "id": "44533",
+    "ident": "IQ-0039",
+    "type": "medium_airport",
+    "name": "Rasheed Air Base",
+    "latitude_deg": "33.279327",
+    "longitude_deg": "44.493706",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "IQ",
+    "iso_region": "IQ-BG",
+    "municipality": "Baghdad",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rasheed_Air_Base",
+    "keywords": "RAF Hinaidi, Alsalam Air Base"
+}

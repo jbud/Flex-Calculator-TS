@@ -1,0 +1,20 @@
+{
+    "id": "429845",
+    "ident": "NZOR",
+    "type": "heliport",
+    "name": "Oamaru Hospital Heliport",
+    "latitude_deg": "-45.099344",
+    "longitude_deg": "170.967479",
+    "elevation_ft": "13",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-OTA",
+    "municipality": "Oamaru",
+    "scheduled_service": "no",
+    "gps_code": "NZOR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

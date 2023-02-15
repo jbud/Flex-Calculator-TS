@@ -1,0 +1,20 @@
+{
+    "id": "337872",
+    "ident": "BR-1275",
+    "type": "small_airport",
+    "name": "Fazenda Santa Tereza Airport",
+    "latitude_deg": "-11.468114",
+    "longitude_deg": "-54.055199",
+    "elevation_ft": "1191",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "União do Sul",
+    "scheduled_service": "no",
+    "gps_code": "SJQS",
+    "iata_code": "",
+    "local_code": "MT0453",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

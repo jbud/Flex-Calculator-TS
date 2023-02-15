@@ -1,0 +1,20 @@
+{
+    "id": "317565",
+    "ident": "FBGS",
+    "type": "small_airport",
+    "name": "Grassland Airport",
+    "latitude_deg": "-21.7255",
+    "longitude_deg": "22.362657",
+    "elevation_ft": "3495",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-GH",
+    "municipality": "Grassland Lodge",
+    "scheduled_service": "no",
+    "gps_code": "FBGS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "FB18"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "330178",
+    "ident": "US-1070",
+    "type": "heliport",
+    "name": "Sports Complex N Lot Heliport",
+    "latitude_deg": "39.901544",
+    "longitude_deg": "-75.161344",
+    "elevation_ft": "26",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Philadelphia",
+    "scheduled_service": "no",
+    "gps_code": "PA78",
+    "iata_code": "",
+    "local_code": "PA78",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

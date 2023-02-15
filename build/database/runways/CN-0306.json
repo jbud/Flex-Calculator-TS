@@ -1,0 +1,20 @@
+{
+    "id": "352494",
+    "ident": "CN-0306",
+    "type": "small_airport",
+    "name": "Hegang Luobei Airport",
+    "latitude_deg": "47.6144",
+    "longitude_deg": "131.39497",
+    "elevation_ft": "210",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-23",
+    "municipality": "Hegang",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

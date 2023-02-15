@@ -1,0 +1,20 @@
+{
+    "id": "31244",
+    "ident": "FVLA",
+    "type": "small_airport",
+    "name": "Langford Airport",
+    "latitude_deg": "-17.933000564575195",
+    "longitude_deg": "30.950000762939453",
+    "elevation_ft": "4600",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-ME",
+    "municipality": "Langford",
+    "scheduled_service": "no",
+    "gps_code": "FVLA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

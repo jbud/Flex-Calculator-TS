@@ -1,0 +1,20 @@
+{
+    "id": "32011",
+    "ident": "NCMN",
+    "type": "small_airport",
+    "name": "Manuae Airport",
+    "latitude_deg": "-19.269152",
+    "longitude_deg": "-158.959408",
+    "elevation_ft": "15",
+    "continent": "OC",
+    "iso_country": "CK",
+    "iso_region": "CK-U-A",
+    "municipality": "Manuae",
+    "scheduled_service": "no",
+    "gps_code": "NCMN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

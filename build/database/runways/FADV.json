@@ -1,0 +1,20 @@
+{
+    "id": "41187",
+    "ident": "FADV",
+    "type": "small_airport",
+    "name": "Devon Airport",
+    "latitude_deg": "-26.358999252319336",
+    "longitude_deg": "28.78969955444336",
+    "elevation_ft": "5460",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-GT",
+    "municipality": "Devon",
+    "scheduled_service": "no",
+    "gps_code": "FADV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

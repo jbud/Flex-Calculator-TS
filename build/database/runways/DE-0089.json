@@ -1,0 +1,20 @@
+{
+    "id": "309875",
+    "ident": "DE-0089",
+    "type": "small_airport",
+    "name": "Hienheim Airfield",
+    "latitude_deg": "48.87811",
+    "longitude_deg": "11.76034",
+    "elevation_ft": "1320",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Hienheim",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.fsv-kelheim.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "333095",
+    "ident": "VIF",
+    "type": "heliport",
+    "name": "Vieste Heliport",
+    "latitude_deg": "41.866417",
+    "longitude_deg": "16.165116",
+    "elevation_ft": "14",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-75",
+    "municipality": "Vieste",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

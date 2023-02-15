@@ -1,0 +1,20 @@
+{
+    "id": "351884",
+    "ident": "PH-0471",
+    "type": "small_airport",
+    "name": "Lahuy Airport",
+    "latitude_deg": "13.91954",
+    "longitude_deg": "123.81399",
+    "elevation_ft": "1",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-CAS",
+    "municipality": "Caramoan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

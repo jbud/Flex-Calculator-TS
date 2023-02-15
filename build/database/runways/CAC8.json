@@ -1,0 +1,20 @@
+{
+    "id": "28332",
+    "ident": "CAC8",
+    "type": "seaplane_base",
+    "name": "Nanaimo Harbour Water Airport",
+    "latitude_deg": "49.169813",
+    "longitude_deg": "-123.933845",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Nanaimo",
+    "scheduled_service": "yes",
+    "gps_code": "CAC8",
+    "iata_code": "ZNA",
+    "local_code": "CAC8",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nanaimo_Harbour_Water_Airport",
+    "keywords": "AC8"
+}

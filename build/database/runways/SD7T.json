@@ -1,0 +1,20 @@
+{
+    "id": "344745",
+    "ident": "SD7T",
+    "type": "heliport",
+    "name": "Base de Operações Aéreas da PRF Heliport",
+    "latitude_deg": "-29.9725",
+    "longitude_deg": "-51.176111",
+    "elevation_ft": "33",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Porto Alegre",
+    "scheduled_service": "no",
+    "gps_code": "SD7T",
+    "iata_code": "",
+    "local_code": "RS0183",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

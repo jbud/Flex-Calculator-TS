@@ -1,0 +1,20 @@
+{
+    "id": "41989",
+    "ident": "MRSH",
+    "type": "small_airport",
+    "name": "Shiroles Airport",
+    "latitude_deg": "9.580769538879395",
+    "longitude_deg": "-82.95989990234375",
+    "elevation_ft": "20",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-L",
+    "municipality": "Talamanca",
+    "scheduled_service": "no",
+    "gps_code": "MRSH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

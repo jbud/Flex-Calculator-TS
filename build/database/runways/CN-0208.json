@@ -1,0 +1,20 @@
+{
+    "id": "44286",
+    "ident": "CN-0208",
+    "type": "medium_airport",
+    "name": "Siping Air Base",
+    "latitude_deg": "43.156898",
+    "longitude_deg": "124.292",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-22",
+    "municipality": "Siping",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

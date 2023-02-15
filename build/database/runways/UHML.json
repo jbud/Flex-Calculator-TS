@@ -1,0 +1,20 @@
+{
+    "id": "42925",
+    "ident": "UHML",
+    "type": "small_airport",
+    "name": "Lavrentiya Airport",
+    "latitude_deg": "65.580426",
+    "longitude_deg": "-170.999177",
+    "elevation_ft": "30",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-CHU",
+    "municipality": "Lavrentiya",
+    "scheduled_service": "no",
+    "gps_code": "UHML",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lavrentiya_Airport",
+    "keywords": ""
+}

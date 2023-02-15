@@ -1,0 +1,20 @@
+{
+    "id": "31097",
+    "ident": "FCPE",
+    "type": "small_airport",
+    "name": "Leganda Airport",
+    "latitude_deg": "-3.433000087738037",
+    "longitude_deg": "12.932999610900879",
+    "elevation_ft": "1198",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-2",
+    "municipality": "Leganda",
+    "scheduled_service": "no",
+    "gps_code": "FCPE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

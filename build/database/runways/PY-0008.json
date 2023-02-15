@@ -1,0 +1,20 @@
+{
+    "id": "41572",
+    "ident": "PY-0008",
+    "type": "small_airport",
+    "name": "Aeródromo de Colonia Carmelo Peralta",
+    "latitude_deg": "-21.681",
+    "longitude_deg": "-57.912498",
+    "elevation_ft": "253",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-16",
+    "municipality": "Colonia Carmelo Peralta",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

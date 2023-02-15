@@ -1,0 +1,20 @@
+{
+    "id": "506481",
+    "ident": "US-7535",
+    "type": "small_airport",
+    "name": "Thunder Lane Airport",
+    "latitude_deg": "48.08533",
+    "longitude_deg": "-116.02571",
+    "elevation_ft": "2309",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Heron",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

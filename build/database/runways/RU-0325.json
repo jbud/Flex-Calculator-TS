@@ -1,0 +1,20 @@
+{
+    "id": "46153",
+    "ident": "RU-0325",
+    "type": "small_airport",
+    "name": "Ryshkovo Airfield",
+    "latitude_deg": "51.6561578589",
+    "longitude_deg": "36.1818408966",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KRS",
+    "municipality": "Kursk",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэродром Рышково"
+}

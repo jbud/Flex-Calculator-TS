@@ -1,0 +1,20 @@
+{
+    "id": "31564",
+    "ident": "HAAD",
+    "type": "small_airport",
+    "name": "Adaba Airport",
+    "latitude_deg": "7.022953",
+    "longitude_deg": "39.273162",
+    "elevation_ft": "7896",
+    "continent": "AF",
+    "iso_country": "ET",
+    "iso_region": "ET-OR",
+    "municipality": "Adaba",
+    "scheduled_service": "no",
+    "gps_code": "HAAD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

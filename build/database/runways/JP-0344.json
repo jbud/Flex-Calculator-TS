@@ -1,0 +1,20 @@
+{
+    "id": "336032",
+    "ident": "JP-0344",
+    "type": "heliport",
+    "name": "Kyoto Station Heliport",
+    "latitude_deg": "34.985834",
+    "longitude_deg": "135.75899",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-26",
+    "municipality": "Kyoto",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

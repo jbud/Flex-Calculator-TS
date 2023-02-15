@@ -1,0 +1,20 @@
+{
+    "id": "318573",
+    "ident": "TZ-0016",
+    "type": "small_airport",
+    "name": "Sasakwa Airport",
+    "latitude_deg": "-2.073124",
+    "longitude_deg": "34.510235",
+    "elevation_ft": "4301",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-13",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "349036",
+    "ident": "MX-1779",
+    "type": "small_airport",
+    "name": "La Manga Airstrip",
+    "latitude_deg": "21.489631",
+    "longitude_deg": "-104.142859",
+    "elevation_ft": "5577",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-NAY",
+    "municipality": "La Yesca",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LMA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

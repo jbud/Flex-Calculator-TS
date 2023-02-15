@@ -1,0 +1,20 @@
+{
+    "id": "31891",
+    "ident": "FZVM",
+    "type": "small_airport",
+    "name": "Mweka Airport",
+    "latitude_deg": "-4.855027",
+    "longitude_deg": "21.541786",
+    "elevation_ft": "1968",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KI",
+    "municipality": "Mweka",
+    "scheduled_service": "no",
+    "gps_code": "FZVM",
+    "iata_code": "MEW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

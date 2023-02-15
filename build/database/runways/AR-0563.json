@@ -1,0 +1,20 @@
+{
+    "id": "318313",
+    "ident": "AR-0563",
+    "type": "small_airport",
+    "name": "Beneficios S.R.L. Airport",
+    "latitude_deg": "-33.93759",
+    "longitude_deg": "-64.415095",
+    "elevation_ft": "800",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-X",
+    "municipality": "Vicuña Mackenna",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "VMB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "430213",
+    "ident": "JP-3109",
+    "type": "heliport",
+    "name": "Shinjo Medevac Heliport",
+    "latitude_deg": "34.20553",
+    "longitude_deg": "135.5154",
+    "elevation_ft": "1191",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-20",
+    "municipality": "Katsuragi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

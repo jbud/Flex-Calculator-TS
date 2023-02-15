@@ -1,0 +1,20 @@
+{
+    "id": "40875",
+    "ident": "SK-413",
+    "type": "small_airport",
+    "name": "El Recuerdo Airport",
+    "latitude_deg": "4.242778",
+    "longitude_deg": "-74.8375",
+    "elevation_ft": "968",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-TOL",
+    "municipality": "Flandes",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ELR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

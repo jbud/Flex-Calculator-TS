@@ -1,0 +1,20 @@
+{
+    "id": "39618",
+    "ident": "SPBQ",
+    "type": "small_airport",
+    "name": "Nuevo Acari Airport",
+    "latitude_deg": "-15.45003",
+    "longitude_deg": "-74.74423",
+    "elevation_ft": "590",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-ARE",
+    "municipality": "San Isidro",
+    "scheduled_service": "no",
+    "gps_code": "SPBQ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

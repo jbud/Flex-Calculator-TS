@@ -1,0 +1,20 @@
+{
+    "id": "317552",
+    "ident": "LHKI",
+    "type": "small_airport",
+    "name": "Kiskőrös-Akasztó",
+    "latitude_deg": "46.6569444",
+    "longitude_deg": "19.2425",
+    "elevation_ft": "305",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-BK",
+    "municipality": "Kiskőrös",
+    "scheduled_service": "no",
+    "gps_code": "LHKI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Akasztó"
+}

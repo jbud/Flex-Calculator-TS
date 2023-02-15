@@ -1,0 +1,20 @@
+{
+    "id": "323445",
+    "ident": "PL-0100",
+    "type": "small_airport",
+    "name": "Lotnisko Henryka Stokłosy",
+    "latitude_deg": "53.144961",
+    "longitude_deg": "16.882682",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-WP",
+    "municipality": "Śmiłowo",
+    "scheduled_service": "no",
+    "gps_code": "EPPS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

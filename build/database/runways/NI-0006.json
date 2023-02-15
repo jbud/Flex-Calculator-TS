@@ -1,0 +1,20 @@
+{
+    "id": "353596",
+    "ident": "NI-0006",
+    "type": "small_airport",
+    "name": "La Esperanza Airport",
+    "latitude_deg": "11.31509",
+    "longitude_deg": "-85.90843",
+    "elevation_ft": "82",
+    "continent": "NA",
+    "iso_country": "NI",
+    "iso_region": "NI-RI",
+    "municipality": "San Juan del Sur",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

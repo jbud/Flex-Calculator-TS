@@ -1,0 +1,20 @@
+{
+    "id": "348787",
+    "ident": "KR-1056",
+    "type": "small_airport",
+    "name": "Jeonju Airfield",
+    "latitude_deg": "35.88025",
+    "longitude_deg": "127.01474",
+    "elevation_ft": "26",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-45",
+    "municipality": "Jeonju",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "333066",
+    "ident": "EMR",
+    "type": "heliport",
+    "name": "El Mirador Heliport",
+    "latitude_deg": "17.752077",
+    "longitude_deg": "-89.924916",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "GT",
+    "iso_region": "GT-PE",
+    "municipality": "El Mirador",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "EMR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

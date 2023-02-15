@@ -1,0 +1,20 @@
+{
+    "id": "40104",
+    "ident": "SVCT",
+    "type": "small_airport",
+    "name": "Caujarito Airport",
+    "latitude_deg": "6.883333206176758",
+    "longitude_deg": "-68.38333129882812",
+    "elevation_ft": "360",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVCT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

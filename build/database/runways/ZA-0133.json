@@ -1,0 +1,20 @@
+{
+    "id": "315421",
+    "ident": "ZA-0133",
+    "type": "small_airport",
+    "name": "Spektakel Airport",
+    "latitude_deg": "-29.6678",
+    "longitude_deg": "17.6008",
+    "elevation_ft": "615",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Spektakel",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

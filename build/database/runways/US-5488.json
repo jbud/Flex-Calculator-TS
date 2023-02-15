@@ -1,0 +1,20 @@
+{
+    "id": "348722",
+    "ident": "US-5488",
+    "type": "small_airport",
+    "name": "Groom Airport",
+    "latitude_deg": "35.19825",
+    "longitude_deg": "-101.06345",
+    "elevation_ft": "3260",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Groom",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

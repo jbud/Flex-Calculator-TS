@@ -1,0 +1,20 @@
+{
+    "id": "316766",
+    "ident": "SOA",
+    "type": "small_airport",
+    "name": "Sóc Trăng Airport",
+    "latitude_deg": "9.5814",
+    "longitude_deg": "105.9602",
+    "elevation_ft": "20",
+    "continent": "AS",
+    "iso_country": "VN",
+    "iso_region": "VN-SW",
+    "municipality": "Sóc Trăng",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "SOA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

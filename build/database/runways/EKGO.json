@@ -1,0 +1,20 @@
+{
+    "id": "318289",
+    "ident": "EKGO",
+    "type": "small_airport",
+    "name": "Gørlev Flyveplads",
+    "latitude_deg": "55.5527778",
+    "longitude_deg": "11.1952778",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-85",
+    "municipality": "Gørlev",
+    "scheduled_service": "no",
+    "gps_code": "EKGO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Gorlev"
+}

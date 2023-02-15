@@ -1,0 +1,20 @@
+{
+    "id": "30176",
+    "ident": "FVGR",
+    "type": "small_airport",
+    "name": "Grand Reef Airport",
+    "latitude_deg": "-18.9775",
+    "longitude_deg": "32.450802",
+    "elevation_ft": "3333",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MA",
+    "municipality": "Mutare",
+    "scheduled_service": "no",
+    "gps_code": "FVGR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Reef_Airport",
+    "keywords": ""
+}

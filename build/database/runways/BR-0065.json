@@ -1,0 +1,20 @@
+{
+    "id": "318357",
+    "ident": "BR-0065",
+    "type": "small_airport",
+    "name": "Anori Airport",
+    "latitude_deg": "-3.725643",
+    "longitude_deg": "-61.667054",
+    "elevation_ft": "82",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Anori",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "AG5683",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "308704",
+    "ident": "IT-0068",
+    "type": "small_airport",
+    "name": "Campo di Volo Chatelair",
+    "latitude_deg": "45.74",
+    "longitude_deg": "7.480556",
+    "elevation_ft": "1500",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-23",
+    "municipality": "Nus (AO)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "AONUS",
+    "home_link": "http://www.aeroclubcorradogex.com/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

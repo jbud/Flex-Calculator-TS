@@ -1,0 +1,20 @@
+{
+    "id": "321703",
+    "ident": "ES-0216",
+    "type": "small_airport",
+    "name": "Aeròdrom de Cervera",
+    "latitude_deg": "41.687597",
+    "longitude_deg": "1.250494",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Cervera",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

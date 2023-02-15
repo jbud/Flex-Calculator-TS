@@ -1,0 +1,20 @@
+{
+    "id": "349457",
+    "ident": "IR-0035",
+    "type": "small_airport",
+    "name": "Filestan Airport",
+    "latitude_deg": "35.43327",
+    "longitude_deg": "51.64057",
+    "elevation_ft": "3241",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-23",
+    "municipality": "Filestan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "345976",
+    "ident": "JP-2330",
+    "type": "heliport",
+    "name": "Minakami Heliport",
+    "latitude_deg": "36.74448",
+    "longitude_deg": "138.94642",
+    "elevation_ft": "2507",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-10",
+    "municipality": "Minakami",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

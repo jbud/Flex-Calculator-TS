@@ -1,0 +1,20 @@
+{
+    "id": "430536",
+    "ident": "US-7162",
+    "type": "small_airport",
+    "name": "BNCFL Airport",
+    "latitude_deg": "29.58089",
+    "longitude_deg": "-81.59189",
+    "elevation_ft": "13",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "San Mateo",
+    "scheduled_service": "no",
+    "gps_code": "34FL",
+    "iata_code": "",
+    "local_code": "34FL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

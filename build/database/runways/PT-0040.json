@@ -1,0 +1,20 @@
+{
+    "id": "320291",
+    "ident": "PT-0040",
+    "type": "small_airport",
+    "name": "Aérodromo Municipal de Proença-a-Nova",
+    "latitude_deg": "39.731217",
+    "longitude_deg": "-7.87495",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-05",
+    "municipality": "Proença-a-Nova",
+    "scheduled_service": "no",
+    "gps_code": "LPPN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

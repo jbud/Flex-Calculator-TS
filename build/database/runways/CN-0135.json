@@ -1,0 +1,20 @@
+{
+    "id": "44213",
+    "ident": "CN-0135",
+    "type": "medium_airport",
+    "name": "Ürümqi Changji Air Base",
+    "latitude_deg": "43.951175",
+    "longitude_deg": "87.079232",
+    "elevation_ft": "2425",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-65",
+    "municipality": "Ashilixiang",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

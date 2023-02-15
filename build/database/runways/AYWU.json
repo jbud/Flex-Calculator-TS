@@ -1,0 +1,20 @@
+{
+    "id": "307290",
+    "ident": "AYWU",
+    "type": "small_airport",
+    "name": "Wau Airport",
+    "latitude_deg": "-7.345556",
+    "longitude_deg": "146.718611",
+    "elevation_ft": "3600",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Wau",
+    "scheduled_service": "no",
+    "gps_code": "AYWU",
+    "iata_code": "WUG",
+    "local_code": "WAU",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wau_Airport,_Papua_New_Guinea",
+    "keywords": ""
+}

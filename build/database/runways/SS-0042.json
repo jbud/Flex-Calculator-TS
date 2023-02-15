@@ -1,0 +1,20 @@
+{
+    "id": "351453",
+    "ident": "SS-0042",
+    "type": "small_airport",
+    "name": "Leer Airport",
+    "latitude_deg": "8.3081",
+    "longitude_deg": "30.11517",
+    "elevation_ft": "1296",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-22",
+    "municipality": "Leer",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

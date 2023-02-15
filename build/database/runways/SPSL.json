@@ -1,0 +1,20 @@
+{
+    "id": "39652",
+    "ident": "SPSL",
+    "type": "small_airport",
+    "name": "Lamas Airport",
+    "latitude_deg": "-6.416666507720947",
+    "longitude_deg": "-76.53333282470703",
+    "elevation_ft": "2600",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-SAM",
+    "municipality": "Lamas",
+    "scheduled_service": "no",
+    "gps_code": "SPSL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

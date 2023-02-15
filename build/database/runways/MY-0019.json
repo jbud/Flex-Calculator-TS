@@ -1,0 +1,20 @@
+{
+    "id": "41350",
+    "ident": "MY-0019",
+    "type": "small_airport",
+    "name": "Kuala Medamit Airport",
+    "latitude_deg": "4.466390132904053",
+    "longitude_deg": "114.91300201416016",
+    "elevation_ft": "50",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-13",
+    "municipality": "Kuala Medamit",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40786",
+    "ident": "SK-391",
+    "type": "small_airport",
+    "name": "San Vicente Airport",
+    "latitude_deg": "6.891",
+    "longitude_deg": "-73.4295",
+    "elevation_ft": "1920",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-SAN",
+    "municipality": "San Vicente De Chucurí",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SVT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

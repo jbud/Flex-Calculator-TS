@@ -1,0 +1,20 @@
+{
+    "id": "31919",
+    "ident": "RPMM",
+    "type": "small_airport",
+    "name": "Malabang Airport",
+    "latitude_deg": "7.616911",
+    "longitude_deg": "124.057961",
+    "elevation_ft": "27",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-LAS",
+    "municipality": "Malabang",
+    "scheduled_service": "no",
+    "gps_code": "RPMM",
+    "iata_code": "MLP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

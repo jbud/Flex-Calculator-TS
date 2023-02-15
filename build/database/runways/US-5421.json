@@ -1,0 +1,20 @@
+{
+    "id": "348273",
+    "ident": "US-5421",
+    "type": "small_airport",
+    "name": "Salt Creek Airport",
+    "latitude_deg": "33.03617",
+    "longitude_deg": "-108.2069",
+    "elevation_ft": "5863",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Silver City",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

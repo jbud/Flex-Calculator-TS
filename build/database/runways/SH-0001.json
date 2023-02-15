@@ -1,0 +1,20 @@
+{
+    "id": "340420",
+    "ident": "SH-0001",
+    "type": "heliport",
+    "name": "Gough Island Heliport",
+    "latitude_deg": "-40.347933",
+    "longitude_deg": "-9.881306",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SH",
+    "iso_region": "SH-TA",
+    "municipality": "Gough Island",
+    "scheduled_service": "no",
+    "gps_code": "FAGE",
+    "iata_code": "",
+    "local_code": "FHGH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

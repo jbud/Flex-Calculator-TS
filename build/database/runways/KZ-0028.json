@@ -1,0 +1,20 @@
+{
+    "id": "41880",
+    "ident": "KZ-0028",
+    "type": "small_airport",
+    "name": "Bugun Airport",
+    "latitude_deg": "42.75749969482422",
+    "longitude_deg": "68.97959899902344",
+    "elevation_ft": "803",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-YUZ",
+    "municipality": "Bugun",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

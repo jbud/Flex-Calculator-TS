@@ -1,0 +1,20 @@
+{
+    "id": "30386",
+    "ident": "SLJO",
+    "type": "small_airport",
+    "name": "San Joaquín Airport",
+    "latitude_deg": "-13.0528",
+    "longitude_deg": "-64.661697",
+    "elevation_ft": "456",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-B",
+    "municipality": "San Joaquín",
+    "scheduled_service": "no",
+    "gps_code": "SLJO",
+    "iata_code": "SJB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/San_Joaqu%C3%ADn_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "43310",
+    "ident": "LEVR",
+    "type": "heliport",
+    "name": "Vilaller Heliport",
+    "latitude_deg": "42.3046989440918",
+    "longitude_deg": "0.7130560278892517",
+    "elevation_ft": "2870",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AR",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "LEVR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

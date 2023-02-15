@@ -1,0 +1,20 @@
+{
+    "id": "308764",
+    "ident": "ZMTG",
+    "type": "small_airport",
+    "name": "Tsetserleg Airport",
+    "latitude_deg": "47.461476",
+    "longitude_deg": "101.483804",
+    "elevation_ft": "5530",
+    "continent": "AS",
+    "iso_country": "MN",
+    "iso_region": "MN-073",
+    "municipality": "Tsetserleg",
+    "scheduled_service": "no",
+    "gps_code": "ZMTG",
+    "iata_code": "TSZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

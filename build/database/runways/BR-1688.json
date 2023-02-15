@@ -1,0 +1,20 @@
+{
+    "id": "354151",
+    "ident": "BR-1688",
+    "type": "small_airport",
+    "name": "Fazenda Murará Airport",
+    "latitude_deg": "3.24609",
+    "longitude_deg": "-60.239986",
+    "elevation_ft": "381",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RR",
+    "municipality": "Bonfim",
+    "scheduled_service": "no",
+    "gps_code": "SSJL",
+    "iata_code": "",
+    "local_code": "RR0104",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

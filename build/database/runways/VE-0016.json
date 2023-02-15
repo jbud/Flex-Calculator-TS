@@ -1,0 +1,20 @@
+{
+    "id": "40365",
+    "ident": "VE-0016",
+    "type": "small_airport",
+    "name": "Asita Airport",
+    "latitude_deg": "5.199999809265137",
+    "longitude_deg": "-65.58333587646484",
+    "elevation_ft": "690",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-Z",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

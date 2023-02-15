@@ -1,0 +1,20 @@
+{
+    "id": "309447",
+    "ident": "HU-0016",
+    "type": "small_airport",
+    "name": "Ballószög Airfield",
+    "latitude_deg": "46.8618",
+    "longitude_deg": "19.5566",
+    "elevation_ft": "393",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-BK",
+    "municipality": "Ballószög",
+    "scheduled_service": "no",
+    "gps_code": "LHBL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

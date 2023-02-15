@@ -1,0 +1,20 @@
+{
+    "id": "315291",
+    "ident": "UHBA",
+    "type": "small_airport",
+    "name": "Arkhara Airport",
+    "latitude_deg": "49.4165",
+    "longitude_deg": "130.0673",
+    "elevation_ft": "420",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-AMU",
+    "municipality": "Arkhara",
+    "scheduled_service": "no",
+    "gps_code": "UHBA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "УХБА, Архара"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "318256",
+    "ident": "AR-0528",
+    "type": "small_airport",
+    "name": "Kalbermatter Airport",
+    "latitude_deg": "-27.26028",
+    "longitude_deg": "-61.47444",
+    "elevation_ft": "331",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-H",
+    "municipality": "General Pinedo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "GPK",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

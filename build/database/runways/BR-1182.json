@@ -1,0 +1,20 @@
+{
+    "id": "337049",
+    "ident": "BR-1182",
+    "type": "small_airport",
+    "name": "Fazenda Caregi Airport",
+    "latitude_deg": "-12.214407",
+    "longitude_deg": "-55.98707",
+    "elevation_ft": "1224",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Ipiranga do Norte",
+    "scheduled_service": "no",
+    "gps_code": "SJIU",
+    "iata_code": "",
+    "local_code": "MT0466",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

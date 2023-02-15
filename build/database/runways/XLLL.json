@@ -1,0 +1,20 @@
+{
+    "id": "35085",
+    "ident": "XLLL",
+    "type": "medium_airport",
+    "name": "Soltsy-2 Air Base",
+    "latitude_deg": "58.139545",
+    "longitude_deg": "30.33042",
+    "elevation_ft": "266",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-NGR",
+    "municipality": "Soltsy",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "XLLL",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Soltsy-2",
+    "keywords": ""
+}

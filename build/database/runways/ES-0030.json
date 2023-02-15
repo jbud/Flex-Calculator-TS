@@ -1,0 +1,20 @@
+{
+    "id": "315976",
+    "ident": "ES-0030",
+    "type": "small_airport",
+    "name": "Valle Amblés",
+    "latitude_deg": "40.604722",
+    "longitude_deg": "-4.790278",
+    "elevation_ft": "3543",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CL",
+    "municipality": "El Fresno",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Baixo Miño,El Salobral"
+}

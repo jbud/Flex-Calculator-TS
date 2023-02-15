@@ -1,0 +1,20 @@
+{
+    "id": "323825",
+    "ident": "RJCS",
+    "type": "medium_airport",
+    "name": "JASDF Kenebetsu Airfield",
+    "latitude_deg": "43.425154",
+    "longitude_deg": "144.741354",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-01",
+    "municipality": "Betsukai",
+    "scheduled_service": "no",
+    "gps_code": "RJCS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "RJCS, Kenebetsu, JASDF"
+}

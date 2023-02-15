@@ -1,0 +1,20 @@
+{
+    "id": "39489",
+    "ident": "SLVI",
+    "type": "small_airport",
+    "name": "Caranavi Airport",
+    "latitude_deg": "-15.75",
+    "longitude_deg": "-67.56666564941406",
+    "elevation_ft": "2100",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-L",
+    "municipality": "Nor Yungas",
+    "scheduled_service": "no",
+    "gps_code": "SLVI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

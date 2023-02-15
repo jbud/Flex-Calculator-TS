@@ -1,0 +1,20 @@
+{
+    "id": "41585",
+    "ident": "PY-0021",
+    "type": "small_airport",
+    "name": "Aeródromo de la Estancia Herradura",
+    "latitude_deg": "-26.493698",
+    "longitude_deg": "-58.20547",
+    "elevation_ft": "188",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-12",
+    "municipality": "Estancia Herradura",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

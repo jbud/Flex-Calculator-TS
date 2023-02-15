@@ -1,0 +1,20 @@
+{
+    "id": "320593",
+    "ident": "IE-0011",
+    "type": "small_airport",
+    "name": "Limetree Airfield",
+    "latitude_deg": "53.1155",
+    "longitude_deg": "-7.2443",
+    "elevation_ft": "210",
+    "continent": "EU",
+    "iso_country": "IE",
+    "iso_region": "IE-LS",
+    "municipality": "Limetree",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

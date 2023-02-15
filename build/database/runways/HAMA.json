@@ -1,0 +1,20 @@
+{
+    "id": "314046",
+    "ident": "HAMA",
+    "type": "small_airport",
+    "name": "Mekane Selam Airport",
+    "latitude_deg": "10.7254",
+    "longitude_deg": "38.7415",
+    "elevation_ft": "8405",
+    "continent": "AF",
+    "iso_country": "ET",
+    "iso_region": "ET-AM",
+    "municipality": "Mekane Selam",
+    "scheduled_service": "no",
+    "gps_code": "HAMA",
+    "iata_code": "MKS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mekane_Selam_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "349609",
+    "ident": "MX-1851",
+    "type": "small_airport",
+    "name": "Popota Airstrip",
+    "latitude_deg": "21.516283",
+    "longitude_deg": "-103.893671",
+    "elevation_ft": "3473",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-NAY",
+    "municipality": "La Yesca",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "POT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

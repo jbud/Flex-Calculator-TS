@@ -1,0 +1,20 @@
+{
+    "id": "30955",
+    "ident": "DXKP",
+    "type": "small_airport",
+    "name": "Kolokope Airport",
+    "latitude_deg": "7.803451",
+    "longitude_deg": "1.295966",
+    "elevation_ft": "591",
+    "continent": "AF",
+    "iso_country": "TG",
+    "iso_region": "TG-P",
+    "municipality": "Anié",
+    "scheduled_service": "no",
+    "gps_code": "DXKP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kolokope_Airport",
+    "keywords": ""
+}

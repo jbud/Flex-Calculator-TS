@@ -1,0 +1,20 @@
+{
+    "id": "319451",
+    "ident": "IT-0286",
+    "type": "small_airport",
+    "name": "Aviosuperficie \"Skydive Venice\"",
+    "latitude_deg": "45.700009",
+    "longitude_deg": "12.763909",
+    "elevation_ft": "21",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-34",
+    "municipality": "San Stino di Livenza (VE)",
+    "scheduled_service": "no",
+    "gps_code": "LIVS",
+    "iata_code": "",
+    "local_code": "VE18",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Skydive Venice"
+}

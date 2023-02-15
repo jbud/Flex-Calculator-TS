@@ -1,0 +1,20 @@
+{
+    "id": "340844",
+    "ident": "BR-1381",
+    "type": "small_airport",
+    "name": "Fazenda São Domingos Airport",
+    "latitude_deg": "-20.737708",
+    "longitude_deg": "-53.293808",
+    "elevation_ft": "1506",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Ribas do Rio Pardo",
+    "scheduled_service": "no",
+    "gps_code": "SNSV",
+    "iata_code": "",
+    "local_code": "MS0228",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "318506",
+    "ident": "AR-0568",
+    "type": "small_airport",
+    "name": "RAIG S.A. Airport",
+    "latitude_deg": "-32.4382",
+    "longitude_deg": "-63.2893",
+    "elevation_ft": "685",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-X",
+    "municipality": "Villa Nueva",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "VNR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

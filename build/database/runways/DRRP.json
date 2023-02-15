@@ -1,0 +1,20 @@
+{
+    "id": "30944",
+    "ident": "DRRP",
+    "type": "small_airport",
+    "name": "La Tapoa Airport",
+    "latitude_deg": "12.484498",
+    "longitude_deg": "2.398452",
+    "elevation_ft": "722",
+    "continent": "AF",
+    "iso_country": "NE",
+    "iso_region": "NE-6",
+    "municipality": "La Tapoa",
+    "scheduled_service": "no",
+    "gps_code": "DRRP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "29415",
+    "ident": "LIAQ",
+    "type": "small_airport",
+    "name": "Aquino Airport",
+    "latitude_deg": "41.493566",
+    "longitude_deg": "13.717942",
+    "elevation_ft": "361",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-62",
+    "municipality": "Aquino",
+    "scheduled_service": "no",
+    "gps_code": "LIAQ",
+    "iata_code": "",
+    "local_code": "FR01",
+    "home_link": "",
+    "wikipedia_link": "https://it.wikipedia.org/wiki/Aeroporto_di_Aquino",
+    "keywords": ""
+}

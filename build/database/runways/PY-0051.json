@@ -1,0 +1,20 @@
+{
+    "id": "505540",
+    "ident": "PY-0051",
+    "type": "heliport",
+    "name": "Helipuerto N°2 del Grupo Aéreo de Helicópteros",
+    "latitude_deg": "-25.273989",
+    "longitude_deg": "-57.530116",
+    "elevation_ft": "328",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-11",
+    "municipality": "Cuartel General de la Fuerza Aérea Paraguaya",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.fuerzaaerea.mil.py",
+    "wikipedia_link": "https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
+    "keywords": ""
+}

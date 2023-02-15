@@ -1,0 +1,20 @@
+{
+    "id": "320413",
+    "ident": "ES-0055",
+    "type": "small_airport",
+    "name": "Aeródromo de Antequera",
+    "latitude_deg": "37.10165",
+    "longitude_deg": "-4.5625667",
+    "elevation_ft": "1903",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Antequera",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

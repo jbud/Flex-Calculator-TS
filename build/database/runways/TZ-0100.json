@@ -1,0 +1,20 @@
+{
+    "id": "318662",
+    "ident": "TZ-0100",
+    "type": "small_airport",
+    "name": "Mlambala Airport",
+    "latitude_deg": "-7.233234",
+    "longitude_deg": "32.063351",
+    "elevation_ft": "3278",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-20",
+    "municipality": "Mlambala",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

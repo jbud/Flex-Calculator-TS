@@ -1,0 +1,20 @@
+{
+    "id": "31429",
+    "ident": "FZOK",
+    "type": "small_airport",
+    "name": "Kasongo Airport",
+    "latitude_deg": "-4.524032",
+    "longitude_deg": "26.60023",
+    "elevation_ft": "1785",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-MA",
+    "municipality": "Kasongo",
+    "scheduled_service": "no",
+    "gps_code": "FZOK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

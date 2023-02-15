@@ -1,0 +1,20 @@
+{
+    "id": "688",
+    "ident": "CBJ9",
+    "type": "heliport",
+    "name": "San Juan Point (Coast Guard) Heliport",
+    "latitude_deg": "48.531491",
+    "longitude_deg": "-124.458178",
+    "elevation_ft": "25",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "San Juan Point",
+    "scheduled_service": "no",
+    "gps_code": "CBJ9",
+    "iata_code": "",
+    "local_code": "CBJ9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "BJ9"
+}

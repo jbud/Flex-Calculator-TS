@@ -1,0 +1,20 @@
+{
+    "id": "40929",
+    "ident": "SK-235",
+    "type": "small_airport",
+    "name": "El Viso Airport",
+    "latitude_deg": "2.734167",
+    "longitude_deg": "-75.331944",
+    "elevation_ft": "1579",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-HUI",
+    "municipality": "Campo Alegre",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CUM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

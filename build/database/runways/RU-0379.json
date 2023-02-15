@@ -1,0 +1,20 @@
+{
+    "id": "46250",
+    "ident": "RU-0379",
+    "type": "heliport",
+    "name": "Tlyarata Helipad",
+    "latitude_deg": "42.1167563323",
+    "longitude_deg": "46.3519728184",
+    "elevation_ft": "4921",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-DA",
+    "municipality": "Tlyarata",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Вертолётная площадка Тлярата"
+}

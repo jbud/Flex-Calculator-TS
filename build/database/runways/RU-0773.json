@@ -1,0 +1,20 @@
+{
+    "id": "351016",
+    "ident": "RU-0773",
+    "type": "small_airport",
+    "name": "Ustinovo Aerodrome",
+    "latitude_deg": "54.85274",
+    "longitude_deg": "60.00283",
+    "elevation_ft": "1293",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-CHE",
+    "municipality": "Miass",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

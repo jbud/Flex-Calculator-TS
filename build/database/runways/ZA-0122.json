@@ -1,0 +1,20 @@
+{
+    "id": "315404",
+    "ident": "ZA-0122",
+    "type": "small_airport",
+    "name": "Au Beep Flats Airport",
+    "latitude_deg": "-28.1081",
+    "longitude_deg": "16.8936",
+    "elevation_ft": "190",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Sendelingsdrif",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "32379",
+    "ident": "SPYO",
+    "type": "small_airport",
+    "name": "Pacasmayo Airport",
+    "latitude_deg": "-7.40693998336792",
+    "longitude_deg": "-79.56890106201172",
+    "elevation_ft": "95",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LAL",
+    "municipality": "Pacasmayo",
+    "scheduled_service": "no",
+    "gps_code": "SPYO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

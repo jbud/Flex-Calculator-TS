@@ -1,0 +1,20 @@
+{
+    "id": "30932",
+    "ident": "HSGG",
+    "type": "small_airport",
+    "name": "Galegu Airport",
+    "latitude_deg": "12.532999992370605",
+    "longitude_deg": "35.06700134277344",
+    "elevation_ft": "1640",
+    "continent": "AF",
+    "iso_country": "SD",
+    "iso_region": "SD-25",
+    "municipality": "Dinder",
+    "scheduled_service": "no",
+    "gps_code": "HSGG",
+    "iata_code": "DNX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Galegu_Airport",
+    "keywords": ""
+}

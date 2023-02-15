@@ -1,0 +1,20 @@
+{
+    "id": "330900",
+    "ident": "RS-0014",
+    "type": "small_airport",
+    "name": "Progar Airstrip",
+    "latitude_deg": "44.722182",
+    "longitude_deg": "20.176448",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RS",
+    "iso_region": "RS-07",
+    "municipality": "Progar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Прогар"
+}

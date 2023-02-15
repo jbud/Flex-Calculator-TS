@@ -1,0 +1,20 @@
+{
+    "id": "333610",
+    "ident": "BR-0580",
+    "type": "heliport",
+    "name": "Condor Helipad",
+    "latitude_deg": "-25.51543",
+    "longitude_deg": "-49.296939",
+    "elevation_ft": "3068",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Curitiba",
+    "scheduled_service": "no",
+    "gps_code": "SDXC",
+    "iata_code": "",
+    "local_code": "PR0106",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

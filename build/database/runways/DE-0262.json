@@ -1,0 +1,20 @@
+{
+    "id": "315794",
+    "ident": "DE-0262",
+    "type": "small_airport",
+    "name": "Klein Gartz Airfield",
+    "latitude_deg": "52.828",
+    "longitude_deg": "11.316",
+    "elevation_ft": "112",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-ST",
+    "municipality": "Salzwedel",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.lsv-salzwedel.de/flugbetrieb/flugplatz.php",
+    "wikipedia_link": "",
+    "keywords": ""
+}

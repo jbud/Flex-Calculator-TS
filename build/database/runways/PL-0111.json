@@ -1,0 +1,20 @@
+{
+    "id": "323658",
+    "ident": "PL-0111",
+    "type": "small_airport",
+    "name": "Lotnisko Mrągowo",
+    "latitude_deg": "53.825276",
+    "longitude_deg": "21.318983",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-WN",
+    "municipality": "Mrągowo",
+    "scheduled_service": "no",
+    "gps_code": "EPMG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

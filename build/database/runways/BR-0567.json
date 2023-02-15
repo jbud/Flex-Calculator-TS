@@ -1,0 +1,20 @@
+{
+    "id": "333193",
+    "ident": "BR-0567",
+    "type": "small_airport",
+    "name": "Fazenda Nova Fronteira Airport",
+    "latitude_deg": "-10.318907",
+    "longitude_deg": "-45.980425",
+    "elevation_ft": "2625",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PI",
+    "municipality": "Barreiras do Piauí",
+    "scheduled_service": "no",
+    "gps_code": "SSDN",
+    "iata_code": "",
+    "local_code": "PI0035",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

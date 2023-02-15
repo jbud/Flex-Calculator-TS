@@ -1,0 +1,20 @@
+{
+    "id": "505462",
+    "ident": "EG-0050",
+    "type": "heliport",
+    "name": "East Port Said Naval Base Heliport",
+    "latitude_deg": "31.21905",
+    "longitude_deg": "32.37619",
+    "elevation_ft": "3",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-PTS",
+    "municipality": "Port Fuad",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "313435",
+    "ident": "XMA",
+    "type": "small_airport",
+    "name": "Maramag Airport",
+    "latitude_deg": "7.7538",
+    "longitude_deg": "125.0333",
+    "elevation_ft": "919",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-BUK",
+    "municipality": "Maramag",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "XMA",
+    "local_code": "",
+    "home_link": "http://www.pbase.com/philippineaviation/maramagoadi_airport_bukidnon",
+    "wikipedia_link": "",
+    "keywords": "Oadi"
+}

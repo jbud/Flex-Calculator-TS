@@ -1,0 +1,20 @@
+{
+    "id": "351603",
+    "ident": "SA-0032",
+    "type": "heliport",
+    "name": "Johns Hopkins Aramco Healthcare Heliport",
+    "latitude_deg": "26.70702",
+    "longitude_deg": "50.08071",
+    "elevation_ft": "10",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-04",
+    "municipality": "Ras Tanura",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

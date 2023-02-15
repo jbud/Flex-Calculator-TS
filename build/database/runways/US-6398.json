@@ -1,0 +1,20 @@
+{
+    "id": "352136",
+    "ident": "US-6398",
+    "type": "small_airport",
+    "name": "M&M Air Service Airport",
+    "latitude_deg": "34.20235",
+    "longitude_deg": "-90.30756",
+    "elevation_ft": "157",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Lambert",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

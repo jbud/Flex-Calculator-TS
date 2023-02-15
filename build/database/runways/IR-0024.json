@@ -1,0 +1,20 @@
+{
+    "id": "340586",
+    "ident": "IR-0024",
+    "type": "heliport",
+    "name": "Bampour Heliport",
+    "latitude_deg": "27.200099",
+    "longitude_deg": "60.464098",
+    "elevation_ft": "1703",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-11",
+    "municipality": "Bampour",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

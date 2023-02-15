@@ -1,0 +1,20 @@
+{
+    "id": "350518",
+    "ident": "ID-0209",
+    "type": "small_airport",
+    "name": "Bordamban Airport",
+    "latitude_deg": "-4.439924",
+    "longitude_deg": "140.484527",
+    "elevation_ft": "3000",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PP",
+    "municipality": "Bordamban",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

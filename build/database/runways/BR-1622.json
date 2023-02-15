@@ -1,0 +1,20 @@
+{
+    "id": "347372",
+    "ident": "BR-1622",
+    "type": "small_airport",
+    "name": "Fazenda Nossa Senhora das Graças Airport",
+    "latitude_deg": "-22.742494",
+    "longitude_deg": "-53.803235",
+    "elevation_ft": "997",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Jateí",
+    "scheduled_service": "no",
+    "gps_code": "SNAI",
+    "iata_code": "",
+    "local_code": "MS0520",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

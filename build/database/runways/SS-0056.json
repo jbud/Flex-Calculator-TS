@@ -1,0 +1,20 @@
+{
+    "id": "351469",
+    "ident": "SS-0056",
+    "type": "small_airport",
+    "name": "Kolmarek Airport",
+    "latitude_deg": "6.6268",
+    "longitude_deg": "31.51511",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-20",
+    "municipality": "Kolmarek",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

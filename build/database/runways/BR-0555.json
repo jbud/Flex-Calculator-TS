@@ -1,0 +1,20 @@
+{
+    "id": "333035",
+    "ident": "BR-0555",
+    "type": "heliport",
+    "name": "Península Heliport",
+    "latitude_deg": "-15.830717",
+    "longitude_deg": "-47.866412",
+    "elevation_ft": "3304",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-DF",
+    "municipality": "Brasília",
+    "scheduled_service": "no",
+    "gps_code": "SDZA",
+    "iata_code": "",
+    "local_code": "DF0011",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

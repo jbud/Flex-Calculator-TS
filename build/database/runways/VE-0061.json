@@ -1,0 +1,20 @@
+{
+    "id": "40410",
+    "ident": "VE-0061",
+    "type": "small_airport",
+    "name": "El Millanero Airport",
+    "latitude_deg": "8.316666603088379",
+    "longitude_deg": "-67.11166381835938",
+    "elevation_ft": "192",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-J",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

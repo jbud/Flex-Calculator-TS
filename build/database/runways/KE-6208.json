@@ -1,0 +1,20 @@
+{
+    "id": "42607",
+    "ident": "KE-6208",
+    "type": "small_airport",
+    "name": "Olkiombo Airport",
+    "latitude_deg": "-1.408586",
+    "longitude_deg": "35.110689",
+    "elevation_ft": "5011",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-700",
+    "municipality": "Olkiombo",
+    "scheduled_service": "no",
+    "gps_code": "HKOK",
+    "iata_code": "OLX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

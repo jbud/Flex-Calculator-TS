@@ -1,0 +1,20 @@
+{
+    "id": "316019",
+    "ident": "DE-0314",
+    "type": "small_airport",
+    "name": "Leuzendorf Glider Field",
+    "latitude_deg": "49.3518",
+    "longitude_deg": "10.0757",
+    "elevation_ft": "1540",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Hohenlohekreis",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.hohenloher-luftsportgruppe.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

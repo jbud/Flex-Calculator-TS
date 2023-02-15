@@ -1,0 +1,20 @@
+{
+    "id": "312361",
+    "ident": "ANZ",
+    "type": "small_airport",
+    "name": "Angus Downs Airport",
+    "latitude_deg": "-25.0325",
+    "longitude_deg": "132.2748",
+    "elevation_ft": "1724",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Angus Downs Station",
+    "scheduled_service": "no",
+    "gps_code": "YADN",
+    "iata_code": "ANZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

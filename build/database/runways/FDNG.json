@@ -1,0 +1,20 @@
+{
+    "id": "30259",
+    "ident": "FDNG",
+    "type": "small_airport",
+    "name": "Piggs Peak Airport",
+    "latitude_deg": "-25.766666412353516",
+    "longitude_deg": "31.366666793823242",
+    "elevation_ft": "1410",
+    "continent": "AF",
+    "iso_country": "SZ",
+    "iso_region": "SZ-HH",
+    "municipality": "Ngonini",
+    "scheduled_service": "no",
+    "gps_code": "FDNG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

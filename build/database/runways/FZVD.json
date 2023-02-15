@@ -1,0 +1,20 @@
+{
+    "id": "31479",
+    "ident": "FZVD",
+    "type": "small_airport",
+    "name": "Dingele Airport",
+    "latitude_deg": "-3.609192",
+    "longitude_deg": "24.569142",
+    "elevation_ft": "1985",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-SA",
+    "municipality": "Dingele",
+    "scheduled_service": "no",
+    "gps_code": "FZVD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

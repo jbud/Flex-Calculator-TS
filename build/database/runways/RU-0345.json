@@ -1,0 +1,20 @@
+{
+    "id": "46200",
+    "ident": "RU-0345",
+    "type": "small_airport",
+    "name": "Nazarovo Airport",
+    "latitude_deg": "55.972549445300004",
+    "longitude_deg": "90.49017906190001",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KYA",
+    "municipality": "Nazarovo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Назарово"
+}

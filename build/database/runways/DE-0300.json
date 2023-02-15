@@ -1,0 +1,20 @@
+{
+    "id": "315962",
+    "ident": "DE-0300",
+    "type": "small_airport",
+    "name": "Bohlhof Glider Field",
+    "latitude_deg": "47.6509",
+    "longitude_deg": "8.3867",
+    "elevation_ft": "1885",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Bohlhof",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.bohlhof.de/",
+    "wikipedia_link": "https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Bohlhof",
+    "keywords": ""
+}

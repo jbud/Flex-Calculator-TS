@@ -1,0 +1,20 @@
+{
+    "id": "342238",
+    "ident": "GY-0002",
+    "type": "small_airport",
+    "name": "Krishna Sankar Airport",
+    "latitude_deg": "7.3121",
+    "longitude_deg": "-58.4873",
+    "elevation_ft": "4",
+    "continent": "SA",
+    "iso_country": "GY",
+    "iso_region": "GY-PM",
+    "municipality": "Anna Regina",
+    "scheduled_service": "no",
+    "gps_code": "SYHC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Hampton Court Airstrip"
+}

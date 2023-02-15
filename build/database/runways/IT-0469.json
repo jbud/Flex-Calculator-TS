@@ -1,0 +1,20 @@
+{
+    "id": "320629",
+    "ident": "IT-0469",
+    "type": "small_airport",
+    "name": "Aviosuperficie La Celsetta",
+    "latitude_deg": "42.121667",
+    "longitude_deg": "12.360556",
+    "elevation_ft": "722",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-62",
+    "municipality": "Campagnano (RM)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "RMCMP",
+    "home_link": "http://www.scuolavolare.it/",
+    "wikipedia_link": "",
+    "keywords": "La Celsetta"
+}

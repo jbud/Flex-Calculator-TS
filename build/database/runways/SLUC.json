@@ -1,0 +1,20 @@
+{
+    "id": "39432",
+    "ident": "SLUC",
+    "type": "small_airport",
+    "name": "Cuevo Airport",
+    "latitude_deg": "-20.480499267578125",
+    "longitude_deg": "-63.528167724609375",
+    "elevation_ft": "3440",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Cordillera",
+    "scheduled_service": "no",
+    "gps_code": "SLUC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

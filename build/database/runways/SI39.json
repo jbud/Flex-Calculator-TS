@@ -1,0 +1,20 @@
+{
+    "id": "353937",
+    "ident": "SI39",
+    "type": "small_airport",
+    "name": "Nilo Bicalho Airport",
+    "latitude_deg": "-17.301743",
+    "longitude_deg": "-44.250241",
+    "elevation_ft": "2044",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Francisco Dumont",
+    "scheduled_service": "no",
+    "gps_code": "SI39",
+    "iata_code": "",
+    "local_code": "MG0535",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

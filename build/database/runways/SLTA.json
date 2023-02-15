@@ -1,0 +1,20 @@
+{
+    "id": "39547",
+    "ident": "SLTA",
+    "type": "small_airport",
+    "name": "Taquipirenda Airport",
+    "latitude_deg": "-20.343299865722656",
+    "longitude_deg": "-63.139400482177734",
+    "elevation_ft": "2340",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Cordillera",
+    "scheduled_service": "no",
+    "gps_code": "SLTA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

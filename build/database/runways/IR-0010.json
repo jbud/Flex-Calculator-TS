@@ -1,0 +1,20 @@
+{
+    "id": "44974",
+    "ident": "IR-0010",
+    "type": "small_airport",
+    "name": "Esfahan East Airport",
+    "latitude_deg": "32.582692",
+    "longitude_deg": "52.002218",
+    "elevation_ft": "4997",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-10",
+    "municipality": "Sejzi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31200",
+    "ident": "WABF",
+    "type": "small_airport",
+    "name": "Kornasoren Airfield",
+    "latitude_deg": "-0.935842",
+    "longitude_deg": "134.872298",
+    "elevation_ft": "13",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PA",
+    "municipality": "Kornasoren",
+    "scheduled_service": "yes",
+    "gps_code": "WABF",
+    "iata_code": "FOO",
+    "local_code": "WA23",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kornasoren_Airport",
+    "keywords": "Numfor"
+}

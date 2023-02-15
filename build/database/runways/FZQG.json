@@ -1,0 +1,20 @@
+{
+    "id": "31739",
+    "ident": "FZQG",
+    "type": "small_airport",
+    "name": "Kasenga Airport",
+    "latitude_deg": "-10.350000381469727",
+    "longitude_deg": "28.632999420166016",
+    "elevation_ft": "3146",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-HK",
+    "municipality": "Kasenga",
+    "scheduled_service": "no",
+    "gps_code": "FZQG",
+    "iata_code": "KEC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

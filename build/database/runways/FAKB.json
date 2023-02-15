@@ -1,0 +1,20 @@
+{
+    "id": "41258",
+    "ident": "FAKB",
+    "type": "small_airport",
+    "name": "Kosibaai Airport",
+    "latitude_deg": "-27.018262",
+    "longitude_deg": "32.750399",
+    "elevation_ft": "140",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Kosi Bay",
+    "scheduled_service": "no",
+    "gps_code": "FAKB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

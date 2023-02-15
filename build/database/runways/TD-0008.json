@@ -1,0 +1,20 @@
+{
+    "id": "319209",
+    "ident": "TD-0008",
+    "type": "small_airport",
+    "name": "Kyabé Airport",
+    "latitude_deg": "9.447491",
+    "longitude_deg": "18.927636",
+    "elevation_ft": "1240",
+    "continent": "AF",
+    "iso_country": "TD",
+    "iso_region": "TD-MC",
+    "municipality": "Kyabé",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kyab%C3%A9_Airport",
+    "keywords": ""
+}

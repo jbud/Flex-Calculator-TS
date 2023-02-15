@@ -1,0 +1,20 @@
+{
+    "id": "39365",
+    "ident": "SHHI",
+    "type": "heliport",
+    "name": "Hospital de Carabineros Heliport",
+    "latitude_deg": "-33.417763",
+    "longitude_deg": "-70.528879",
+    "elevation_ft": "2426",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Santiago",
+    "scheduled_service": "no",
+    "gps_code": "SHHI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "DIPRECA, Hospital del Imponente"
+}

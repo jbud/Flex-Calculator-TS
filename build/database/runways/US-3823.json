@@ -1,0 +1,20 @@
+{
+    "id": "343780",
+    "ident": "US-3823",
+    "type": "small_airport",
+    "name": "BFS Airport",
+    "latitude_deg": "34.13113",
+    "longitude_deg": "-101.42291",
+    "elevation_ft": "3270",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Lockney",
+    "scheduled_service": "no",
+    "gps_code": "TE70",
+    "iata_code": "",
+    "local_code": "TE70",
+    "home_link": "http://www.airnav.com/airport/TE70",
+    "wikipedia_link": "",
+    "keywords": ""
+}

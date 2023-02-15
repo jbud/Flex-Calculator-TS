@@ -1,0 +1,20 @@
+{
+    "id": "32099",
+    "ident": "FTTB",
+    "type": "small_airport",
+    "name": "Bongor Airport",
+    "latitude_deg": "10.288345",
+    "longitude_deg": "15.379561",
+    "elevation_ft": "1076",
+    "continent": "AF",
+    "iso_country": "TD",
+    "iso_region": "TD-ME",
+    "municipality": "Bongor",
+    "scheduled_service": "no",
+    "gps_code": "FTTB",
+    "iata_code": "OGR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bongor_Airport",
+    "keywords": ""
+}

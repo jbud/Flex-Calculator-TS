@@ -1,0 +1,20 @@
+{
+    "id": "30022",
+    "ident": "YKEL",
+    "type": "small_airport",
+    "name": "Kelvin Station Airport",
+    "latitude_deg": "-30.655000686645508",
+    "longitude_deg": "151.63800048828125",
+    "elevation_ft": "3383",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YKEL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "314555",
+    "ident": "DE-0171",
+    "type": "small_airport",
+    "name": "Arnsberg-Ruhrwiese Airfield",
+    "latitude_deg": "51.3878",
+    "longitude_deg": "8.0605",
+    "elevation_ft": "611",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Arnsberg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.aeroclub-arnsberg.de/",
+    "wikipedia_link": "http://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Arnsberg_Ruhrwiese",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "29716",
+    "ident": "LZTR",
+    "type": "small_airport",
+    "name": "Trnava",
+    "latitude_deg": "48.4557991",
+    "longitude_deg": "17.5263996",
+    "elevation_ft": "656",
+    "continent": "EU",
+    "iso_country": "SK",
+    "iso_region": "SK-TA",
+    "municipality": "Boleráz",
+    "scheduled_service": "no",
+    "gps_code": "LZTR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.aktrnava.sk",
+    "wikipedia_link": "",
+    "keywords": ""
+}

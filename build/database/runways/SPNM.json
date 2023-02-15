@@ -1,0 +1,20 @@
+{
+    "id": "39601",
+    "ident": "SPNM",
+    "type": "small_airport",
+    "name": "Nuevo Mundo Airport",
+    "latitude_deg": "-11.541500091552734",
+    "longitude_deg": "-73.14219665527344",
+    "elevation_ft": "1090",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-CUS",
+    "municipality": "Nuevo Mundo",
+    "scheduled_service": "no",
+    "gps_code": "SPNM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "311181",
+    "ident": "DE-0120",
+    "type": "small_airport",
+    "name": "Steinberg at Wessein Airfield",
+    "latitude_deg": "52.0838",
+    "longitude_deg": "10.018",
+    "elevation_ft": "642",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Wessein",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.sfg-salzdetfurth.de/unser-flugplatz/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

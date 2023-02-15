@@ -1,0 +1,20 @@
+{
+    "id": "35204",
+    "ident": "MH-LIK",
+    "type": "small_airport",
+    "name": "Likiep Airport",
+    "latitude_deg": "9.82316",
+    "longitude_deg": "169.307999",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "MH",
+    "iso_region": "MH-LIK",
+    "municipality": "Likiep Island",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "LIK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Likiep_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "30651",
+    "ident": "DFER",
+    "type": "small_airport",
+    "name": "Arly Airport",
+    "latitude_deg": "11.597000122070312",
+    "longitude_deg": "1.4830000400543213",
+    "elevation_ft": "761",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-TAP",
+    "municipality": "Arly",
+    "scheduled_service": "no",
+    "gps_code": "DFER",
+    "iata_code": "ARL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "32680",
+    "ident": "MH-WTE",
+    "type": "small_airport",
+    "name": "Wotje Airport",
+    "latitude_deg": "9.458333",
+    "longitude_deg": "170.238611",
+    "elevation_ft": "4",
+    "continent": "OC",
+    "iso_country": "MH",
+    "iso_region": "MH-WTJ",
+    "municipality": "Wotje",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "WTE",
+    "local_code": "N36",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wotje_Airport",
+    "keywords": ""
+}

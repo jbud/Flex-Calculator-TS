@@ -1,0 +1,20 @@
+{
+    "id": "323789",
+    "ident": "SMRN",
+    "type": "small_airport",
+    "name": "Ragoebarsing Airstrip",
+    "latitude_deg": "4.884722",
+    "longitude_deg": "-56.940278",
+    "elevation_ft": "141",
+    "continent": "SA",
+    "iso_country": "SR",
+    "iso_region": "SR-SI",
+    "municipality": "Ragoebarsing",
+    "scheduled_service": "no",
+    "gps_code": "SMRN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ragoebarsing_Airstrip",
+    "keywords": ""
+}

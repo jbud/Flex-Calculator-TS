@@ -1,0 +1,20 @@
+{
+    "id": "29389",
+    "ident": "ESVK",
+    "type": "small_airport",
+    "name": "Katrineholm Airfield",
+    "latitude_deg": "59.022301",
+    "longitude_deg": "16.220301",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-D",
+    "municipality": "Katrineholm",
+    "scheduled_service": "no",
+    "gps_code": "ESVK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

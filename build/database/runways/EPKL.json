@@ -1,0 +1,20 @@
+{
+    "id": "319902",
+    "ident": "EPKL",
+    "type": "small_airport",
+    "name": "Krasocin Field",
+    "latitude_deg": "50.898824",
+    "longitude_deg": "20.127511",
+    "elevation_ft": "820",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-SK",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EPKL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://pl.wikipedia.org/wiki/L%C4%85dowisko_Krasocin",
+    "keywords": "Krasocin Lipie"
+}

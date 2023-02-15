@@ -1,0 +1,20 @@
+{
+    "id": "40863",
+    "ident": "SK-212",
+    "type": "small_airport",
+    "name": "La Esperanza Airport",
+    "latitude_deg": "5.756111",
+    "longitude_deg": "-74.513056",
+    "elevation_ft": "625",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CUN",
+    "municipality": "Uerto Salgar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "PTS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

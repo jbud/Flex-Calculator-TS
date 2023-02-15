@@ -1,0 +1,20 @@
+{
+    "id": "41589",
+    "ident": "PY-0025",
+    "type": "small_airport",
+    "name": "Aeródromo de la Estancia Coeyu",
+    "latitude_deg": "-23.9363",
+    "longitude_deg": "-57.735901",
+    "elevation_ft": "250",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-15",
+    "municipality": "Estancia Coeyu",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "335649",
+    "ident": "BR-0975",
+    "type": "small_airport",
+    "name": "Fazenda Onça Parda Airport",
+    "latitude_deg": "-22.662664",
+    "longitude_deg": "-53.729258",
+    "elevation_ft": "1135",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Novo Horizonte do Sul",
+    "scheduled_service": "no",
+    "gps_code": "SIOI",
+    "iata_code": "",
+    "local_code": "MS0109",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

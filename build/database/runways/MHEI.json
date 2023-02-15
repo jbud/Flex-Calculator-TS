@@ -1,0 +1,20 @@
+{
+    "id": "42056",
+    "ident": "MHEI",
+    "type": "small_airport",
+    "name": "La America Airport",
+    "latitude_deg": "15.648611068725586",
+    "longitude_deg": "-87.788330078125",
+    "elevation_ft": "53",
+    "continent": "NA",
+    "iso_country": "HN",
+    "iso_region": "HN-YO",
+    "municipality": "El Guanacaste",
+    "scheduled_service": "no",
+    "gps_code": "MHEI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

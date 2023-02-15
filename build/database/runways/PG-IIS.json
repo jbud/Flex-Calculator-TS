@@ -1,0 +1,20 @@
+{
+    "id": "31669",
+    "ident": "PG-IIS",
+    "type": "small_airport",
+    "name": "Nissan Island Airport",
+    "latitude_deg": "-4.49972009659",
+    "longitude_deg": "154.225997925",
+    "elevation_ft": "52",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-NSB",
+    "municipality": "Nissan Island",
+    "scheduled_service": "no",
+    "gps_code": "AYIA",
+    "iata_code": "IIS",
+    "local_code": "NIS",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nissan_Island_Airport",
+    "keywords": ""
+}

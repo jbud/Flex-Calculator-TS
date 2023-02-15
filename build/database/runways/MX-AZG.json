@@ -1,0 +1,20 @@
+{
+    "id": "30671",
+    "ident": "MX-AZG",
+    "type": "small_airport",
+    "name": "Apatzingán - Pablo L. Sidar Airport",
+    "latitude_deg": "19.093399",
+    "longitude_deg": "-102.393997",
+    "elevation_ft": "1033",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-MIC",
+    "municipality": "Apatzingán",
+    "scheduled_service": "no",
+    "gps_code": "MMAG",
+    "iata_code": "AZG",
+    "local_code": "AZG",
+    "home_link": "",
+    "wikipedia_link": "https://es.wikipedia.org/wiki/Aeropuerto_Nacional_Pablo_L._Sidar",
+    "keywords": "MM16"
+}

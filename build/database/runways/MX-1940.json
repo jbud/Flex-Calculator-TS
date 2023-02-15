@@ -1,0 +1,20 @@
+{
+    "id": "353070",
+    "ident": "MX-1940",
+    "type": "small_airport",
+    "name": "La Mesa Airport",
+    "latitude_deg": "32.10598",
+    "longitude_deg": "-114.98503",
+    "elevation_ft": "75",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-BCN",
+    "municipality": "Mexicali",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

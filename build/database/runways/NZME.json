@@ -1,0 +1,20 @@
+{
+    "id": "30132",
+    "ident": "NZME",
+    "type": "small_airport",
+    "name": "Mercer1 PDZ Airport",
+    "latitude_deg": "-37.25749969482422",
+    "longitude_deg": "175.11500549316406",
+    "elevation_ft": "30",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-WKO",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "NZME",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

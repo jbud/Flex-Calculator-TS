@@ -1,0 +1,20 @@
+{
+    "id": "32302",
+    "ident": "SPJN",
+    "type": "small_airport",
+    "name": "San Juan de Marcona Airport",
+    "latitude_deg": "-15.357508",
+    "longitude_deg": "-75.135005",
+    "elevation_ft": "144",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-ICA",
+    "municipality": "San Juan de Marcona",
+    "scheduled_service": "no",
+    "gps_code": "SPJN",
+    "iata_code": "SJA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/San_Juan_de_Marcona_Airport",
+    "keywords": ""
+}

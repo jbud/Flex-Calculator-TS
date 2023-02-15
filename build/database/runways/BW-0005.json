@@ -1,0 +1,20 @@
+{
+    "id": "317487",
+    "ident": "BW-0005",
+    "type": "small_airport",
+    "name": "Serondela Airport",
+    "latitude_deg": "-17.8386",
+    "longitude_deg": "25.031484",
+    "elevation_ft": "3070",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-CH",
+    "municipality": "Serondela",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

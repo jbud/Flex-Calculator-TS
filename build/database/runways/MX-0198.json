@@ -1,0 +1,20 @@
+{
+    "id": "319337",
+    "ident": "MX-0198",
+    "type": "small_airport",
+    "name": "La Gloria III Airport",
+    "latitude_deg": "19.897267",
+    "longitude_deg": "-105.294851",
+    "elevation_ft": "147",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-JAL",
+    "municipality": "Tomatlán",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "GLR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

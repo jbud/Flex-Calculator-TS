@@ -1,0 +1,20 @@
+{
+    "id": "40148",
+    "ident": "SVGX",
+    "type": "small_airport",
+    "name": "Las Guadalupes Airport",
+    "latitude_deg": "8.749278",
+    "longitude_deg": "-63.556488",
+    "elevation_ft": "984",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-B",
+    "municipality": "Independencia",
+    "scheduled_service": "no",
+    "gps_code": "SVGX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

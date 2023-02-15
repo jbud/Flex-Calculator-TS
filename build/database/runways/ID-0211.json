@@ -1,0 +1,20 @@
+{
+    "id": "350539",
+    "ident": "ID-0211",
+    "type": "small_airport",
+    "name": "Hangmata Airstrip",
+    "latitude_deg": "-4.49226",
+    "longitude_deg": "140.657322",
+    "elevation_ft": "3300",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PP",
+    "municipality": "Hangmata",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

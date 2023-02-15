@@ -1,0 +1,20 @@
+{
+    "id": "325318",
+    "ident": "SUAY",
+    "type": "small_airport",
+    "name": "Termas del Arapey Airport",
+    "latitude_deg": "-30.938271",
+    "longitude_deg": "-57.517528",
+    "elevation_ft": "153",
+    "continent": "SA",
+    "iso_country": "UY",
+    "iso_region": "UY-SA",
+    "municipality": "Termas del Arapey",
+    "scheduled_service": "no",
+    "gps_code": "SUAY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

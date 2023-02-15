@@ -1,0 +1,20 @@
+{
+    "id": "42934",
+    "ident": "UUBC",
+    "type": "medium_airport",
+    "name": "Grabtsevo Airport",
+    "latitude_deg": "54.5499992371",
+    "longitude_deg": "36.3666687012",
+    "elevation_ft": "656",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KLU",
+    "municipality": "Kaluga",
+    "scheduled_service": "no",
+    "gps_code": "UUBC",
+    "iata_code": "KLF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Grabtsevo_Airport",
+    "keywords": "Аэропорт Грабцево"
+}

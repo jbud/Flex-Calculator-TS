@@ -1,0 +1,20 @@
+{
+    "id": "41129",
+    "ident": "SELI",
+    "type": "small_airport",
+    "name": "Limoncocha Airport",
+    "latitude_deg": "-0.40636301040649414",
+    "longitude_deg": "-76.6238021850586",
+    "elevation_ft": "820",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-U",
+    "municipality": "Limoncocha",
+    "scheduled_service": "no",
+    "gps_code": "SELI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

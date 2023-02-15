@@ -1,0 +1,20 @@
+{
+    "id": "39568",
+    "ident": "SGRO",
+    "type": "small_airport",
+    "name": "Aeródromo de Rosario",
+    "latitude_deg": "-24.430037",
+    "longitude_deg": "-57.12013",
+    "elevation_ft": "236",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-2",
+    "municipality": "Rosario",
+    "scheduled_service": "no",
+    "gps_code": "SGRO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

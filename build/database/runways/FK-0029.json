@@ -1,0 +1,20 @@
+{
+    "id": "322421",
+    "ident": "FK-0029",
+    "type": "small_airport",
+    "name": "Beaver Island Airport",
+    "latitude_deg": "-51.84025",
+    "longitude_deg": "-61.23365",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "FK",
+    "iso_region": "FK-U-A",
+    "municipality": "Beaver Island",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

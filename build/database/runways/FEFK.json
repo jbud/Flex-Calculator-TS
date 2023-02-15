@@ -1,0 +1,20 @@
+{
+    "id": "31114",
+    "ident": "FEFK",
+    "type": "small_airport",
+    "name": "Kembé Airport",
+    "latitude_deg": "4.599999904632568",
+    "longitude_deg": "21.867000579833984",
+    "elevation_ft": "1913",
+    "continent": "AF",
+    "iso_country": "CF",
+    "iso_region": "CF-BK",
+    "municipality": "Kembé",
+    "scheduled_service": "no",
+    "gps_code": "FEFK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

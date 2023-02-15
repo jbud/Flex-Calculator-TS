@@ -1,0 +1,20 @@
+{
+    "id": "31679",
+    "ident": "FZBA",
+    "type": "small_airport",
+    "name": "Inongo Airport",
+    "latitude_deg": "-1.94722",
+    "longitude_deg": "18.285801",
+    "elevation_ft": "1040",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-MN",
+    "municipality": "Inongo",
+    "scheduled_service": "yes",
+    "gps_code": "FZBA",
+    "iata_code": "INO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

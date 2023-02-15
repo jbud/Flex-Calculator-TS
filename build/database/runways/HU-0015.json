@@ -1,0 +1,20 @@
+{
+    "id": "309445",
+    "ident": "HU-0015",
+    "type": "small_airport",
+    "name": "Dáka Airfield",
+    "latitude_deg": "47.271801",
+    "longitude_deg": "17.4105",
+    "elevation_ft": "492",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-VE",
+    "municipality": "Dáka",
+    "scheduled_service": "no",
+    "gps_code": "LHDA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "320443",
+    "ident": "ES-0063",
+    "type": "small_airport",
+    "name": "Aeròdrom del Pla de Bages",
+    "latitude_deg": "41.777586",
+    "longitude_deg": "1.890361",
+    "elevation_ft": "886",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Sallent",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

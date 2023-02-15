@@ -1,0 +1,20 @@
+{
+    "id": "317554",
+    "ident": "LHCL",
+    "type": "small_airport",
+    "name": "Cegléd",
+    "latitude_deg": "47.160833",
+    "longitude_deg": "19.878611",
+    "elevation_ft": "315",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-PE",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "LHCL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "32075",
+    "ident": "NZOI",
+    "type": "small_airport",
+    "name": "Motiti Island Airport",
+    "latitude_deg": "-37.632999420166016",
+    "longitude_deg": "176.41700744628906",
+    "elevation_ft": "135",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-BOP",
+    "municipality": "Motiti Island",
+    "scheduled_service": "no",
+    "gps_code": "NZOI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

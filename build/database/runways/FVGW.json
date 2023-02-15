@@ -1,0 +1,20 @@
+{
+    "id": "31236",
+    "ident": "FVGW",
+    "type": "small_airport",
+    "name": "Gweru Airport",
+    "latitude_deg": "-19.549362",
+    "longitude_deg": "29.735388",
+    "elevation_ft": "4660",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MI",
+    "municipality": "Gweru",
+    "scheduled_service": "no",
+    "gps_code": "FVGW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

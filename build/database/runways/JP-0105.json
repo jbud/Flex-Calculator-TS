@@ -1,0 +1,20 @@
+{
+    "id": "334430",
+    "ident": "JP-0105",
+    "type": "small_airport",
+    "name": "Itakura Gliderport",
+    "latitude_deg": "36.26616",
+    "longitude_deg": "139.63388",
+    "elevation_ft": "59",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-10",
+    "municipality": "Itakura",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

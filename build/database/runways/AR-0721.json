@@ -1,0 +1,20 @@
+{
+    "id": "348647",
+    "ident": "AR-0721",
+    "type": "small_airport",
+    "name": "Estancia La Julia Airport",
+    "latitude_deg": "-49.58133",
+    "longitude_deg": "-69.59216",
+    "elevation_ft": "299",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-Z",
+    "municipality": "Corpen Aike",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

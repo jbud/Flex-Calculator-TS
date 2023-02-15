@@ -1,0 +1,20 @@
+{
+    "id": "318248",
+    "ident": "AR-0520",
+    "type": "small_airport",
+    "name": "Alfomso Mengo Airport",
+    "latitude_deg": "-32.02444",
+    "longitude_deg": "-64.27944",
+    "elevation_ft": "1781",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-X",
+    "municipality": "Corralito",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CAM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

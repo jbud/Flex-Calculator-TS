@@ -1,0 +1,20 @@
+{
+    "id": "40260",
+    "ident": "SVPZ",
+    "type": "small_airport",
+    "name": "La Paz Airport",
+    "latitude_deg": "7.488333225250244",
+    "longitude_deg": "-68.99333190917969",
+    "elevation_ft": "344",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVPZ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

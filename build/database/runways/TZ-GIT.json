@@ -1,0 +1,20 @@
+{
+    "id": "42491",
+    "ident": "TZ-GIT",
+    "type": "small_airport",
+    "name": "Mchauru Airport",
+    "latitude_deg": "-2.813667",
+    "longitude_deg": "32.172472",
+    "elevation_ft": "3955",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-18",
+    "municipality": "Geita",
+    "scheduled_service": "no",
+    "gps_code": "HTRU",
+    "iata_code": "GIT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

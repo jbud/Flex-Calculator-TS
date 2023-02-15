@@ -1,0 +1,20 @@
+{
+    "id": "320368",
+    "ident": "IE-0010",
+    "type": "small_airport",
+    "name": "ILAS Wexford Airfield",
+    "latitude_deg": "52.2981",
+    "longitude_deg": "-6.68194",
+    "elevation_ft": "125",
+    "continent": "EU",
+    "iso_country": "IE",
+    "iso_region": "IE-WX",
+    "municipality": "Taghmon",
+    "scheduled_service": "no",
+    "gps_code": "EIIF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Irish Light Aviation Society, Taghmon"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "42194",
+    "ident": "PA-0011",
+    "type": "small_airport",
+    "name": "Mulatupo Airport",
+    "latitude_deg": "8.945487",
+    "longitude_deg": "-77.733486",
+    "elevation_ft": "15",
+    "continent": "NA",
+    "iso_country": "PA",
+    "iso_region": "PS-GY",
+    "municipality": "Mulatupo",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "MPP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mulatupo_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31257",
+    "ident": "FVRE",
+    "type": "small_airport",
+    "name": "Renroc Airport",
+    "latitude_deg": "-16.966999053955078",
+    "longitude_deg": "29.566999435424805",
+    "elevation_ft": "4200",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MW",
+    "municipality": "Renroc",
+    "scheduled_service": "no",
+    "gps_code": "FVRE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

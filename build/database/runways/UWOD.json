@@ -1,0 +1,20 @@
+{
+    "id": "310608",
+    "ident": "UWOD",
+    "type": "small_airport",
+    "name": "Adamovka Airport",
+    "latitude_deg": "51.499284",
+    "longitude_deg": "59.936658",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-ORE",
+    "municipality": "Adamovka",
+    "scheduled_service": "no",
+    "gps_code": "UWOD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

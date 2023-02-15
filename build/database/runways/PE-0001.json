@@ -1,0 +1,20 @@
+{
+    "id": "314993",
+    "ident": "PE-0001",
+    "type": "small_airport",
+    "name": "Lagunas Airstrip",
+    "latitude_deg": "-5.2475",
+    "longitude_deg": "-75.678",
+    "elevation_ft": "430",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LOR",
+    "municipality": "Lagunas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

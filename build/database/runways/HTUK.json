@@ -1,0 +1,20 @@
+{
+    "id": "42488",
+    "ident": "HTUK",
+    "type": "small_airport",
+    "name": "Nansio Airport",
+    "latitude_deg": "-2.043529987335205",
+    "longitude_deg": "33.06439971923828",
+    "elevation_ft": "4010",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-13",
+    "municipality": "Ukerewe",
+    "scheduled_service": "no",
+    "gps_code": "HTUK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

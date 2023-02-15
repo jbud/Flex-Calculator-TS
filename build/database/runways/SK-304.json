@@ -1,0 +1,20 @@
+{
+    "id": "40766",
+    "ident": "SK-304",
+    "type": "small_airport",
+    "name": "La Florida Airport",
+    "latitude_deg": "3.911944",
+    "longitude_deg": "-73.295556",
+    "elevation_ft": "772",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-MET",
+    "municipality": "San Carlos De Guaroa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SGG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "43290",
+    "ident": "LEPR",
+    "type": "small_airport",
+    "name": "Palma Del Río Airport",
+    "latitude_deg": "37.715301513671875",
+    "longitude_deg": "-5.213560104370117",
+    "elevation_ft": "408",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Palma del Rio",
+    "scheduled_service": "no",
+    "gps_code": "LEPR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

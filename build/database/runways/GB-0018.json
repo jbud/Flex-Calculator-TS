@@ -1,0 +1,20 @@
+{
+    "id": "299590",
+    "ident": "GB-0018",
+    "type": "small_airport",
+    "name": "Camphill Airfield",
+    "latitude_deg": "53.305",
+    "longitude_deg": "-1.73138888889",
+    "elevation_ft": "1300",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Great Hucklow",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.dlgc.org.uk/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

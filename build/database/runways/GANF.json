@@ -1,0 +1,20 @@
+{
+    "id": "31513",
+    "ident": "GANF",
+    "type": "small_airport",
+    "name": "Niafunke Airport",
+    "latitude_deg": "15.924035",
+    "longitude_deg": "-4.007727",
+    "elevation_ft": "866",
+    "continent": "AF",
+    "iso_country": "ML",
+    "iso_region": "ML-6",
+    "municipality": "Niafunke",
+    "scheduled_service": "no",
+    "gps_code": "GANF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "308258",
+    "ident": "SGGR",
+    "type": "medium_airport",
+    "name": "Aeropuerto Nacional de Salto del Guaira",
+    "latitude_deg": "-24.032844",
+    "longitude_deg": "-54.35267",
+    "elevation_ft": "990",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-14",
+    "municipality": "Salto del Guaira",
+    "scheduled_service": "no",
+    "gps_code": "SGGR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Salto_del_Guair%C3%A1_Airport",
+    "keywords": ""
+}

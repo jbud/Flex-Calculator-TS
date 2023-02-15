@@ -1,0 +1,20 @@
+{
+    "id": "31663",
+    "ident": "SMNI",
+    "type": "small_airport",
+    "name": "Nieuw Nickerie - Major Henk Fernandes Airport",
+    "latitude_deg": "5.955435",
+    "longitude_deg": "-57.040617",
+    "elevation_ft": "9",
+    "continent": "SA",
+    "iso_country": "SR",
+    "iso_region": "SR-NI",
+    "municipality": "Nieuw Nickerie",
+    "scheduled_service": "no",
+    "gps_code": "SMNI",
+    "iata_code": "ICK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

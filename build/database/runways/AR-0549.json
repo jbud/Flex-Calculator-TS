@@ -1,0 +1,20 @@
+{
+    "id": "318290",
+    "ident": "AR-0549",
+    "type": "small_airport",
+    "name": "Vergnano Airport",
+    "latitude_deg": "-30.32012",
+    "longitude_deg": "-61.90165",
+    "elevation_ft": "314",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-S",
+    "municipality": "San Guillermo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SGV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

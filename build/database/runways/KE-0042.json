@@ -1,0 +1,20 @@
+{
+    "id": "42685",
+    "ident": "KE-0042",
+    "type": "small_airport",
+    "name": "Hall Hall Airport",
+    "latitude_deg": "0.9333329796791077",
+    "longitude_deg": "37.06666564941406",
+    "elevation_ft": "6000",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-700",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

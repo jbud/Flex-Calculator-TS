@@ -1,0 +1,20 @@
+{
+    "id": "342313",
+    "ident": "BR-1457",
+    "type": "small_airport",
+    "name": "Fazenda Yara Airport",
+    "latitude_deg": "-21.065692",
+    "longitude_deg": "-54.114186",
+    "elevation_ft": "1325",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Campo Grande",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SIYX"
+}

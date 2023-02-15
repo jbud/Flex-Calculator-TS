@@ -1,0 +1,20 @@
+{
+    "id": "39707",
+    "ident": "CA-0061",
+    "type": "closed",
+    "name": "Bristol Field Airport",
+    "latitude_deg": "47.3101399785",
+    "longitude_deg": "-53.9902496338",
+    "elevation_ft": "28",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NL",
+    "municipality": "Argentia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/McAndrew_AFB",
+    "keywords": "Naval Station Argentia, McAndrew Air Force Base"
+}

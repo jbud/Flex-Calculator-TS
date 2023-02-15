@@ -1,0 +1,20 @@
+{
+    "id": "40738",
+    "ident": "SK-329",
+    "type": "small_airport",
+    "name": "Natalia Airport",
+    "latitude_deg": "4.069722",
+    "longitude_deg": "-73.180556",
+    "elevation_ft": "674",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-MET",
+    "municipality": "Puerto López",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "PRL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

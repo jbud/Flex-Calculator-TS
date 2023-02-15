@@ -1,0 +1,20 @@
+{
+    "id": "31013",
+    "ident": "EPBS",
+    "type": "small_airport",
+    "name": "Lotnisko Borne Sulinowo",
+    "latitude_deg": "53.576149",
+    "longitude_deg": "16.527729",
+    "elevation_ft": "469",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-ZP",
+    "municipality": "Borne Sulinowo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

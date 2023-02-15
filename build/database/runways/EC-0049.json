@@ -1,0 +1,20 @@
+{
+    "id": "505094",
+    "ident": "EC-0049",
+    "type": "small_airport",
+    "name": "Saraguro Army Airfield",
+    "latitude_deg": "-2.53345",
+    "longitude_deg": "-80.40968",
+    "elevation_ft": "187",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-G",
+    "municipality": "San Antonio de Playas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "355319",
+    "ident": "ES-0304",
+    "type": "heliport",
+    "name": "Pulpí Helipad",
+    "latitude_deg": "37.401077",
+    "longitude_deg": "-1.746113",
+    "elevation_ft": "616",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Pulpí",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

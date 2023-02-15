@@ -1,0 +1,20 @@
+{
+    "id": "43041",
+    "ident": "FK-0011",
+    "type": "small_airport",
+    "name": "Carcass Island Landing Strip",
+    "latitude_deg": "-51.263671875",
+    "longitude_deg": "-60.592079162597656",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "FK",
+    "iso_region": "FK-U-A",
+    "municipality": "Carcass Island",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

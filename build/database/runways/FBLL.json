@@ -1,0 +1,20 @@
+{
+    "id": "317579",
+    "ident": "FBLL",
+    "type": "small_airport",
+    "name": "Limpopo-Lipadi Airport",
+    "latitude_deg": "-22.55153",
+    "longitude_deg": "28.492105",
+    "elevation_ft": "2460",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-CE",
+    "municipality": "Limpopo-Lipadi",
+    "scheduled_service": "no",
+    "gps_code": "FBLL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Zanzibar"
+}

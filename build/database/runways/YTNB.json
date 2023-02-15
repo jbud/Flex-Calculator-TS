@@ -1,0 +1,20 @@
+{
+    "id": "30467",
+    "ident": "YTNB",
+    "type": "small_airport",
+    "name": "Tanbar Airport",
+    "latitude_deg": "-25.847799301147",
+    "longitude_deg": "141.92799377441",
+    "elevation_ft": "344",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Tanbar Station",
+    "scheduled_service": "no",
+    "gps_code": "YTNB",
+    "iata_code": "TXR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "28483",
+    "ident": "DITB",
+    "type": "small_airport",
+    "name": "Tabou Airport",
+    "latitude_deg": "4.437809467315674",
+    "longitude_deg": "-7.362728118896484",
+    "elevation_ft": "39",
+    "continent": "AF",
+    "iso_country": "CI",
+    "iso_region": "CI-BS",
+    "municipality": "Tabou",
+    "scheduled_service": "no",
+    "gps_code": "DITB",
+    "iata_code": "TXU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tabou_Airport",
+    "keywords": ""
+}

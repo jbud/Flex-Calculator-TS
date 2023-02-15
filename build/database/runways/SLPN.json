@@ -1,0 +1,20 @@
+{
+    "id": "39529",
+    "ident": "SLPN",
+    "type": "small_airport",
+    "name": "Porvenir Norte Airport",
+    "latitude_deg": "-13.987333297729492",
+    "longitude_deg": "-61.5456657409668",
+    "elevation_ft": "595",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Velasco",
+    "scheduled_service": "no",
+    "gps_code": "SLPN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

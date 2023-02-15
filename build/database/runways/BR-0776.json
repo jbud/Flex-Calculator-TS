@@ -1,0 +1,20 @@
+{
+    "id": "335110",
+    "ident": "BR-0776",
+    "type": "small_airport",
+    "name": "Fazenda Santa Luzia Airport",
+    "latitude_deg": "-14.248889",
+    "longitude_deg": "-50.880556",
+    "elevation_ft": "853",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Aruanã",
+    "scheduled_service": "no",
+    "gps_code": "SILO",
+    "iata_code": "",
+    "local_code": "GO0184",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

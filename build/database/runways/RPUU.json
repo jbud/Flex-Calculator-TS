@@ -1,0 +1,20 @@
+{
+    "id": "32229",
+    "ident": "RPUU",
+    "type": "small_airport",
+    "name": "Bulan Airport",
+    "latitude_deg": "12.684200286865234",
+    "longitude_deg": "123.87799835205078",
+    "elevation_ft": "3937",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-SOR",
+    "municipality": "Bulan",
+    "scheduled_service": "no",
+    "gps_code": "RPUU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

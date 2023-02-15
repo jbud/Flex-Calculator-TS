@@ -1,0 +1,20 @@
+{
+    "id": "313177",
+    "ident": "HAMR",
+    "type": "small_airport",
+    "name": "Mui River Airport",
+    "latitude_deg": "5.8646",
+    "longitude_deg": "35.7485",
+    "elevation_ft": "1834",
+    "continent": "AF",
+    "iso_country": "ET",
+    "iso_region": "ET-SW",
+    "municipality": "Omo National Park",
+    "scheduled_service": "no",
+    "gps_code": "HAMR",
+    "iata_code": "MUJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

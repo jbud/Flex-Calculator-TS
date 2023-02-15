@@ -1,0 +1,20 @@
+{
+    "id": "40777",
+    "ident": "SK-179",
+    "type": "small_airport",
+    "name": "Nueva Granada Airport",
+    "latitude_deg": "9.578889",
+    "longitude_deg": "-73.373056",
+    "elevation_ft": "301",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CES",
+    "municipality": "La Jagua De Ibirico",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LJI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

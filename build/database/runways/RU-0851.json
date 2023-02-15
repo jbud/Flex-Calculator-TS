@@ -1,0 +1,20 @@
+{
+    "id": "352975",
+    "ident": "RU-0851",
+    "type": "small_airport",
+    "name": "Kungurtug Airport",
+    "latitude_deg": "50.60054",
+    "longitude_deg": "97.50883",
+    "elevation_ft": "4308",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-TY",
+    "municipality": "Kungurtug",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

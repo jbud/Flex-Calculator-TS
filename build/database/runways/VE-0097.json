@@ -1,0 +1,20 @@
+{
+    "id": "40446",
+    "ident": "VE-0097",
+    "type": "heliport",
+    "name": "Jose  Heliport",
+    "latitude_deg": "10.069899559020996",
+    "longitude_deg": "-64.8678970336914",
+    "elevation_ft": "40",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-B",
+    "municipality": "El José",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "35231",
+    "ident": "ZKSC",
+    "type": "medium_airport",
+    "name": "Sunchon Air Base",
+    "latitude_deg": "39.412463",
+    "longitude_deg": "125.890273",
+    "elevation_ft": "141",
+    "continent": "AS",
+    "iso_country": "KP",
+    "iso_region": "KP-02",
+    "municipality": "Sunchon",
+    "scheduled_service": "no",
+    "gps_code": "ZKSC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sunchon_Airport",
+    "keywords": ""
+}

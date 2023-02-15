@@ -1,0 +1,20 @@
+{
+    "id": "42478",
+    "ident": "HTKD",
+    "type": "small_airport",
+    "name": "Kondoa Airport",
+    "latitude_deg": "-4.893710136413574",
+    "longitude_deg": "35.7682991027832",
+    "elevation_ft": "4578",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-03",
+    "municipality": "Kondoa",
+    "scheduled_service": "no",
+    "gps_code": "HTKD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

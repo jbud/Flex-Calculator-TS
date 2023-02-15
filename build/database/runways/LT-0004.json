@@ -1,0 +1,20 @@
+{
+    "id": "315671",
+    "ident": "LT-0004",
+    "type": "small_airport",
+    "name": "Kupiškio aerodromas",
+    "latitude_deg": "55.8529062",
+    "longitude_deg": "24.957929",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "LT",
+    "iso_region": "LT-PN",
+    "municipality": "Kupiškis",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

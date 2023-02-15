@@ -1,0 +1,20 @@
+{
+    "id": "300123",
+    "ident": "RJ01",
+    "type": "heliport",
+    "name": "Akasaka Press Center (Hardy Barracks) Heliport",
+    "latitude_deg": "35.663333",
+    "longitude_deg": "139.725556",
+    "elevation_ft": "97",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-13",
+    "municipality": "Minato, Tokyo",
+    "scheduled_service": "no",
+    "gps_code": "RJ01",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "akasaka press center, hardy barracks, azabu"
+}

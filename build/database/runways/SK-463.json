@@ -1,0 +1,20 @@
+{
+    "id": "40980",
+    "ident": "SK-463",
+    "type": "small_airport",
+    "name": "Las Cañas Airport",
+    "latitude_deg": "3.309167",
+    "longitude_deg": "-76.338889",
+    "elevation_ft": "3246",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-VAC",
+    "municipality": "Candelaria",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CNL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

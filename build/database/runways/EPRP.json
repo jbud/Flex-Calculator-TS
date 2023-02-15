@@ -1,0 +1,20 @@
+{
+    "id": "30314",
+    "ident": "EPRP",
+    "type": "small_airport",
+    "name": "Radom-Piastrów Glider Field",
+    "latitude_deg": "51.478901",
+    "longitude_deg": "21.110001",
+    "elevation_ft": "479",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-MZ",
+    "municipality": "Radom",
+    "scheduled_service": "no",
+    "gps_code": "EPRP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

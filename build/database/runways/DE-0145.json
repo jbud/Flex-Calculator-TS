@@ -1,0 +1,20 @@
+{
+    "id": "312948",
+    "ident": "DE-0145",
+    "type": "small_airport",
+    "name": "Gießen Airfield",
+    "latitude_deg": "50.6042",
+    "longitude_deg": "8.7286",
+    "elevation_ft": "540",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Gießen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

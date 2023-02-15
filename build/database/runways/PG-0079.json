@@ -1,0 +1,20 @@
+{
+    "id": "313167",
+    "ident": "PG-0079",
+    "type": "small_airport",
+    "name": "Aro Airstrip",
+    "latitude_deg": "-7.991",
+    "longitude_deg": "147.24",
+    "elevation_ft": "2200",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-MPL",
+    "municipality": "Aro",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ARO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "44272",
+    "ident": "CN-0194",
+    "type": "small_airport",
+    "name": "Jinxi Air Base",
+    "latitude_deg": "40.749199",
+    "longitude_deg": "120.878998",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-21",
+    "municipality": "Huludao",
+    "scheduled_service": "no",
+    "gps_code": "ZYUH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

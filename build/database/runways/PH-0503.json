@@ -1,0 +1,20 @@
+{
+    "id": "504729",
+    "ident": "PH-0503",
+    "type": "small_airport",
+    "name": "Rizal Airport",
+    "latitude_deg": "9.01267",
+    "longitude_deg": "117.65527",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-PLW",
+    "municipality": "Rizal",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

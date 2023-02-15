@@ -1,0 +1,20 @@
+{
+    "id": "329665",
+    "ident": "CN-0078",
+    "type": "heliport",
+    "name": "Aurora Plaza Helipad",
+    "latitude_deg": "31.234386",
+    "longitude_deg": "121.499617",
+    "elevation_ft": "607",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-33",
+    "municipality": "Shanghai",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

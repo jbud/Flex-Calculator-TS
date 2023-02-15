@@ -1,0 +1,20 @@
+{
+    "id": "44355",
+    "ident": "KZ-0068",
+    "type": "medium_airport",
+    "name": "Kurchatov Airfield",
+    "latitude_deg": "50.736074",
+    "longitude_deg": "78.538942",
+    "elevation_ft": "545",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-ABA",
+    "municipality": "Kurchatov",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэродром Курчатов"
+}

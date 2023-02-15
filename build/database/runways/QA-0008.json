@@ -1,0 +1,20 @@
+{
+    "id": "340581",
+    "ident": "QA-0008",
+    "type": "heliport",
+    "name": "Al Faisal Tower Heliport",
+    "latitude_deg": "25.325566",
+    "longitude_deg": "51.526302",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "QA",
+    "iso_region": "QA-DA",
+    "municipality": "Doha",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "318147",
+    "ident": "IT-0234",
+    "type": "small_airport",
+    "name": "Campo di Volo Valdichiana",
+    "latitude_deg": "43.214021",
+    "longitude_deg": "11.823111",
+    "elevation_ft": "810",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-52",
+    "municipality": "Sinalunga (SI)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SIVDC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Valdichiana"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "317586",
+    "ident": "FBTN",
+    "type": "small_airport",
+    "name": "Tonunga Airport",
+    "latitude_deg": "-19.5085",
+    "longitude_deg": "25.0781",
+    "elevation_ft": "3145",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-CE",
+    "municipality": "Tonunga",
+    "scheduled_service": "no",
+    "gps_code": "FBTN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "FB78"
+}

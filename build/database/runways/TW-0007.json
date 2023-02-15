@@ -1,0 +1,20 @@
+{
+    "id": "325266",
+    "ident": "TW-0007",
+    "type": "small_airport",
+    "name": "Chiayi Highway Airstrip",
+    "latitude_deg": "23.538652",
+    "longitude_deg": "120.410156",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-CYQ",
+    "municipality": "Minxiong",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Chiayi"
+}

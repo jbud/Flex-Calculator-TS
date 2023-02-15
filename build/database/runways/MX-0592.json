@@ -1,0 +1,20 @@
+{
+    "id": "325219",
+    "ident": "MX-0592",
+    "type": "small_airport",
+    "name": "General Miguel Alemán Airport",
+    "latitude_deg": "18.209182",
+    "longitude_deg": "-96.091368",
+    "elevation_ft": "66",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-VER",
+    "municipality": "Cosamaloapan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "AMV",
+    "home_link": "",
+    "wikipedia_link": "https://es.wikipedia.org/wiki/Aer%C3%B3dromo_General_Miguel_Alem%C3%A1n",
+    "keywords": "MX22"
+}

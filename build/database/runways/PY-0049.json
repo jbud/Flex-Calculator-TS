@@ -1,0 +1,20 @@
+{
+    "id": "505538",
+    "ident": "PY-0049",
+    "type": "heliport",
+    "name": "Helipuerto del Comando de Aviación Naval",
+    "latitude_deg": "-25.292525",
+    "longitude_deg": "-57.669591",
+    "elevation_ft": "196",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-ASU",
+    "municipality": "Comando de Aviación Naval",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.armadaparaguaya.mil.py",
+    "wikipedia_link": "https://es.wikipedia.org/wiki/Armada_Paraguaya",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "40718",
+    "ident": "SK-320",
+    "type": "small_airport",
+    "name": "Los Gavanes Airport",
+    "latitude_deg": "4.203521",
+    "longitude_deg": "-72.98107",
+    "elevation_ft": "584",
+    "continent": "NA",
+    "iso_country": "CO",
+    "iso_region": "CO-MET",
+    "municipality": "Cabuyaro",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CBA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

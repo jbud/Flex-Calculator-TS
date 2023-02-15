@@ -1,0 +1,20 @@
+{
+    "id": "44632",
+    "ident": "RU-0170",
+    "type": "small_airport",
+    "name": "Baltym Airfield",
+    "latitude_deg": "57.10900115966797",
+    "longitude_deg": "60.606998443603516",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-SVE",
+    "municipality": "Krasny Aduy",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэродром Балтым"
+}

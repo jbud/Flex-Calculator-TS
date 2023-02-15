@@ -1,0 +1,20 @@
+{
+    "id": "321526",
+    "ident": "ES-0189",
+    "type": "small_airport",
+    "name": "La Gineta Ultralightport",
+    "latitude_deg": "39.105766",
+    "longitude_deg": "-2.016283",
+    "elevation_ft": "2270",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CM",
+    "municipality": "La Gineta",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

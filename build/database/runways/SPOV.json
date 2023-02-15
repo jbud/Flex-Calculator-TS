@@ -1,0 +1,20 @@
+{
+    "id": "32412",
+    "ident": "SPOV",
+    "type": "small_airport",
+    "name": "Shiringayoc/Hacienda Hda Mejia Airport",
+    "latitude_deg": "-11.9",
+    "longitude_deg": "-69.167",
+    "elevation_ft": "748",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-MDD",
+    "municipality": "Leon Velarde",
+    "scheduled_service": "no",
+    "gps_code": "SPOV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

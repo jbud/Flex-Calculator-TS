@@ -1,0 +1,20 @@
+{
+    "id": "44845",
+    "ident": "NZWH",
+    "type": "heliport",
+    "name": "Wellington Hospital Heliport",
+    "latitude_deg": "-41.30830001831055",
+    "longitude_deg": "174.7790069580078",
+    "elevation_ft": "290",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-WGN",
+    "municipality": "Wellington",
+    "scheduled_service": "no",
+    "gps_code": "NZWH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "327617",
+    "ident": "AR-0633",
+    "type": "small_airport",
+    "name": "Rincón de Luna Airport",
+    "latitude_deg": "-28.470238",
+    "longitude_deg": "-58.249234",
+    "elevation_ft": "180",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-W",
+    "municipality": "Tabay",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "1300",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

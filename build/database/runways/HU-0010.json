@@ -1,0 +1,20 @@
+{
+    "id": "43992",
+    "ident": "HU-0010",
+    "type": "small_airport",
+    "name": "Kunmadaras Air Base",
+    "latitude_deg": "47.390839",
+    "longitude_deg": "20.785009",
+    "elevation_ft": "279",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-JN",
+    "municipality": "Kunmadaras",
+    "scheduled_service": "no",
+    "gps_code": "LHKM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

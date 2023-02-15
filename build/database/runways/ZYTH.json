@@ -1,0 +1,20 @@
+{
+    "id": "307017",
+    "ident": "ZYTH",
+    "type": "small_airport",
+    "name": "Da Hinggan Ling Targen Airport",
+    "latitude_deg": "52.224444",
+    "longitude_deg": "124.720222",
+    "elevation_ft": "1240",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-23",
+    "municipality": "Tahe",
+    "scheduled_service": "no",
+    "gps_code": "ZYTH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Tahe"
+}

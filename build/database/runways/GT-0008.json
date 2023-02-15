@@ -1,0 +1,20 @@
+{
+    "id": "45195",
+    "ident": "GT-0008",
+    "type": "small_airport",
+    "name": "SANTIAGO",
+    "latitude_deg": "14.609280294500001",
+    "longitude_deg": "-91.24419093130001",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "GT",
+    "iso_region": "GT-SO",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

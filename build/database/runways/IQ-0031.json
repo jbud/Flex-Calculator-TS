@@ -1,0 +1,20 @@
+{
+    "id": "44525",
+    "ident": "IQ-0031",
+    "type": "small_airport",
+    "name": "Markab Northeast Airport",
+    "latitude_deg": "33.252525329589844",
+    "longitude_deg": "43.59450149536133",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "IQ",
+    "iso_region": "IQ-AN",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

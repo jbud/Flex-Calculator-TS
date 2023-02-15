@@ -1,0 +1,20 @@
+{
+    "id": "355358",
+    "ident": "SE-0079",
+    "type": "heliport",
+    "name": "Babcock Scandinavian Air Ambulance AB",
+    "latitude_deg": "63.19142",
+    "longitude_deg": "14.63069",
+    "elevation_ft": "971",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Z",
+    "municipality": "831 52 Östersund",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

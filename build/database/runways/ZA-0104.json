@@ -1,0 +1,20 @@
+{
+    "id": "41306",
+    "ident": "ZA-0104",
+    "type": "small_airport",
+    "name": "Kagga Kamma Airport",
+    "latitude_deg": "-32.732359",
+    "longitude_deg": "19.540073",
+    "elevation_ft": "3494",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-WC",
+    "municipality": "Kagga Kamma Private Game Reserve",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

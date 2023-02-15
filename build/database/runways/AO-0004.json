@@ -1,0 +1,20 @@
+{
+    "id": "43970",
+    "ident": "AO-0004",
+    "type": "small_airport",
+    "name": "Coemba Airport",
+    "latitude_deg": "-12.143704",
+    "longitude_deg": "18.085363",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-BIE",
+    "municipality": "Coemba",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

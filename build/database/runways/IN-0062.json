@@ -1,0 +1,20 @@
+{
+    "id": "46625",
+    "ident": "IN-0062",
+    "type": "small_airport",
+    "name": "Shirpur Airport",
+    "latitude_deg": "21.3239987933",
+    "longitude_deg": "74.9567341805",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-MM",
+    "municipality": "Shirpur",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Shirpur, Dhule"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "30736",
+    "ident": "BIMM",
+    "type": "small_airport",
+    "name": "Melgerðismelar Airport",
+    "latitude_deg": "65.4832992553711",
+    "longitude_deg": "-18.16670036315918",
+    "elevation_ft": "35",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-6",
+    "municipality": "Melgerðismelar",
+    "scheduled_service": "no",
+    "gps_code": "BIMM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

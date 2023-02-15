@@ -1,0 +1,20 @@
+{
+    "id": "317657",
+    "ident": "BW-0014",
+    "type": "small_airport",
+    "name": "Chandia Airstrip",
+    "latitude_deg": "-18.5154",
+    "longitude_deg": "25.495408",
+    "elevation_ft": "3515",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-CH",
+    "municipality": "Chandia",
+    "scheduled_service": "no",
+    "gps_code": "FBCD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "FB06"
+}

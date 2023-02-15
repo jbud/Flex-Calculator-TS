@@ -1,0 +1,20 @@
+{
+    "id": "355970",
+    "ident": "CN-0364",
+    "type": "small_airport",
+    "name": "Gaotai Airport",
+    "latitude_deg": "39.41188",
+    "longitude_deg": "99.77868",
+    "elevation_ft": "4403",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-62",
+    "municipality": "Zhangye (Gaotai)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

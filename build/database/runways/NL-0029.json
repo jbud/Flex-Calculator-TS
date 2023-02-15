@@ -1,0 +1,20 @@
+{
+    "id": "299510",
+    "ident": "NL-0029",
+    "type": "small_airport",
+    "name": "Glider Field Castricum",
+    "latitude_deg": "52.5366666667",
+    "longitude_deg": "4.62666666667",
+    "elevation_ft": "20",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-NH",
+    "municipality": "Castricum",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

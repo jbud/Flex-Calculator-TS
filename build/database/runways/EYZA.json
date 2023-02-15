@@ -1,0 +1,20 @@
+{
+    "id": "30579",
+    "ident": "EYZA",
+    "type": "small_airport",
+    "name": "Zarasai Airfield",
+    "latitude_deg": "55.752499",
+    "longitude_deg": "26.256901",
+    "elevation_ft": "541",
+    "continent": "EU",
+    "iso_country": "LT",
+    "iso_region": "LT-UT",
+    "municipality": "Zarasai",
+    "scheduled_service": "no",
+    "gps_code": "EYZA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

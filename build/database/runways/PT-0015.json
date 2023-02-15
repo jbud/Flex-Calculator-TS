@@ -1,0 +1,20 @@
+{
+    "id": "43783",
+    "ident": "PT-0015",
+    "type": "heliport",
+    "name": "Loule heliport",
+    "latitude_deg": "37.131523",
+    "longitude_deg": "-8.033168",
+    "elevation_ft": "404",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-08",
+    "municipality": "Loule",
+    "scheduled_service": "no",
+    "gps_code": "LPLO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

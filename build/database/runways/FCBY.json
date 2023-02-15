@@ -1,0 +1,20 @@
+{
+    "id": "32036",
+    "ident": "FCBY",
+    "type": "small_airport",
+    "name": "Yokangassi Airport",
+    "latitude_deg": "-4.223077",
+    "longitude_deg": "13.286347",
+    "elevation_ft": "541",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-11",
+    "municipality": "Nkayi",
+    "scheduled_service": "no",
+    "gps_code": "FCBY",
+    "iata_code": "NKY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yokangassi_Airport",
+    "keywords": ""
+}

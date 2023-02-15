@@ -1,0 +1,20 @@
+{
+    "id": "39515",
+    "ident": "SLLB",
+    "type": "small_airport",
+    "name": "Las Brizas Airport",
+    "latitude_deg": "-14.516666412353516",
+    "longitude_deg": "-65.76667022705078",
+    "elevation_ft": "722",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-B",
+    "municipality": "Yacuma",
+    "scheduled_service": "no",
+    "gps_code": "SLLB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

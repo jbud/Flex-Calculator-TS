@@ -1,0 +1,20 @@
+{
+    "id": "337835",
+    "ident": "CN-0010",
+    "type": "small_airport",
+    "name": "Zhuhai Jiuzhou Airport",
+    "latitude_deg": "22.25211",
+    "longitude_deg": "113.59031",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-44",
+    "municipality": "Zhuhai (Xiangzhou)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "A97",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ZGUH"
+}

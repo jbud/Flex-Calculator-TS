@@ -1,0 +1,20 @@
+{
+    "id": "321633",
+    "ident": "ES-0211",
+    "type": "small_airport",
+    "name": "Campo de Vuelo de Oteo",
+    "latitude_deg": "43.0168667",
+    "longitude_deg": "-3.3120333",
+    "elevation_ft": "2307",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CL",
+    "municipality": "Oteo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

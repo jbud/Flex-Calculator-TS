@@ -1,0 +1,20 @@
+{
+    "id": "350553",
+    "ident": "AU-0251",
+    "type": "heliport",
+    "name": "Cataract Dam Heliport",
+    "latitude_deg": "-34.255438",
+    "longitude_deg": "150.806252",
+    "elevation_ft": "1234",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Cataract",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "OZHKL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "337051",
+    "ident": "BR-1184",
+    "type": "small_airport",
+    "name": "Fazenda Iaciara",
+    "latitude_deg": "-14.141414",
+    "longitude_deg": "-46.684302",
+    "elevation_ft": "1732",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Iaciara",
+    "scheduled_service": "no",
+    "gps_code": "SJIY",
+    "iata_code": "",
+    "local_code": "GO0077",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31248",
+    "ident": "FVMB",
+    "type": "small_airport",
+    "name": "Mashumbi Airport",
+    "latitude_deg": "-16.16699981689453",
+    "longitude_deg": "30.566999435424805",
+    "elevation_ft": "1240",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MC",
+    "municipality": "Mashumbi",
+    "scheduled_service": "no",
+    "gps_code": "FVMB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

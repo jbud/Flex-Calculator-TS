@@ -1,0 +1,20 @@
+{
+    "id": "43858",
+    "ident": "LOIC",
+    "type": "heliport",
+    "name": "St. Anton Am Arlberg Heliport",
+    "latitude_deg": "47.119642",
+    "longitude_deg": "10.240544",
+    "elevation_ft": "4730",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-8",
+    "municipality": "St. Anton Am Arlberg",
+    "scheduled_service": "no",
+    "gps_code": "LOIC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

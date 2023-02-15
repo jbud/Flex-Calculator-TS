@@ -1,0 +1,20 @@
+{
+    "id": "32247",
+    "ident": "SAMU",
+    "type": "small_airport",
+    "name": "Uspallata Airport",
+    "latitude_deg": "-32.538898468",
+    "longitude_deg": "-69.3458023071",
+    "elevation_ft": "6525",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-M",
+    "municipality": "Uspallata",
+    "scheduled_service": "no",
+    "gps_code": "SAMU",
+    "iata_code": "",
+    "local_code": "USP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

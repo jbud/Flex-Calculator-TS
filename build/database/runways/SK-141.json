@@ -1,0 +1,20 @@
+{
+    "id": "40975",
+    "ident": "SK-141",
+    "type": "small_airport",
+    "name": "San Jacinto Airport",
+    "latitude_deg": "3.185833",
+    "longitude_deg": "-76.326111",
+    "elevation_ft": "3261",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAU",
+    "municipality": "Padilla",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SJP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "342237",
+    "ident": "BR-1434",
+    "type": "small_airport",
+    "name": "Fazenda Santa Rosália Airport",
+    "latitude_deg": "-19.723282",
+    "longitude_deg": "-57.753715",
+    "elevation_ft": "279",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Corumbá",
+    "scheduled_service": "no",
+    "gps_code": "SNKX",
+    "iata_code": "",
+    "local_code": "MS0215",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

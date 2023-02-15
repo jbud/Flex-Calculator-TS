@@ -1,0 +1,20 @@
+{
+    "id": "28458",
+    "ident": "CAP5",
+    "type": "seaplane_base",
+    "name": "Victoria Airport",
+    "latitude_deg": "48.6538920506",
+    "longitude_deg": "-123.450450897",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "CAP5",
+    "iata_code": "",
+    "local_code": "CAP5",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

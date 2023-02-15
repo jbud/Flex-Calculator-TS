@@ -1,0 +1,20 @@
+{
+    "id": "43903",
+    "ident": "LBST",
+    "type": "small_airport",
+    "name": "Stryama Airfield",
+    "latitude_deg": "42.540279",
+    "longitude_deg": "24.825222",
+    "elevation_ft": "916",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-16",
+    "municipality": "Stryama",
+    "scheduled_service": "no",
+    "gps_code": "LBST",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

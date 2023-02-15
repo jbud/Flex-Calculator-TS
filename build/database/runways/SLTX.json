@@ -1,0 +1,20 @@
+{
+    "id": "39553",
+    "ident": "SLTX",
+    "type": "small_airport",
+    "name": "Tuichi Airport",
+    "latitude_deg": "-14.316666603088379",
+    "longitude_deg": "-68.58333587646484",
+    "elevation_ft": "2360",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-L",
+    "municipality": "Franz Tamayo",
+    "scheduled_service": "no",
+    "gps_code": "SLTX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

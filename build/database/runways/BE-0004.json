@@ -1,0 +1,20 @@
+{
+    "id": "301715",
+    "ident": "BE-0004",
+    "type": "heliport",
+    "name": "Zomergem Heliport",
+    "latitude_deg": "51.131389",
+    "longitude_deg": "3.522222",
+    "elevation_ft": "66",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-VOV",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EBZM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "38765",
+    "ident": "AR-0090",
+    "type": "small_airport",
+    "name": "Castelli Airport",
+    "latitude_deg": "-25.93083381652832",
+    "longitude_deg": "-60.628055572509766",
+    "elevation_ft": "364",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-H",
+    "municipality": "Chaco",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

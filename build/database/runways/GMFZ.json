@@ -1,0 +1,20 @@
+{
+    "id": "30474",
+    "ident": "GMFZ",
+    "type": "small_airport",
+    "name": "Taza Airport",
+    "latitude_deg": "34.231887",
+    "longitude_deg": "-3.94701",
+    "elevation_ft": "1890",
+    "continent": "AF",
+    "iso_country": "MA",
+    "iso_region": "MA-TAZ",
+    "municipality": "Taza",
+    "scheduled_service": "no",
+    "gps_code": "GMFZ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

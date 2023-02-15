@@ -1,0 +1,20 @@
+{
+    "id": "355823",
+    "ident": "US-6992",
+    "type": "small_airport",
+    "name": "Jarrell Airport",
+    "latitude_deg": "35.4239",
+    "longitude_deg": "-81.25374",
+    "elevation_ft": "829",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Lincolnton",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

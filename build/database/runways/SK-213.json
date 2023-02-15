@@ -1,0 +1,20 @@
+{
+    "id": "40849",
+    "ident": "SK-213",
+    "type": "small_airport",
+    "name": "La Libélula Airport",
+    "latitude_deg": "4.919444",
+    "longitude_deg": "-74.055833",
+    "elevation_ft": "8410",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CUN",
+    "municipality": "Cajiga",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CJI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

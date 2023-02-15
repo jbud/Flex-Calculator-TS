@@ -1,0 +1,20 @@
+{
+    "id": "351101",
+    "ident": "RO-0038",
+    "type": "heliport",
+    "name": "Constanța Naval Heliport",
+    "latitude_deg": "44.15778",
+    "longitude_deg": "28.66116",
+    "elevation_ft": "3",
+    "continent": "EU",
+    "iso_country": "RO",
+    "iso_region": "RO-CT",
+    "municipality": "Constanța",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

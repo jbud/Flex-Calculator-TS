@@ -1,0 +1,20 @@
+{
+    "id": "29903",
+    "ident": "YXGS",
+    "type": "heliport",
+    "name": "Gosford Hospital Helipad",
+    "latitude_deg": "-33.421626",
+    "longitude_deg": "151.339894",
+    "elevation_ft": "110",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Gosford",
+    "scheduled_service": "no",
+    "gps_code": "YXGS",
+    "iata_code": "",
+    "local_code": "YXGS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

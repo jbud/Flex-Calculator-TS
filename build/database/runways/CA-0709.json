@@ -1,0 +1,20 @@
+{
+    "id": "335145",
+    "ident": "CA-0709",
+    "type": "small_airport",
+    "name": "Unknown Rural MB Airport",
+    "latitude_deg": "50.052196",
+    "longitude_deg": "-96.834781",
+    "elevation_ft": "771",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "East Selkirk",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

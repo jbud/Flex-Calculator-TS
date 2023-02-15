@@ -1,0 +1,20 @@
+{
+    "id": "335707",
+    "ident": "BR-1003",
+    "type": "small_airport",
+    "name": "Pista Aldeia Aukre",
+    "latitude_deg": "-7.697574",
+    "longitude_deg": "-51.875628",
+    "elevation_ft": "892",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Ourilândia do Norte",
+    "scheduled_service": "no",
+    "gps_code": "SISA",
+    "iata_code": "",
+    "local_code": "PA0055",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "44610",
+    "ident": "UHMN",
+    "type": "small_airport",
+    "name": "Omolon Airport",
+    "latitude_deg": "65.23999786376953",
+    "longitude_deg": "160.5399932861328",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-CHU",
+    "municipality": "Omolon",
+    "scheduled_service": "yes",
+    "gps_code": "UHMN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Омолон"
+}

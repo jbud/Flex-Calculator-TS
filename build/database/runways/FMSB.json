@@ -1,0 +1,20 @@
+{
+    "id": "32644",
+    "ident": "FMSB",
+    "type": "small_airport",
+    "name": "Antsoa Airport",
+    "latitude_deg": "-21.606983764699997",
+    "longitude_deg": "45.136020183599996",
+    "elevation_ft": "820",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-U",
+    "municipality": "Beroroha",
+    "scheduled_service": "no",
+    "gps_code": "FMSB",
+    "iata_code": "WBO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

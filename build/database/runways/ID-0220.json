@@ -1,0 +1,20 @@
+{
+    "id": "354038",
+    "ident": "ID-0220",
+    "type": "small_airport",
+    "name": "Manggelum Airport",
+    "latitude_deg": "-5.416371",
+    "longitude_deg": "140.436231",
+    "elevation_ft": "217",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PS",
+    "municipality": "Boven Digoel Regency",
+    "scheduled_service": "no",
+    "gps_code": "WAJT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Mangelum"
+}

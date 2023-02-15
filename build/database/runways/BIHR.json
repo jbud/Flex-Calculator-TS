@@ -1,0 +1,20 @@
+{
+    "id": "30724",
+    "ident": "BIHR",
+    "type": "small_airport",
+    "name": "Hvolsvöllur Airport",
+    "latitude_deg": "63.752743",
+    "longitude_deg": "-20.250893",
+    "elevation_ft": "109",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-8",
+    "municipality": "Hvolsvöllur",
+    "scheduled_service": "no",
+    "gps_code": "BIHR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

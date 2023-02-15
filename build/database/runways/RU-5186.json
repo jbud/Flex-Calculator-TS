@@ -1,0 +1,20 @@
+{
+    "id": "35004",
+    "ident": "RU-5186",
+    "type": "small_airport",
+    "name": "Klin Air Base",
+    "latitude_deg": "56.36669921875",
+    "longitude_deg": "36.73830032348633",
+    "elevation_ft": "538",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-MOS",
+    "municipality": "Klin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Klin_(air_base)",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "352677",
+    "ident": "SDY2",
+    "type": "small_airport",
+    "name": "Fazenda Boa Safra Airport",
+    "latitude_deg": "-18.154188",
+    "longitude_deg": "-49.927691",
+    "elevation_ft": "1755",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Bom Jesus de Goiás",
+    "scheduled_service": "no",
+    "gps_code": "SDY2",
+    "iata_code": "",
+    "local_code": "GO0333",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "505545",
+    "ident": "PY-0056",
+    "type": "heliport",
+    "name": "Helipuerto del Hospital Militar Central",
+    "latitude_deg": "-25.279175",
+    "longitude_deg": "-57.646605",
+    "elevation_ft": "239",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-ASU",
+    "municipality": "Hospital Militar Central",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://fonsafan.org.py/index.php",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "349011",
+    "ident": "JP-2556",
+    "type": "heliport",
+    "name": "Gobo Heliport",
+    "latitude_deg": "33.8972",
+    "longitude_deg": "135.19229",
+    "elevation_ft": "49",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-30",
+    "municipality": "Gobo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

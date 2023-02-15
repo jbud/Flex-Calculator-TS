@@ -1,0 +1,20 @@
+{
+    "id": "41135",
+    "ident": "SD-0001",
+    "type": "medium_airport",
+    "name": "Wadi Seidna Air Base",
+    "latitude_deg": "15.815213",
+    "longitude_deg": "32.51401",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SD",
+    "iso_region": "SD-03",
+    "municipality": "Karari al-Balad",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "HSOM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Wadi Saidna, Wadi Sayyidna"
+}

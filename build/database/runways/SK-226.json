@@ -1,0 +1,20 @@
+{
+    "id": "40693",
+    "ident": "SK-226",
+    "type": "small_airport",
+    "name": "Calamar Airport",
+    "latitude_deg": "1.955556",
+    "longitude_deg": "-72.533333",
+    "elevation_ft": "846",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-GUV",
+    "municipality": "San José Del Guaviare",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CLM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

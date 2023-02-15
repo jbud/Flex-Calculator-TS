@@ -1,0 +1,20 @@
+{
+    "id": "301882",
+    "ident": "NFFA",
+    "type": "small_airport",
+    "name": "Ba Airport",
+    "latitude_deg": "-17.530799",
+    "longitude_deg": "177.690506",
+    "elevation_ft": "20",
+    "continent": "OC",
+    "iso_country": "FJ",
+    "iso_region": "FJ-W",
+    "municipality": "Ba",
+    "scheduled_service": "no",
+    "gps_code": "NFFA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "BFJ"
+}

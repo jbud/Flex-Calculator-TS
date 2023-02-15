@@ -1,0 +1,20 @@
+{
+    "id": "355975",
+    "ident": "SI7A",
+    "type": "small_airport",
+    "name": "Alvorada do Gurguéia Airport",
+    "latitude_deg": "-8.441991",
+    "longitude_deg": "-43.858564",
+    "elevation_ft": "919",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PI",
+    "municipality": "Alvorada do Gurguéia",
+    "scheduled_service": "no",
+    "gps_code": "SI7A",
+    "iata_code": "",
+    "local_code": "PI0089",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "301705",
+    "ident": "AOB",
+    "type": "small_airport",
+    "name": "Annanberg Airport",
+    "latitude_deg": "-4.90416666667",
+    "longitude_deg": "144.635833333",
+    "elevation_ft": "130",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-MPM",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "AOB",
+    "local_code": "ANB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

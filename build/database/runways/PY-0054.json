@@ -1,0 +1,20 @@
+{
+    "id": "505543",
+    "ident": "PY-0054",
+    "type": "heliport",
+    "name": "Helipuerto Aeromont S.R.L.",
+    "latitude_deg": "-25.250857",
+    "longitude_deg": "-57.514908",
+    "elevation_ft": "298",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-11",
+    "municipality": "Aeropuerto Internacional Silvio Pettirossi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://aeromont-srl.negocio.site",
+    "wikipedia_link": "",
+    "keywords": ""
+}

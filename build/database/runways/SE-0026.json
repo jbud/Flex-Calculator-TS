@@ -1,0 +1,20 @@
+{
+    "id": "320951",
+    "ident": "SE-0026",
+    "type": "small_airport",
+    "name": "Finspångs flygfält",
+    "latitude_deg": "58.73342",
+    "longitude_deg": "15.603996",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-E",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://gliding.se",
+    "wikipedia_link": "",
+    "keywords": "Linköpings Segelflygklubb"
+}

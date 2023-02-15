@@ -1,0 +1,20 @@
+{
+    "id": "318794",
+    "ident": "TZ-0136",
+    "type": "small_airport",
+    "name": "Sanzale Airport",
+    "latitude_deg": "-6.471723",
+    "longitude_deg": "38.880082",
+    "elevation_ft": "47",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-19",
+    "municipality": "Bagamoyo",
+    "scheduled_service": "no",
+    "gps_code": "HTXX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

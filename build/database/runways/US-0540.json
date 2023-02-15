@@ -1,0 +1,20 @@
+{
+    "id": "323166",
+    "ident": "US-0540",
+    "type": "heliport",
+    "name": "South Baldwin Regional Medical Center Heliport",
+    "latitude_deg": "30.426669",
+    "longitude_deg": "-87.685113",
+    "elevation_ft": "85",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Foley",
+    "scheduled_service": "no",
+    "gps_code": "3AL4",
+    "iata_code": "",
+    "local_code": "3AL4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Foley Hospital Heliport"
+}

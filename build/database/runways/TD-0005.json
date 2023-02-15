@@ -1,0 +1,20 @@
+{
+    "id": "319204",
+    "ident": "TD-0005",
+    "type": "small_airport",
+    "name": "Kélo Airport",
+    "latitude_deg": "9.31408",
+    "longitude_deg": "15.786463",
+    "elevation_ft": "1240",
+    "continent": "AF",
+    "iso_country": "TD",
+    "iso_region": "TD-TA",
+    "municipality": "Kélo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/K%C3%A9lo_Airport",
+    "keywords": ""
+}

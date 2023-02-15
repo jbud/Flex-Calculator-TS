@@ -1,0 +1,20 @@
+{
+    "id": "30135",
+    "ident": "FDMH",
+    "type": "small_airport",
+    "name": "Mhlume Airport",
+    "latitude_deg": "-26.024200439453125",
+    "longitude_deg": "31.809999465942383",
+    "elevation_ft": "926",
+    "continent": "AF",
+    "iso_country": "SZ",
+    "iso_region": "SZ-LU",
+    "municipality": "Mhlume",
+    "scheduled_service": "no",
+    "gps_code": "FDMH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

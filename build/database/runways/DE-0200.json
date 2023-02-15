@@ -1,0 +1,20 @@
+{
+    "id": "315398",
+    "ident": "DE-0200",
+    "type": "small_airport",
+    "name": "Kerken UL",
+    "latitude_deg": "51.4388889",
+    "longitude_deg": "6.4455556",
+    "elevation_ft": "114",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.ul-kerken.de",
+    "wikipedia_link": "",
+    "keywords": ""
+}

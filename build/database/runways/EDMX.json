@@ -1,0 +1,20 @@
+{
+    "id": "331088",
+    "ident": "EDMX",
+    "type": "heliport",
+    "name": "Oberschleissheim Heliport",
+    "latitude_deg": "48.23795",
+    "longitude_deg": "11.565419",
+    "elevation_ft": "1600",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Oberschleissheim",
+    "scheduled_service": "no",
+    "gps_code": "EDMX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

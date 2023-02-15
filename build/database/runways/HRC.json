@@ -1,0 +1,20 @@
+{
+    "id": "313249",
+    "ident": "HRC",
+    "type": "small_airport",
+    "name": "Sary Su Airport",
+    "latitude_deg": "48.3974",
+    "longitude_deg": "70.1915",
+    "elevation_ft": "1307",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-ULY",
+    "municipality": "Zhayrem",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "HRC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Zhairem, Жайрем"
+}

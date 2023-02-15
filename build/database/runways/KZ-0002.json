@@ -1,0 +1,20 @@
+{
+    "id": "41854",
+    "ident": "KZ-0002",
+    "type": "small_airport",
+    "name": "Arkalyk Airport",
+    "latitude_deg": "50.239498138427734",
+    "longitude_deg": "66.94100189208984",
+    "elevation_ft": "1152",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-KUS",
+    "municipality": "Arkalyk",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

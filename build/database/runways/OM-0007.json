@@ -1,0 +1,20 @@
+{
+    "id": "340196",
+    "ident": "OM-0007",
+    "type": "medium_airport",
+    "name": "Ras Al Hadd Airport",
+    "latitude_deg": "22.25691",
+    "longitude_deg": "59.74067",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "OM",
+    "iso_region": "OM-SH",
+    "municipality": "Ras ar Ruays",
+    "scheduled_service": "no",
+    "gps_code": "OORH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

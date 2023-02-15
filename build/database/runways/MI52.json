@@ -1,0 +1,20 @@
+{
+    "id": "22065",
+    "ident": "MI52",
+    "type": "small_airport",
+    "name": "Markham Airport",
+    "latitude_deg": "42.090599060058594",
+    "longitude_deg": "-83.96800231933594",
+    "elevation_ft": "825",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Clinton",
+    "scheduled_service": "no",
+    "gps_code": "MI52",
+    "iata_code": "",
+    "local_code": "MI52",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

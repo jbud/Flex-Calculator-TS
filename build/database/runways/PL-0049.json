@@ -1,0 +1,20 @@
+{
+    "id": "43170",
+    "ident": "PL-0049",
+    "type": "small_airport",
+    "name": "Łagowo Airstrip",
+    "latitude_deg": "51.966667",
+    "longitude_deg": "16.983334",
+    "elevation_ft": "295",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-WP",
+    "municipality": "Dolsk",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

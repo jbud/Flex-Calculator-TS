@@ -1,0 +1,20 @@
+{
+    "id": "31343",
+    "ident": "FZDB",
+    "type": "small_airport",
+    "name": "Kimbau Airport",
+    "latitude_deg": "-5.617000102996826",
+    "longitude_deg": "17.600000381469727",
+    "elevation_ft": "1640",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KU",
+    "municipality": "Kimbau",
+    "scheduled_service": "no",
+    "gps_code": "FZDB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

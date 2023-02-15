@@ -1,0 +1,20 @@
+{
+    "id": "32121",
+    "ident": "BIKP",
+    "type": "small_airport",
+    "name": "Kópasker Airport",
+    "latitude_deg": "66.31079864501953",
+    "longitude_deg": "-16.466699600219727",
+    "elevation_ft": "20",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-6",
+    "municipality": "Kópasker",
+    "scheduled_service": "no",
+    "gps_code": "BIKP",
+    "iata_code": "OPA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

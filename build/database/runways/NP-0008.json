@@ -1,0 +1,20 @@
+{
+    "id": "350895",
+    "ident": "NP-0008",
+    "type": "heliport",
+    "name": "Pheriche Heliport",
+    "latitude_deg": "27.89382",
+    "longitude_deg": "86.8189",
+    "elevation_ft": "13957",
+    "continent": "AS",
+    "iso_country": "NP",
+    "iso_region": "NP-P1",
+    "municipality": "Khumjung",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "41450",
+    "ident": "WASE",
+    "type": "small_airport",
+    "name": "Kebar Airport",
+    "latitude_deg": "-0.810418",
+    "longitude_deg": "133.054937",
+    "elevation_ft": "2050",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PB",
+    "municipality": "Kebar",
+    "scheduled_service": "no",
+    "gps_code": "WASE",
+    "iata_code": "KEQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

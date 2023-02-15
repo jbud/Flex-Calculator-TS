@@ -1,0 +1,20 @@
+{
+    "id": "44754",
+    "ident": "ULAP",
+    "type": "small_airport",
+    "name": "Karpogory Airport",
+    "latitude_deg": "64.0130004883",
+    "longitude_deg": "44.4550018311",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-ARK",
+    "municipality": "Karpogory",
+    "scheduled_service": "no",
+    "gps_code": "ULAP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Карпогоры, УЛАП"
+}

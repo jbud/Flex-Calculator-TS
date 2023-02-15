@@ -1,0 +1,20 @@
+{
+    "id": "40471",
+    "ident": "VE-0122",
+    "type": "small_airport",
+    "name": "Majagua Airport",
+    "latitude_deg": "5.466667175292969",
+    "longitude_deg": "-65.91666412353516",
+    "elevation_ft": "416",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-Z",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

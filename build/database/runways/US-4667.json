@@ -1,0 +1,20 @@
+{
+    "id": "346017",
+    "ident": "US-4667",
+    "type": "small_airport",
+    "name": "Yellow Tank Airport",
+    "latitude_deg": "30.235863",
+    "longitude_deg": "-103.311868",
+    "elevation_ft": "4250",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Marathon",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

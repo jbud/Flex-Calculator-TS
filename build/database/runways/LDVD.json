@@ -1,0 +1,20 @@
+{
+    "id": "29819",
+    "ident": "LDVD",
+    "type": "small_airport",
+    "name": "Daruvar Blagorod Airport",
+    "latitude_deg": "45.55939865112305",
+    "longitude_deg": "17.033100128173828",
+    "elevation_ft": "410",
+    "continent": "EU",
+    "iso_country": "HR",
+    "iso_region": "HR-07",
+    "municipality": "Daruvar",
+    "scheduled_service": "no",
+    "gps_code": "LDVD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

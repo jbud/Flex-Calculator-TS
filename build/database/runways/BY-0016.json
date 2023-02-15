@@ -1,0 +1,20 @@
+{
+    "id": "317423",
+    "ident": "BY-0016",
+    "type": "small_airport",
+    "name": "Gorki",
+    "latitude_deg": "54.30052",
+    "longitude_deg": "30.948463",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "BY",
+    "iso_region": "BY-MA",
+    "municipality": "Gorki",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

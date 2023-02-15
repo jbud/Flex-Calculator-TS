@@ -1,0 +1,20 @@
+{
+    "id": "339962",
+    "ident": "MY-0003",
+    "type": "small_airport",
+    "name": "Cameron Highlands Airstrip",
+    "latitude_deg": "4.440291",
+    "longitude_deg": "101.421724",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-06",
+    "municipality": "Ringlet",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

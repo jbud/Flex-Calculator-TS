@@ -1,0 +1,20 @@
+{
+    "id": "44617",
+    "ident": "USHL",
+    "type": "small_airport",
+    "name": "Lugovoy Airport",
+    "latitude_deg": "59.7239990234375",
+    "longitude_deg": "65.83300018310547",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-KHM",
+    "municipality": "Lugovoy",
+    "scheduled_service": "yes",
+    "gps_code": "USHL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Луговой"
+}

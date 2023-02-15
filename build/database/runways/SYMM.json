@@ -1,0 +1,20 @@
+{
+    "id": "41518",
+    "ident": "SYMM",
+    "type": "small_airport",
+    "name": "Monkey Mountain Airport",
+    "latitude_deg": "4.483329772949219",
+    "longitude_deg": "-59.68330001831055",
+    "elevation_ft": "1456",
+    "continent": "SA",
+    "iso_country": "GY",
+    "iso_region": "GY-PT",
+    "municipality": "Monkey Mountain",
+    "scheduled_service": "no",
+    "gps_code": "SYMM",
+    "iata_code": "MYM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

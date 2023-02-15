@@ -1,0 +1,20 @@
+{
+    "id": "355356",
+    "ident": "SE-0078",
+    "type": "heliport",
+    "name": "Göviken Heliport",
+    "latitude_deg": "63.19274",
+    "longitude_deg": "14.63098",
+    "elevation_ft": "967",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Z",
+    "municipality": "831 52 Östersund",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

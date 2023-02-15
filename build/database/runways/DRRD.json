@@ -1,0 +1,20 @@
+{
+    "id": "30940",
+    "ident": "DRRD",
+    "type": "small_airport",
+    "name": "Dosso Airport",
+    "latitude_deg": "13.0481247896",
+    "longitude_deg": "3.2209682464600005",
+    "elevation_ft": "738",
+    "continent": "AF",
+    "iso_country": "NE",
+    "iso_region": "NE-3",
+    "municipality": "Dosso",
+    "scheduled_service": "no",
+    "gps_code": "DRRD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "315459",
+    "ident": "DE-0205",
+    "type": "small_airport",
+    "name": "Menden-Barge Airfield",
+    "latitude_deg": "51.46",
+    "longitude_deg": "7.8376",
+    "elevation_ft": "750",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Menden",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.lsgmenden.de/",
+    "wikipedia_link": "https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Menden-Barge",
+    "keywords": ""
+}

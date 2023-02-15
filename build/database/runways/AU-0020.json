@@ -1,0 +1,20 @@
+{
+    "id": "42269",
+    "ident": "AU-0020",
+    "type": "small_airport",
+    "name": "Kukerin",
+    "latitude_deg": "-33.17490005493164",
+    "longitude_deg": "118.08499908447266",
+    "elevation_ft": "850",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Kukerin WA",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

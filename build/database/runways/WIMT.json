@@ -1,0 +1,20 @@
+{
+    "id": "41464",
+    "ident": "WIMT",
+    "type": "small_airport",
+    "name": "Tebing Tinggi Airport",
+    "latitude_deg": "3.3666670322418213",
+    "longitude_deg": "99.11666870117188",
+    "elevation_ft": "69",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-SU",
+    "municipality": "Tabbing Tinggi-Sumatra Island",
+    "scheduled_service": "no",
+    "gps_code": "WIMT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

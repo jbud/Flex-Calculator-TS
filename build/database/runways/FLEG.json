@@ -1,0 +1,20 @@
+{
+    "id": "31145",
+    "ident": "FLEG",
+    "type": "small_airport",
+    "name": "East Seven Airport",
+    "latitude_deg": "-12.449999809265137",
+    "longitude_deg": "29.482999801635742",
+    "elevation_ft": "4000",
+    "continent": "AF",
+    "iso_country": "ZM",
+    "iso_region": "ZM-04",
+    "municipality": "Kanshela",
+    "scheduled_service": "no",
+    "gps_code": "FLEG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "340231",
+    "ident": "SO-0015",
+    "type": "small_airport",
+    "name": "Baraawe Airport",
+    "latitude_deg": "1.09438",
+    "longitude_deg": "43.99532",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SO",
+    "iso_region": "SO-SH",
+    "municipality": "Baraawe",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Barawa, Brava"
+}

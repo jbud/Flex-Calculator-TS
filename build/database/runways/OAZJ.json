@@ -1,0 +1,20 @@
+{
+    "id": "32739",
+    "ident": "OAZJ",
+    "type": "small_airport",
+    "name": "Zaranj Airport",
+    "latitude_deg": "30.972222",
+    "longitude_deg": "61.865833",
+    "elevation_ft": "1572",
+    "continent": "AS",
+    "iso_country": "AF",
+    "iso_region": "AF-NIM",
+    "municipality": "Zaranj",
+    "scheduled_service": "no",
+    "gps_code": "OAZJ",
+    "iata_code": "ZAJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

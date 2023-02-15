@@ -1,0 +1,20 @@
+{
+    "id": "32322",
+    "ident": "SLPW",
+    "type": "small_airport",
+    "name": "El Porvenir Sur Airport",
+    "latitude_deg": "-20.75469970703125",
+    "longitude_deg": "-63.20940017700195",
+    "elevation_ft": "2238",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-H",
+    "municipality": "Luis Calvo",
+    "scheduled_service": "no",
+    "gps_code": "SLPW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

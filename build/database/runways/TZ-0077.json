@@ -1,0 +1,20 @@
+{
+    "id": "318638",
+    "ident": "TZ-0077",
+    "type": "small_airport",
+    "name": "Kilumbi Airport",
+    "latitude_deg": "-6.32536",
+    "longitude_deg": "34.173759",
+    "elevation_ft": "4540",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-23",
+    "municipality": "Kilumbi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

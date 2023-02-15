@@ -1,0 +1,20 @@
+{
+    "id": "301323",
+    "ident": "crs7",
+    "type": "small_airport",
+    "name": "Matoush Airport",
+    "latitude_deg": "51.905",
+    "longitude_deg": "-72.12388888",
+    "elevation_ft": "2608",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "CRS7",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

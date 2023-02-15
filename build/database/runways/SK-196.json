@@ -1,0 +1,20 @@
+{
+    "id": "41077",
+    "ident": "SK-196",
+    "type": "small_airport",
+    "name": "Santa María del Darién Airport",
+    "latitude_deg": "8.175247",
+    "longitude_deg": "-77.057762",
+    "elevation_ft": "23",
+    "continent": "NA",
+    "iso_country": "CO",
+    "iso_region": "CO-CHO",
+    "municipality": "Unguía",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SMC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "43882",
+    "ident": "UNOK",
+    "type": "small_airport",
+    "name": "Kalachinsk Airport",
+    "latitude_deg": "55.02000045776367",
+    "longitude_deg": "74.61000061035156",
+    "elevation_ft": "361",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-OMS",
+    "municipality": "Kalachinsk",
+    "scheduled_service": "no",
+    "gps_code": "UNOK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Калачинск"
+}

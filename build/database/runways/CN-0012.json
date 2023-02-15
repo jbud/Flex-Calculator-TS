@@ -1,0 +1,20 @@
+{
+    "id": "44127",
+    "ident": "CN-0012",
+    "type": "medium_airport",
+    "name": "Yuanmou Air Base",
+    "latitude_deg": "25.737499",
+    "longitude_deg": "101.882004",
+    "elevation_ft": "3810",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-53",
+    "municipality": "Chuxiong (Yuanmou)",
+    "scheduled_service": "no",
+    "gps_code": "ZPYM",
+    "iata_code": "YUA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

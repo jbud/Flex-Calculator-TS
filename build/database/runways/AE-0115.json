@@ -1,0 +1,20 @@
+{
+    "id": "351765",
+    "ident": "AE-0115",
+    "type": "small_airport",
+    "name": "Aeroprakt Private Airport",
+    "latitude_deg": "25.26895",
+    "longitude_deg": "55.92562",
+    "elevation_ft": "456",
+    "continent": "AS",
+    "iso_country": "AE",
+    "iso_region": "AE-SH",
+    "municipality": "Al Dhaid",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

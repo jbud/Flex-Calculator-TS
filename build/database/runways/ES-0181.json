@@ -1,0 +1,20 @@
+{
+    "id": "321508",
+    "ident": "ES-0181",
+    "type": "small_airport",
+    "name": "Aeródromo de Fuente Obejuna",
+    "latitude_deg": "38.281802",
+    "longitude_deg": "-5.40184",
+    "elevation_ft": "2083",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Fuente Obejuna",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Ela Aviación"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "30086",
+    "ident": "LPLZ",
+    "type": "small_airport",
+    "name": "Aerodromo da Lousã",
+    "latitude_deg": "40.143042",
+    "longitude_deg": "-8.240987",
+    "elevation_ft": "654",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-06",
+    "municipality": "Lousã",
+    "scheduled_service": "no",
+    "gps_code": "LPLZ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

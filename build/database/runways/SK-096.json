@@ -1,0 +1,20 @@
+{
+    "id": "40641",
+    "ident": "SK-096",
+    "type": "small_airport",
+    "name": "La Pista Airport",
+    "latitude_deg": "4.827778",
+    "longitude_deg": "-71.6675",
+    "elevation_ft": "477",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAS",
+    "municipality": "Orocue",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LAL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

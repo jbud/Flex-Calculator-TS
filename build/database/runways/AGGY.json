@@ -1,0 +1,20 @@
+{
+    "id": "302292",
+    "ident": "AGGY",
+    "type": "small_airport",
+    "name": "Yandina Airport",
+    "latitude_deg": "-9.092816",
+    "longitude_deg": "159.21841",
+    "elevation_ft": "60",
+    "continent": "OC",
+    "iso_country": "SB",
+    "iso_region": "SB-CE",
+    "municipality": "Yandina",
+    "scheduled_service": "yes",
+    "gps_code": "AGGY",
+    "iata_code": "XYA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yandina_Airport",
+    "keywords": ""
+}

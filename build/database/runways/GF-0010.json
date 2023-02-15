@@ -1,0 +1,20 @@
+{
+    "id": "348615",
+    "ident": "GF-0010",
+    "type": "small_airport",
+    "name": "Mana Airport",
+    "latitude_deg": "5.66342",
+    "longitude_deg": "-53.76469",
+    "elevation_ft": "16",
+    "continent": "SA",
+    "iso_country": "GF",
+    "iso_region": "GF-SL",
+    "municipality": "Mana",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

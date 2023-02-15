@@ -1,0 +1,20 @@
+{
+    "id": "28673",
+    "ident": "EDNO",
+    "type": "small_airport",
+    "name": "Nördlingen Airport",
+    "latitude_deg": "48.87055587768555",
+    "longitude_deg": "10.505000114440918",
+    "elevation_ft": "1385",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Nördlingen",
+    "scheduled_service": "no",
+    "gps_code": "EDNO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

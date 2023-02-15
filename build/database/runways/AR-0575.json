@@ -1,0 +1,20 @@
+{
+    "id": "318514",
+    "ident": "AR-0575",
+    "type": "heliport",
+    "name": "La Reserva Heliport",
+    "latitude_deg": "-34.27045",
+    "longitude_deg": "-58.90043",
+    "elevation_ft": "19",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Los Cardales",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "HLR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

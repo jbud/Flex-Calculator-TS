@@ -1,0 +1,20 @@
+{
+    "id": "321031",
+    "ident": "LV-0007",
+    "type": "small_airport",
+    "name": "Skrunda Airfield",
+    "latitude_deg": "56.683379",
+    "longitude_deg": "21.998273",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "LV",
+    "iso_region": "LV-050",
+    "municipality": "Skrunda",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

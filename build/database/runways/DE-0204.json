@@ -1,0 +1,20 @@
+{
+    "id": "315456",
+    "ident": "DE-0204",
+    "type": "small_airport",
+    "name": "Meiersberg Airfield",
+    "latitude_deg": "51.2996",
+    "longitude_deg": "6.9565",
+    "elevation_ft": "520",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Heiligenhaus",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.sportflug-niederberg.de/",
+    "wikipedia_link": "",
+    "keywords": "MEI1"
+}

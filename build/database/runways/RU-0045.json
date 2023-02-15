@@ -1,0 +1,20 @@
+{
+    "id": "42982",
+    "ident": "RU-0045",
+    "type": "small_airport",
+    "name": "Saratov South Airport",
+    "latitude_deg": "51.47780227661133",
+    "longitude_deg": "45.94259262084961",
+    "elevation_ft": "266",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-SAR",
+    "municipality": "Saratov",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Saratov_South",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "44824",
+    "ident": "NZJM",
+    "type": "heliport",
+    "name": "Palmerston North Hospital Heliport",
+    "latitude_deg": "-40.337799072265625",
+    "longitude_deg": "175.61900329589844",
+    "elevation_ft": "128",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-MWT",
+    "municipality": "Palmerston North",
+    "scheduled_service": "no",
+    "gps_code": "NZJM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

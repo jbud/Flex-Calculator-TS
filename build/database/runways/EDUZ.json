@@ -1,0 +1,20 @@
+{
+    "id": "29094",
+    "ident": "EDUZ",
+    "type": "medium_airport",
+    "name": "Flugplatz Zerbst",
+    "latitude_deg": "52.000832",
+    "longitude_deg": "12.148611",
+    "elevation_ft": "289",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-ST",
+    "municipality": "Zerbst/Anhalt",
+    "scheduled_service": "no",
+    "gps_code": "EDUZ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.luftsportverein-zerbst.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

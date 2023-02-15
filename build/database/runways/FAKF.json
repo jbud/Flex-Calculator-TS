@@ -1,0 +1,20 @@
+{
+    "id": "41155",
+    "ident": "FAKF",
+    "type": "small_airport",
+    "name": "Koffee Bay Airport",
+    "latitude_deg": "-31.957335",
+    "longitude_deg": "29.174543",
+    "elevation_ft": "10",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Koffee Bay",
+    "scheduled_service": "no",
+    "gps_code": "FAKF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

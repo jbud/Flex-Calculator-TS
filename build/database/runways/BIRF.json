@@ -1,0 +1,20 @@
+{
+    "id": "30741",
+    "ident": "BIRF",
+    "type": "small_airport",
+    "name": "Rif Airport",
+    "latitude_deg": "64.9113998413",
+    "longitude_deg": "-23.8230991364",
+    "elevation_ft": "18",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-3",
+    "municipality": "Rif",
+    "scheduled_service": "no",
+    "gps_code": "BIRF",
+    "iata_code": "OLI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

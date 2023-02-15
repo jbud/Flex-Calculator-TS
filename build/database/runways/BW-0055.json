@@ -1,0 +1,20 @@
+{
+    "id": "333209",
+    "ident": "BW-0055",
+    "type": "small_airport",
+    "name": "Seba Airport",
+    "latitude_deg": "-19.405037",
+    "longitude_deg": "22.548999",
+    "elevation_ft": "3163",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-NW",
+    "municipality": "Seba",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

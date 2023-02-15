@@ -1,0 +1,20 @@
+{
+    "id": "30710",
+    "ident": "BIAL",
+    "type": "small_airport",
+    "name": "Álftaver Airport",
+    "latitude_deg": "63.53979",
+    "longitude_deg": "-18.44374",
+    "elevation_ft": "160",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-8",
+    "municipality": "Álftaver",
+    "scheduled_service": "no",
+    "gps_code": "BIAL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

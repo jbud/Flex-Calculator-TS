@@ -1,0 +1,20 @@
+{
+    "id": "43180",
+    "ident": "PL-0057",
+    "type": "small_airport",
+    "name": "Radzyń Podlaski-Marynin Airstrip",
+    "latitude_deg": "51.754169",
+    "longitude_deg": "22.628611",
+    "elevation_ft": "470",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-LU",
+    "municipality": "Radzyń Podlaski",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

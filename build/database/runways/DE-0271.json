@@ -1,0 +1,20 @@
+{
+    "id": "315805",
+    "ident": "DE-0271",
+    "type": "small_airport",
+    "name": "Fischbek Airfield",
+    "latitude_deg": "53.4561",
+    "longitude_deg": "9.8317",
+    "elevation_ft": "217",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HH",
+    "municipality": "Fischbek",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.segelflugclub-fischbek.de/",
+    "wikipedia_link": "https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Fischbek",
+    "keywords": ""
+}

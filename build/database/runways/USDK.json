@@ -1,0 +1,20 @@
+{
+    "id": "32551",
+    "ident": "USDK",
+    "type": "small_airport",
+    "name": "Mys Kamenny Airport",
+    "latitude_deg": "68.467676",
+    "longitude_deg": "73.596733",
+    "elevation_ft": "98",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-YAN",
+    "municipality": "Mys Kamennyi",
+    "scheduled_service": "no",
+    "gps_code": "USDK",
+    "iata_code": "YMK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Мыс Каменный"
+}

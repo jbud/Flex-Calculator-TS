@@ -1,0 +1,20 @@
+{
+    "id": "29832",
+    "ident": "LHDV",
+    "type": "small_airport",
+    "name": "Dunaújváros Airfield",
+    "latitude_deg": "46.895802",
+    "longitude_deg": "18.9139",
+    "elevation_ft": "394",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-FE",
+    "municipality": "Dunaújváros",
+    "scheduled_service": "no",
+    "gps_code": "LHDV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

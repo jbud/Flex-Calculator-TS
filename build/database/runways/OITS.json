@@ -1,0 +1,20 @@
+{
+    "id": "42525",
+    "ident": "OITS",
+    "type": "small_airport",
+    "name": "Saghez Airport",
+    "latitude_deg": "36.218333",
+    "longitude_deg": "46.298889",
+    "elevation_ft": "4880",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-12",
+    "municipality": "Saghez",
+    "scheduled_service": "no",
+    "gps_code": "OITS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Saqqez_Airport",
+    "keywords": "Saqqez"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "350897",
+    "ident": "NP-0010",
+    "type": "heliport",
+    "name": "Tengboche Heliport",
+    "latitude_deg": "27.83571",
+    "longitude_deg": "86.76515",
+    "elevation_ft": "12648",
+    "continent": "AS",
+    "iso_country": "NP",
+    "iso_region": "NP-P1",
+    "municipality": "Khumjung",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "328555",
+    "ident": "KR-0966",
+    "type": "heliport",
+    "name": "Seoul St. Mary’s Hospital Heliport",
+    "latitude_deg": "37.501963",
+    "longitude_deg": "127.004721",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-11",
+    "municipality": "Seoul",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Seoul St. Mary’s Hospital"
+}

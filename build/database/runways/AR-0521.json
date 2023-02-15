@@ -1,0 +1,20 @@
+{
+    "id": "318249",
+    "ident": "AR-0521",
+    "type": "small_airport",
+    "name": "Lomas del Espinillo Airport",
+    "latitude_deg": "-32.08806",
+    "longitude_deg": "-64.16972",
+    "elevation_ft": "1441",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-X",
+    "municipality": "Corralito",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CLE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

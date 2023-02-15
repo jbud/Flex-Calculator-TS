@@ -1,0 +1,20 @@
+{
+    "id": "30936",
+    "ident": "VNDP",
+    "type": "small_airport",
+    "name": "Dolpa Airport",
+    "latitude_deg": "28.985659",
+    "longitude_deg": "82.818703",
+    "elevation_ft": "8200",
+    "continent": "AS",
+    "iso_country": "NP",
+    "iso_region": "NP-P6",
+    "municipality": "Dolpa",
+    "scheduled_service": "yes",
+    "gps_code": "VNDP",
+    "iata_code": "DOP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dolpa_Airport",
+    "keywords": ""
+}

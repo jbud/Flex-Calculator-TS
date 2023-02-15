@@ -1,0 +1,20 @@
+{
+    "id": "308289",
+    "ident": "DE-0059",
+    "type": "small_airport",
+    "name": "Kaufbeuren Air Base",
+    "latitude_deg": "47.8617",
+    "longitude_deg": "10.6143",
+    "elevation_ft": "2400",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Kaufbeuren",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kaufbeuren_Air_Base",
+    "keywords": ""
+}

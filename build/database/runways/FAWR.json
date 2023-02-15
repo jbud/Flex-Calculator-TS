@@ -1,0 +1,20 @@
+{
+    "id": "30555",
+    "ident": "FAWR",
+    "type": "small_airport",
+    "name": "Wavecrest Airport",
+    "latitude_deg": "-32.589906",
+    "longitude_deg": "28.518491",
+    "elevation_ft": "89",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Wavecrest",
+    "scheduled_service": "no",
+    "gps_code": "FAWR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

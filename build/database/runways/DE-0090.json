@@ -1,0 +1,20 @@
+{
+    "id": "309906",
+    "ident": "DE-0090",
+    "type": "small_airport",
+    "name": "Oberhinkofen Airfield",
+    "latitude_deg": "48.9517",
+    "longitude_deg": "12.1467",
+    "elevation_ft": "1276",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Regensburg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.luftsportverein-regensburg.de/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "320539",
+    "ident": "IT-0462",
+    "type": "small_airport",
+    "name": "Campo di Volo Cogliate",
+    "latitude_deg": "45.640218",
+    "longitude_deg": "9.066056",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-25",
+    "municipality": "Cogliate (MI)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MICOG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

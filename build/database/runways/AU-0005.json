@@ -1,0 +1,20 @@
+{
+    "id": "38204",
+    "ident": "AU-0005",
+    "type": "small_airport",
+    "name": "Myrup fly in estate Airport",
+    "latitude_deg": "-33.789272",
+    "longitude_deg": "121.956847",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "A04",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

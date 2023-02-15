@@ -1,0 +1,20 @@
+{
+    "id": "46448",
+    "ident": "CU-0080",
+    "type": "small_airport",
+    "name": "Las Cruces Airport",
+    "latitude_deg": "22.27206",
+    "longitude_deg": "-83.440905",
+    "elevation_ft": "39",
+    "continent": "NA",
+    "iso_country": "CU",
+    "iso_region": "CU-01",
+    "municipality": "Alonso de Rojas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

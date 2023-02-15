@@ -1,0 +1,20 @@
+{
+    "id": "345549",
+    "ident": "US-4489",
+    "type": "heliport",
+    "name": "Turner Heliport",
+    "latitude_deg": "43.291006",
+    "longitude_deg": "-83.740025",
+    "elevation_ft": "652",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Birch Run",
+    "scheduled_service": "no",
+    "gps_code": "42MI",
+    "iata_code": "",
+    "local_code": "42MI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

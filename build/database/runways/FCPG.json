@@ -1,0 +1,20 @@
+{
+    "id": "31098",
+    "ident": "FCPG",
+    "type": "small_airport",
+    "name": "Kibangou Airport",
+    "latitude_deg": "-3.4830000400543213",
+    "longitude_deg": "12.300000190734863",
+    "elevation_ft": "427",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-9",
+    "municipality": "Kibangou",
+    "scheduled_service": "no",
+    "gps_code": "FCPG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

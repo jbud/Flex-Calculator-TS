@@ -1,0 +1,20 @@
+{
+    "id": "353783",
+    "ident": "US-6753",
+    "type": "small_airport",
+    "name": "Los Alamos Ranch Airport",
+    "latitude_deg": "29.73997",
+    "longitude_deg": "-104.06134",
+    "elevation_ft": "3470",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Marfa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Casa Piedra"
+}

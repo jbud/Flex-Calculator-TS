@@ -1,0 +1,20 @@
+{
+    "id": "506476",
+    "ident": "US-7532",
+    "type": "small_airport",
+    "name": "Wyoming Airport",
+    "latitude_deg": "41.04308",
+    "longitude_deg": "-89.77534",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-U-A",
+    "municipality": "Wyoming",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

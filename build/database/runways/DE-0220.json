@@ -1,0 +1,20 @@
+{
+    "id": "315491",
+    "ident": "DE-0220",
+    "type": "small_airport",
+    "name": "Stillberghof Airfield",
+    "latitude_deg": "48.7309",
+    "longitude_deg": "10.834",
+    "elevation_ft": "1680",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Donauwörth",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://stillberghof.wordpress.com/",
+    "wikipedia_link": "",
+    "keywords": "STI1"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "302298",
+    "ident": "HUKB",
+    "type": "small_airport",
+    "name": "Kabale Airport",
+    "latitude_deg": "-1.226111",
+    "longitude_deg": "29.96",
+    "elevation_ft": "6000",
+    "continent": "AF",
+    "iso_country": "UG",
+    "iso_region": "UG-W",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "HUKB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kabale_Airport",
+    "keywords": ""
+}

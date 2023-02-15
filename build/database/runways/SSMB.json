@@ -1,0 +1,20 @@
+{
+    "id": "335047",
+    "ident": "SSMB",
+    "type": "small_airport",
+    "name": "Fazenda Oriente Airport",
+    "latitude_deg": "-22.282949",
+    "longitude_deg": "-43.628157",
+    "elevation_ft": "1877",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Valença",
+    "scheduled_service": "no",
+    "gps_code": "SSMB",
+    "iata_code": "",
+    "local_code": "RJ0187",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

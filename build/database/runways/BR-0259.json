@@ -1,0 +1,20 @@
+{
+    "id": "323819",
+    "ident": "BR-0259",
+    "type": "small_airport",
+    "name": "Japurá Airport",
+    "latitude_deg": "-1.896111",
+    "longitude_deg": "-67.019444",
+    "elevation_ft": "305",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Japurá",
+    "scheduled_service": "no",
+    "gps_code": "SDC8",
+    "iata_code": "",
+    "local_code": "AM0102",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

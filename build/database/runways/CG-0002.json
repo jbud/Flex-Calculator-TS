@@ -1,0 +1,20 @@
+{
+    "id": "322352",
+    "ident": "CG-0002",
+    "type": "small_airport",
+    "name": "Bomassa Airport",
+    "latitude_deg": "2.202584",
+    "longitude_deg": "16.185859",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-13",
+    "municipality": "Bomassa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

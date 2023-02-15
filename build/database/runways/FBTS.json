@@ -1,0 +1,20 @@
+{
+    "id": "30494",
+    "ident": "FBTS",
+    "type": "small_airport",
+    "name": "Tshabong Airport",
+    "latitude_deg": "-26.034524",
+    "longitude_deg": "22.401252",
+    "elevation_ft": "3179",
+    "continent": "AF",
+    "iso_country": "BW",
+    "iso_region": "BW-KG",
+    "municipality": "Tshabong",
+    "scheduled_service": "no",
+    "gps_code": "FBTS",
+    "iata_code": "TBY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Tsabong"
+}

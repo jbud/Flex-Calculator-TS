@@ -1,0 +1,20 @@
+{
+    "id": "321361",
+    "ident": "ES-0145",
+    "type": "small_airport",
+    "name": "Aeródromo Coscojuela de Sobrarbe",
+    "latitude_deg": "42.3487",
+    "longitude_deg": "0.18613",
+    "elevation_ft": "1788",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AR",
+    "municipality": "Ainsa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

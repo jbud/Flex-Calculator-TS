@@ -1,0 +1,20 @@
+{
+    "id": "41580",
+    "ident": "PY-0016",
+    "type": "small_airport",
+    "name": "Aeródromo de Puerto Boquerón",
+    "latitude_deg": "-23.976944",
+    "longitude_deg": "-57.245915",
+    "elevation_ft": "223",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-15",
+    "municipality": "Puerto Boqueron",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

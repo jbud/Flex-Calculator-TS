@@ -1,0 +1,20 @@
+{
+    "id": "30216",
+    "ident": "EPOP",
+    "type": "small_airport",
+    "name": "Opole-Polska Nowa Wieś Airport",
+    "latitude_deg": "50.633301",
+    "longitude_deg": "17.7817",
+    "elevation_ft": "620",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-OP",
+    "municipality": "Opole",
+    "scheduled_service": "no",
+    "gps_code": "EPOP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

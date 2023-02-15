@@ -1,0 +1,20 @@
+{
+    "id": "310630",
+    "ident": "UNQA",
+    "type": "small_airport",
+    "name": "Aban Airport",
+    "latitude_deg": "56.6847",
+    "longitude_deg": "96.1203",
+    "elevation_ft": "844",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KYA",
+    "municipality": "Aban",
+    "scheduled_service": "no",
+    "gps_code": "UNQA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "УНЯА, Абан"
+}

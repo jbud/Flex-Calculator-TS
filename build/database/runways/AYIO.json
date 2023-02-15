@@ -1,0 +1,20 @@
+{
+    "id": "312964",
+    "ident": "AYIO",
+    "type": "small_airport",
+    "name": "Imonda Airport",
+    "latitude_deg": "-3.328",
+    "longitude_deg": "141.1573",
+    "elevation_ft": "990",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-SAN",
+    "municipality": "Imonda",
+    "scheduled_service": "no",
+    "gps_code": "AYIO",
+    "iata_code": "IMD",
+    "local_code": "IMO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

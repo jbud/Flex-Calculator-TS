@@ -1,0 +1,20 @@
+{
+    "id": "30895",
+    "ident": "DFCS",
+    "type": "small_airport",
+    "name": "Seguenega Airport",
+    "latitude_deg": "13.440602",
+    "longitude_deg": "-1.994359",
+    "elevation_ft": "1139",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-YAT",
+    "municipality": "Seguenega",
+    "scheduled_service": "no",
+    "gps_code": "DFCS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

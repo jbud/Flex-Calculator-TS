@@ -1,0 +1,20 @@
+{
+    "id": "43929",
+    "ident": "CZ-0012",
+    "type": "heliport",
+    "name": "Hospital Heliport",
+    "latitude_deg": "50.4102783203125",
+    "longitude_deg": "16.166667938232422",
+    "elevation_ft": "1217",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-KR",
+    "municipality": "Náchod",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

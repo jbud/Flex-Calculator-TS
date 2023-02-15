@@ -1,0 +1,20 @@
+{
+    "id": "30910",
+    "ident": "DGLN",
+    "type": "small_airport",
+    "name": "Navrongo Airport",
+    "latitude_deg": "10.899999618530273",
+    "longitude_deg": "-1.100000023841858",
+    "elevation_ft": "2221",
+    "continent": "AF",
+    "iso_country": "GH",
+    "iso_region": "GH-UE",
+    "municipality": "Navrongo",
+    "scheduled_service": "no",
+    "gps_code": "DGLN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Navrongo_Airport",
+    "keywords": ""
+}

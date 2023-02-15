@@ -1,0 +1,20 @@
+{
+    "id": "30750",
+    "ident": "BISR",
+    "type": "small_airport",
+    "name": "Stórikroppur Airport",
+    "latitude_deg": "64.6343994140625",
+    "longitude_deg": "-21.487499237060547",
+    "elevation_ft": "165",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-3",
+    "municipality": "Stórikroppur",
+    "scheduled_service": "no",
+    "gps_code": "BISR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

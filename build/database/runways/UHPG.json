@@ -1,0 +1,20 @@
+{
+    "id": "44861",
+    "ident": "UHPG",
+    "type": "small_airport",
+    "name": "Tigil Airport",
+    "latitude_deg": "57.784000396728516",
+    "longitude_deg": "158.72999572753906",
+    "elevation_ft": "430",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KAM",
+    "municipality": "Tigil",
+    "scheduled_service": "no",
+    "gps_code": "UHPG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Тигиль"
+}

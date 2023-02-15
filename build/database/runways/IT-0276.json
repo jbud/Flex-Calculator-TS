@@ -1,0 +1,20 @@
+{
+    "id": "319422",
+    "ident": "IT-0276",
+    "type": "small_airport",
+    "name": "Campo di Volo \"Ali del Montello\"",
+    "latitude_deg": "45.76157",
+    "longitude_deg": "12.16361",
+    "elevation_ft": "226",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-34",
+    "municipality": "Volpago del Montello (TV)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "TVSDM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "TV06"
+}

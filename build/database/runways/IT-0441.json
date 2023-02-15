@@ -1,0 +1,20 @@
+{
+    "id": "320364",
+    "ident": "IT-0441",
+    "type": "small_airport",
+    "name": "Campo di Volo Campiglia",
+    "latitude_deg": "43.019437",
+    "longitude_deg": "10.594659",
+    "elevation_ft": "16",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-52",
+    "municipality": "Campiglia Marittima",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LI11",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Campiglia,Venturina"
+}

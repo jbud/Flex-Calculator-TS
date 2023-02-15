@@ -1,0 +1,20 @@
+{
+    "id": "321082",
+    "ident": "ES-0121",
+    "type": "small_airport",
+    "name": "Beteta Airfield",
+    "latitude_deg": "40.540575",
+    "longitude_deg": "-2.076845",
+    "elevation_ft": "4265",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CM",
+    "municipality": "Beteta",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

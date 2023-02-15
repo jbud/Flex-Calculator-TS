@@ -1,0 +1,20 @@
+{
+    "id": "314242",
+    "ident": "DE-0159",
+    "type": "small_airport",
+    "name": "Pfingstweide Airfield",
+    "latitude_deg": "50.435682",
+    "longitude_deg": "8.62067",
+    "elevation_ft": "1160",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Butzbach",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.aero-club-butzbach.de/",
+    "wikipedia_link": "",
+    "keywords": "Butzbach"
+}

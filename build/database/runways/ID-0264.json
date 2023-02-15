@@ -1,0 +1,20 @@
+{
+    "id": "430525",
+    "ident": "ID-0264",
+    "type": "small_airport",
+    "name": "Kono Airstrip",
+    "latitude_deg": "-4.275826",
+    "longitude_deg": "139.735794",
+    "elevation_ft": "6437",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PP",
+    "municipality": "Kono",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

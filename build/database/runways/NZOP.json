@@ -1,0 +1,20 @@
+{
+    "id": "30217",
+    "ident": "NZOP",
+    "type": "small_airport",
+    "name": "Opotiki Airport",
+    "latitude_deg": "-38.022499084472656",
+    "longitude_deg": "177.3070068359375",
+    "elevation_ft": "30",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-BOP",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "NZOP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

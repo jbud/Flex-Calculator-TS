@@ -1,0 +1,20 @@
+{
+    "id": "315344",
+    "ident": "RU-0436",
+    "type": "small_airport",
+    "name": "Afipsky Airport",
+    "latitude_deg": "44.8544",
+    "longitude_deg": "38.8224",
+    "elevation_ft": "92",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KDA",
+    "municipality": "Afipsky",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ZB1Y",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ЗБ1Ы, Афипский"
+}

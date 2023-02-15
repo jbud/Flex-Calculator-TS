@@ -1,0 +1,20 @@
+{
+    "id": "42487",
+    "ident": "HTOL",
+    "type": "small_airport",
+    "name": "Oltipesi Airport",
+    "latitude_deg": "-4.287732",
+    "longitude_deg": "36.616115",
+    "elevation_ft": "4668",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-26",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "HTOL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

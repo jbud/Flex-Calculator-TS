@@ -1,0 +1,20 @@
+{
+    "id": "354761",
+    "ident": "US-6846",
+    "type": "small_airport",
+    "name": "Herman Airport",
+    "latitude_deg": "30.41322",
+    "longitude_deg": "-95.34795",
+    "elevation_ft": "279",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Willis",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "41168",
+    "ident": "FAED",
+    "type": "small_airport",
+    "name": "Edenburg Airport",
+    "latitude_deg": "-29.75",
+    "longitude_deg": "25.899999618530273",
+    "elevation_ft": "4509",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-FS",
+    "municipality": "Edenburg",
+    "scheduled_service": "no",
+    "gps_code": "FAED",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

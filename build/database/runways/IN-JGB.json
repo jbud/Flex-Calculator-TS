@@ -1,0 +1,20 @@
+{
+    "id": "31698",
+    "ident": "IN-JGB",
+    "type": "small_airport",
+    "name": "Jagdalpur Airport",
+    "latitude_deg": "19.074301",
+    "longitude_deg": "82.036797",
+    "elevation_ft": "1822",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-CT",
+    "municipality": "Jagdalpur",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "JGB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

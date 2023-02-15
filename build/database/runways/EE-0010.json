@@ -1,0 +1,20 @@
+{
+    "id": "505154",
+    "ident": "EE-0010",
+    "type": "small_airport",
+    "name": "Kaavi Airstrip",
+    "latitude_deg": "57.983715",
+    "longitude_deg": "22.194271",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "EE",
+    "iso_region": "EE-74",
+    "municipality": "Kaavi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

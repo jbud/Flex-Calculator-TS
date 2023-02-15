@@ -1,0 +1,20 @@
+{
+    "id": "814",
+    "ident": "CDK2",
+    "type": "small_airport",
+    "name": "Diavik Airport",
+    "latitude_deg": "64.5113983154",
+    "longitude_deg": "-110.289001465",
+    "elevation_ft": "1413",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NT",
+    "municipality": "Diavik",
+    "scheduled_service": "no",
+    "gps_code": "CDK2",
+    "iata_code": "DVK",
+    "local_code": "CDK2",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Diavik_Airport",
+    "keywords": "DK2"
+}

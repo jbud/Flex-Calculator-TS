@@ -1,0 +1,20 @@
+{
+    "id": "345633",
+    "ident": "US-4497",
+    "type": "small_airport",
+    "name": "R&D Aviation Airport",
+    "latitude_deg": "34.50348",
+    "longitude_deg": "-98.33774",
+    "elevation_ft": "1086",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Lawton",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

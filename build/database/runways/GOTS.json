@@ -1,0 +1,20 @@
+{
+    "id": "32332",
+    "ident": "GOTS",
+    "type": "small_airport",
+    "name": "Simenti Airport",
+    "latitude_deg": "13.046799659729004",
+    "longitude_deg": "-13.29539966583252",
+    "elevation_ft": "171",
+    "continent": "AF",
+    "iso_country": "SN",
+    "iso_region": "SN-TC",
+    "municipality": "Simenti",
+    "scheduled_service": "no",
+    "gps_code": "GOTS",
+    "iata_code": "SMY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Simenti_Airport",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "323608",
+    "ident": "PL-0104",
+    "type": "small_airport",
+    "name": "Ulim",
+    "latitude_deg": "52.693563",
+    "longitude_deg": "15.215912",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-WP",
+    "municipality": "Ulim",
+    "scheduled_service": "no",
+    "gps_code": "EPGW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

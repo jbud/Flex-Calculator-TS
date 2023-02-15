@@ -1,0 +1,20 @@
+{
+    "id": "504536",
+    "ident": "FR-0509",
+    "type": "heliport",
+    "name": "Verdun Saint-Nicolas Hospital Heliport",
+    "latitude_deg": "49.15363",
+    "longitude_deg": "5.38234",
+    "elevation_ft": "653",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-GES",
+    "municipality": "Verdun",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Héliport Centre Hospitalier Site Saint-Nicolas"
+}

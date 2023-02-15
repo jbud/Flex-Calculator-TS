@@ -1,0 +1,20 @@
+{
+    "id": "31133",
+    "ident": "FKAO",
+    "type": "small_airport",
+    "name": "Bétaré Oya Airport",
+    "latitude_deg": "5.504169940948486",
+    "longitude_deg": "14.098299980163574",
+    "elevation_ft": "3002",
+    "continent": "AF",
+    "iso_country": "CM",
+    "iso_region": "CM-ES",
+    "municipality": "Bétaré Oya",
+    "scheduled_service": "no",
+    "gps_code": "FKAO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

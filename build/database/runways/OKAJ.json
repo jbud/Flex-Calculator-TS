@@ -1,0 +1,20 @@
+{
+    "id": "32108",
+    "ident": "OKAJ",
+    "type": "medium_airport",
+    "name": "Ahmed Al Jaber Air Base",
+    "latitude_deg": "28.9347991943",
+    "longitude_deg": "47.791900634799994",
+    "elevation_ft": "409",
+    "continent": "AS",
+    "iso_country": "KW",
+    "iso_region": "KW-AH",
+    "municipality": "Ahmed Al Jaber AB",
+    "scheduled_service": "no",
+    "gps_code": "OKAJ",
+    "iata_code": "XIJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ahmed_Al_Jaber_Air_Base",
+    "keywords": ""
+}

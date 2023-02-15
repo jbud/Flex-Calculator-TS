@@ -1,0 +1,20 @@
+{
+    "id": "348603",
+    "ident": "BR-1654",
+    "type": "small_airport",
+    "name": "Cajucoco Airport",
+    "latitude_deg": "-2.91477",
+    "longitude_deg": "-39.95545",
+    "elevation_ft": "72",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-CE",
+    "municipality": "Itarema",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

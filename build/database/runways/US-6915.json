@@ -1,0 +1,20 @@
+{
+    "id": "355492",
+    "ident": "US-6915",
+    "type": "small_airport",
+    "name": "Pams Carrots Airport",
+    "latitude_deg": "61.611009",
+    "longitude_deg": "-149.162047",
+    "elevation_ft": "375",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Palmer",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

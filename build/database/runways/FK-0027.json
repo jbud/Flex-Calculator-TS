@@ -1,0 +1,20 @@
+{
+    "id": "322419",
+    "ident": "FK-0027",
+    "type": "small_airport",
+    "name": "Bleaker Island Airport",
+    "latitude_deg": "-52.181403",
+    "longitude_deg": "-58.858788",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "FK",
+    "iso_region": "FK-U-A",
+    "municipality": "Bleaker Island",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

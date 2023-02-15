@@ -1,0 +1,20 @@
+{
+    "id": "44044",
+    "ident": "EKSO",
+    "type": "heliport",
+    "name": "Svínoy Heliport",
+    "latitude_deg": "62.276632",
+    "longitude_deg": "-6.341524",
+    "elevation_ft": "30",
+    "continent": "EU",
+    "iso_country": "FO",
+    "iso_region": "FO-U-A",
+    "municipality": "Svínoy",
+    "scheduled_service": "yes",
+    "gps_code": "EKSO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

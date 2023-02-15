@@ -1,0 +1,20 @@
+{
+    "id": "318297",
+    "ident": "AR-0550",
+    "type": "small_airport",
+    "name": "Aeroclub San Javier",
+    "latitude_deg": "-30.5559",
+    "longitude_deg": "-59.9907",
+    "elevation_ft": "90",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-S",
+    "municipality": "San Javier",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SJR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

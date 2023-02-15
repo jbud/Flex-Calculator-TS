@@ -1,0 +1,20 @@
+{
+    "id": "30688",
+    "ident": "LY-BCQ",
+    "type": "medium_airport",
+    "name": "Brak Airport",
+    "latitude_deg": "27.653",
+    "longitude_deg": "14.272",
+    "elevation_ft": "1056",
+    "continent": "AF",
+    "iso_country": "LY",
+    "iso_region": "LY-SH",
+    "municipality": "Brak",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "BCQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Brak_Airport",
+    "keywords": "Brach"
+}

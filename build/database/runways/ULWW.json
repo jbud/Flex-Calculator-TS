@@ -1,0 +1,20 @@
+{
+    "id": "32571",
+    "ident": "ULWW",
+    "type": "medium_airport",
+    "name": "Vologda Airport",
+    "latitude_deg": "59.282501220703125",
+    "longitude_deg": "39.944400787353516",
+    "elevation_ft": "387",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-VLG",
+    "municipality": "Vologda",
+    "scheduled_service": "no",
+    "gps_code": "ULWW",
+    "iata_code": "VGD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Vologda_Airport",
+    "keywords": "Аэропорт Вологда"
+}

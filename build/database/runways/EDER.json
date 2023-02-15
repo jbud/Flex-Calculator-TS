@@ -1,0 +1,20 @@
+{
+    "id": "29072",
+    "ident": "EDER",
+    "type": "small_airport",
+    "name": "Wasserkuppe Airport",
+    "latitude_deg": "50.4988899230957",
+    "longitude_deg": "9.953888893127441",
+    "elevation_ft": "2956",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Gersfeld",
+    "scheduled_service": "no",
+    "gps_code": "EDER",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

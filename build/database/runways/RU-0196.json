@@ -1,0 +1,20 @@
+{
+    "id": "44663",
+    "ident": "RU-0196",
+    "type": "small_airport",
+    "name": "Tomtor Airport",
+    "latitude_deg": "63.243",
+    "longitude_deg": "143.173004",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-SA",
+    "municipality": "Tomtor",
+    "scheduled_service": "no",
+    "gps_code": "UEMJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Томтор, Oymyakon"
+}

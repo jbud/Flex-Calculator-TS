@@ -1,0 +1,20 @@
+{
+    "id": "340009",
+    "ident": "VEBM",
+    "type": "small_airport",
+    "name": "Berhampur Airport",
+    "latitude_deg": "19.2975",
+    "longitude_deg": "84.876944",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-OR",
+    "municipality": "Berhampur (Brahmapur)",
+    "scheduled_service": "no",
+    "gps_code": "VEBM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

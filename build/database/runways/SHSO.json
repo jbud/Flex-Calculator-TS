@@ -1,0 +1,20 @@
+{
+    "id": "39402",
+    "ident": "SHSO",
+    "type": "heliport",
+    "name": "Hospital Dr Luis Tisné Brousse Helipad",
+    "latitude_deg": "-33.500187",
+    "longitude_deg": "-70.57894",
+    "elevation_ft": "2083",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Santiago",
+    "scheduled_service": "no",
+    "gps_code": "SHSO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.hsoriente.cl/",
+    "wikipedia_link": "",
+    "keywords": "Hospital Santiago Oriente"
+}

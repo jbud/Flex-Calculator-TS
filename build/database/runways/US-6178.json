@@ -1,0 +1,20 @@
+{
+    "id": "350730",
+    "ident": "US-6178",
+    "type": "small_airport",
+    "name": "Perkins Air Service Airport",
+    "latitude_deg": "33.88563",
+    "longitude_deg": "-91.42572",
+    "elevation_ft": "152",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Dumas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Dumas Airstrip"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "505575",
+    "ident": "MX-2026",
+    "type": "small_airport",
+    "name": "Base Nº8 de la Fuerza Aérea Mexicana",
+    "latitude_deg": "20.93629",
+    "longitude_deg": "-89.647161",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-YUC",
+    "municipality": "Ciudad de Mérida",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.gob.mx/sedena/documentos/fuerza-aerea-mexicana",
+    "wikipedia_link": "https://es.m.wikipedia.org/wiki/Fuerza_Aérea_Mexicana",
+    "keywords": ""
+}

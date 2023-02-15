@@ -1,0 +1,20 @@
+{
+    "id": "39495",
+    "ident": "SLVD",
+    "type": "small_airport",
+    "name": "Covendo Airport",
+    "latitude_deg": "-15.833333015441895",
+    "longitude_deg": "-67.08333587646484",
+    "elevation_ft": "4887",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-L",
+    "municipality": "Sud Yungas",
+    "scheduled_service": "no",
+    "gps_code": "SLVD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

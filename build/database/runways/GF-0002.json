@@ -1,0 +1,20 @@
+{
+    "id": "41525",
+    "ident": "GF-0002",
+    "type": "small_airport",
+    "name": "Ouanary Airport",
+    "latitude_deg": "4.21009",
+    "longitude_deg": "-51.667702",
+    "elevation_ft": "40",
+    "continent": "SA",
+    "iso_country": "GF",
+    "iso_region": "GF-CY",
+    "municipality": "Ouanary",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "AG1657"
+}

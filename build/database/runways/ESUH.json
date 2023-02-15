@@ -1,0 +1,20 @@
+{
+    "id": "29378",
+    "ident": "ESUH",
+    "type": "small_airport",
+    "name": "Myran Airport",
+    "latitude_deg": "62.632469177246094",
+    "longitude_deg": "17.981700897216797",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Y",
+    "municipality": "Härnösand",
+    "scheduled_service": "no",
+    "gps_code": "ESUH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

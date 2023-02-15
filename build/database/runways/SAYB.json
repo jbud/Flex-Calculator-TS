@@ -1,0 +1,20 @@
+{
+    "id": "39077",
+    "ident": "SAYB",
+    "type": "small_airport",
+    "name": "Base Belgrano II Airport",
+    "latitude_deg": "-77.874055",
+    "longitude_deg": "-34.62616",
+    "elevation_ft": "820",
+    "continent": "AN",
+    "iso_country": "AQ",
+    "iso_region": "AQ-U-A",
+    "municipality": "Base Belgrano II",
+    "scheduled_service": "no",
+    "gps_code": "SAYB",
+    "iata_code": "",
+    "local_code": "BEB",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Belgrano_II_Base",
+    "keywords": ""
+}

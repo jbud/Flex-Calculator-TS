@@ -1,0 +1,20 @@
+{
+    "id": "321101",
+    "ident": "PT-0043",
+    "type": "small_airport",
+    "name": "Aeródromo de Óbidos",
+    "latitude_deg": "39.3907221",
+    "longitude_deg": "-9.1982199",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-11",
+    "municipality": "Óbidos",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "345239",
+    "ident": "US-4373",
+    "type": "heliport",
+    "name": "76ers Camden Helipad",
+    "latitude_deg": "39.941952",
+    "longitude_deg": "-75.12817",
+    "elevation_ft": "72",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Camden",
+    "scheduled_service": "no",
+    "gps_code": "71NJ",
+    "iata_code": "",
+    "local_code": "71NJ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

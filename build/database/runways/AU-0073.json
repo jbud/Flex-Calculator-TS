@@ -1,0 +1,20 @@
+{
+    "id": "310105",
+    "ident": "AU-0073",
+    "type": "small_airport",
+    "name": "Warroora Station Airstrip",
+    "latitude_deg": "-23.47487",
+    "longitude_deg": "113.79925",
+    "elevation_ft": "35",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Warroora Station",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

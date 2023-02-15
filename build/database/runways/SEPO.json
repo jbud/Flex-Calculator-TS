@@ -1,0 +1,20 @@
+{
+    "id": "41107",
+    "ident": "SEPO",
+    "type": "small_airport",
+    "name": "Posorja Airport",
+    "latitude_deg": "-2.681735",
+    "longitude_deg": "-80.276606",
+    "elevation_ft": "30",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-G",
+    "municipality": "Posorja",
+    "scheduled_service": "no",
+    "gps_code": "SEPO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

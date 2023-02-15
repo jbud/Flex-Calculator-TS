@@ -1,0 +1,20 @@
+{
+    "id": "39655",
+    "ident": "SPSY",
+    "type": "small_airport",
+    "name": "Shiringayoc Airport",
+    "latitude_deg": "-11.898",
+    "longitude_deg": "-69.0625",
+    "elevation_ft": "856",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-MDD",
+    "municipality": "Shiringayoc",
+    "scheduled_service": "no",
+    "gps_code": "SPSY",
+    "iata_code": "SYC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

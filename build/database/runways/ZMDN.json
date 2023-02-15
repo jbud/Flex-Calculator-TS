@@ -1,0 +1,20 @@
+{
+    "id": "308755",
+    "ident": "ZMDN",
+    "type": "small_airport",
+    "name": "Donoi Airport",
+    "latitude_deg": "47.7093",
+    "longitude_deg": "96.5258",
+    "elevation_ft": "5800",
+    "continent": "AS",
+    "iso_country": "MN",
+    "iso_region": "MN-057",
+    "municipality": "Uliastai",
+    "scheduled_service": "yes",
+    "gps_code": "ZMDN",
+    "iata_code": "ULZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Donoi_Airport",
+    "keywords": "New Uliastai Airport"
+}

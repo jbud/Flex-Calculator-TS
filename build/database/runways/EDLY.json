@@ -1,0 +1,20 @@
+{
+    "id": "28535",
+    "ident": "EDLY",
+    "type": "small_airport",
+    "name": "Borken-Hoxfeld Airfield",
+    "latitude_deg": "51.853333",
+    "longitude_deg": "6.814722",
+    "elevation_ft": "157",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Borken",
+    "scheduled_service": "no",
+    "gps_code": "EDLY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

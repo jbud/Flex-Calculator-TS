@@ -1,0 +1,20 @@
+{
+    "id": "44745",
+    "ident": "AR-0072",
+    "type": "heliport",
+    "name": "Ituzaingo / Transener S.A. Heliport",
+    "latitude_deg": "-27.5601",
+    "longitude_deg": "-56.6568",
+    "elevation_ft": "233",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-W",
+    "municipality": "Ituzaingo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "HIT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

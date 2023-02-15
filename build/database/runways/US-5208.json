@@ -1,0 +1,20 @@
+{
+    "id": "347873",
+    "ident": "US-5208",
+    "type": "heliport",
+    "name": "Allina Hospital & Clinic Owatonna Heliport",
+    "latitude_deg": "44.111443",
+    "longitude_deg": "-93.252007",
+    "elevation_ft": "1162",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Owatonna",
+    "scheduled_service": "no",
+    "gps_code": "MN38",
+    "iata_code": "",
+    "local_code": "MN38",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

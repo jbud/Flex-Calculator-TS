@@ -1,0 +1,20 @@
+{
+    "id": "349434",
+    "ident": "GR-0051",
+    "type": "heliport",
+    "name": "Alexandroupoli University Hospital Heliport",
+    "latitude_deg": "40.86366",
+    "longitude_deg": "25.80518",
+    "elevation_ft": "228",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-A",
+    "municipality": "Alexandroupoli",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

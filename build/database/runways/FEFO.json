@@ -1,0 +1,20 @@
+{
+    "id": "30785",
+    "ident": "FEFO",
+    "type": "small_airport",
+    "name": "Bouar Airport",
+    "latitude_deg": "5.958000183105469",
+    "longitude_deg": "15.63700008392334",
+    "elevation_ft": "3360",
+    "continent": "AF",
+    "iso_country": "CF",
+    "iso_region": "CF-NM",
+    "municipality": "Bouar",
+    "scheduled_service": "no",
+    "gps_code": "FEFO",
+    "iata_code": "BOP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bouar_Airport",
+    "keywords": ""
+}

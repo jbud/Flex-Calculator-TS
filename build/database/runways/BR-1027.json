@@ -1,0 +1,20 @@
+{
+    "id": "335764",
+    "ident": "BR-1027",
+    "type": "heliport",
+    "name": "Helicentro Porto Itaguaí Heliport",
+    "latitude_deg": "-22.891038",
+    "longitude_deg": "-43.843629",
+    "elevation_ft": "33",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Itaguaí",
+    "scheduled_service": "no",
+    "gps_code": "SIUN",
+    "iata_code": "",
+    "local_code": "RJ0091",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

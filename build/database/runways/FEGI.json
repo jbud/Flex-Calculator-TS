@@ -1,0 +1,20 @@
+{
+    "id": "31123",
+    "ident": "FEGI",
+    "type": "small_airport",
+    "name": "Grimari Airport",
+    "latitude_deg": "5.683000087738037",
+    "longitude_deg": "20.049999237060547",
+    "elevation_ft": "1312",
+    "continent": "AF",
+    "iso_country": "CF",
+    "iso_region": "CF-UK",
+    "municipality": "Grimari",
+    "scheduled_service": "no",
+    "gps_code": "FEGI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

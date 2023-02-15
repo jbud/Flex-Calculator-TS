@@ -1,0 +1,20 @@
+{
+    "id": "30893",
+    "ident": "DFCM",
+    "type": "small_airport",
+    "name": "Manga Airport",
+    "latitude_deg": "11.665351",
+    "longitude_deg": "-1.042542",
+    "elevation_ft": "820",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-ZOU",
+    "municipality": "Manga",
+    "scheduled_service": "no",
+    "gps_code": "DFCM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

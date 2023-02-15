@@ -1,0 +1,20 @@
+{
+    "id": "43751",
+    "ident": "EBMT",
+    "type": "heliport",
+    "name": "Montigny-Le-Tilleul heliport",
+    "latitude_deg": "50.358604431152344",
+    "longitude_deg": "4.368843078613281",
+    "elevation_ft": "656",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-WHT",
+    "municipality": "Montigny-Le-Tilleul",
+    "scheduled_service": "no",
+    "gps_code": "EBMT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

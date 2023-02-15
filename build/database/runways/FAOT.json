@@ -1,0 +1,20 @@
+{
+    "id": "41286",
+    "ident": "FAOT",
+    "type": "small_airport",
+    "name": "Ottosdal Airport",
+    "latitude_deg": "-26.79829978942871",
+    "longitude_deg": "26.00029945373535",
+    "elevation_ft": "4860",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NW",
+    "municipality": "Ottosdal",
+    "scheduled_service": "no",
+    "gps_code": "FAOT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

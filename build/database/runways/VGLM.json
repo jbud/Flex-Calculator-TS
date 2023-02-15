@@ -1,0 +1,20 @@
+{
+    "id": "31831",
+    "ident": "VGLM",
+    "type": "small_airport",
+    "name": "Lalmonirhat Airport",
+    "latitude_deg": "25.887624",
+    "longitude_deg": "89.431254",
+    "elevation_ft": "106",
+    "continent": "AS",
+    "iso_country": "BD",
+    "iso_region": "BD-5",
+    "municipality": "Lalmonirhat",
+    "scheduled_service": "no",
+    "gps_code": "VGLM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lalmonirhat_Airport",
+    "keywords": ""
+}

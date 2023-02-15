@@ -1,0 +1,20 @@
+{
+    "id": "351199",
+    "ident": "IR-0050",
+    "type": "small_airport",
+    "name": "Namakabrud Airport",
+    "latitude_deg": "36.68704",
+    "longitude_deg": "51.3089",
+    "elevation_ft": "-59",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-02",
+    "municipality": "Namakabrud",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Namakabroud, Shahrak-e Namak Abrud"
+}

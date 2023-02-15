@@ -1,0 +1,20 @@
+{
+    "id": "323614",
+    "ident": "SNAO",
+    "type": "small_airport",
+    "name": "Trimonte Jorge Mussi Airport",
+    "latitude_deg": "-22.512645",
+    "longitude_deg": "-42.051559",
+    "elevation_ft": "10",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Casimiro de Abreu",
+    "scheduled_service": "no",
+    "gps_code": "SNAO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

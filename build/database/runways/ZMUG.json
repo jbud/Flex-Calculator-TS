@@ -1,0 +1,20 @@
+{
+    "id": "302316",
+    "ident": "ZMUG",
+    "type": "small_airport",
+    "name": "Ulaangom Airport",
+    "latitude_deg": "50.066588",
+    "longitude_deg": "91.938273",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "MN",
+    "iso_region": "MN-046",
+    "municipality": "Ulaangom",
+    "scheduled_service": "yes",
+    "gps_code": "ZMUG",
+    "iata_code": "ULO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ulaangom_Airport",
+    "keywords": ""
+}

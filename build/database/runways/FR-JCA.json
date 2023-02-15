@@ -1,0 +1,20 @@
+{
+    "id": "35155",
+    "ident": "FR-JCA",
+    "type": "heliport",
+    "name": "Croisette Heliport",
+    "latitude_deg": "43.5359992980957",
+    "longitude_deg": "7.037360191345215",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-PAC",
+    "municipality": "Cannes",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "JCA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Palm Beach"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "351496",
+    "ident": "PE-0021",
+    "type": "small_airport",
+    "name": "Pichari Airport",
+    "latitude_deg": "-12.50306",
+    "longitude_deg": "-73.85287",
+    "elevation_ft": "1759",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-AYA",
+    "municipality": "Sivia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

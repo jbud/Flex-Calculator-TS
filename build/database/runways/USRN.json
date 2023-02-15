@@ -1,0 +1,20 @@
+{
+    "id": "42943",
+    "ident": "USRN",
+    "type": "medium_airport",
+    "name": "Nefteyugansk Airport",
+    "latitude_deg": "61.108299255371094",
+    "longitude_deg": "72.6500015258789",
+    "elevation_ft": "115",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-KHM",
+    "municipality": "Nefteyugansk",
+    "scheduled_service": "yes",
+    "gps_code": "USRN",
+    "iata_code": "NFG",
+    "local_code": "",
+    "home_link": "http://www.nuatc.ru/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nefteyugansk_Airport",
+    "keywords": "Аэропорт Нефтеюганск"
+}

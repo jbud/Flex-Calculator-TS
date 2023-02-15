@@ -1,0 +1,20 @@
+{
+    "id": "308700",
+    "ident": "IT-0064",
+    "type": "small_airport",
+    "name": "Campo di volo Ploia",
+    "latitude_deg": "44.884167",
+    "longitude_deg": "8.780833",
+    "elevation_ft": "420",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-21",
+    "municipality": "San Giuliano Vecchio (AL)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ALTOR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

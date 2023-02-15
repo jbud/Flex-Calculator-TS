@@ -1,0 +1,20 @@
+{
+    "id": "321046",
+    "ident": "ES-0114",
+    "type": "small_airport",
+    "name": "Aeródromo \"Puente de Genave\"",
+    "latitude_deg": "38.3666778",
+    "longitude_deg": "-2.7941751",
+    "elevation_ft": "1837",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Hotel Don Juan"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "342476",
+    "ident": "BR-1470",
+    "type": "small_airport",
+    "name": "Fiocruz Heliport",
+    "latitude_deg": "-22.880096",
+    "longitude_deg": "-43.240526",
+    "elevation_ft": "10",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Fiocruz",
+    "scheduled_service": "no",
+    "gps_code": "SSBD",
+    "iata_code": "",
+    "local_code": "RJ0353",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

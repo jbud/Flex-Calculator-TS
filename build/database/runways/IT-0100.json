@@ -1,0 +1,20 @@
+{
+    "id": "315871",
+    "ident": "IT-0100",
+    "type": "small_airport",
+    "name": "Aviosuperficie Alisoriano",
+    "latitude_deg": "42.433658",
+    "longitude_deg": "12.292147",
+    "elevation_ft": "985",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-62",
+    "municipality": "Soriano nel Cimino (VT)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "VTSOR",
+    "home_link": "http://www.alisoriano.it",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "28555",
+    "ident": "EDPM",
+    "type": "small_airport",
+    "name": "Donzdorf Airfield",
+    "latitude_deg": "48.678055",
+    "longitude_deg": "9.843611",
+    "elevation_ft": "2274",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Donzdorf",
+    "scheduled_service": "no",
+    "gps_code": "EDPM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

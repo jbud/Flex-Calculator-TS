@@ -1,0 +1,20 @@
+{
+    "id": "32355",
+    "ident": "SPIR",
+    "type": "small_airport",
+    "name": "Patria Airport",
+    "latitude_deg": "-12.966295",
+    "longitude_deg": "-71.429936",
+    "elevation_ft": "2224",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-CUS",
+    "municipality": "Pillcopata",
+    "scheduled_service": "no",
+    "gps_code": "SPIR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "341728",
+    "ident": "SWHC",
+    "type": "heliport",
+    "name": "Caracol Heliport",
+    "latitude_deg": "-29.317271",
+    "longitude_deg": "-50.851886",
+    "elevation_ft": "2221",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Canela",
+    "scheduled_service": "no",
+    "gps_code": "SWHC",
+    "iata_code": "",
+    "local_code": "RS0126",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

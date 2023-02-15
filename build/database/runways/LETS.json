@@ -1,0 +1,20 @@
+{
+    "id": "43306",
+    "ident": "LETS",
+    "type": "heliport",
+    "name": "Torre Picasso Heliport",
+    "latitude_deg": "40.44982914369999",
+    "longitude_deg": "-3.69314432144",
+    "elevation_ft": "2340",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-MD",
+    "municipality": "Madrid",
+    "scheduled_service": "no",
+    "gps_code": "LETS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

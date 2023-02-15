@@ -1,0 +1,20 @@
+{
+    "id": "43788",
+    "ident": "SO-0001",
+    "type": "medium_airport",
+    "name": "K50 International Airport",
+    "latitude_deg": "2.00528",
+    "longitude_deg": "44.986599",
+    "elevation_ft": "100",
+    "continent": "AF",
+    "iso_country": "SO",
+    "iso_region": "SO-SH",
+    "municipality": "Mogadishu",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/K50_Airport",
+    "keywords": "Km N° 50 Airport"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "330390",
+    "ident": "UHTQ",
+    "type": "small_airport",
+    "name": "Svetlaya Airport",
+    "latitude_deg": "46.541704",
+    "longitude_deg": "138.321703",
+    "elevation_ft": "131",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-PRI",
+    "municipality": "Svetlaya",
+    "scheduled_service": "no",
+    "gps_code": "UHTQ",
+    "iata_code": "ETL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Све́тлая"
+}

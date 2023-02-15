@@ -1,0 +1,20 @@
+{
+    "id": "331329",
+    "ident": "ES-0248",
+    "type": "small_airport",
+    "name": "Atlas Center Vuelos de Drones",
+    "latitude_deg": "38.1392261",
+    "longitude_deg": "-3.1738682",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

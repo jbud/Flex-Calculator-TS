@@ -1,0 +1,20 @@
+{
+    "id": "505350",
+    "ident": "CA-0827",
+    "type": "small_airport",
+    "name": "New Brigden Airport",
+    "latitude_deg": "51.69633",
+    "longitude_deg": "-110.49568",
+    "elevation_ft": "2438",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "New Brigden",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

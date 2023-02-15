@@ -1,0 +1,20 @@
+{
+    "id": "355323",
+    "ident": "ES-0307",
+    "type": "heliport",
+    "name": "Los Llanos Helipad",
+    "latitude_deg": "28.65657",
+    "longitude_deg": "-17.9159",
+    "elevation_ft": "1233",
+    "continent": "AF",
+    "iso_country": "ES",
+    "iso_region": "ES-CN",
+    "municipality": "38768 Los Llanos",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

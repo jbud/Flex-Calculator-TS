@@ -1,0 +1,20 @@
+{
+    "id": "31430",
+    "ident": "FZOO",
+    "type": "small_airport",
+    "name": "Kailo Airport",
+    "latitude_deg": "-2.632999897003174",
+    "longitude_deg": "26.100000381469727",
+    "elevation_ft": "1804",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-MA",
+    "municipality": "Kailo",
+    "scheduled_service": "no",
+    "gps_code": "FZOO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

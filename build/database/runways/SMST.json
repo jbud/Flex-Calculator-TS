@@ -1,0 +1,20 @@
+{
+    "id": "41509",
+    "ident": "SMST",
+    "type": "small_airport",
+    "name": "Stoelmanseiland Airport",
+    "latitude_deg": "4.349999904632568",
+    "longitude_deg": "-54.41666793823242",
+    "elevation_ft": "187",
+    "continent": "SA",
+    "iso_country": "SR",
+    "iso_region": "SR-SI",
+    "municipality": "Stoelmanseiland",
+    "scheduled_service": "no",
+    "gps_code": "SMST",
+    "iata_code": "SMZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

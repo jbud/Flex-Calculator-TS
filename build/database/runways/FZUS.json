@@ -1,0 +1,20 @@
+{
+    "id": "31474",
+    "ident": "FZUS",
+    "type": "small_airport",
+    "name": "Tshikaji Airport",
+    "latitude_deg": "-5.977018",
+    "longitude_deg": "22.457771",
+    "elevation_ft": "2287",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KC",
+    "municipality": "Tshikaji",
+    "scheduled_service": "no",
+    "gps_code": "FZUS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

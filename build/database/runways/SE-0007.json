@@ -1,0 +1,20 @@
+{
+    "id": "301001",
+    "ident": "SE-0007",
+    "type": "small_airport",
+    "name": "Staffanstorp Bjällerup Field",
+    "latitude_deg": "55.658778215299996",
+    "longitude_deg": "13.2649612427",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-M",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

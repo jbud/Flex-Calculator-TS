@@ -1,0 +1,20 @@
+{
+    "id": "350013",
+    "ident": "MX-1888",
+    "type": "small_airport",
+    "name": "Camposanto Airport",
+    "latitude_deg": "24.600675",
+    "longitude_deg": "-107.200692",
+    "elevation_ft": "318",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-SIN",
+    "municipality": "Culiacan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CST",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

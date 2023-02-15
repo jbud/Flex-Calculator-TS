@@ -1,0 +1,20 @@
+{
+    "id": "43440",
+    "ident": "FR-0100",
+    "type": "heliport",
+    "name": "Centre Hospitalier La Perche Heliport",
+    "latitude_deg": "45.516387939453125",
+    "longitude_deg": "1.20305597782135",
+    "elevation_ft": "1178",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NAQ",
+    "municipality": "Saint-Yrieix",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

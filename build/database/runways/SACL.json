@@ -1,0 +1,20 @@
+{
+    "id": "39059",
+    "ident": "SACL",
+    "type": "small_airport",
+    "name": "Laguna Larga Airport",
+    "latitude_deg": "-31",
+    "longitude_deg": "-63",
+    "elevation_ft": "1013",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-X",
+    "municipality": "Laguna Larga",
+    "scheduled_service": "no",
+    "gps_code": "SACL",
+    "iata_code": "",
+    "local_code": "LRG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

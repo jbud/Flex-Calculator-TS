@@ -1,0 +1,20 @@
+{
+    "id": "353239",
+    "ident": "ZA-0256",
+    "type": "small_airport",
+    "name": "Onseepkans Airport",
+    "latitude_deg": "-28.75211",
+    "longitude_deg": "19.32742",
+    "elevation_ft": "1444",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Onseepkans",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

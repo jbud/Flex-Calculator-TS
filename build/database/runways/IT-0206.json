@@ -1,0 +1,20 @@
+{
+    "id": "317667",
+    "ident": "IT-0206",
+    "type": "small_airport",
+    "name": "Fondone Airfield",
+    "latitude_deg": "40.355883",
+    "longitude_deg": "18.232425",
+    "elevation_ft": "130",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-75",
+    "municipality": "Lecce",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LEFON",
+    "home_link": "http://www.vegaulm.it",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lecce_Airfield",
+    "keywords": "Vega, Vega ulm, Fondone, Aviosuperficie \"Fondone\", Lecce Airfield, Fondone Lecce Airfield"
+}

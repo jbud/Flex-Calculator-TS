@@ -1,0 +1,20 @@
+{
+    "id": "43716",
+    "ident": "NL-0021",
+    "type": "heliport",
+    "name": "Oosterschelde Ziekenhuis Heliport",
+    "latitude_deg": "51.48480224609375",
+    "longitude_deg": "3.9105000495910645",
+    "elevation_ft": "1",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-ZL",
+    "municipality": "Goes",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "EH0009"
+}

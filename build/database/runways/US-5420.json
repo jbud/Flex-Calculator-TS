@@ -1,0 +1,20 @@
+{
+    "id": "348272",
+    "ident": "US-5420",
+    "type": "heliport",
+    "name": "HCA Florida Poinciana Hospital Heliport",
+    "latitude_deg": "28.144702",
+    "longitude_deg": "-81.475602",
+    "elevation_ft": "75",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Kissimmee",
+    "scheduled_service": "no",
+    "gps_code": "24FD",
+    "iata_code": "",
+    "local_code": "24FD",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Poinciana Medical Center Heliport"
+}

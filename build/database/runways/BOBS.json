@@ -1,0 +1,20 @@
+{
+    "id": "322356",
+    "ident": "BOBS",
+    "type": "small_airport",
+    "name": "Bobs",
+    "latitude_deg": "35.391523",
+    "longitude_deg": "-91.443706",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Bradford",
+    "scheduled_service": "no",
+    "gps_code": "BOBS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

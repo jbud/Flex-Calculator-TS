@@ -1,0 +1,20 @@
+{
+    "id": "335817",
+    "ident": "US-1513",
+    "type": "small_airport",
+    "name": "Husky Ranch Airport",
+    "latitude_deg": "45.787",
+    "longitude_deg": "-108.729",
+    "elevation_ft": "3503",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Billings",
+    "scheduled_service": "no",
+    "gps_code": "MT40",
+    "iata_code": "",
+    "local_code": "MT40",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

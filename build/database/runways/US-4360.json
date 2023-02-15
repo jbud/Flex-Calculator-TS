@@ -1,0 +1,20 @@
+{
+    "id": "345189",
+    "ident": "US-4360",
+    "type": "small_airport",
+    "name": "B T Averheart Airport",
+    "latitude_deg": "31.90176",
+    "longitude_deg": "-96.31207",
+    "elevation_ft": "394",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Streetman",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

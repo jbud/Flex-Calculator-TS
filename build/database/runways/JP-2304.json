@@ -1,0 +1,20 @@
+{
+    "id": "345202",
+    "ident": "JP-2304",
+    "type": "heliport",
+    "name": "Kawaminami Hospital Heliport",
+    "latitude_deg": "32.21717",
+    "longitude_deg": "131.51707",
+    "elevation_ft": "259",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-45",
+    "municipality": "Kawaminami",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

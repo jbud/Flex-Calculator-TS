@@ -1,0 +1,20 @@
+{
+    "id": "31216",
+    "ident": "FVAB",
+    "type": "small_airport",
+    "name": "Aberdeen Airport",
+    "latitude_deg": "-18.195092",
+    "longitude_deg": "32.675326",
+    "elevation_ft": "4495",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MA",
+    "municipality": "Aberdeen",
+    "scheduled_service": "no",
+    "gps_code": "FVAB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

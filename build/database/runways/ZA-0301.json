@@ -1,0 +1,20 @@
+{
+    "id": "356250",
+    "ident": "ZA-0301",
+    "type": "small_airport",
+    "name": "Kokomori Airport",
+    "latitude_deg": "-23.08269",
+    "longitude_deg": "27.90621",
+    "elevation_ft": "2575",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "Groblersbrug",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

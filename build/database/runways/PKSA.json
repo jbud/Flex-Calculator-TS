@@ -1,0 +1,20 @@
+{
+    "id": "43226",
+    "ident": "PKSA",
+    "type": "medium_airport",
+    "name": "Kaieteur International Airport",
+    "latitude_deg": "5.17275476456",
+    "longitude_deg": "-59.491481781",
+    "elevation_ft": "1520",
+    "continent": "SA",
+    "iso_country": "GY",
+    "iso_region": "GY-PT",
+    "municipality": "Kaieteur Falls",
+    "scheduled_service": "yes",
+    "gps_code": "SYKA",
+    "iata_code": "KAI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kaieteur_International_Airport",
+    "keywords": ""
+}

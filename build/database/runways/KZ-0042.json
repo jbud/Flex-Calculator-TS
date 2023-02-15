@@ -1,0 +1,20 @@
+{
+    "id": "41894",
+    "ident": "KZ-0042",
+    "type": "small_airport",
+    "name": "Kyzylasker Airport",
+    "latitude_deg": "42.60860061645508",
+    "longitude_deg": "69.58999633789062",
+    "elevation_ft": "1231",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-YUZ",
+    "municipality": "Kyzylasker",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

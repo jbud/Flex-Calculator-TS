@@ -1,0 +1,20 @@
+{
+    "id": "340038",
+    "ident": "AR-0671",
+    "type": "small_airport",
+    "name": "Las Totoritas Airport",
+    "latitude_deg": "-33.842439",
+    "longitude_deg": "-65.324836",
+    "elevation_ft": "1470",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-D",
+    "municipality": "Villa Mercedes",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "VMT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "354796",
+    "ident": "IR-0089",
+    "type": "small_airport",
+    "name": "Military Runway",
+    "latitude_deg": "35.545758",
+    "longitude_deg": "50.976434",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-23",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

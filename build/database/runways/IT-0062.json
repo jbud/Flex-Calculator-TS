@@ -1,0 +1,20 @@
+{
+    "id": "308698",
+    "ident": "IT-0062",
+    "type": "small_airport",
+    "name": "Campo di Volo \"Bosio Guido\"",
+    "latitude_deg": "44.434194",
+    "longitude_deg": "7.632258",
+    "elevation_ft": "1499",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-21",
+    "municipality": "Castelletto Stura (CN)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CNCST",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

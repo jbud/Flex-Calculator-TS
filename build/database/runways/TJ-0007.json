@@ -1,0 +1,20 @@
+{
+    "id": "333192",
+    "ident": "TJ-0007",
+    "type": "small_airport",
+    "name": "Danghara Airport",
+    "latitude_deg": "38.078537",
+    "longitude_deg": "69.320385",
+    "elevation_ft": "2089",
+    "continent": "AS",
+    "iso_country": "TJ",
+    "iso_region": "TJ-KT",
+    "municipality": "Danghara",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

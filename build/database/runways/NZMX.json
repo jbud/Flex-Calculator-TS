@@ -1,0 +1,20 @@
+{
+    "id": "44814",
+    "ident": "NZMX",
+    "type": "heliport",
+    "name": "Maari Heliport",
+    "latitude_deg": "-39.974998",
+    "longitude_deg": "173.292007",
+    "elevation_ft": "60",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-XY",
+    "municipality": "Maari Platform",
+    "scheduled_service": "no",
+    "gps_code": "NZMX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

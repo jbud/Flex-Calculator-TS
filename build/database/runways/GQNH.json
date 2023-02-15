@@ -1,0 +1,20 @@
+{
+    "id": "32461",
+    "ident": "GQNH",
+    "type": "small_airport",
+    "name": "Timbedra Airport",
+    "latitude_deg": "16.233671",
+    "longitude_deg": "-8.163464",
+    "elevation_ft": "692",
+    "continent": "AF",
+    "iso_country": "MR",
+    "iso_region": "MR-01",
+    "municipality": "Timbedra",
+    "scheduled_service": "no",
+    "gps_code": "GQNH",
+    "iata_code": "TMD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Timbedra_Airport",
+    "keywords": ""
+}

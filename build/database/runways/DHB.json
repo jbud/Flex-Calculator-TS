@@ -1,0 +1,20 @@
+{
+    "id": "300321",
+    "ident": "DHB",
+    "type": "seaplane_base",
+    "name": "Deer Harbor SPB",
+    "latitude_deg": "48.616667",
+    "longitude_deg": "-123.002778",
+    "elevation_ft": "0",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Deer Harbor",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "DHB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Deer_Harbor_Sea_Plane_Base",
+    "keywords": ""
+}

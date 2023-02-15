@@ -1,0 +1,20 @@
+{
+    "id": "31815",
+    "ident": "HAKL",
+    "type": "small_airport",
+    "name": "Kelafo East Airport",
+    "latitude_deg": "5.6570000648498535",
+    "longitude_deg": "44.349998474121094",
+    "elevation_ft": "1730",
+    "continent": "AF",
+    "iso_country": "ET",
+    "iso_region": "ET-SO",
+    "municipality": "Kelafo",
+    "scheduled_service": "no",
+    "gps_code": "HAKL",
+    "iata_code": "LFO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

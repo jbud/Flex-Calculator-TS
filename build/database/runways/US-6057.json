@@ -1,0 +1,20 @@
+{
+    "id": "350600",
+    "ident": "US-6057",
+    "type": "heliport",
+    "name": "Southern Hills Hospital Heliport",
+    "latitude_deg": "36.07367",
+    "longitude_deg": "-115.29625",
+    "elevation_ft": "2564",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Las Vegas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

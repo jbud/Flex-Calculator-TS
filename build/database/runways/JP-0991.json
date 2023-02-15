@@ -1,0 +1,20 @@
+{
+    "id": "339346",
+    "ident": "JP-0991",
+    "type": "heliport",
+    "name": "Tokyo University Hospital Helipad",
+    "latitude_deg": "35.711025",
+    "longitude_deg": "139.76635",
+    "elevation_ft": "473",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-13",
+    "municipality": "Bunkyo, Tokyo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "32321",
+    "ident": "SLAG",
+    "type": "small_airport",
+    "name": "Monteagudo Airport",
+    "latitude_deg": "-19.82699966430664",
+    "longitude_deg": "-63.96099853515625",
+    "elevation_ft": "3674",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-H",
+    "municipality": "El Bañado",
+    "scheduled_service": "no",
+    "gps_code": "SLAG",
+    "iata_code": "MHW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

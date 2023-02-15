@@ -1,0 +1,20 @@
+{
+    "id": "351460",
+    "ident": "SS-0049",
+    "type": "small_airport",
+    "name": "Unity Airport",
+    "latitude_deg": "9.47649",
+    "longitude_deg": "29.66566",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-22",
+    "municipality": "Thepkeni",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

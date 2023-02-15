@@ -1,0 +1,20 @@
+{
+    "id": "320636",
+    "ident": "ES-0082",
+    "type": "small_airport",
+    "name": "Aeródromo La Loma",
+    "latitude_deg": "39.4886667",
+    "longitude_deg": "-0.9022167",
+    "elevation_ft": "2789",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-VC",
+    "municipality": "Siete Aguas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

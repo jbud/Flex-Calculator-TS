@@ -1,0 +1,20 @@
+{
+    "id": "316024",
+    "ident": "DE-0319",
+    "type": "small_airport",
+    "name": "Schreckhof Airfield",
+    "latitude_deg": "49.3513",
+    "longitude_deg": "9.1208",
+    "elevation_ft": "898",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Mosbach",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.fliegermosbach.de/verein/flugplatz/",
+    "wikipedia_link": "",
+    "keywords": ""
+}

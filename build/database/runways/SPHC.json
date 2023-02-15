@@ -1,0 +1,20 @@
+{
+    "id": "39596",
+    "ident": "SPHC",
+    "type": "small_airport",
+    "name": "Chala Airport",
+    "latitude_deg": "-15.80703",
+    "longitude_deg": "-74.28699",
+    "elevation_ft": "112",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-ARE",
+    "municipality": "Puerto Chala",
+    "scheduled_service": "no",
+    "gps_code": "SPHC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

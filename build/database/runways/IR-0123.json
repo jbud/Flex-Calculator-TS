@@ -1,0 +1,20 @@
+{
+    "id": "356028",
+    "ident": "IR-0123",
+    "type": "small_airport",
+    "name": "Qeshm Air Base",
+    "latitude_deg": "26.70306",
+    "longitude_deg": "55.9516",
+    "elevation_ft": "79",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-22",
+    "municipality": "Shib Deraz",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

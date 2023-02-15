@@ -1,0 +1,20 @@
+{
+    "id": "317853",
+    "ident": "IT-0219",
+    "type": "small_airport",
+    "name": "Campo di Volo Tuscany Flight",
+    "latitude_deg": "43.695333",
+    "longitude_deg": "10.800533",
+    "elevation_ft": "65",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-52",
+    "municipality": "San Miniato (PI)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "PISMN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Tuscany Flight"
+}

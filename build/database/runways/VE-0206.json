@@ -1,0 +1,20 @@
+{
+    "id": "41599",
+    "ident": "VE-0206",
+    "type": "small_airport",
+    "name": "La Guaira Airport",
+    "latitude_deg": "10.5333299637",
+    "longitude_deg": "-67.0333328247",
+    "elevation_ft": "2569",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-X",
+    "municipality": "La Guaira",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "LAG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

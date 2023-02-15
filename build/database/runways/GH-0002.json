@@ -1,0 +1,20 @@
+{
+    "id": "331006",
+    "ident": "GH-0002",
+    "type": "small_airport",
+    "name": "Ajena Airstrip",
+    "latitude_deg": "6.322619",
+    "longitude_deg": "0.087893",
+    "elevation_ft": "485",
+    "continent": "AF",
+    "iso_country": "GH",
+    "iso_region": "GH-EP",
+    "municipality": "Ajena",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

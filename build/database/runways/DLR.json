@@ -1,0 +1,20 @@
+{
+    "id": "330383",
+    "ident": "DLR",
+    "type": "small_airport",
+    "name": "Dalnerechensk Airport",
+    "latitude_deg": "45.877949",
+    "longitude_deg": "133.735822",
+    "elevation_ft": "272",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-PRI",
+    "municipality": "Dalnerechensk",
+    "scheduled_service": "yes",
+    "gps_code": "UHHD",
+    "iata_code": "DLR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "31195",
+    "ident": "HAFN",
+    "type": "small_airport",
+    "name": "Fincha Airport",
+    "latitude_deg": "9.584387",
+    "longitude_deg": "37.377855",
+    "elevation_ft": "7600",
+    "continent": "AF",
+    "iso_country": "ET",
+    "iso_region": "ET-OR",
+    "municipality": "Fincha",
+    "scheduled_service": "no",
+    "gps_code": "HAFN",
+    "iata_code": "FNH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

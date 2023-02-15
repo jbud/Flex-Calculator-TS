@@ -1,0 +1,20 @@
+{
+    "id": "308211",
+    "ident": "DE-0050",
+    "type": "small_airport",
+    "name": "Alsfeld Airfield",
+    "latitude_deg": "50.750565",
+    "longitude_deg": "9.248615",
+    "elevation_ft": "970",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Alsfeld",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

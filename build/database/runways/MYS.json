@@ -1,0 +1,20 @@
+{
+    "id": "314051",
+    "ident": "MYS",
+    "type": "small_airport",
+    "name": "Moyale Airport",
+    "latitude_deg": "3.5623",
+    "longitude_deg": "39.0433",
+    "elevation_ft": "3887",
+    "continent": "AF",
+    "iso_country": "ET",
+    "iso_region": "ET-OR",
+    "municipality": "Moyale",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "MYS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

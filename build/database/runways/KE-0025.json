@@ -1,0 +1,20 @@
+{
+    "id": "42668",
+    "ident": "KE-0025",
+    "type": "small_airport",
+    "name": "Ngelesha Airport",
+    "latitude_deg": "1.5172220468521118",
+    "longitude_deg": "36.2852783203125",
+    "elevation_ft": "6000",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-700",
+    "municipality": "Ngelesha",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

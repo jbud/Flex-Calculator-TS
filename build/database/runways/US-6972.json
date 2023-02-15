@@ -1,0 +1,20 @@
+{
+    "id": "355794",
+    "ident": "US-6972",
+    "type": "small_airport",
+    "name": "Porter Ranch Airport",
+    "latitude_deg": "35.13192",
+    "longitude_deg": "-120.35665",
+    "elevation_ft": "753",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Arroyo Grande",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

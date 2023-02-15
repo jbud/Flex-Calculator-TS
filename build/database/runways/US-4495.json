@@ -1,0 +1,20 @@
+{
+    "id": "345584",
+    "ident": "US-4495",
+    "type": "heliport",
+    "name": "Wayne Medical Center Heliport",
+    "latitude_deg": "35.325521",
+    "longitude_deg": "-87.756708",
+    "elevation_ft": "749",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Waynesboro",
+    "scheduled_service": "no",
+    "gps_code": "TN24",
+    "iata_code": "",
+    "local_code": "TN24",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

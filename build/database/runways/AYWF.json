@@ -1,0 +1,20 @@
+{
+    "id": "316464",
+    "ident": "AYWF",
+    "type": "small_airport",
+    "name": "Wawoi Falls Airport",
+    "latitude_deg": "-6.9523",
+    "longitude_deg": "142.6557",
+    "elevation_ft": "370",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": "Wavoi Falls",
+    "scheduled_service": "no",
+    "gps_code": "AYWF",
+    "iata_code": "WAJ",
+    "local_code": "WWF",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Wavwoi Falls"
+}

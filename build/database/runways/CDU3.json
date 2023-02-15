@@ -1,0 +1,20 @@
+{
+    "id": "820",
+    "ident": "CDU3",
+    "type": "heliport",
+    "name": "Yarmouth (Regional Hospital) Heliport",
+    "latitude_deg": "43.848668441",
+    "longitude_deg": "-66.1210119724",
+    "elevation_ft": "43",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NS",
+    "municipality": "Yarmouth",
+    "scheduled_service": "no",
+    "gps_code": "CDU3",
+    "iata_code": "",
+    "local_code": "CDU3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "DU3"
+}

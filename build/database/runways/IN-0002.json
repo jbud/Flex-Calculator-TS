@@ -1,0 +1,20 @@
+{
+    "id": "35130",
+    "ident": "IN-0002",
+    "type": "heliport",
+    "name": "Tawang Air Force Station",
+    "latitude_deg": "27.588732",
+    "longitude_deg": "91.877439",
+    "elevation_ft": "8756",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-AR",
+    "municipality": "Tawang",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

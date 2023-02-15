@@ -1,0 +1,20 @@
+{
+    "id": "32649",
+    "ident": "ZSWU",
+    "type": "small_airport",
+    "name": "Wuhu Wanli Airport / Wuhu Air Base",
+    "latitude_deg": "31.3906",
+    "longitude_deg": "118.408997",
+    "elevation_ft": "34",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-34",
+    "municipality": "Wuhu",
+    "scheduled_service": "no",
+    "gps_code": "ZSWU",
+    "iata_code": "WHU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wuhu_Wanli_Airport",
+    "keywords": ""
+}

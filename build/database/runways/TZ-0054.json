@@ -1,0 +1,20 @@
+{
+    "id": "318615",
+    "ident": "TZ-0054",
+    "type": "small_airport",
+    "name": "Siwandu Airport",
+    "latitude_deg": "-7.6847",
+    "longitude_deg": "38.136731",
+    "elevation_ft": "195",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-19",
+    "municipality": "Siwandu",
+    "scheduled_service": "no",
+    "gps_code": "HTZW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

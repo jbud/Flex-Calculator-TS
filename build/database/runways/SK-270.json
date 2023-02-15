@@ -1,0 +1,20 @@
+{
+    "id": "40850",
+    "ident": "SK-270",
+    "type": "small_airport",
+    "name": "Mayorca Airport",
+    "latitude_deg": "9.922778",
+    "longitude_deg": "-74.095",
+    "elevation_ft": "300",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-MAG",
+    "municipality": "El Difícil",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ELF",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

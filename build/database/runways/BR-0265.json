@@ -1,0 +1,20 @@
+{
+    "id": "323913",
+    "ident": "BR-0265",
+    "type": "heliport",
+    "name": "Sapucaí Heliport",
+    "latitude_deg": "-22.909722",
+    "longitude_deg": "-43.198333",
+    "elevation_ft": "269",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Rio de Janeiro",
+    "scheduled_service": "no",
+    "gps_code": "SWSS",
+    "iata_code": "",
+    "local_code": "SWSS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

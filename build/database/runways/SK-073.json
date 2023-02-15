@@ -1,0 +1,20 @@
+{
+    "id": "40715",
+    "ident": "SK-073",
+    "type": "small_airport",
+    "name": "El Vigía Airport",
+    "latitude_deg": "4.562222",
+    "longitude_deg": "-72.9425",
+    "elevation_ft": "725",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAS",
+    "municipality": "Villanueva",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "EVC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

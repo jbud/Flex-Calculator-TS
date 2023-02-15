@@ -1,0 +1,20 @@
+{
+    "id": "42593",
+    "ident": "KE-6109",
+    "type": "small_airport",
+    "name": "Mitunguu Airport",
+    "latitude_deg": "-0.10968299955129623",
+    "longitude_deg": "37.79010009765625",
+    "elevation_ft": "3100",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-400",
+    "municipality": "Mitunguu",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

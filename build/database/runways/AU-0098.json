@@ -1,0 +1,20 @@
+{
+    "id": "315735",
+    "ident": "AU-0098",
+    "type": "heliport",
+    "name": "Gold Coast Water Police Helicopter Landing Site",
+    "latitude_deg": "-27.97",
+    "longitude_deg": "153.427",
+    "elevation_ft": "10",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Gold Coast",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "OZHBV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "GCWP"
+}

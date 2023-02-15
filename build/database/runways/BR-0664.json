@@ -1,0 +1,20 @@
+{
+    "id": "334389",
+    "ident": "BR-0664",
+    "type": "heliport",
+    "name": "KKS-37 Heliport",
+    "latitude_deg": "-22.73881",
+    "longitude_deg": "-43.493665",
+    "elevation_ft": "144",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Nova Iguaçu",
+    "scheduled_service": "no",
+    "gps_code": "SWET",
+    "iata_code": "",
+    "local_code": "RJ0179",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

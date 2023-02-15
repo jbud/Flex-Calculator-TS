@@ -1,0 +1,20 @@
+{
+    "id": "354228",
+    "ident": "ID-0230",
+    "type": "small_airport",
+    "name": "Pagamba Airstrip",
+    "latitude_deg": "-3.64307",
+    "longitude_deg": "136.67854",
+    "elevation_ft": "5690",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PT",
+    "municipality": "Pagamba",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Intan Jaya"
+}

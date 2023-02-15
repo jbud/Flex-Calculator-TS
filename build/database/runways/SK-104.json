@@ -1,0 +1,20 @@
+{
+    "id": "40622",
+    "ident": "SK-104",
+    "type": "small_airport",
+    "name": "Malabares Airport",
+    "latitude_deg": "5.468889",
+    "longitude_deg": "-71.369167",
+    "elevation_ft": "489",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAS",
+    "municipality": "Trinidad",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MAL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

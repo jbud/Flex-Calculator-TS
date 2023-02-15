@@ -1,0 +1,20 @@
+{
+    "id": "42155",
+    "ident": "HN-0002",
+    "type": "small_airport",
+    "name": "Bonito Oriental Airport",
+    "latitude_deg": "15.745400428771973",
+    "longitude_deg": "-85.722900390625",
+    "elevation_ft": "164",
+    "continent": "NA",
+    "iso_country": "HN",
+    "iso_region": "HN-CL",
+    "municipality": "Corocito",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

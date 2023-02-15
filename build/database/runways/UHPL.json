@@ -1,0 +1,20 @@
+{
+    "id": "42938",
+    "ident": "UHPL",
+    "type": "medium_airport",
+    "name": "Palana Airport",
+    "latitude_deg": "59.08199",
+    "longitude_deg": "159.892316",
+    "elevation_ft": "112",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KAM",
+    "municipality": "Palana",
+    "scheduled_service": "no",
+    "gps_code": "UHPL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Palana_Airport",
+    "keywords": "Аэропорт Палана"
+}

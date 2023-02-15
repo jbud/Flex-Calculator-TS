@@ -1,0 +1,20 @@
+{
+    "id": "35166",
+    "ident": "SO-BXX",
+    "type": "small_airport",
+    "name": "Borama Airport",
+    "latitude_deg": "9.9463",
+    "longitude_deg": "43.1495",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SO",
+    "iso_region": "SO-WO",
+    "municipality": "Borama",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "BXX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Borama_Airport",
+    "keywords": "Borama"
+}

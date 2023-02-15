@@ -1,0 +1,20 @@
+{
+    "id": "308252",
+    "ident": "DE-0056",
+    "type": "small_airport",
+    "name": "Paterzell Airfield",
+    "latitude_deg": "47.8469203625",
+    "longitude_deg": "11.0610866547",
+    "elevation_ft": "1955",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Paterzell",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.paterzell.de/cms/index.php?id=18",
+    "wikipedia_link": "",
+    "keywords": ""
+}

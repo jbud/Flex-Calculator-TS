@@ -1,0 +1,20 @@
+{
+    "id": "44175",
+    "ident": "CN-0097",
+    "type": "medium_airport",
+    "name": "Luyang Air Base",
+    "latitude_deg": "33.685434",
+    "longitude_deg": "112.89053",
+    "elevation_ft": "469",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-41",
+    "municipality": "Xuchang (Pingdingshan)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

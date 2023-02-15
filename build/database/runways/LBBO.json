@@ -1,0 +1,20 @@
+{
+    "id": "43899",
+    "ident": "LBBO",
+    "type": "small_airport",
+    "name": "Bohot Airport",
+    "latitude_deg": "43.30638885498047",
+    "longitude_deg": "24.691389083862305",
+    "elevation_ft": "1162",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-15",
+    "municipality": "Bohot",
+    "scheduled_service": "no",
+    "gps_code": "LBBO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "29684",
+    "ident": "FWBG",
+    "type": "small_airport",
+    "name": "Bangula Airport",
+    "latitude_deg": "-16.578408",
+    "longitude_deg": "35.116148",
+    "elevation_ft": "302",
+    "continent": "AF",
+    "iso_country": "MW",
+    "iso_region": "MW-NS",
+    "municipality": "Bangula",
+    "scheduled_service": "no",
+    "gps_code": "FWBG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

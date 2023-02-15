@@ -1,0 +1,20 @@
+{
+    "id": "44809",
+    "ident": "NZJG",
+    "type": "heliport",
+    "name": "Gisborne Hospital Heliport",
+    "latitude_deg": "-38.6411018371582",
+    "longitude_deg": "178.00399780273438",
+    "elevation_ft": "51",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-GIS",
+    "municipality": "Gisborne",
+    "scheduled_service": "no",
+    "gps_code": "NZJG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

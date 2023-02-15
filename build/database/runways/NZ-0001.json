@@ -1,0 +1,20 @@
+{
+    "id": "42261",
+    "ident": "NZ-0001",
+    "type": "small_airport",
+    "name": "Mesopotamia Station Airstrip",
+    "latitude_deg": "-43.641170501708984",
+    "longitude_deg": "170.90237426757812",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-CAN",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.mesopotamia.co.nz/transport.html",
+    "wikipedia_link": "",
+    "keywords": ""
+}

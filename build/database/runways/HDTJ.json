@@ -1,0 +1,20 @@
+{
+    "id": "32430",
+    "ident": "HDTJ",
+    "type": "small_airport",
+    "name": "Tadjoura Airport",
+    "latitude_deg": "11.787037",
+    "longitude_deg": "42.917376",
+    "elevation_ft": "246",
+    "continent": "AF",
+    "iso_country": "DJ",
+    "iso_region": "DJ-TA",
+    "municipality": "Tadjoura",
+    "scheduled_service": "no",
+    "gps_code": "HDTJ",
+    "iata_code": "TDJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tadjoura_Airport",
+    "keywords": ""
+}

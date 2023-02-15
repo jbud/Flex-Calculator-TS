@@ -1,0 +1,20 @@
+{
+    "id": "40412",
+    "ident": "VE-0063",
+    "type": "small_airport",
+    "name": "El Samán de Guárico Airport",
+    "latitude_deg": "8.824999809265137",
+    "longitude_deg": "-67.0183334350586",
+    "elevation_ft": "334",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-J",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

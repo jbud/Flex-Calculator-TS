@@ -1,0 +1,20 @@
+{
+    "id": "31440",
+    "ident": "FZQI",
+    "type": "small_airport",
+    "name": "Kamatanda Airport",
+    "latitude_deg": "-10.833000183105469",
+    "longitude_deg": "26.75",
+    "elevation_ft": "4261",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-HK",
+    "municipality": "Kamatanda",
+    "scheduled_service": "no",
+    "gps_code": "FZQI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

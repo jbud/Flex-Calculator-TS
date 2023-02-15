@@ -1,0 +1,20 @@
+{
+    "id": "350038",
+    "ident": "US-5842",
+    "type": "small_airport",
+    "name": "Chapeño Airport",
+    "latitude_deg": "26.93818",
+    "longitude_deg": "-98.1779",
+    "elevation_ft": "159",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Encino",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

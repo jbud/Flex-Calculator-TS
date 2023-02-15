@@ -1,0 +1,20 @@
+{
+    "id": "1852",
+    "ident": "CYPO",
+    "type": "medium_airport",
+    "name": "Peawanuck Airport",
+    "latitude_deg": "54.98809814453125",
+    "longitude_deg": "-85.44329833984375",
+    "elevation_ft": "173",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Peawanuck",
+    "scheduled_service": "yes",
+    "gps_code": "CYPO",
+    "iata_code": "YPO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Peawanuck_Airport",
+    "keywords": ""
+}

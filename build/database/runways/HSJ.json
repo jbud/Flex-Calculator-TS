@@ -1,0 +1,20 @@
+{
+    "id": "319812",
+    "ident": "HSJ",
+    "type": "small_airport",
+    "name": "Zhengzhou Shangjie Airport",
+    "latitude_deg": "34.842153",
+    "longitude_deg": "113.273983",
+    "elevation_ft": "450",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-41",
+    "municipality": "Zhengzhou",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "HSJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

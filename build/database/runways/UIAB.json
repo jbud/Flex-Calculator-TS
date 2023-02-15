@@ -1,0 +1,20 @@
+{
+    "id": "325080",
+    "ident": "UIAB",
+    "type": "heliport",
+    "name": "Barnaul Heliport",
+    "latitude_deg": "50.3613832",
+    "longitude_deg": "116.4814",
+    "elevation_ft": "2224",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-CHI",
+    "municipality": "Borzya",
+    "scheduled_service": "no",
+    "gps_code": "UIAB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "УИАБ, Барнаул,  Борзя"
+}

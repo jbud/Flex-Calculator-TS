@@ -1,0 +1,20 @@
+{
+    "id": "316962",
+    "ident": "IT-0163",
+    "type": "small_airport",
+    "name": "Aviosuperficie del Sagrantino",
+    "latitude_deg": "42.890278",
+    "longitude_deg": "12.533056",
+    "elevation_ft": "900",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-55",
+    "municipality": "Gualdo Cattaneo (PG)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "PGGCT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Sagrantino"
+}

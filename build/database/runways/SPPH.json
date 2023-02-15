@@ -1,0 +1,20 @@
+{
+    "id": "32368",
+    "ident": "SPPH",
+    "type": "small_airport",
+    "name": "Pampa Hermosa Airport",
+    "latitude_deg": "-7.206774",
+    "longitude_deg": "-75.297559",
+    "elevation_ft": "510",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LOR",
+    "municipality": "Pampa Hermosa",
+    "scheduled_service": "no",
+    "gps_code": "SPPH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

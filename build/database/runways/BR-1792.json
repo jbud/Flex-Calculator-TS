@@ -1,0 +1,20 @@
+{
+    "id": "506021",
+    "ident": "BR-1792",
+    "type": "heliport",
+    "name": "Ninho do Condor Heliport",
+    "latitude_deg": "-22.664577",
+    "longitude_deg": "-43.492048",
+    "elevation_ft": "174",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Nova Iguaçu",
+    "scheduled_service": "no",
+    "gps_code": "SSJH",
+    "iata_code": "",
+    "local_code": "RJ0146",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

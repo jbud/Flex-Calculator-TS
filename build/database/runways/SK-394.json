@@ -1,0 +1,20 @@
+{
+    "id": "40941",
+    "ident": "SK-394",
+    "type": "small_airport",
+    "name": "El Rincón de Mucura Airport",
+    "latitude_deg": "9.774167",
+    "longitude_deg": "-75.638056",
+    "elevation_ft": "18",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-SUC",
+    "municipality": "San Onofre",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SOR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "349587",
+    "ident": "MX-1842",
+    "type": "small_airport",
+    "name": "El Mixteco Airstrip",
+    "latitude_deg": "25.676646",
+    "longitude_deg": "-108.742606",
+    "elevation_ft": "112",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-SIN",
+    "municipality": "Guasave",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MXT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

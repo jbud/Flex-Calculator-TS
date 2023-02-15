@@ -1,0 +1,20 @@
+{
+    "id": "29549",
+    "ident": "NA-0012",
+    "type": "small_airport",
+    "name": "Bagani Airport",
+    "latitude_deg": "-18.11848",
+    "longitude_deg": "21.623296",
+    "elevation_ft": "3314",
+    "continent": "AF",
+    "iso_country": "NA",
+    "iso_region": "NA-KE",
+    "municipality": "Bagani",
+    "scheduled_service": "no",
+    "gps_code": "FYBG",
+    "iata_code": "BQI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

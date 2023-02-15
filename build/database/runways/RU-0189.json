@@ -1,0 +1,20 @@
+{
+    "id": "44656",
+    "ident": "RU-0189",
+    "type": "medium_airport",
+    "name": "Kostomuksha Airport",
+    "latitude_deg": "64.61799621579999",
+    "longitude_deg": "30.687000274699997",
+    "elevation_ft": "681",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KR",
+    "municipality": "Kostomuksha",
+    "scheduled_service": "yes",
+    "gps_code": "ULPM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Костомукша, УЛПМ"
+}

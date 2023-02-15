@@ -1,0 +1,20 @@
+{
+    "id": "317901",
+    "ident": "PK-0016",
+    "type": "small_airport",
+    "name": "Petaro Airport",
+    "latitude_deg": "25.5448",
+    "longitude_deg": "68.3265",
+    "elevation_ft": "113",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-SD",
+    "municipality": "Cadet College Petaro",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

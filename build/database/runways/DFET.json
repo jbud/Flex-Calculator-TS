@@ -1,0 +1,20 @@
+{
+    "id": "32432",
+    "ident": "DFET",
+    "type": "small_airport",
+    "name": "Tenkodogo Airport",
+    "latitude_deg": "11.801149",
+    "longitude_deg": "-0.371377",
+    "elevation_ft": "1017",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-BLG",
+    "municipality": "Tenkodogo",
+    "scheduled_service": "no",
+    "gps_code": "DFET",
+    "iata_code": "TEG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

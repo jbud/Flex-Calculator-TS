@@ -1,0 +1,20 @@
+{
+    "id": "342730",
+    "ident": "FYGO",
+    "type": "small_airport",
+    "name": "Gobabeb Airport",
+    "latitude_deg": "-23.5443",
+    "longitude_deg": "15.04492",
+    "elevation_ft": "1381",
+    "continent": "AF",
+    "iso_country": "NA",
+    "iso_region": "NA-ER",
+    "municipality": "Gobabeb",
+    "scheduled_service": "no",
+    "gps_code": "FYGO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

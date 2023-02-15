@@ -1,0 +1,20 @@
+{
+    "id": "31084",
+    "ident": "FCMD",
+    "type": "small_airport",
+    "name": "Sidetra Airport",
+    "latitude_deg": "-2.867000102996826",
+    "longitude_deg": "12.866999626159668",
+    "elevation_ft": "2133",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-9",
+    "municipality": "Sidetra",
+    "scheduled_service": "no",
+    "gps_code": "FCMD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

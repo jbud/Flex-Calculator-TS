@@ -1,0 +1,20 @@
+{
+    "id": "318648",
+    "ident": "TZ-0087",
+    "type": "small_airport",
+    "name": "Mahaka Airport",
+    "latitude_deg": "-6.135581",
+    "longitude_deg": "35.049797",
+    "elevation_ft": "2740",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-03",
+    "municipality": "Mahaka",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

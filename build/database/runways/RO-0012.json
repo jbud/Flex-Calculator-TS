@@ -1,0 +1,20 @@
+{
+    "id": "317422",
+    "ident": "RO-0012",
+    "type": "small_airport",
+    "name": "Costinești Aerodrome",
+    "latitude_deg": "43.926686",
+    "longitude_deg": "28.629548",
+    "elevation_ft": "66",
+    "continent": "EU",
+    "iso_country": "RO",
+    "iso_region": "RO-CT",
+    "municipality": "Costinești",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

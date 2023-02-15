@@ -1,0 +1,20 @@
+{
+    "id": "41583",
+    "ident": "PY-0019",
+    "type": "small_airport",
+    "name": "Aeródromo de Villa Rey",
+    "latitude_deg": "-24.688288",
+    "longitude_deg": "-57.230937",
+    "elevation_ft": "220",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-2",
+    "municipality": "Villa Rey",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

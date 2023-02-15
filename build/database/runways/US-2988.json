@@ -1,0 +1,20 @@
+{
+    "id": "340075",
+    "ident": "US-2988",
+    "type": "small_airport",
+    "name": "Mount Trumbull Airport",
+    "latitude_deg": "36.421743",
+    "longitude_deg": "-113.331199",
+    "elevation_ft": "5295",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Littlefield",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

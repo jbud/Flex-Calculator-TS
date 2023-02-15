@@ -1,0 +1,20 @@
+{
+    "id": "321660",
+    "ident": "ES-0212",
+    "type": "small_airport",
+    "name": "Hacienda de Orán",
+    "latitude_deg": "37.2000414",
+    "longitude_deg": "-5.8808531",
+    "elevation_ft": "72",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Utrero",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

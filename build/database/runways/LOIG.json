@@ -1,0 +1,20 @@
+{
+    "id": "43859",
+    "ident": "LOIG",
+    "type": "heliport",
+    "name": "Ludesch Heliport",
+    "latitude_deg": "47.200313",
+    "longitude_deg": "9.780208",
+    "elevation_ft": "1804",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-8",
+    "municipality": "Ludesch",
+    "scheduled_service": "no",
+    "gps_code": "LOIG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

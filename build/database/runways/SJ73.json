@@ -1,0 +1,20 @@
+{
+    "id": "506519",
+    "ident": "SJ73",
+    "type": "small_airport",
+    "name": "Castelo do Piauí Airport",
+    "latitude_deg": "-5.303921",
+    "longitude_deg": "-41.548193",
+    "elevation_ft": "840",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PI",
+    "municipality": "Castelo do Piauí",
+    "scheduled_service": "no",
+    "gps_code": "SJ73",
+    "iata_code": "",
+    "local_code": "PI0069",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

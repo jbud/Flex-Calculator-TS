@@ -1,0 +1,20 @@
+{
+    "id": "32232",
+    "ident": "RPVL",
+    "type": "small_airport",
+    "name": "Wasig Airport",
+    "latitude_deg": "12.536100387573242",
+    "longitude_deg": "121.48100280761719",
+    "elevation_ft": "13",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-MDR",
+    "municipality": "Mansalay",
+    "scheduled_service": "no",
+    "gps_code": "RPVL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

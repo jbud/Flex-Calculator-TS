@@ -1,0 +1,20 @@
+{
+    "id": "41715",
+    "ident": "UZ-0028",
+    "type": "small_airport",
+    "name": "Kuva Southeast Airport",
+    "latitude_deg": "40.483441",
+    "longitude_deg": "72.280825",
+    "elevation_ft": "1973",
+    "continent": "AS",
+    "iso_country": "UZ",
+    "iso_region": "UZ-AN",
+    "municipality": "Markhamat",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "AG3808, FR38715"
+}

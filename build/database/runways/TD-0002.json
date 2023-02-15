@@ -1,0 +1,20 @@
+{
+    "id": "319200",
+    "ident": "TD-0002",
+    "type": "small_airport",
+    "name": "Doba Airport",
+    "latitude_deg": "8.701775",
+    "longitude_deg": "16.834947",
+    "elevation_ft": "1296",
+    "continent": "AF",
+    "iso_country": "TD",
+    "iso_region": "TD-LR",
+    "municipality": "Doba",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Doba_Airport",
+    "keywords": ""
+}

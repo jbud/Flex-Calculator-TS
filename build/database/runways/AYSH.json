@@ -1,0 +1,20 @@
+{
+    "id": "312961",
+    "ident": "AYSH",
+    "type": "small_airport",
+    "name": "Sabah Airport",
+    "latitude_deg": "-5.5765",
+    "longitude_deg": "155.0489",
+    "elevation_ft": "10",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-NSB",
+    "municipality": "Sabah",
+    "scheduled_service": "no",
+    "gps_code": "AYSH",
+    "iata_code": "SBV",
+    "local_code": "SAB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

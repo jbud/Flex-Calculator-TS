@@ -1,0 +1,20 @@
+{
+    "id": "430584",
+    "ident": "PH-0497",
+    "type": "small_airport",
+    "name": "Coron Rural Airport",
+    "latitude_deg": "12.01289",
+    "longitude_deg": "120.2007",
+    "elevation_ft": "69",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-PLW",
+    "municipality": "Coron",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "XCN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

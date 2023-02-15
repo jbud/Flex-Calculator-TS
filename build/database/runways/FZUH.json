@@ -1,0 +1,20 @@
+{
+    "id": "31465",
+    "ident": "FZUH",
+    "type": "small_airport",
+    "name": "Moma Airport",
+    "latitude_deg": "-7.235189",
+    "longitude_deg": "22.608833",
+    "elevation_ft": "2789",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KC",
+    "municipality": "Moma",
+    "scheduled_service": "no",
+    "gps_code": "FZUH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

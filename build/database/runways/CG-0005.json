@@ -1,0 +1,20 @@
+{
+    "id": "333206",
+    "ident": "CG-0005",
+    "type": "small_airport",
+    "name": "Thanry Airport",
+    "latitude_deg": "2.651304",
+    "longitude_deg": "17.173194",
+    "elevation_ft": "1193",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-7",
+    "municipality": "Thanry",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

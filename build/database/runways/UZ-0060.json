@@ -1,0 +1,20 @@
+{
+    "id": "41747",
+    "ident": "UZ-0060",
+    "type": "small_airport",
+    "name": "Alhi Airport",
+    "latitude_deg": "40.93299",
+    "longitude_deg": "69.13819",
+    "elevation_ft": "1091",
+    "continent": "AS",
+    "iso_country": "UZ",
+    "iso_region": "UZ-TO",
+    "municipality": "Alhi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

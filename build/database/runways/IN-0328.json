@@ -1,0 +1,20 @@
+{
+    "id": "356112",
+    "ident": "IN-0328",
+    "type": "heliport",
+    "name": "Pooh Heliport",
+    "latitude_deg": "31.75225",
+    "longitude_deg": "78.57191",
+    "elevation_ft": "8781",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-HP",
+    "municipality": "Pooh",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

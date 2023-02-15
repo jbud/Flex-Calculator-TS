@@ -1,0 +1,20 @@
+{
+    "id": "31455",
+    "ident": "FZSB",
+    "type": "small_airport",
+    "name": "Kamina City Airport",
+    "latitude_deg": "-8.728878",
+    "longitude_deg": "24.991407",
+    "elevation_ft": "3475",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-HL",
+    "municipality": "Kamina",
+    "scheduled_service": "yes",
+    "gps_code": "FZSB",
+    "iata_code": "KMN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kamina_Airport",
+    "keywords": "Kamina Ville Airport"
+}

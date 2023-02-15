@@ -1,0 +1,20 @@
+{
+    "id": "338006",
+    "ident": "BR-1301",
+    "type": "small_airport",
+    "name": "Fazenda Uirapuru Airport",
+    "latitude_deg": "-6.856346",
+    "longitude_deg": "-48.439722",
+    "elevation_ft": "679",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-TO",
+    "municipality": "Araguanã",
+    "scheduled_service": "no",
+    "gps_code": "SJUI",
+    "iata_code": "",
+    "local_code": "TO0033",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

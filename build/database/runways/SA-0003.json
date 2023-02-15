@@ -1,0 +1,20 @@
+{
+    "id": "42265",
+    "ident": "SA-0003",
+    "type": "small_airport",
+    "name": "Qalibah Highway Strip",
+    "latitude_deg": "27.975000381469727",
+    "longitude_deg": "37.951942443847656",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-07",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "331765",
+    "ident": "BR-0454",
+    "type": "small_airport",
+    "name": "Fazenda São João Airport",
+    "latitude_deg": "-15.245652",
+    "longitude_deg": "-59.352935",
+    "elevation_ft": "988",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Pontes e Lacerda",
+    "scheduled_service": "no",
+    "gps_code": "SNAY",
+    "iata_code": "",
+    "local_code": "MT0240",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

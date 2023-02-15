@@ -1,0 +1,20 @@
+{
+    "id": "299582",
+    "ident": "GB-0009",
+    "type": "small_airport",
+    "name": "Aboyne Airfield",
+    "latitude_deg": "57.075556",
+    "longitude_deg": "-2.839444",
+    "elevation_ft": "463",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Aboyne",
+    "scheduled_service": "no",
+    "gps_code": "EGZM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

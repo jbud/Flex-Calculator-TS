@@ -1,0 +1,20 @@
+{
+    "id": "355900",
+    "ident": "US-7039",
+    "type": "small_airport",
+    "name": "Tumey Airport",
+    "latitude_deg": "63.9728",
+    "longitude_deg": "-145.55813",
+    "elevation_ft": "1293",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Delta Junction",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

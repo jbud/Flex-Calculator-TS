@@ -1,0 +1,20 @@
+{
+    "id": "318450",
+    "ident": "SDDQ",
+    "type": "small_airport",
+    "name": "Fazenda São Francisco Airport",
+    "latitude_deg": "-11.69435",
+    "longitude_deg": "-45.51127",
+    "elevation_ft": "2480",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Riachão das Neves",
+    "scheduled_service": "no",
+    "gps_code": "SDDQ",
+    "iata_code": "",
+    "local_code": "BA0071",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

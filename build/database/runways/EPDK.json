@@ -1,0 +1,20 @@
+{
+    "id": "337256",
+    "ident": "EPDK",
+    "type": "small_airport",
+    "name": "Debowa Klada Airfield",
+    "latitude_deg": "51.6126",
+    "longitude_deg": "23.0072",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-LU",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EPDK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

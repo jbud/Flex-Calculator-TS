@@ -1,0 +1,20 @@
+{
+    "id": "41903",
+    "ident": "KZ-0051",
+    "type": "small_airport",
+    "name": "Rodnikovskiy Airport",
+    "latitude_deg": "50.641300201416016",
+    "longitude_deg": "57.1693000793457",
+    "elevation_ft": "1191",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-AKT",
+    "municipality": "Rodnikovskiy",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

@@ -1,0 +1,20 @@
+{
+    "id": "333495",
+    "ident": "MX-1147",
+    "type": "small_airport",
+    "name": "San José del Llano Airport",
+    "latitude_deg": "25.775815",
+    "longitude_deg": "-107.33419",
+    "elevation_ft": "2139",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-SIN",
+    "municipality": "Badiraguato",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SJL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}

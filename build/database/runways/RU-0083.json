@@ -1,0 +1,20 @@
+{
+    "id": "43674",
+    "ident": "RU-0083",
+    "type": "small_airport",
+    "name": "Verkhnyaya Zolotitsa Airport",
+    "latitude_deg": "65.6910018921",
+    "longitude_deg": "40.380401611299995",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-ARK",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "ULBW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Verhnyaya Zolotitsa Airport, Аэропорт Верхняя Золотица, УЛБВ"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "44625",
+    "ident": "UA-0042",
+    "type": "small_airport",
+    "name": "Voznesensk Air Base",
+    "latitude_deg": "47.509998",
+    "longitude_deg": "31.254999",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "UA",
+    "iso_region": "UA-48",
+    "municipality": "Voznesensk",
+    "scheduled_service": "no",
+    "gps_code": "UKOW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэродром Вознесенск"
+}

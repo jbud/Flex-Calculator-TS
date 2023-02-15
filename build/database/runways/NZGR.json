@@ -1,0 +1,20 @@
+{
+    "id": "29918",
+    "ident": "NZGR",
+    "type": "small_airport",
+    "name": "Great Mercury Airport",
+    "latitude_deg": "-36.593635",
+    "longitude_deg": "175.764598",
+    "elevation_ft": "180",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-WKO",
+    "municipality": "Great Mercury Island / Ahuahu",
+    "scheduled_service": "no",
+    "gps_code": "NZGR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": ""
+}
