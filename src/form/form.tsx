@@ -17,18 +17,19 @@ import { useDispatch, useSelector } from 'react-redux';
 import { setMCDU } from '../store/mcdu';
 import { RootState } from '../store/store';
 import { setRunway, Runway } from '../store/runway';
+import INOP from '../inop/inop';
 
 const Form = () => {
     const disp = useDispatch();
     const mcduSetting = useSelector((state: RootState) => state.mcdu);
-    const runwaySetting = useSelector((state: RootState) => state.runway);
-    const [runwayStateDispatcher, setRunwayStateDispatcher] = useState({
+    const [runwayStateDispatcher, setRunwayStateDispatcher] = useState<Runway>({
         heading: 0,
         length: 0,
         asd: 0,
         true: '0',
         wind: 0,
-    }:Runway);
+        windSpeed: 0,
+    });
     const [weightChk, setWeightChk] = useState('kgs');
     const [runways, setRunways] = useState([
         { value: '', heading: '', elevation: '', length: '' },
@@ -114,9 +115,13 @@ const Form = () => {
             .then((data) => {
                 const mtar = parseMetar(data.metar);
                 let windH = 0;
+                let windS = 0;
                 if (mtar.wind !== undefined) {
                     if (mtar.wind.degrees !== undefined) {
                         windH = mtar.wind.degrees;
+                    }
+                    if (mtar.wind.speed !== undefined) {
+                        windS = mtar.wind.speed;
                     }
                 }
                 setMetar({
@@ -138,12 +143,13 @@ const Form = () => {
                     temperature:
                         mtar.temperature !== undefined ? mtar.temperature : 0,
                 });
-                disp(
-                    setRunway({
-                        ...runwaySetting,
+                setRunwayStateDispatcher((state) => {
+                    return {
+                        ...state,
                         wind: windH,
-                    })
-                );
+                        windSpeed: windS,
+                    };
+                });
                 setFormValidation((valid) => {
                     return {
                         ...valid,
@@ -161,9 +167,18 @@ const Form = () => {
             });
     };
     const handleApi = (e: React.FocusEvent<HTMLTextAreaElement>) => {
-        getMETAR(e.target.value);
-        getRunways(e.target.value);
-        setRWDisabled(false);
+        if (e.target.value.length === 4 && e.target.value !== '') {
+            getMETAR(e.target.value);
+            getRunways(e.target.value);
+            setRWDisabled(false);
+        } else {
+            setFormValidation((valid) => {
+                return {
+                    ...valid,
+                    ICAO: true,
+                };
+            });
+        }
     };
 
     const handleCalculate = () => {
@@ -188,7 +203,7 @@ const Form = () => {
                     settings.isMeters
                 ),
                 asd: settings.requiredRunway,
-            }
+            };
         });
         disp(
             setMCDU({
@@ -213,7 +228,7 @@ const Form = () => {
             return {
                 ...state,
                 true: e.target.value,
-            }
+            };
         });
         disp(
             setMCDU({
@@ -304,6 +319,10 @@ const Form = () => {
         changeSettings('packs', (e.target as HTMLInputElement).checked);
     };
 
+    const handleICAOChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
+        e.target.value = e.target.value.toUpperCase();
+    };
+
     useEffect(() => {
         disp(
             setRunway({
@@ -312,10 +331,13 @@ const Form = () => {
                 asd: runwayStateDispatcher.asd,
                 true: runwayStateDispatcher.true,
                 wind: runwayStateDispatcher.wind,
+                windSpeed: runwayStateDispatcher.windSpeed,
             })
         );
+        console.table(runwayStateDispatcher);
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [runwayStateDispatcher]);
-    
+
     useEffect(() => {
         //todo: apply metar elements to takeoffInstance settings
         changeSettings('windHeading', metar.wind.degrees);
@@ -342,6 +364,7 @@ const Form = () => {
                     required
                     id="outlined-required-icao"
                     label="ICAO"
+                    onChange={handleICAOChange}
                     onBlur={handleApi}
                 />
                 <TextField
@@ -435,21 +458,24 @@ const Form = () => {
                         3
                     </MenuItem>
                 </TextField>
-                <TextField
-                    id="outlined-select-rwcond"
-                    select
-                    required
-                    label="Runway Cond"
-                    defaultValue=""
-                    onChange={handleRwCondChange}
-                >
-                    <MenuItem key="1" value="1">
-                        Dry
-                    </MenuItem>
-                    <MenuItem key="2" value="2">
-                        Wet
-                    </MenuItem>
-                </TextField>
+                <Box display="flex" flexDirection="row">
+                    <TextField
+                        id="outlined-select-rwcond"
+                        select
+                        required
+                        label="Runway Cond"
+                        defaultValue=""
+                        onChange={handleRwCondChange}
+                    >
+                        <MenuItem key="1" value="1">
+                            Dry
+                        </MenuItem>
+                        <MenuItem key="2" value="2">
+                            Wet
+                        </MenuItem>
+                    </TextField>
+                    <INOP />
+                </Box>
                 <FormGroup>
                     <FormControlLabel
                         control={<Checkbox defaultChecked />}

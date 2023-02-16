@@ -7,6 +7,7 @@ export type Runway = {
     asd: number | undefined;
     true: string | undefined;
     wind: number | undefined;
+    windSpeed: number | undefined;
 };
 
 const defaultState: Runway = {
@@ -15,6 +16,7 @@ const defaultState: Runway = {
     asd: 0,
     true: '0',
     wind: 0,
+    windSpeed: 0,
 };
 
 export const runwaySlice = createSlice({
@@ -26,6 +28,8 @@ export const runwaySlice = createSlice({
             state.length = action.payload.length;
             state.asd = action.payload.asd;
             state.true = action.payload.true;
+            state.wind = action.payload.wind;
+            state.windSpeed = action.payload.windSpeed;
         },
     },
 });

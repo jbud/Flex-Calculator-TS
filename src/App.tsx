@@ -8,7 +8,8 @@ import './mcdu/mcdu.css';
 import './App.css';
 import { useSelector } from 'react-redux';
 import { RootState } from './store/store';
-import Windsock from './wind/windsock';
+import CrosswindCalc from './wind/crosswind';
+import { useEffect, useState } from 'react';
 
 const darkTheme = createTheme({
     palette: {
@@ -22,29 +23,43 @@ export const test = () => {
 
 function App() {
     const runwaySetting = useSelector((state: RootState) => state.runway);
-    const len = runwaySetting.length ? runwaySetting.length : 0;
-    const dist = runwaySetting.asd ? runwaySetting.asd : 0;
-    const wind = runwaySetting.wind ? runwaySetting.wind : 0;
-    const headingHasLetter = RegExp(/[A-Z]/g).test(
-        runwaySetting.true ? runwaySetting.true : ''
-    );
-    const heading = headingHasLetter
-        ? runwaySetting.true?.slice(0, -1)
-        : runwaySetting.true;
-    const windrel = parseInt(heading ? heading : '0') * 10 - wind + 90;
+    const [len, setLen] = useState(0);
+    const [dist, setDist] = useState(0);
+    const [wind, setWind] = useState(0);
+    const [heading, setHeading] = useState('0');
+    const [windSpeed, setwindSpeed] = useState(0);
+    const [runwayVisualizationLabels, setRunwayVisualizationLabels] = useState<
+        DistanceLabel[]
+    >([]);
 
-    const runwayVisualizationLabels: DistanceLabel[] = [
-        {
-            distance: dist,
-            label: 'ASD',
-            type: 1,
-        },
-        {
-            distance: len - dist,
-            label: 'Stop Margin',
-            type: 2,
-        },
-    ];
+    useEffect(() => {
+        setLen(runwaySetting.length ? runwaySetting.length : 0);
+        setDist(runwaySetting.asd ? runwaySetting.asd : 0);
+        setWind(runwaySetting.wind ? runwaySetting.wind : 0);
+        const headingHasLetter = RegExp(/[A-Z]/g).test(
+            runwaySetting.true ? runwaySetting.true : ''
+        );
+        const h = headingHasLetter
+            ? runwaySetting.true?.slice(0, -1)
+            : runwaySetting.true;
+        setHeading(h ? h : '0');
+        setwindSpeed(parseInt(heading ? heading : '0') * 10 - wind + 90);
+
+        setRunwayVisualizationLabels([
+            {
+                distance: dist,
+                label: 'ASD',
+                type: 1,
+            },
+            {
+                distance: len - dist,
+                label: 'Stop Margin',
+                type: 2,
+            },
+        ]);
+        console.table(runwaySetting);
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [runwaySetting]);
     return (
         <ThemeProvider theme={darkTheme}>
             <CssBaseline />
@@ -55,17 +70,16 @@ function App() {
                         height: '80vh',
                     }}
                     justifyContent="space-between"
-                    marginRight={20}
+                    marginRight={5}
                 >
                     <Form />
                     <MCDU />
-                    <Box
-                        sx={{
-                            height: '20vh',
-                        }}
-                    >
-                        <Windsock windDirRelative={windrel} />
-                    </Box>
+
+                    <CrosswindCalc
+                        rwHeading={parseInt(heading ? heading : '0') * 10}
+                        windir={wind}
+                        windspeed={windSpeed}
+                    />
 
                     <RunwayVisualizationWidget
                         mainLength={len}

@@ -187,10 +187,12 @@ const RunwayVisualizationWidget = ({
         >
             {[...Array(6)].map((_, i) => (
                 <Box
+                    key={i}
                     sx={{
                         width: '0.375rem',
                         height: '3rem',
                         backgroundColor: 'white',
+                        m: '1.5px',
                     }}
                 />
             ))}
@@ -304,6 +306,7 @@ const RunwayVisualizationWidget = ({
                         >
                             {[...Array(9)].map((_, i) => (
                                 <Box
+                                    key={i}
                                     sx={{
                                         width: '0.25rem',
                                         height: '2rem',
