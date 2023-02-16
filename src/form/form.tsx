@@ -16,12 +16,19 @@ import { TakeoffInstance, FlexMath } from '../math/math';
 import { useDispatch, useSelector } from 'react-redux';
 import { setMCDU } from '../store/mcdu';
 import { RootState } from '../store/store';
-import { setRunway } from '../store/runway';
+import { setRunway, Runway } from '../store/runway';
 
 const Form = () => {
     const disp = useDispatch();
     const mcduSetting = useSelector((state: RootState) => state.mcdu);
     const runwaySetting = useSelector((state: RootState) => state.runway);
+    const [runwayStateDispatcher, setRunwayStateDispatcher] = useState({
+        heading: 0,
+        length: 0,
+        asd: 0,
+        true: '0',
+        wind: 0,
+    }:Runway);
     const [weightChk, setWeightChk] = useState('kgs');
     const [runways, setRunways] = useState([
         { value: '', heading: '', elevation: '', length: '' },
@@ -172,17 +179,17 @@ const Form = () => {
             settings.isMeters,
             settings.runwayCondition
         );
-        disp(
-            setRunway({
-                ...runwaySetting,
+        setRunwayStateDispatcher((state) => {
+            return {
+                ...state,
                 heading: settings.runwayHeading,
                 length: FlexMath.parseDist(
                     settings.availRunway,
                     settings.isMeters
                 ),
                 asd: settings.requiredRunway,
-            })
-        );
+            }
+        });
         disp(
             setMCDU({
                 ...mcduSetting,
@@ -202,12 +209,12 @@ const Form = () => {
         changeSettings('runwayHeading', parseInt(rw.heading));
         changeSettings('availRunway', parseInt(rw.length));
         changeSettings('isMeters', false);
-        disp(
-            setRunway({
-                ...runwaySetting,
+        setRunwayStateDispatcher((state) => {
+            return {
+                ...state,
                 true: e.target.value,
-            })
-        );
+            }
+        });
         disp(
             setMCDU({
                 ...mcduSetting,
@@ -297,6 +304,18 @@ const Form = () => {
         changeSettings('packs', (e.target as HTMLInputElement).checked);
     };
 
+    useEffect(() => {
+        disp(
+            setRunway({
+                heading: runwayStateDispatcher.heading,
+                length: runwayStateDispatcher.length,
+                asd: runwayStateDispatcher.asd,
+                true: runwayStateDispatcher.true,
+                wind: runwayStateDispatcher.wind,
+            })
+        );
+    }, [runwayStateDispatcher]);
+    
     useEffect(() => {
         //todo: apply metar elements to takeoffInstance settings
         changeSettings('windHeading', metar.wind.degrees);
