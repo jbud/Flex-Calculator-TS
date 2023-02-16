@@ -354,6 +354,7 @@ const Form = () => {
             sx={{
                 '& .MuiTextField-root': { m: 1, width: '25ch' },
                 m: '8px',
+                max-width: '30vw',
             }}
             noValidate
             autoComplete="off"
