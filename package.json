@@ -4,7 +4,6 @@
     "private": true,
     "homepage": ".",
     "dependencies": {
-        "@emotion/react": "^11.10.5",
         "@emotion/styled": "^11.10.5",
         "@flybywiresim/api-client": "^0.16.2",
         "@mui/material": "^5.11.8",

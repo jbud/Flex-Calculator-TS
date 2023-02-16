@@ -1,9 +1,11 @@
 import { configureStore } from '@reduxjs/toolkit';
 import mcduReducer from './mcdu';
+import runwayReducer from './runway';
 
 export const store = configureStore({
     reducer: {
         mcdu: mcduReducer,
+        runway: runwayReducer,
     },
 });
 

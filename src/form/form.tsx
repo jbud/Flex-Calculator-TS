@@ -16,10 +16,12 @@ import { TakeoffInstance, FlexMath } from '../math/math';
 import { useDispatch, useSelector } from 'react-redux';
 import { setMCDU } from '../store/mcdu';
 import { RootState } from '../store/store';
+import { setRunway } from '../store/runway';
 
 const Form = () => {
     const disp = useDispatch();
     const mcduSetting = useSelector((state: RootState) => state.mcdu);
+    const runwaySetting = useSelector((state: RootState) => state.runway);
     const [weightChk, setWeightChk] = useState('kgs');
     const [runways, setRunways] = useState([
         { value: '', heading: '', elevation: '', length: '' },
@@ -129,6 +131,12 @@ const Form = () => {
                     temperature:
                         mtar.temperature !== undefined ? mtar.temperature : 0,
                 });
+                disp(
+                    setRunway({
+                        ...runwaySetting,
+                        wind: windH,
+                    })
+                );
                 setFormValidation((valid) => {
                     return {
                         ...valid,
@@ -165,6 +173,17 @@ const Form = () => {
             settings.runwayCondition
         );
         disp(
+            setRunway({
+                ...runwaySetting,
+                heading: settings.runwayHeading,
+                length: FlexMath.parseDist(
+                    settings.availRunway,
+                    settings.isMeters
+                ),
+                asd: settings.requiredRunway,
+            })
+        );
+        disp(
             setMCDU({
                 ...mcduSetting,
                 flex: ret.flex,
@@ -184,6 +203,12 @@ const Form = () => {
         changeSettings('availRunway', parseInt(rw.length));
         changeSettings('isMeters', false);
         disp(
+            setRunway({
+                ...runwaySetting,
+                true: e.target.value,
+            })
+        );
+        disp(
             setMCDU({
                 ...mcduSetting,
                 rw: e.target.value,
@@ -196,7 +221,7 @@ const Form = () => {
         const minTowk = 40000;
         let w = parseInt(e.target.value);
         const weightValidation = FlexMath.parseWeight(w, settings.isKG);
-        const error = (weightValidation > MTOWK || weightValidation < minTowk);
+        const error = weightValidation > MTOWk || weightValidation < minTowk;
         setFormValidation((valid) => {
             return {
                 ...valid,
@@ -224,7 +249,7 @@ const Form = () => {
             TrimMax: 3.8,
         };
         const cg = Number(e.target.value);
-        const error = (cg < cg320.CGMin || cg > cg320.CGMax)
+        const error = cg < cg320.CGMin || cg > cg320.CGMax;
         setFormValidation((valid) => {
             return {
                 ...valid,
