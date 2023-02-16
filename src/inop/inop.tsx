@@ -5,10 +5,11 @@ const INOP = () => {
         <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 196.529 155.253"
-            width="196.529"
-            height="155.253"
+            width="100%"
+            height="100%"
+            transform="translate(-30 -10) scale(0.5, 0.5)"
         >
-            <g transform="scale(0.3, 0.3)">
+            <g>
                 <rect
                     x="6.379"
                     y="6.148"

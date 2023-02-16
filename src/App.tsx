@@ -24,7 +24,6 @@ export const test = () => {
 function App() {
     const runwaySetting = useSelector((state: RootState) => state.runway);
     const [len, setLen] = useState(0);
-    const [dist, setDist] = useState(0);
     const [wind, setWind] = useState(0);
     const [heading, setHeading] = useState('0');
     const [windSpeed, setwindSpeed] = useState(0);
@@ -33,8 +32,9 @@ function App() {
     >([]);
 
     useEffect(() => {
-        setLen(runwaySetting.length ? runwaySetting.length : 0);
-        setDist(runwaySetting.asd ? runwaySetting.asd : 0);
+        const l = runwaySetting.length ? runwaySetting.length : 0;
+        setLen(l);
+        const d = runwaySetting.asd ? runwaySetting.asd : 0;
         setWind(runwaySetting.wind ? runwaySetting.wind : 0);
         const headingHasLetter = RegExp(/[A-Z]/g).test(
             runwaySetting.true ? runwaySetting.true : ''
@@ -43,21 +43,26 @@ function App() {
             ? runwaySetting.true?.slice(0, -1)
             : runwaySetting.true;
         setHeading(h ? h : '0');
-        setwindSpeed(parseInt(heading ? heading : '0') * 10 - wind + 90);
+        setwindSpeed(
+            parseInt(
+                runwaySetting.windSpeed
+                    ? runwaySetting.windSpeed.toString()
+                    : '0'
+            )
+        );
 
         setRunwayVisualizationLabels([
             {
-                distance: dist,
+                distance: d,
                 label: 'ASD',
                 type: 1,
             },
             {
-                distance: len - dist,
+                distance: l - d,
                 label: 'Stop Margin',
                 type: 2,
             },
         ]);
-        console.table(runwaySetting);
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [runwaySetting]);
     return (

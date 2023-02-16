@@ -1,5 +1,5 @@
 import { Box, TextField } from '@mui/material';
-import INOP from '../inop/inop';
+// import INOP from '../inop/inop';
 import Windsock from './windsock';
 
 interface Crosswind {
@@ -46,10 +46,11 @@ const CrosswindCalc = ({
     const xwind_comp =
         Math.round(sigfig * windspeed * Math.sin(thetarad)) / sigfig;
 
-    const message = `Wind: ${windir}°\n
-    Parallel: ${parallel_comp} kts\n
-    Crosswind: ${xwind_comp} kts\n
-    Theta: ${thetadeg}°`;
+    const parallel = thetadeg < 180 ? 'Headwind' : 'Tailwind';
+    const message = `Wind:\n 
+    ${windir}° @ ${windspeed}kts\n
+    ${parallel}: ${parallel_comp} kts\n
+    Crosswind: ${xwind_comp} kts\n`;
 
     return (
         <Box
@@ -83,7 +84,7 @@ const CrosswindCalc = ({
                         disabled
                         value={message}
                     />
-                    <INOP />
+                    {/* <INOP /> */}
                 </Box>
             </Box>
         </Box>

@@ -126,11 +126,11 @@ const RunwayVisualizationWidget = ({
                     const showBelow = label.label === 'Stop Margin';
                     const col = isLabelOverDistance(label) ? 'white' : 'red';
                     const colb = isLabelOverDistance(label) ? 'green' : 'red';
-                    const lab = label.label ? 0 : 0.8;
+                    const lab = label.distance > 0 ? 0.9 : 0;
                     const tx =
-                        bottomPercentage < 95 && !showBelow
-                            ? 'translateY(100%)'
-                            : 'translateY(50%)';
+                        bottomPercentage > 85 && !showBelow
+                            ? 'translateY(100px)'
+                            : 'translateY(30%)';
                     return (
                         <Box
                             sx={{
@@ -185,17 +185,54 @@ const RunwayVisualizationWidget = ({
                 marginLeft: '0.375rem',
             }}
         >
-            {[...Array(6)].map((_, i) => (
-                <Box
-                    key={i}
-                    sx={{
-                        width: '0.375rem',
-                        height: '3rem',
-                        backgroundColor: 'white',
-                        m: '1.5px',
-                    }}
-                />
-            ))}
+            <Box
+                sx={{
+                    width: '0.375rem',
+                    height: '3rem',
+                    backgroundColor: 'white',
+                    m: '1.5px',
+                }}
+            />
+            <Box
+                sx={{
+                    width: '0.375rem',
+                    height: '3rem',
+                    backgroundColor: 'white',
+                    m: '1.5px',
+                }}
+            />
+            <Box
+                sx={{
+                    width: '0.375rem',
+                    height: '3rem',
+                    backgroundColor: 'white',
+                    m: '1.5px',
+                }}
+            />
+            <Box
+                sx={{
+                    width: '0.375rem',
+                    height: '3rem',
+                    backgroundColor: 'white',
+                    m: '1.5px',
+                }}
+            />
+            <Box
+                sx={{
+                    width: '0.375rem',
+                    height: '3rem',
+                    backgroundColor: 'white',
+                    m: '1.5px',
+                }}
+            />
+            <Box
+                sx={{
+                    width: '0.375rem',
+                    height: '3rem',
+                    backgroundColor: 'white',
+                    m: '1.5px',
+                }}
+            />
         </Box>
     );
 
@@ -304,19 +341,96 @@ const RunwayVisualizationWidget = ({
                                 height: '100%',
                             }}
                         >
-                            {[...Array(9)].map((_, i) => (
-                                <Box
-                                    key={i}
-                                    sx={{
-                                        width: '0.25rem',
-                                        height: '2rem',
-                                        backgroundColor: 'white',
-                                        display: 'flex',
-                                        flexDirection: 'row',
-                                        justifyContent: 'space-between',
-                                    }}
-                                />
-                            ))}
+                            <Box
+                                sx={{
+                                    width: '0.25rem',
+                                    height: '2rem',
+                                    backgroundColor: 'white',
+                                    display: 'flex',
+                                    flexDirection: 'row',
+                                    justifyContent: 'space-between',
+                                }}
+                            />
+                            <Box
+                                sx={{
+                                    width: '0.25rem',
+                                    height: '2rem',
+                                    backgroundColor: 'white',
+                                    display: 'flex',
+                                    flexDirection: 'row',
+                                    justifyContent: 'space-between',
+                                }}
+                            />
+                            <Box
+                                sx={{
+                                    width: '0.25rem',
+                                    height: '2rem',
+                                    backgroundColor: 'white',
+                                    display: 'flex',
+                                    flexDirection: 'row',
+                                    justifyContent: 'space-between',
+                                }}
+                            />
+                            <Box
+                                sx={{
+                                    width: '0.25rem',
+                                    height: '2rem',
+                                    backgroundColor: 'white',
+                                    display: 'flex',
+                                    flexDirection: 'row',
+                                    justifyContent: 'space-between',
+                                }}
+                            />
+                            <Box
+                                sx={{
+                                    width: '0.25rem',
+                                    height: '2rem',
+                                    backgroundColor: 'white',
+                                    display: 'flex',
+                                    flexDirection: 'row',
+                                    justifyContent: 'space-between',
+                                }}
+                            />
+                            <Box
+                                sx={{
+                                    width: '0.25rem',
+                                    height: '2rem',
+                                    backgroundColor: 'white',
+                                    display: 'flex',
+                                    flexDirection: 'row',
+                                    justifyContent: 'space-between',
+                                }}
+                            />
+                            <Box
+                                sx={{
+                                    width: '0.25rem',
+                                    height: '2rem',
+                                    backgroundColor: 'white',
+                                    display: 'flex',
+                                    flexDirection: 'row',
+                                    justifyContent: 'space-between',
+                                }}
+                            />
+                            <Box
+                                sx={{
+                                    width: '0.25rem',
+                                    height: '2rem',
+                                    backgroundColor: 'white',
+                                    display: 'flex',
+                                    flexDirection: 'row',
+                                    justifyContent: 'space-between',
+                                }}
+                            />
+                            <Box
+                                sx={{
+                                    width: '0.25rem',
+                                    height: '2rem',
+                                    backgroundColor: 'white',
+                                    display: 'flex',
+                                    flexDirection: 'row',
+                                    justifyContent: 'space-between',
+                                }}
+                            />
                         </Box>
 
                         <div>

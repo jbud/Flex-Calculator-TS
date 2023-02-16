@@ -334,7 +334,6 @@ const Form = () => {
                 windSpeed: runwayStateDispatcher.windSpeed,
             })
         );
-        console.table(runwayStateDispatcher);
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [runwayStateDispatcher]);
 
@@ -354,7 +353,7 @@ const Form = () => {
             sx={{
                 '& .MuiTextField-root': { m: 1, width: '25ch' },
                 m: '8px',
-                max-width: '30vw',
+                maxWidth: '35ch',
             }}
             noValidate
             autoComplete="off"
@@ -459,8 +458,9 @@ const Form = () => {
                         3
                     </MenuItem>
                 </TextField>
-                <Box display="flex" flexDirection="row">
+                <Box display="flex" flexDirection="row" maxHeight="5rem">
                     <TextField
+                        sx={{ minWidth: '20ch' }}
                         id="outlined-select-rwcond"
                         select
                         required
