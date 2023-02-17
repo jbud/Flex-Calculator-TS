@@ -1,26 +1,25 @@
-import { Box } from '@mui/system';
-import { ThemeProvider, createTheme } from '@mui/material/styles';
-import CssBaseline from '@mui/material/CssBaseline';
-import Form from './form/form';
-import RunwayVisualizationWidget, { DistanceLabel } from './runway/runway';
 import './mcdu/mcdu.css';
 import './App.css';
+import './mcdu/mcduv2.css';
+
+import { useEffect, useState } from 'react';
 import { useSelector } from 'react-redux';
+
+import CssBaseline from '@mui/material/CssBaseline';
+import { createTheme, ThemeProvider } from '@mui/material/styles';
+import { Box } from '@mui/system';
+
+import Form from './form/form';
+import Mcduv2 from './mcdu/mcduv2';
+import RunwayVisualizationWidget, { DistanceLabel } from './runway/runway';
 import { RootState } from './store/store';
 import CrosswindCalc from './wind/crosswind';
-import { useEffect, useState } from 'react';
-import Mcduv2 from './mcdu/mcduv2';
-import './mcdu/mcduv2.css';
 
 const darkTheme = createTheme({
     palette: {
         mode: 'dark',
     },
 });
-
-export const test = () => {
-    console.log('test');
-};
 
 function App() {
     const runwaySetting = useSelector((state: RootState) => state.runway);

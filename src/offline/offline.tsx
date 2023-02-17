@@ -1,25 +1,27 @@
 import React, { useEffect, useState } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
+
 import {
     Box,
     Button,
     Checkbox,
+    Dialog,
+    DialogActions,
+    DialogContent,
+    DialogContentText,
+    DialogTitle,
     FormControlLabel,
     FormGroup,
     MenuItem,
     Radio,
     RadioGroup,
+    TextField,
 } from '@mui/material';
-import TextField from '@mui/material/TextField';
-import Dialog from '@mui/material/Dialog';
-import DialogActions from '@mui/material/DialogActions';
-import DialogContent from '@mui/material/DialogContent';
-import DialogContentText from '@mui/material/DialogContentText';
-import DialogTitle from '@mui/material/DialogTitle';
-import { RootState } from '../store/store';
-import { useDispatch, useSelector } from 'react-redux';
-import { setManual } from '../store/manual';
+
 import INOP from '../inop/inop';
 import { FlexMath } from '../math/math';
+import { setManual } from '../store/manual';
+import { RootState } from '../store/store';
 
 const Offline = () => {
     const disp = useDispatch();

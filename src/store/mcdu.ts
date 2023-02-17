@@ -1,6 +1,8 @@
-import { createSlice } from '@reduxjs/toolkit';
-import type { PayloadAction } from '@reduxjs/toolkit';
 import { decode } from 'html-entities';
+
+import { createSlice } from '@reduxjs/toolkit';
+
+import type { PayloadAction } from '@reduxjs/toolkit';
 
 export type mcduSettings = {
     speedSet: boolean;

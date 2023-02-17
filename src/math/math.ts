@@ -47,7 +47,39 @@ type AircraftConfig = {
     to8k: number;
 };
 
-const takeoff: { [key: string]: any } = {
+type VSpeedsTable = {
+    [flaps: string]: {
+        [Weight: string]: number;
+    };
+};
+
+/* const a380Takeoff: VSpeedsTable = {
+    '1': {},
+    '2': {},
+    '3': {},
+}; */
+/* const a330Takeoff: VSpeedsTable = {
+    '1': {},
+    '2': {},
+    '3': {},
+}; */
+/* const a21nTakeoff: VSpeedsTable = {
+    '1': {},
+    '2': {},
+    '3': {},
+}; */
+/* const a319Takeoff: VSpeedsTable = {
+    '1': {},
+    '2': {},
+    '3': {},
+}; */
+/* const a318Takeoff: VSpeedsTable = {
+    '1': {},
+    '2': {},
+    '3': {},
+}; */
+
+const a20nTakeoff: VSpeedsTable = {
     '1': {
         '40': 126,
         '45': 126,
@@ -59,7 +91,7 @@ const takeoff: { [key: string]: any } = {
         '75': 146,
         '80': 151,
         '85': 155,
-    }, // Conf 1 + F
+    },
     '2': {
         '40': 126,
         '45': 126,
@@ -71,7 +103,7 @@ const takeoff: { [key: string]: any } = {
         '75': 141,
         '80': 146,
         '85': 151,
-    }, // Conf 2
+    },
     '3': {
         '40': 125,
         '45': 125,
@@ -83,8 +115,129 @@ const takeoff: { [key: string]: any } = {
         '75': 136,
         '80': 140,
         '85': 143,
-    }, // Conf 3
+    },
 };
+
+/* const a380: AircraftConfig = {
+    isaInc: 0,
+    vrisa: 0,
+    towt1isa: 0,
+    towt2isa: 0,
+    towt3isa: 0,
+    todist1: 0,
+    todist2: 0,
+    todist3: 0,
+    todist1isa: 0,
+    todist2isa: 0,
+    todist3isa: 0,
+    toaltAdj: 0,
+    tmaxflex: 0,
+    trefaice: 0,
+    engThrust: 0,
+    f1: 0,
+    f2: 0,
+    f3: 0,
+    to2k: 0,
+    to4k: 0,
+    to6k: 0,
+    to8k: 0,
+}; */
+/* const a319: AircraftConfig = {
+    isaInc: 0,
+    vrisa: 0,
+    towt1isa: 0,
+    towt2isa: 0,
+    towt3isa: 0,
+    todist1: 0,
+    todist2: 0,
+    todist3: 0,
+    todist1isa: 0,
+    todist2isa: 0,
+    todist3isa: 0,
+    toaltAdj: 0,
+    tmaxflex: 0,
+    trefaice: 0,
+    engThrust: 0,
+    f1: 0,
+    f2: 0,
+    f3: 0,
+    to2k: 0,
+    to4k: 0,
+    to6k: 0,
+    to8k: 0,
+}; */
+/* const a318: AircraftConfig = {
+    isaInc: 0,
+    vrisa: 0,
+    towt1isa: 0,
+    towt2isa: 0,
+    towt3isa: 0,
+    todist1: 0,
+    todist2: 0,
+    todist3: 0,
+    todist1isa: 0,
+    todist2isa: 0,
+    todist3isa: 0,
+    toaltAdj: 0,
+    tmaxflex: 0,
+    trefaice: 0,
+    engThrust: 0,
+    f1: 0,
+    f2: 0,
+    f3: 0,
+    to2k: 0,
+    to4k: 0,
+    to6k: 0,
+    to8k: 0,
+}; */
+/* const a330: AircraftConfig = {
+    isaInc: 0,
+    vrisa: 0,
+    towt1isa: 0,
+    towt2isa: 0,
+    towt3isa: 0,
+    todist1: 0,
+    todist2: 0,
+    todist3: 0,
+    todist1isa: 0,
+    todist2isa: 0,
+    todist3isa: 0,
+    toaltAdj: 0,
+    tmaxflex: 0,
+    trefaice: 0,
+    engThrust: 0,
+    f1: 0,
+    f2: 0,
+    f3: 0,
+    to2k: 0,
+    to4k: 0,
+    to6k: 0,
+    to8k: 0,
+}; */
+/* const a21n: AircraftConfig = {
+    isaInc: 0,
+    vrisa: 0,
+    towt1isa: 0,
+    towt2isa: 0,
+    towt3isa: 0,
+    todist1: 0,
+    todist2: 0,
+    todist3: 0,
+    todist1isa: 0,
+    todist2isa: 0,
+    todist3isa: 0,
+    toaltAdj: 0,
+    tmaxflex: 0,
+    trefaice: 0,
+    engThrust: 0,
+    f1: 0,
+    f2: 0,
+    f3: 0,
+    to2k: 0,
+    to4k: 0,
+    to6k: 0,
+    to8k: 0,
+}; */
 
 const a20n: AircraftConfig = {
     isaInc: 15,
@@ -340,12 +493,12 @@ export class FlexMath {
     }
 
     static v2Speed(w: number, f: number, a: any) {
-        let v2 = takeoff[f.toString()][FlexMath.round5down(w).toString()];
+        let v2 = a20nTakeoff[f.toString()][FlexMath.round5down(w).toString()];
         if (w < 55) {
             return v2 + FlexMath.f2corr(f, a);
         }
         const v2diff =
-            v2 - takeoff[f.toString()][FlexMath.round5down(w).toString()];
+            v2 - a20nTakeoff[f.toString()][FlexMath.round5down(w).toString()];
         const V2Speed = v2 + Math.ceil((v2diff / 5) * FlexMath.distfrom5(w));
         return V2Speed;
     }

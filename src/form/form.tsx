@@ -1,25 +1,27 @@
+import { parseMetar } from 'metar-taf-parser';
 import React, { useEffect, useState } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
+
+import { Metar } from '@flybywiresim/api-client';
 import {
     Box,
-    TextField,
+    Button,
+    Checkbox,
+    FormControlLabel,
+    FormGroup,
     MenuItem,
     Radio,
     RadioGroup,
-    FormControlLabel,
-    FormGroup,
-    Checkbox,
-    Button,
+    TextField,
 } from '@mui/material';
-import { Metar } from '@flybywiresim/api-client';
-import { parseMetar } from 'metar-taf-parser';
-import { TakeoffInstance, FlexMath } from '../math/math';
-import { useDispatch, useSelector } from 'react-redux';
-import { setMCDU } from '../store/mcdu';
-import { RootState } from '../store/store';
-import { setRunway, Runway } from '../store/runway';
+
 import INOP from '../inop/inop';
+import { FlexMath, TakeoffInstance } from '../math/math';
 import Offline from '../offline/offline';
 import { setManual } from '../store/manual';
+import { setMCDU } from '../store/mcdu';
+import { Runway, setRunway } from '../store/runway';
+import { RootState } from '../store/store';
 
 const Form = () => {
     const disp = useDispatch();

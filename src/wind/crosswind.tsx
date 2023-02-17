@@ -1,4 +1,5 @@
 import { Box, TextField } from '@mui/material';
+
 // import INOP from '../inop/inop';
 import Windsock from './windsock';
 
@@ -76,8 +77,6 @@ const CrosswindCalc = ({
                     noValidate
                     autoComplete="off"
                 >
-                    {/* 90 degree offset because windsock svg points right */}
-                    <Windsock windDirRelative={thetadeg + 90} />
                     <TextField
                         id="outlined-textarea"
                         label="WindMessage"
@@ -86,6 +85,8 @@ const CrosswindCalc = ({
                         disabled
                         value={message}
                     />
+                    {/* 90 degree offset because windsock svg points right */}
+                    <Windsock windDirRelative={thetadeg + 90} />
                     {/* <INOP /> */}
                 </Box>
             </Box>
