@@ -183,13 +183,8 @@ const Offline = () => {
     const handleAltimeterChange = (
         e: React.ChangeEvent<HTMLTextAreaElement>
     ) => {};
-    const handleAltimeterUnitChange = (
-        e: React.ChangeEvent<HTMLInputElement>
-    ) => {
-        setAltimeterUnit(e.target.value === 'hpa' ? 'hpa' : 'inhg');
-    };
 
-    const handleAltimeterUnitChange2 = () => {
+    const handleAltimeterUnitChange = () => {
         setAltimeterUnit((f) => (f === 'inhg' ? 'hpa' : 'inhg'));
     };
     const handleTempChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {};
@@ -299,7 +294,7 @@ const Offline = () => {
                                                 <Button
                                                     variant="outlined"
                                                     onClick={() =>
-                                                        handleAltimeterUnitChange2()
+                                                        handleAltimeterUnitChange()
                                                     }
                                                 >
                                                     {altimeterUnit === 'hpa'
