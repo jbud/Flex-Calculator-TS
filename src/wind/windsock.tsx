@@ -1,22 +1,44 @@
+import { useEffect, useRef, useState } from 'react';
+
 interface WindsockProps {
     windDirRelative: number;
 }
 
 const Windsock = ({ windDirRelative = 0 }: WindsockProps) => {
-    const [wind, setWind] = useState(windDirRelative);
+    const windsock = useRef<SVGSVGElement | null>(null);
+    const [wind, setWind] = useState(0);
 
     useEffect(() => {
-        console.log('animated windsock to', windDirRelative + '°');
-    }, [windDirRelative]);
+        if (windsock.current) {
+            windsock.current.setCurrentTime(0);
+        }
+        setTimeout(() => {
+            setWind(windDirRelative);
+        }, 450);
+    }, [windDirRelative, windsock]);
+
+    const TheAnimation = () => {
+        return (
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from={`${wind} 65 30`}
+                to={`${windDirRelative} 65 30`}
+                dur="0.5s"
+            />
+        );
+    };
 
     return (
         <svg
-            viewBox="0 0 250 250"
-            width="20ch"
+            ref={windsock}
+            viewBox="-40 -40 230 160"
+            width="230"
             xmlns="http://www.w3.org/2000/svg"
         >
             <defs></defs>
-            <g transform={windTransform}>
+            <g transform={`rotate(${wind} 65 30)`}>
+                <TheAnimation />
                 <path
                     style={{
                         stroke: 'rgb(0, 0, 0)',
