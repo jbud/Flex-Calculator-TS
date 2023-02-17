@@ -3,7 +3,12 @@ interface WindsockProps {
 }
 
 const Windsock = ({ windDirRelative = 0 }: WindsockProps) => {
-    const windTransform = `rotate(${windDirRelative} 100 100) translate(50 50)`;
+    const [wind, setWind] = useState(windDirRelative);
+
+    useEffect(() => {
+        console.log('animated windsock to', windDirRelative + '°');
+    }, [windDirRelative]);
+
     return (
         <svg
             viewBox="0 0 250 250"
