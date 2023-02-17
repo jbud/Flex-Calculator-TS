@@ -272,6 +272,14 @@ const Form = () => {
             TrimMin: -2.5,
             TrimMax: 3.8,
         };
+        if (e.target.value.length > 2) {
+            if (e.target.value.includes('.') === false) {
+                e.target.value = (Number(e.target.value) / 10).toFixed(1);
+            }
+        }
+        if (e.target.value.length > 4) {
+            e.target.value = e.target.value.substring(0, 4);
+        }
         const cg = Number(e.target.value);
         const error = cg < cg320.CGMin || cg > cg320.CGMax;
         setFormValidation((valid) => {
@@ -422,6 +430,7 @@ const Form = () => {
                             id="outlined-required"
                             label="Weight"
                             defaultValue=""
+                            type="number"
                             onChange={handleWeightChange}
                         />
                         <RadioGroup
@@ -462,6 +471,7 @@ const Form = () => {
                         required
                         id="outlined-required"
                         label="CG"
+                        type="number"
                         defaultValue=""
                         onChange={handleCGChange}
                     />
@@ -483,7 +493,14 @@ const Form = () => {
                             3
                         </MenuItem>
                     </TextField>
-                    <Box display="flex" flexDirection="row" maxHeight="5rem">
+                    <Box
+                        display="flex"
+                        flexDirection="row"
+                        maxHeight="5rem"
+                        sx={{
+                            m: '0',
+                        }}
+                    >
                         <TextField
                             sx={{ minWidth: '20ch' }}
                             id="outlined-select-rwcond"

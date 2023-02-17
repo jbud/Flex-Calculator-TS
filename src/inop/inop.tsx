@@ -7,7 +7,11 @@ const INOP = () => {
             viewBox="0 0 196.529 155.253"
             width="100%"
             height="100%"
-            transform="translate(-30 -10) scale(0.5, 0.5)"
+            transform="translate(-20) scale(0.5, 0.5)"
+            style={{
+                maxHeight: '8ch',
+                alignItems: 'center',
+            }}
         >
             <g>
                 <rect

@@ -10,10 +10,12 @@ import { useSelector } from 'react-redux';
 import { RootState } from './store/store';
 import CrosswindCalc from './wind/crosswind';
 import { useEffect, useState } from 'react';
+import Mcduv2 from './mcdu/mcduv2';
+import './mcdu/mcduv2.css';
 
 const darkTheme = createTheme({
     palette: {
-        mode: 'dark',
+        mode: 'light',
     },
 });
 
@@ -79,8 +81,8 @@ function App() {
                     marginRight={5}
                 >
                     <Form />
-
-                    <MCDU />
+                    {/* <MCDU /> */}
+                    {<Mcduv2 />}
 
                     <CrosswindCalc
                         rwHeading={parseInt(heading ? heading : '0') * 10}

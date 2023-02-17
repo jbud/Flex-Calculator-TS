@@ -1,17 +1,5 @@
-import React from 'react';
 import { useSelector } from 'react-redux';
 import { RootState } from '../store/store';
-
-/* export type mcduSettings = {
-    speedSet: boolean;
-    v1: number | string | undefined;
-    vr: number | string | undefined;
-    v2: number | string | undefined;
-    flex: number | string | undefined;
-    flaps: number | string | undefined;
-    ths: string | undefined;
-    rw: string | undefined;
-}; */
 
 function Mcduv2() {
     const mcduSettings = useSelector((state: RootState) => state.mcdu);
@@ -25,6 +13,8 @@ function Mcduv2() {
                 height={317}
                 style={{
                     minWidth: '30vw',
+                    userSelect: 'none',
+                    filter: 'drop-shadow(0px 0px 8px rgb(0 0 0))',
                 }}
             >
                 <defs></defs>
@@ -33,12 +23,12 @@ function Mcduv2() {
                     height={317}
                     style={{
                         stroke: 'rgb(0, 0, 0)',
-                        boxShadow: '0px 0px 20px black',
+                        /* boxShadow: '0px 0px 20px black', */
                     }}
                     y={0}
                     x={0}
-                    rx={8.213}
-                    ry={8.213}
+                    rx={10}
+                    ry={10}
                 />
                 <g>
                     <text
@@ -47,32 +37,19 @@ function Mcduv2() {
                             fontFamily: 'HoneywellMCDU',
                             fontSize: '22.7px',
                             whiteSpace: 'pre',
+                            textAnchor: 'middle',
                         }}
-                        x={47.966}
+                        x={185.5}
                         y={27.874}
                     >
-                        {'TAKE OFF RWY'}
-                    </text>
-                    <text
-                        style={{
-                            fill: 'rgb(4, 180, 4)',
-                            fontFamily: 'HoneywellMCDU',
-                            fontSize: '17pt',
-                            whiteSpace: 'pre',
-                        }}
-                        x={171.927}
-                        y={4.463}
-                    >
+                        {'TAKE OFF RWY '}
                         <tspan
-                            x={230.04}
-                            y={27.771}
                             style={{
-                                fontSize: 23,
                                 wordSpacing: 0,
+                                fill: 'rgb(4, 180, 4)',
                             }}
                         >
                             {mcduSettings.rw}
-                            {/* {'  31C'} */}
                         </tspan>
                     </text>
                 </g>
@@ -83,9 +60,8 @@ function Mcduv2() {
                         fontSize: '12pt',
                         whiteSpace: 'pre',
                     }}
-                    transform="matrix(1, 0, 0, 1, -67.971497, 85.74012)"
                 >
-                    <tspan x={110.546} y={-27.619}>
+                    <tspan x={'3ch'} y={58}>
                         {'V1'}
                     </tspan>
                 </text>
@@ -96,9 +72,8 @@ function Mcduv2() {
                         fontSize: '12pt',
                         whiteSpace: 'pre',
                     }}
-                    transform="matrix(1, 0, 0, 1, -69.446518, 131.065125)"
                 >
-                    <tspan x={110.546} y={-27.619}>
+                    <tspan x={'3ch'} y={103}>
                         {'VR'}
                     </tspan>
                 </text>
@@ -109,44 +84,55 @@ function Mcduv2() {
                         fontSize: '12pt',
                         whiteSpace: 'pre',
                     }}
-                    transform="matrix(1, 0, 0, 1, -68.67099, 176.390121)"
                 >
-                    <tspan x={110.546} y={-27.619}>
+                    <tspan x={'3ch'} y={148}>
                         {'V2'}
                     </tspan>
                 </text>
                 <text
                     style={{
-                        fill: 'rgb(254, 154, 46)',
+                        fill: `${
+                            mcduSettings.speedSet
+                                ? 'rgb(46, 204, 250)'
+                                : 'rgb(254, 154, 46)'
+                        }`,
                         fontFamily: 'HoneywellMCDU',
                         fontSize: '18.7px',
                         whiteSpace: 'pre',
                     }}
-                    x={22.25}
+                    x={'1ch'}
                     y={78.084}
                 >
                     {mcduSettings.v1}
                 </text>
                 <text
                     style={{
-                        fill: 'rgb(254, 154, 46)',
+                        fill: `${
+                            mcduSettings.speedSet
+                                ? 'rgb(46, 204, 250)'
+                                : 'rgb(254, 154, 46)'
+                        }`,
                         fontFamily: 'HoneywellMCDU',
                         fontSize: '18.7px',
                         whiteSpace: 'pre',
                     }}
-                    x={22.081}
+                    x={'1ch'}
                     y={123.409}
                 >
                     {mcduSettings.vr}
                 </text>
                 <text
                     style={{
-                        fill: 'rgb(254, 154, 46)',
+                        fill: `${
+                            mcduSettings.speedSet
+                                ? 'rgb(46, 204, 250)'
+                                : 'rgb(254, 154, 46)'
+                        }`,
                         fontFamily: 'HoneywellMCDU',
                         fontSize: '18.7px',
                         whiteSpace: 'pre',
                     }}
-                    x={21.583}
+                    x={'1ch'}
                     y={168.207}
                 >
                     {mcduSettings.v2}
@@ -159,7 +145,7 @@ function Mcduv2() {
                         whiteSpace: 'pre',
                     }}
                     y={194.074}
-                    x={16.756}
+                    x={'1ch'}
                 >
                     {'TRANS ALT'}
                 </text>
@@ -169,10 +155,10 @@ function Mcduv2() {
                         fontFamily: 'HoneywellMCDUSmall',
                         fontSize: '12pt',
                         whiteSpace: 'pre',
+                        textAnchor: 'start',
                     }}
-                    transform="matrix(1, 0, 0, 1, -93.878143, 267.017944)"
                 >
-                    <tspan x={110.546} y={-27.619}>
+                    <tspan x={'1ch'} y={240}>
                         {'THR RED/ACC'}
                     </tspan>
                 </text>
@@ -183,7 +169,7 @@ function Mcduv2() {
                         fontSize: 16,
                         whiteSpace: 'pre',
                     }}
-                    x={28.98}
+                    x={'2ch'}
                     y={284.711}
                 >
                     {'UPLINK'}
@@ -195,7 +181,7 @@ function Mcduv2() {
                         fontSize: '18.7px',
                         whiteSpace: 'pre',
                     }}
-                    x={15.661}
+                    x={'1ch'}
                     y={304.96}
                 >
                     {'<TO DATA'}
@@ -239,7 +225,7 @@ function Mcduv2() {
                 </text>
                 <text
                     style={{
-                        fill: 'rgb(255, 255, 255)',
+                        fill: 'rgb(255, 255, 255)', //rgb(4, 180, 4)
                         fontFamily: 'HoneywellMCDU',
                         fontSize: '18.7px',
                         whiteSpace: 'pre',
@@ -247,7 +233,16 @@ function Mcduv2() {
                     x={142.123}
                     y={86.736}
                 >
-                    {'F=---'}
+                    <tspan>{`F=`}</tspan>
+                    <tspan
+                        style={{
+                            fill: `${
+                                mcduSettings.speedSet
+                                    ? 'rgb(4, 180, 4)'
+                                    : 'rgb(255, 255, 255)'
+                            }`,
+                        }}
+                    >{`${mcduSettings.speedSet ? 'XXX' : '---'}`}</tspan>
                 </text>
                 <text
                     style={{
@@ -271,7 +266,16 @@ function Mcduv2() {
                     x={142.379}
                     y={132.061}
                 >
-                    {'S=---'}
+                    <tspan>{`S=`}</tspan>
+                    <tspan
+                        style={{
+                            fill: `${
+                                mcduSettings.speedSet
+                                    ? 'rgb(4, 180, 4)'
+                                    : 'rgb(255, 255, 255)'
+                            }`,
+                        }}
+                    >{`${mcduSettings.speedSet ? 'XXX' : '---'}`}</tspan>
                 </text>
                 <text
                     style={{
@@ -295,7 +299,16 @@ function Mcduv2() {
                     x={142.177}
                     y={177.321}
                 >
-                    {'O=---'}
+                    <tspan>{`O=`}</tspan>
+                    <tspan
+                        style={{
+                            fill: `${
+                                mcduSettings.speedSet
+                                    ? 'rgb(4, 180, 4)'
+                                    : 'rgb(255, 255, 255)'
+                            }`,
+                        }}
+                    >{`${mcduSettings.speedSet ? 'XXX' : '---'}`}</tspan>
                 </text>
                 <text
                     style={{
@@ -342,8 +355,9 @@ function Mcduv2() {
                         fontFamily: 'HoneywellMCDU',
                         fontSize: 17,
                         whiteSpace: 'pre',
+                        textAnchor: 'end',
                     }}
-                    x={308.92}
+                    x={371}
                     y={212.898}
                 >
                     {`${mcduSettings.flex}\xB0`}
@@ -367,8 +381,9 @@ function Mcduv2() {
                         fontFamily: 'HoneywellMCDU',
                         fontSize: 17,
                         whiteSpace: 'pre',
+                        textAnchor: 'end',
                     }}
-                    x={296.682}
+                    x={371}
                     y={167.166}
                 >
                     {`${mcduSettings.flaps}/${mcduSettings.ths}`}

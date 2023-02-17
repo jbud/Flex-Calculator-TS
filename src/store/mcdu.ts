@@ -18,7 +18,7 @@ const defaultState: mcduSettings = {
     v1: decode('&#95;&#95;&#95;'),
     vr: decode('&#95;&#95;&#95;'),
     v2: decode('&#95;&#95;&#95;'),
-    flex: decode('[]'),
+    flex: decode('[&nbsp;&nbsp;]'),
     flaps: decode('[]'),
     ths: decode('[&nbsp;]'),
     rw: decode(''),
