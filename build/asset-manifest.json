@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.446efbae.css",
-    "main.js": "./static/js/main.d09ea69d.js",
-    "static/js/787.56e263fd.chunk.js": "./static/js/787.56e263fd.chunk.js",
+    "main.css": "./static/css/main.3c4437d1.css",
+    "main.js": "./static/js/main.bb98b3da.js",
     "static/media/HoneywellMCDUSmall.ttf": "./static/media/HoneywellMCDUSmall.2a6861dbcabcddb5aa11.ttf",
     "static/media/HoneywellMCDU.ttf": "./static/media/HoneywellMCDU.5f9ac2fd5ad48d947f1c.ttf",
     "index.html": "./index.html",
-    "main.446efbae.css.map": "./static/css/main.446efbae.css.map",
-    "main.d09ea69d.js.map": "./static/js/main.d09ea69d.js.map",
-    "787.56e263fd.chunk.js.map": "./static/js/787.56e263fd.chunk.js.map"
+    "main.3c4437d1.css.map": "./static/css/main.3c4437d1.css.map",
+    "main.bb98b3da.js.map": "./static/js/main.bb98b3da.js.map"
   },
   "entrypoints": [
-    "static/css/main.446efbae.css",
-    "static/js/main.d09ea69d.js"
+    "static/css/main.3c4437d1.css",
+    "static/js/main.bb98b3da.js"
   ]
 }
