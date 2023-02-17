@@ -2,7 +2,6 @@ import { Box } from '@mui/system';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import Form from './form/form';
-import MCDU from './mcdu/mcdu';
 import RunwayVisualizationWidget, { DistanceLabel } from './runway/runway';
 import './mcdu/mcdu.css';
 import './App.css';
