@@ -73,11 +73,13 @@ function App() {
                     display="flex"
                     sx={{
                         height: '80vh',
+                        pt: 2,
                     }}
                     justifyContent="space-between"
                     marginRight={5}
                 >
                     <Form />
+
                     <MCDU />
 
                     <CrosswindCalc

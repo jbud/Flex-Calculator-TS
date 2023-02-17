@@ -24,6 +24,7 @@
     padding-right: 4px;
     padding-bottom: 8px;
     top: 0%;
+    min-width: 375px;
 }
 
 .small {

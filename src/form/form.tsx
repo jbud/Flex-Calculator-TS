@@ -18,6 +18,8 @@ import { setMCDU } from '../store/mcdu';
 import { RootState } from '../store/store';
 import { setRunway, Runway } from '../store/runway';
 import INOP from '../inop/inop';
+import Offline from '../offline/offline';
+import { setManual } from '../store/manual';
 
 const Form = () => {
     const disp = useDispatch();
@@ -42,7 +44,6 @@ const Form = () => {
         weight: false,
         CG: false,
     });
-
     const [tick, setTick] = useState<NodeJS.Timeout | undefined>(undefined);
     const [metar, setMetar] = useState({
         message: 'Select an ICAO to populate METAR and Runways',
@@ -323,6 +324,14 @@ const Form = () => {
         e.target.value = e.target.value.toUpperCase();
     };
 
+    const handleClickManual = () => {
+        disp(
+            setManual({
+                dialogOpen: true,
+            })
+        );
+    };
+
     useEffect(() => {
         disp(
             setRunway({
@@ -348,158 +357,174 @@ const Form = () => {
     }, [metar]);
 
     return (
-        <Box
-            component="form"
-            sx={{
-                '& .MuiTextField-root': { m: 1, width: '25ch' },
-                m: '8px',
-                maxWidth: '35ch',
-            }}
-            noValidate
-            autoComplete="off"
-        >
-            <Box display="flex" flexDirection="column">
-                <TextField
-                    error={formValidation.ICAO}
-                    required
-                    id="outlined-required-icao"
-                    label="ICAO"
-                    onChange={handleICAOChange}
-                    onBlur={handleApi}
-                />
-                <TextField
-                    id="outlined-textarea"
-                    label="METAR"
-                    placeholder="Select an ICAO to populate METAR and Runways"
-                    multiline
-                    disabled
-                    value={metar.message !== undefined ? metar.message : ''}
-                />
-                <TextField
-                    id="outlined-select-runway"
-                    select
-                    required
-                    label="Select a runway"
-                    defaultValue=""
-                    disabled={rwDisabled}
-                    onChange={handleRunwayChange}
-                >
-                    {runways.map((option) => (
-                        <MenuItem key={option.value} value={option.value}>
-                            {option.value}
-                        </MenuItem>
-                    ))}
-                </TextField>
-                <Box display="flex" flexDirection="row">
-                    <TextField
-                        error={formValidation.weight}
-                        required
-                        id="outlined-required"
-                        label="Weight"
-                        defaultValue=""
-                        onChange={handleWeightChange}
-                    />
-                    <RadioGroup
-                        aria-labelledby="demo-controlled-radio-buttons-group"
-                        name="controlled-radio-buttons-group"
-                        value={weightUnit}
-                        onChange={handleChangeWeightUnit}
-                        sx={{
-                            display: 'flex',
-                            flexDirection: 'column',
-                        }}
+        <>
+            <Offline />
+            <Box
+                component="form"
+                sx={{
+                    '& .MuiTextField-root': { m: 1, width: '25ch' },
+                    m: '8px',
+                    maxWidth: '35ch',
+                }}
+                noValidate
+                autoComplete="off"
+            >
+                <Box display="flex" flexDirection="column">
+                    <Box
+                        display="flex"
+                        flexDirection="row"
+                        sx={{ verticalAlign: 'center' }}
                     >
-                        <FormControlLabel
-                            value="kgs"
-                            control={
-                                <Radio
-                                    size="small"
-                                    checked={weightChk === 'kgs'}
-                                />
-                            }
-                            label="KGS"
+                        <TextField
+                            error={formValidation.ICAO}
+                            required
+                            id="outlined-required-icao"
+                            label="ICAO"
+                            onChange={handleICAOChange}
+                            onBlur={handleApi}
                         />
-                        <FormControlLabel
-                            value="lbs"
-                            control={
-                                <Radio
-                                    size="small"
-                                    checked={weightChk === 'lbs'}
-                                />
-                            }
-                            label="LBS"
-                        />
-                    </RadioGroup>
-                </Box>
-
-                <TextField
-                    error={formValidation.CG}
-                    required
-                    id="outlined-required"
-                    label="CG"
-                    defaultValue=""
-                    onChange={handleCGChange}
-                />
-                <TextField
-                    required
-                    id="outlined-select-flaps"
-                    select
-                    label="Flaps Conf"
-                    defaultValue=""
-                    onChange={handleFlapsChange}
-                >
-                    <MenuItem key="1" value="1">
-                        1+F
-                    </MenuItem>
-                    <MenuItem key="2" value="2">
-                        2
-                    </MenuItem>
-                    <MenuItem key="3" value="3">
-                        3
-                    </MenuItem>
-                </TextField>
-                <Box display="flex" flexDirection="row" maxHeight="5rem">
+                        <Button
+                            sx={{ height: '2rem', p: '0.5rem', mt: '1.25rem' }}
+                            variant="outlined"
+                            onClick={handleClickManual}
+                        >
+                            Manual
+                        </Button>
+                    </Box>
                     <TextField
-                        sx={{ minWidth: '20ch' }}
-                        id="outlined-select-rwcond"
+                        id="outlined-textarea"
+                        label="METAR"
+                        placeholder="Select an ICAO to populate METAR and Runways"
+                        multiline
+                        disabled
+                        value={metar.message !== undefined ? metar.message : ''}
+                    />
+                    <TextField
+                        id="outlined-select-runway"
                         select
                         required
-                        label="Runway Cond"
+                        label="Select a runway"
                         defaultValue=""
-                        onChange={handleRwCondChange}
+                        disabled={rwDisabled}
+                        onChange={handleRunwayChange}
+                    >
+                        {runways.map((option) => (
+                            <MenuItem key={option.value} value={option.value}>
+                                {option.value}
+                            </MenuItem>
+                        ))}
+                    </TextField>
+                    <Box display="flex" flexDirection="row">
+                        <TextField
+                            error={formValidation.weight}
+                            required
+                            id="outlined-required"
+                            label="Weight"
+                            defaultValue=""
+                            onChange={handleWeightChange}
+                        />
+                        <RadioGroup
+                            aria-labelledby="demo-controlled-radio-buttons-group"
+                            name="controlled-radio-buttons-group"
+                            value={weightUnit}
+                            onChange={handleChangeWeightUnit}
+                            sx={{
+                                display: 'flex',
+                                flexDirection: 'column',
+                            }}
+                        >
+                            <FormControlLabel
+                                value="kgs"
+                                control={
+                                    <Radio
+                                        size="small"
+                                        checked={weightChk === 'kgs'}
+                                    />
+                                }
+                                label="KGS"
+                            />
+                            <FormControlLabel
+                                value="lbs"
+                                control={
+                                    <Radio
+                                        size="small"
+                                        checked={weightChk === 'lbs'}
+                                    />
+                                }
+                                label="LBS"
+                            />
+                        </RadioGroup>
+                    </Box>
+
+                    <TextField
+                        error={formValidation.CG}
+                        required
+                        id="outlined-required"
+                        label="CG"
+                        defaultValue=""
+                        onChange={handleCGChange}
+                    />
+                    <TextField
+                        required
+                        id="outlined-select-flaps"
+                        select
+                        label="Flaps Conf"
+                        defaultValue=""
+                        onChange={handleFlapsChange}
                     >
                         <MenuItem key="1" value="1">
-                            Dry
+                            1+F
                         </MenuItem>
                         <MenuItem key="2" value="2">
-                            Wet
+                            2
+                        </MenuItem>
+                        <MenuItem key="3" value="3">
+                            3
                         </MenuItem>
                     </TextField>
-                    <INOP />
+                    <Box display="flex" flexDirection="row" maxHeight="5rem">
+                        <TextField
+                            sx={{ minWidth: '20ch' }}
+                            id="outlined-select-rwcond"
+                            select
+                            required
+                            label="Runway Cond"
+                            defaultValue=""
+                            onChange={handleRwCondChange}
+                        >
+                            <MenuItem key="1" value="1">
+                                Dry
+                            </MenuItem>
+                            <MenuItem key="2" value="2">
+                                Wet
+                            </MenuItem>
+                        </TextField>
+                        <INOP />
+                    </Box>
+                    <FormGroup>
+                        <FormControlLabel
+                            control={<Checkbox defaultChecked />}
+                            label="Anti-Ice On"
+                            id="antiice"
+                            onChange={handleAiceChange}
+                        />
+                        <FormControlLabel
+                            control={<Checkbox />}
+                            label="AC On"
+                            id="packs"
+                            onChange={handlePacksChange}
+                        />
+                    </FormGroup>
+                    <Button
+                        variant="outlined"
+                        disabled={calculateDisabled}
+                        onClick={handleCalculate}
+                    >
+                        Calculate
+                    </Button>
                 </Box>
-                <FormGroup>
-                    <FormControlLabel
-                        control={<Checkbox defaultChecked />}
-                        label="Anti-Ice On"
-                        id="antiice"
-                        onChange={handleAiceChange}
-                    />
-                    <FormControlLabel
-                        control={<Checkbox />}
-                        label="AC On"
-                        id="packs"
-                        onChange={handlePacksChange}
-                    />
-                </FormGroup>
-                <Button
-                    variant="outlined"
-                    disabled={calculateDisabled}
-                    onClick={handleCalculate}
-                >
-                    Calculate
-                </Button>
             </Box>
-        </Box>
+        </>
     );
 };
 
