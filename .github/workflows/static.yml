@@ -28,14 +28,14 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+      - name: Deploy React to GitHub Pages
+        # You may pin to the exact commit or the version.
+        # uses: bitovi/github-actions-react-to-ghp@1782b3410beca05fb72bd089e5620790c0c4d883
+        uses: bitovi/github-actions-react-to-ghp@v1.2.0
         with:
-          path: './build'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
+          # Specifies if this action should checkout the code
+          checkout: true
+          # Specifies the path of the static assets after building
+          path: dist
+          # Specifies the command to run after npm ci for the build
+          build_command: npm run build
