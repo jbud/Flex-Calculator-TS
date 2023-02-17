@@ -1,6 +1,21 @@
 import React from 'react';
+import { useSelector } from 'react-redux';
+import { RootState } from '../store/store';
+
+/* export type mcduSettings = {
+    speedSet: boolean;
+    v1: number | string | undefined;
+    vr: number | string | undefined;
+    v2: number | string | undefined;
+    flex: number | string | undefined;
+    flaps: number | string | undefined;
+    ths: string | undefined;
+    rw: string | undefined;
+}; */
 
 function Mcduv2() {
+    const mcduSettings = useSelector((state: RootState) => state.mcdu);
+
     return (
         <>
             <svg
@@ -9,7 +24,7 @@ function Mcduv2() {
                 width={371}
                 height={317}
                 style={{
-                    backgroundColor: '#000',
+                    minWidth: '30vw',
                 }}
             >
                 <defs></defs>
@@ -18,6 +33,7 @@ function Mcduv2() {
                     height={317}
                     style={{
                         stroke: 'rgb(0, 0, 0)',
+                        boxShadow: '0px 0px 20px black',
                     }}
                     y={0}
                     x={0}
@@ -55,7 +71,8 @@ function Mcduv2() {
                                 wordSpacing: 0,
                             }}
                         >
-                            {'  31C'}
+                            {mcduSettings.rw}
+                            {/* {'  31C'} */}
                         </tspan>
                     </text>
                 </g>
@@ -71,9 +88,6 @@ function Mcduv2() {
                     <tspan x={110.546} y={-27.619}>
                         {'V1'}
                     </tspan>
-                    <tspan x={110.546} dy="1em">
-                        {'\u200B'}
-                    </tspan>
                 </text>
                 <text
                     style={{
@@ -86,9 +100,6 @@ function Mcduv2() {
                 >
                     <tspan x={110.546} y={-27.619}>
                         {'VR'}
-                    </tspan>
-                    <tspan x={110.5459976196289} dy="1em">
-                        {'\u200B'}
                     </tspan>
                 </text>
                 <text
@@ -103,9 +114,6 @@ function Mcduv2() {
                     <tspan x={110.546} y={-27.619}>
                         {'V2'}
                     </tspan>
-                    <tspan x={110.5459976196289} dy="1em">
-                        {'\u200B'}
-                    </tspan>
                 </text>
                 <text
                     style={{
@@ -117,7 +125,7 @@ function Mcduv2() {
                     x={22.25}
                     y={78.084}
                 >
-                    {'___'}
+                    {mcduSettings.v1}
                 </text>
                 <text
                     style={{
@@ -129,7 +137,7 @@ function Mcduv2() {
                     x={22.081}
                     y={123.409}
                 >
-                    {'___'}
+                    {mcduSettings.vr}
                 </text>
                 <text
                     style={{
@@ -141,7 +149,7 @@ function Mcduv2() {
                     x={21.583}
                     y={168.207}
                 >
-                    {'___'}
+                    {mcduSettings.v2}
                 </text>
                 <text
                     style={{
@@ -166,9 +174,6 @@ function Mcduv2() {
                 >
                     <tspan x={110.546} y={-27.619}>
                         {'THR RED/ACC'}
-                    </tspan>
-                    <tspan x={110.5459976196289} dy="1em">
-                        {'\u200B'}
                     </tspan>
                 </text>
                 <text
@@ -218,9 +223,6 @@ function Mcduv2() {
                 >
                     <tspan x={110.546} y={-27.619}>
                         {'XXXX/XXXX'}
-                    </tspan>
-                    <tspan x={110.546} dy="1em">
-                        {'\u200B'}
                     </tspan>
                 </text>
                 <text
@@ -307,9 +309,6 @@ function Mcduv2() {
                     <tspan x={110.546} y={-27.619}>
                         {'ENG OUT ACC'}
                     </tspan>
-                    <tspan x={110.5459976196289} dy="1em">
-                        {'\u200B'}
-                    </tspan>
                 </text>
                 <text
                     style={{
@@ -322,9 +321,6 @@ function Mcduv2() {
                 >
                     <tspan x={110.546} y={-27.619}>
                         {'XXXX'}
-                    </tspan>
-                    <tspan x={110.5459976196289} dy="1em">
-                        {'\u200B'}
                     </tspan>
                 </text>
                 <text
@@ -339,9 +335,6 @@ function Mcduv2() {
                     <tspan x={110.546} y={-27.619}>
                         {'FLEX TO TEMP'}
                     </tspan>
-                    <tspan x={110.5459976196289} dy="1em">
-                        {'\u200B'}
-                    </tspan>
                 </text>
                 <text
                     style={{
@@ -353,7 +346,7 @@ function Mcduv2() {
                     x={308.92}
                     y={212.898}
                 >
-                    {'[  ]\xB0'}
+                    {`${mcduSettings.flex}\xB0`}
                 </text>
                 <text
                     style={{
@@ -367,9 +360,6 @@ function Mcduv2() {
                     <tspan x={110.546} y={-27.619}>
                         {'FLAPS/THS'}
                     </tspan>
-                    <tspan x={110.5459976196289} dy="1em">
-                        {'\u200B'}
-                    </tspan>
                 </text>
                 <text
                     style={{
@@ -381,7 +371,7 @@ function Mcduv2() {
                     x={296.682}
                     y={167.166}
                 >
-                    {'[]/[ ]'}
+                    {`${mcduSettings.flaps}/${mcduSettings.ths}`}
                 </text>
                 <text
                     style={{
@@ -394,9 +384,6 @@ function Mcduv2() {
                 >
                     <tspan x={110.546} y={-27.619}>
                         {'TO SHIFT'}
-                    </tspan>
-                    <tspan x={110.5459976196289} dy="1em">
-                        {'\u200B'}
                     </tspan>
                 </text>
                 <text
@@ -422,9 +409,6 @@ function Mcduv2() {
                 >
                     <tspan x={110.546} y={-27.619}>
                         {'[M]'}
-                    </tspan>
-                    <tspan x={110.546} dy="1em">
-                        {'\u200B'}
                     </tspan>
                 </text>
                 <text
