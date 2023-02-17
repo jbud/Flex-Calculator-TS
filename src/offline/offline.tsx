@@ -14,8 +14,6 @@ import {
     FormGroup,
     InputAdornment,
     MenuItem,
-    Radio,
-    RadioGroup,
     TextField,
 } from '@mui/material';
 
@@ -131,10 +129,7 @@ const Offline = () => {
         setTick(newTick);
     };
 
-    const handleChangeWeightUnit = (e: React.ChangeEvent<HTMLInputElement>) => {
-        setWeightUnit(e.target.value === 'kgs' ? 'kg' : 'lb');
-    };
-    const handleChangeWeightUnit2 = () => {
+    const handleChangeWeightUnit = () => {
         setWeightUnit((f) => (f === 'kg' ? 'lb' : 'kg'));
     };
 
@@ -330,7 +325,7 @@ const Offline = () => {
                                                 <Button
                                                     variant="outlined"
                                                     onClick={() =>
-                                                        handleChangeWeightUnit2()
+                                                        handleChangeWeightUnit()
                                                     }
                                                 >
                                                     {weightUnit === 'lb'

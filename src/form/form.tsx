@@ -11,12 +11,10 @@ import {
     FormGroup,
     InputAdornment,
     MenuItem,
-    Radio,
-    RadioGroup,
     TextField,
 } from '@mui/material';
 
-import INOP from '../inop/inop';
+/* import INOP from '../inop/inop'; */
 import { FlexMath, TakeoffInstance } from '../math/math';
 import Offline from '../offline/offline';
 import { setManual } from '../store/manual';
@@ -41,7 +39,6 @@ const Form = () => {
     ]);
     const [rwDisabled, setRWDisabled] = useState(true);
     const [calculateDisabled, setCalculateDisabled] = useState(true);
-    const [weightUnit] = useState('kg');
     const [formValidation, setFormValidation] = useState({
         ICAO: false,
         weight: false,
@@ -263,11 +260,7 @@ const Form = () => {
         setTick(newTick);
     };
 
-    const handleChangeWeightUnit = (e: React.ChangeEvent<HTMLInputElement>) => {
-        setWeightChk(e.target.value);
-        changeSettings('isKG', e.target.value === 'kgs');
-    };
-    const handleChangeWeightUnit2 = () => {
+    const handleChangeWeightUnit = () => {
         setWeightChk((f) => (f === 'lbs' ? 'kgs' : 'lbs'));
     };
 
@@ -440,9 +433,7 @@ const Form = () => {
                                 <InputAdornment position="end">
                                     <Button
                                         variant="outlined"
-                                        onClick={() =>
-                                            handleChangeWeightUnit2()
-                                        }
+                                        onClick={() => handleChangeWeightUnit()}
                                     >
                                         {weightChk}
                                     </Button>
