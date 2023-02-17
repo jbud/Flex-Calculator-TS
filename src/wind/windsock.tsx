@@ -9,7 +9,7 @@ const Windsock = ({ windDirRelative = 0 }: WindsockProps) => {
     return (
         <svg
             viewBox="0 0 250 250"
-            width="250"
+            width="20ch"
             xmlns="http://www.w3.org/2000/svg"
         >
             <defs></defs>

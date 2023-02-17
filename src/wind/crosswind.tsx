@@ -36,15 +36,17 @@ const CrosswindCalc = ({
 
     const thetarad = Math.acos(rwyx * windx + rwyy * windy);
 
-    const thetadeg = Math.round((thetarad * 180) / Math.PI); // Note  that this is rounded to nearest degree here
+    const thetadeg = Math.round((thetarad * 180) / Math.PI);
 
     let sigfig = 100;
 
-    const parallel_comp =
-        Math.round(sigfig * windspeed * Math.cos(thetarad)) / sigfig;
+    const parallel_comp = Math.round(
+        Math.round(sigfig * windspeed * Math.cos(thetarad)) / sigfig
+    );
 
-    const xwind_comp =
-        Math.round(sigfig * windspeed * Math.sin(thetarad)) / sigfig;
+    const xwind_comp = Math.round(
+        Math.round(sigfig * windspeed * Math.sin(thetarad)) / sigfig
+    );
 
     const parallel = thetadeg < 180 ? 'Headwind' : 'Tailwind';
     const message = `Wind:\n 
@@ -69,12 +71,12 @@ const CrosswindCalc = ({
                 <Box
                     component="form"
                     sx={{
-                        '& .MuiTextField-root': { mr: '6rem', width: '30ch' },
-                        m: '8px',
+                        '& .MuiTextField-root': { mr: '6rem', width: '20ch' },
                     }}
                     noValidate
                     autoComplete="off"
                 >
+                    {/* 90 degree offset because windsock svg points right */}
                     <Windsock windDirRelative={thetadeg + 90} />
                     <TextField
                         id="outlined-textarea"

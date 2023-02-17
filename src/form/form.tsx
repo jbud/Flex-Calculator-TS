@@ -193,6 +193,7 @@ const Form = () => {
             settings.flaps,
             settings.runwayAltitude,
             settings.isMeters,
+            settings.isKG,
             settings.runwayCondition
         );
         setRunwayStateDispatcher((state) => {

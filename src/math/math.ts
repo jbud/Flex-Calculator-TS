@@ -366,9 +366,10 @@ export class FlexMath {
         Flaps: number,
         RunwayAlt: number,
         isMeters: boolean,
+        isKG: boolean,
         ASD = 1621
     ) {
-        const w = Weight / 1000;
+        const w = FlexMath.parseWeight(Weight, isKG) / 1000;
         const v2 = FlexMath.v2Speed(w, Flaps, RunwayAlt);
         const vR = FlexMath.vRSpeed(v2);
         const v1 = FlexMath.v1Speed(

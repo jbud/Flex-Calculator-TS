@@ -72,7 +72,7 @@ function App() {
                 <Box
                     display="flex"
                     sx={{
-                        height: '80vh',
+                        height: '95vh',
                         pt: 2,
                     }}
                     justifyContent="space-between"

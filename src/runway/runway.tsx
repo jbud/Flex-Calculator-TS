@@ -241,6 +241,8 @@ const RunwayVisualizationWidget = ({
             sx={{
                 display: 'flex',
                 height: '100%',
+                borderRadius: '20px',
+                boxShadow: '0px 0px 20px black',
             }}
         >
             <Box
