@@ -76,7 +76,6 @@ function App() {
                         pt: 2,
                     }}
                     justifyContent="space-between"
-                    marginRight={5}
                 >
                     <Form />
                     {/* <MCDU /> */}

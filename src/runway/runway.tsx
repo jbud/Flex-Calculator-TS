@@ -242,8 +242,8 @@ const RunwayVisualizationWidget = ({
             sx={{
                 display: 'flex',
                 height: '100%',
-                borderRadius: '20px',
-                boxShadow: '0px 0px 20px black',
+                pt: '1.75rem',
+                pr: '1.5rem',
             }}
         >
             <Box
@@ -252,6 +252,9 @@ const RunwayVisualizationWidget = ({
                     position: 'relative',
                     flexDirection: 'column',
                     height: '100%',
+
+                    borderRadius: '20px',
+                    boxShadow: '0px 0px 20px black',
                 }}
             >
                 <div

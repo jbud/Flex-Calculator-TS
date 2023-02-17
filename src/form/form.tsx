@@ -9,6 +9,7 @@ import {
     Checkbox,
     FormControlLabel,
     FormGroup,
+    InputAdornment,
     MenuItem,
     Radio,
     RadioGroup,
@@ -266,6 +267,13 @@ const Form = () => {
         setWeightChk(e.target.value);
         changeSettings('isKG', e.target.value === 'kgs');
     };
+    const handleChangeWeightUnit2 = () => {
+        setWeightChk((f) => (f === 'lbs' ? 'kgs' : 'lbs'));
+    };
+
+    useEffect(() => {
+        changeSettings('isKG', weightChk === 'kgs');
+    }, [weightChk]);
 
     const handleCGChange = (e: React.ChangeEvent<HTMLInputElement>) => {
         const cg320 = {
@@ -374,8 +382,9 @@ const Form = () => {
                 component="form"
                 sx={{
                     '& .MuiTextField-root': { m: 1, width: '25ch' },
-                    m: '8px',
+                    mx: '8px',
                     maxWidth: '35ch',
+                    pt: '1.5rem',
                 }}
                 noValidate
                 autoComplete="off"
@@ -394,13 +403,6 @@ const Form = () => {
                             onChange={handleICAOChange}
                             onBlur={handleApi}
                         />
-                        <Button
-                            sx={{ height: '2rem', p: '0.5rem', mt: '1.25rem' }}
-                            variant="outlined"
-                            onClick={handleClickManual}
-                        >
-                            Manual
-                        </Button>
                     </Box>
                     <TextField
                         id="outlined-textarea"
@@ -425,48 +427,29 @@ const Form = () => {
                             </MenuItem>
                         ))}
                     </TextField>
-                    <Box display="flex" flexDirection="row">
-                        <TextField
-                            error={formValidation.weight}
-                            required
-                            id="outlined-required"
-                            label="Weight"
-                            defaultValue=""
-                            type="number"
-                            onChange={handleWeightChange}
-                        />
-                        <RadioGroup
-                            aria-labelledby="demo-controlled-radio-buttons-group"
-                            name="controlled-radio-buttons-group"
-                            value={weightUnit}
-                            onChange={handleChangeWeightUnit}
-                            sx={{
-                                display: 'flex',
-                                flexDirection: 'column',
-                            }}
-                        >
-                            <FormControlLabel
-                                value="kgs"
-                                control={
-                                    <Radio
-                                        size="small"
-                                        checked={weightChk === 'kgs'}
-                                    />
-                                }
-                                label="KGS"
-                            />
-                            <FormControlLabel
-                                value="lbs"
-                                control={
-                                    <Radio
-                                        size="small"
-                                        checked={weightChk === 'lbs'}
-                                    />
-                                }
-                                label="LBS"
-                            />
-                        </RadioGroup>
-                    </Box>
+                    <TextField
+                        error={formValidation.weight}
+                        required
+                        id="outlined-required"
+                        label="Weight"
+                        defaultValue=""
+                        type="number"
+                        onChange={handleWeightChange}
+                        InputProps={{
+                            endAdornment: (
+                                <InputAdornment position="end">
+                                    <Button
+                                        variant="outlined"
+                                        onClick={() =>
+                                            handleChangeWeightUnit2()
+                                        }
+                                    >
+                                        {weightChk}
+                                    </Button>
+                                </InputAdornment>
+                            ),
+                        }}
+                    />
 
                     <TextField
                         error={formValidation.CG}
@@ -476,6 +459,13 @@ const Form = () => {
                         type="number"
                         defaultValue=""
                         onChange={handleCGChange}
+                        InputProps={{
+                            endAdornment: (
+                                <InputAdornment position="end">
+                                    %
+                                </InputAdornment>
+                            ),
+                        }}
                     />
                     <TextField
                         required
@@ -519,29 +509,43 @@ const Form = () => {
                                 Wet
                             </MenuItem>
                         </TextField>
-                        <INOP />
+                        {/* <INOP /> */}
                     </Box>
-                    <FormGroup>
+                    <FormGroup
+                        sx={{
+                            pl: '0.5rem',
+                        }}
+                    >
                         <FormControlLabel
-                            control={<Checkbox defaultChecked />}
+                            control={<Checkbox />}
                             label="Anti-Ice On"
                             id="antiice"
                             onChange={handleAiceChange}
                         />
                         <FormControlLabel
-                            control={<Checkbox />}
+                            control={<Checkbox defaultChecked />}
                             label="AC On"
                             id="packs"
                             onChange={handlePacksChange}
                         />
                     </FormGroup>
-                    <Button
-                        variant="outlined"
-                        disabled={calculateDisabled}
-                        onClick={handleCalculate}
+                    <Box
+                        display="flex"
+                        flexDirection="row"
+                        ml="0.5rem"
+                        justifyContent="space-between"
                     >
-                        Calculate
-                    </Button>
+                        <Button variant="outlined" onClick={handleClickManual}>
+                            Manual
+                        </Button>
+                        <Button
+                            variant="outlined"
+                            disabled={calculateDisabled}
+                            onClick={handleCalculate}
+                        >
+                            Calculate
+                        </Button>
+                    </Box>
                 </Box>
             </Box>
         </>

@@ -12,6 +12,7 @@ import {
     DialogTitle,
     FormControlLabel,
     FormGroup,
+    InputAdornment,
     MenuItem,
     Radio,
     RadioGroup,
@@ -133,6 +134,9 @@ const Offline = () => {
     const handleChangeWeightUnit = (e: React.ChangeEvent<HTMLInputElement>) => {
         setWeightUnit(e.target.value === 'kgs' ? 'kg' : 'lb');
     };
+    const handleChangeWeightUnit2 = () => {
+        setWeightUnit((f) => (f === 'kg' ? 'lb' : 'kg'));
+    };
 
     const handleCGChange = (e: React.ChangeEvent<HTMLInputElement>) => {
         const cg320 = {
@@ -189,6 +193,10 @@ const Offline = () => {
     ) => {
         setAltimeterUnit(e.target.value === 'hpa' ? 'hpa' : 'inhg');
     };
+
+    const handleAltimeterUnitChange2 = () => {
+        setAltimeterUnit((f) => (f === 'inhg' ? 'hpa' : 'inhg'));
+    };
     const handleTempChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {};
 
     useEffect(() => {
@@ -213,7 +221,7 @@ const Offline = () => {
                         sx={{
                             '& .MuiTextField-root': { m: 1, width: '35ch' },
                             m: '8px',
-                            maxWidth: '40vw',
+                            maxWidth: '60vw',
                         }}
                         noValidate
                         autoComplete="off"
@@ -246,17 +254,23 @@ const Offline = () => {
                                 ))}
                             </TextField>
                             <Box display="flex" flexDirection="row">
-                                <FormControlLabel
-                                    control={
-                                        <TextField
-                                            required
-                                            id="outlined-required"
-                                            label="Wind Direction"
-                                            defaultValue=""
-                                            onChange={handleWindDirChange}
-                                        />
-                                    }
-                                    label="@"
+                                <TextField
+                                    required
+                                    id="outlined-required-adornment"
+                                    label="Wind Direction"
+                                    defaultValue=""
+                                    onChange={handleWindDirChange}
+                                    sx={{
+                                        m: 1,
+                                        maxWidth: '18ch',
+                                    }}
+                                    InputProps={{
+                                        endAdornment: (
+                                            <InputAdornment position="end">
+                                                °
+                                            </InputAdornment>
+                                        ),
+                                    }}
                                 />
 
                                 <TextField
@@ -265,8 +279,15 @@ const Offline = () => {
                                     }}
                                     required
                                     id="outlined-required"
-                                    label="Wind Speed"
+                                    label="Speed"
                                     defaultValue=""
+                                    InputProps={{
+                                        endAdornment: (
+                                            <InputAdornment position="end">
+                                                kts
+                                            </InputAdornment>
+                                        ),
+                                    }}
                                     onChange={handleWindSpeedChange}
                                 />
                             </Box>
@@ -277,42 +298,23 @@ const Offline = () => {
                                     label="Altimeter"
                                     defaultValue=""
                                     onChange={handleAltimeterChange}
-                                />
-                                <RadioGroup
-                                    aria-labelledby="demo-controlled-radio-buttons-group"
-                                    name="controlled-radio-buttons-group"
-                                    value={altimeterUnit}
-                                    onChange={handleAltimeterUnitChange}
-                                    sx={{
-                                        display: 'flex',
-                                        flexDirection: 'column',
+                                    InputProps={{
+                                        endAdornment: (
+                                            <InputAdornment position="end">
+                                                <Button
+                                                    variant="outlined"
+                                                    onClick={() =>
+                                                        handleAltimeterUnitChange2()
+                                                    }
+                                                >
+                                                    {altimeterUnit === 'hpa'
+                                                        ? 'hpa'
+                                                        : 'inHg'}
+                                                </Button>
+                                            </InputAdornment>
+                                        ),
                                     }}
-                                >
-                                    <FormControlLabel
-                                        value="hpa"
-                                        control={
-                                            <Radio
-                                                size="small"
-                                                checked={
-                                                    altimeterUnit === 'hpa'
-                                                }
-                                            />
-                                        }
-                                        label="HPA"
-                                    />
-                                    <FormControlLabel
-                                        value="inhg"
-                                        control={
-                                            <Radio
-                                                size="small"
-                                                checked={
-                                                    altimeterUnit === 'inhg'
-                                                }
-                                            />
-                                        }
-                                        label="inHg"
-                                    />
-                                </RadioGroup>
+                                />
                             </Box>
                             <Box display="flex" flexDirection="row">
                                 <TextField
@@ -322,38 +324,23 @@ const Offline = () => {
                                     label="Weight"
                                     defaultValue=""
                                     onChange={handleWeightChange}
-                                />
-                                <RadioGroup
-                                    aria-labelledby="demo-controlled-radio-buttons-group"
-                                    name="controlled-radio-buttons-group"
-                                    value={weightUnit}
-                                    onChange={handleChangeWeightUnit}
-                                    sx={{
-                                        display: 'flex',
-                                        flexDirection: 'column',
+                                    InputProps={{
+                                        endAdornment: (
+                                            <InputAdornment position="end">
+                                                <Button
+                                                    variant="outlined"
+                                                    onClick={() =>
+                                                        handleChangeWeightUnit2()
+                                                    }
+                                                >
+                                                    {weightUnit === 'lb'
+                                                        ? 'kg'
+                                                        : 'lb'}
+                                                </Button>
+                                            </InputAdornment>
+                                        ),
                                     }}
-                                >
-                                    <FormControlLabel
-                                        value="kgs"
-                                        control={
-                                            <Radio
-                                                size="small"
-                                                checked={weightUnit === 'kg'}
-                                            />
-                                        }
-                                        label="KGS"
-                                    />
-                                    <FormControlLabel
-                                        value="lbs"
-                                        control={
-                                            <Radio
-                                                size="small"
-                                                checked={weightUnit === 'lb'}
-                                            />
-                                        }
-                                        label="LBS"
-                                    />
-                                </RadioGroup>
+                                />
                             </Box>
                             <TextField
                                 required
@@ -361,6 +348,13 @@ const Offline = () => {
                                 label="OAT"
                                 defaultValue=""
                                 onChange={handleTempChange}
+                                InputProps={{
+                                    endAdornment: (
+                                        <InputAdornment position="end">
+                                            °C
+                                        </InputAdornment>
+                                    ),
+                                }}
                             />
                             <TextField
                                 error={formValidation.CG}
@@ -369,6 +363,13 @@ const Offline = () => {
                                 label="CG"
                                 defaultValue=""
                                 onChange={handleCGChange}
+                                InputProps={{
+                                    endAdornment: (
+                                        <InputAdornment position="end">
+                                            %
+                                        </InputAdornment>
+                                    ),
+                                }}
                             />
                             <TextField
                                 required

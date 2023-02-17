@@ -1,18 +1,25 @@
 import { useSelector } from 'react-redux';
+
+import { Box } from '@mui/material';
+
 import { RootState } from '../store/store';
 
 function Mcduv2() {
     const mcduSettings = useSelector((state: RootState) => state.mcdu);
 
     return (
-        <>
+        <Box
+            sx={{
+                pt: '1.75rem',
+            }}
+        >
             <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 371 317"
                 width={371}
                 height={317}
                 style={{
-                    minWidth: '30vw',
+                    minWidth: '185.5px',
                     userSelect: 'none',
                     filter: 'drop-shadow(0px 0px 8px rgb(0 0 0))',
                 }}
@@ -61,7 +68,7 @@ function Mcduv2() {
                         whiteSpace: 'pre',
                     }}
                 >
-                    <tspan x={'3ch'} y={58}>
+                    <tspan x={38} y={58}>
                         {'V1'}
                     </tspan>
                 </text>
@@ -73,7 +80,7 @@ function Mcduv2() {
                         whiteSpace: 'pre',
                     }}
                 >
-                    <tspan x={'3ch'} y={103}>
+                    <tspan x={38} y={103}>
                         {'VR'}
                     </tspan>
                 </text>
@@ -85,7 +92,7 @@ function Mcduv2() {
                         whiteSpace: 'pre',
                     }}
                 >
-                    <tspan x={'3ch'} y={148}>
+                    <tspan x={38} y={148}>
                         {'V2'}
                     </tspan>
                 </text>
@@ -100,7 +107,7 @@ function Mcduv2() {
                         fontSize: '18.7px',
                         whiteSpace: 'pre',
                     }}
-                    x={'1ch'}
+                    x={16}
                     y={78.084}
                 >
                     {mcduSettings.v1}
@@ -116,7 +123,7 @@ function Mcduv2() {
                         fontSize: '18.7px',
                         whiteSpace: 'pre',
                     }}
-                    x={'1ch'}
+                    x={16}
                     y={123.409}
                 >
                     {mcduSettings.vr}
@@ -132,7 +139,7 @@ function Mcduv2() {
                         fontSize: '18.7px',
                         whiteSpace: 'pre',
                     }}
-                    x={'1ch'}
+                    x={16}
                     y={168.207}
                 >
                     {mcduSettings.v2}
@@ -145,7 +152,7 @@ function Mcduv2() {
                         whiteSpace: 'pre',
                     }}
                     y={194.074}
-                    x={'1ch'}
+                    x={16}
                 >
                     {'TRANS ALT'}
                 </text>
@@ -158,7 +165,7 @@ function Mcduv2() {
                         textAnchor: 'start',
                     }}
                 >
-                    <tspan x={'1ch'} y={240}>
+                    <tspan x={16} y={240}>
                         {'THR RED/ACC'}
                     </tspan>
                 </text>
@@ -169,7 +176,7 @@ function Mcduv2() {
                         fontSize: 16,
                         whiteSpace: 'pre',
                     }}
-                    x={'2ch'}
+                    x={32}
                     y={284.711}
                 >
                     {'UPLINK'}
@@ -181,7 +188,7 @@ function Mcduv2() {
                         fontSize: '18.7px',
                         whiteSpace: 'pre',
                     }}
-                    x={'1ch'}
+                    x={16}
                     y={304.96}
                 >
                     {'<TO DATA'}
@@ -451,7 +458,7 @@ function Mcduv2() {
                     {'PHASE>'}
                 </text>
             </svg>
-        </>
+        </Box>
     );
 }
 

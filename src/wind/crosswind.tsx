@@ -59,14 +59,15 @@ const CrosswindCalc = ({
         <Box
             sx={{
                 height: '30vh',
-                alignItems: 'center',
+                my: '10',
             }}
         >
             <Box
                 sx={{
+                    pt: '1.75rem',
                     width: '6rem',
                     mr: '6rem',
-                    pr: '6rem',
+                    ml: '1rem',
                 }}
             >
                 <Box
