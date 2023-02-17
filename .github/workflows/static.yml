@@ -36,6 +36,6 @@ jobs:
           # Specifies if this action should checkout the code
           checkout: true
           # Specifies the path of the static assets after building
-          path: dist
+          path: ./build
           # Specifies the command to run after npm ci for the build
           build_command: npm run build
