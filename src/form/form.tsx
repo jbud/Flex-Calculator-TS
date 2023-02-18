@@ -1,5 +1,5 @@
 import { parseMetar } from 'metar-taf-parser';
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
 import { Metar } from '@flybywiresim/api-client';
@@ -24,6 +24,7 @@ import { RootState } from '../store/store';
 
 const Form = () => {
     const disp = useDispatch();
+    const icaoRef = useRef<HTMLDivElement | null>(null);
     const mcduSetting = useSelector((state: RootState) => state.mcdu);
     const [runwayStateDispatcher, setRunwayStateDispatcher] = useState<Runway>({
         heading: 0,
@@ -86,6 +87,7 @@ const Form = () => {
     };
 
     const getRunways = async (icao: string) => {
+        console.log('./database/runways/icao/' + icao + '.json');
         fetch('./database/runways/icao/' + icao + '.json')
             .then((response) => response.json())
             .then((data) => {
@@ -169,6 +171,7 @@ const Form = () => {
     };
     const handleApi = (e: React.FocusEvent<HTMLTextAreaElement>) => {
         if (e.target.value.length === 4 && e.target.value !== '') {
+            console.log(e.target.value);
             getMETAR(e.target.value);
             getRunways(e.target.value);
             setRWDisabled(false);
@@ -344,6 +347,13 @@ const Form = () => {
         );
     };
 
+    const handleKeyDownICAO = (e: React.KeyboardEvent<HTMLDivElement>) => {
+        if (e.key === 'Enter') {
+            console.log(e.key);
+            icaoRef.current?.blur();
+        }
+    };
+
     useEffect(() => {
         disp(
             setRunway({
@@ -389,12 +399,14 @@ const Form = () => {
                         sx={{ verticalAlign: 'center' }}
                     >
                         <TextField
+                            ref={icaoRef}
                             error={formValidation.ICAO}
                             required
                             id="outlined-required-icao"
                             label="ICAO"
                             onChange={handleICAOChange}
                             onBlur={handleApi}
+                            onKeyDown={handleKeyDownICAO}
                         />
                     </Box>
                     <TextField

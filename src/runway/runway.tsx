@@ -134,6 +134,7 @@ const RunwayVisualizationWidget = ({
                             : 'translateY(30%)';
                     return (
                         <Box
+                            key={label.label}
                             sx={{
                                 width: '8rem',
                                 height: '0.25rem',
