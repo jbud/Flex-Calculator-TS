@@ -128,6 +128,11 @@ const RunwayV2 = ({
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 200 800"
                     height="100%"
+                    style={{
+                        minWidth: '185.5px',
+                        userSelect: 'none',
+                        filter: 'drop-shadow(0px 0px 12px rgb(0 0 0))',
+                    }}
                 >
                     <defs>
                         <filter x="0" y="-0.20" width="1" height="1" id="solid">
@@ -137,34 +142,8 @@ const RunwayV2 = ({
                                 <feMergeNode in="SourceGraphic" />
                             </feMerge>
                         </filter>
-                        <filter
-                            id="drop-shadow-filter-0"
-                            colorInterpolationFilters="sRGB"
-                            x="-500%"
-                            y="-500%"
-                            width="1000%"
-                            height="1000%"
-                        >
-                            <title>Drop shadow</title>
-                            <feGaussianBlur in="SourceAlpha" stdDeviation="4" />
-                            <feOffset dx="0" dy="0" />
-                            <feComponentTransfer result="offsetblur">
-                                <feFuncA
-                                    id="spread-ctrl"
-                                    type="linear"
-                                    slope="1"
-                                />
-                            </feComponentTransfer>
-                            <feFlood floodColor="rgba(0,0,0,1)" />
-                            <feComposite in2="offsetblur" operator="in" />
-                            <feMerge>
-                                <feMergeNode />
-                                <feMergeNode in="SourceGraphic" />
-                            </feMerge>
-                        </filter>
                     </defs>
                     <rect
-                        filter="url(#drop-shadow-filter-0)"
                         x="23"
                         y="9.251"
                         width="115"
