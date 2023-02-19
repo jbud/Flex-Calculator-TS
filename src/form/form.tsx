@@ -3,6 +3,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
 import { Metar } from '@flybywiresim/api-client';
+import BugReportIcon from '@mui/icons-material/BugReport';
 import {
     AppBar,
     Box,
@@ -10,6 +11,7 @@ import {
     Checkbox,
     FormControlLabel,
     FormGroup,
+    IconButton,
     InputAdornment,
     MenuItem,
     TextField,
@@ -18,10 +20,12 @@ import {
     useTheme,
 } from '@mui/material';
 
+import Debug from '../debug/debug';
 /* import INOP from '../inop/inop'; */
 import { FlexMath, TakeoffInstance } from '../math/math';
 import Offline from '../offline/offline';
 import { setManual } from '../store/manual';
+import { debug, DebugMessage, setDebugWindow } from '../store/masterDebug';
 import { setMCDU } from '../store/mcdu';
 import { Runway, setRunway } from '../store/runway';
 import { RootState } from '../store/store';
@@ -91,8 +95,11 @@ const Form = () => {
         });
     };
 
+    const sendDebug = (formattedDebug: DebugMessage) => {
+        disp(debug(formattedDebug));
+    };
+
     const getRunways = async (icao: string) => {
-        console.log('./database/runways/icao/' + icao + '.json');
         fetch('./database/runways/icao/' + icao + '.json')
             .then((response) => response.json())
             .then((data) => {
@@ -115,6 +122,13 @@ const Form = () => {
                     });
                 }
                 setRunways(rwList);
+            })
+            .catch((err) => {
+                //console.log(JSON.stringify(err));
+                sendDebug({
+                    title: 'Error',
+                    message: JSON.stringify(err),
+                });
             });
     };
 
@@ -166,6 +180,11 @@ const Form = () => {
                 });
             })
             .catch((err) => {
+                //console.log(JSON.stringify(err));
+                sendDebug({
+                    title: 'METAR Error',
+                    message: JSON.stringify(err),
+                });
                 setFormValidation((valid) => {
                     return {
                         ...valid,
@@ -181,6 +200,10 @@ const Form = () => {
             getRunways(e.target.value);
             setRWDisabled(false);
         } else {
+            sendDebug({
+                title: 'METAR Error',
+                message: 'Invalid ICAO',
+            });
             setFormValidation((valid) => {
                 return {
                     ...valid,
@@ -204,6 +227,18 @@ const Form = () => {
             settings.isKG,
             settings.runwayCondition
         );
+        sendDebug({
+            title: 'Calculate: INFO',
+            message: JSON.stringify(ret),
+        });
+        sendDebug({
+            title: 'Calculate: INFO',
+            message: JSON.stringify(vSpeeds),
+        });
+        sendDebug({
+            title: 'Calculate: INFO',
+            message: JSON.stringify(settings),
+        });
         setRunwayStateDispatcher((state) => {
             return {
                 ...state,
@@ -352,6 +387,10 @@ const Form = () => {
         );
     };
 
+    const handleClickBug = () => {
+        disp(setDebugWindow(true));
+    };
+
     const handleKeyDownICAO = (e: React.KeyboardEvent<HTMLDivElement>) => {
         if (e.key === 'Enter') {
             console.log(e.key);
@@ -385,6 +424,7 @@ const Form = () => {
     return (
         <>
             <Offline />
+            <Debug />
             <AppBar
                 position="fixed"
                 sx={{
@@ -394,6 +434,16 @@ const Form = () => {
                 }}
             >
                 <Toolbar>
+                    <IconButton
+                        size="large"
+                        edge="start"
+                        color="inherit"
+                        aria-label="debugMode"
+                        sx={{ mr: 2, mt: '-25px' }}
+                        onClick={handleClickBug}
+                    >
+                        <BugReportIcon sx={{ fontSize: '1.5rem' }} />
+                    </IconButton>
                     <Typography
                         variant="body1"
                         component="div"

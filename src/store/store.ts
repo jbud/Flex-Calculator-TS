@@ -1,6 +1,7 @@
 import { configureStore } from '@reduxjs/toolkit';
 
 import manualReducer from './manual';
+import masterDebugReducer from './masterDebug';
 import mcduReducer from './mcdu';
 import runwayReducer from './runway';
 
@@ -9,6 +10,7 @@ export const store = configureStore({
         mcdu: mcduReducer,
         runway: runwayReducer,
         manual: manualReducer,
+        debug: masterDebugReducer,
     },
 });
 
