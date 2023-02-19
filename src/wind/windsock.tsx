@@ -35,6 +35,9 @@ const Windsock = ({ windDirRelative = 0 }: WindsockProps) => {
             viewBox="-40 -40 230 160"
             width="230"
             xmlns="http://www.w3.org/2000/svg"
+            style={{
+                filter: 'drop-shadow(0px 0px 4px rgb(0 0 0))',
+            }}
         >
             <defs></defs>
             <g transform={`rotate(${wind} 65 30)`}>

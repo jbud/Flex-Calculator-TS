@@ -11,13 +11,23 @@ import { Box } from '@mui/system';
 
 import Form from './form/form';
 import Mcduv2 from './mcdu/mcduv2';
-import RunwayVisualizationWidget, { DistanceLabel } from './runway/runway';
+import RunwayV2 from './runway/runwayv2';
 import { RootState } from './store/store';
 import CrosswindCalc from './wind/crosswind';
 
 const darkTheme = createTheme({
     palette: {
         mode: 'dark',
+        primary: {
+            main: '#90caf9',
+        },
+        secondary: {
+            main: '#f48fb1',
+        },
+        background: {
+            default: '#232124',
+            paper: '#424242',
+        },
     },
 });
 
@@ -27,9 +37,7 @@ function App() {
     const [wind, setWind] = useState(0);
     const [heading, setHeading] = useState('0');
     const [windSpeed, setwindSpeed] = useState(0);
-    const [runwayVisualizationLabels, setRunwayVisualizationLabels] = useState<
-        DistanceLabel[]
-    >([]);
+    const [ASD, setASD] = useState(0);
 
     useEffect(() => {
         const l = runwaySetting.length ? runwaySetting.length : 0;
@@ -50,19 +58,7 @@ function App() {
                     : '0'
             )
         );
-
-        setRunwayVisualizationLabels([
-            {
-                distance: d,
-                label: 'ASD',
-                type: 1,
-            },
-            {
-                distance: l - d,
-                label: 'Stop Margin',
-                type: 2,
-            },
-        ]);
+        setASD(d);
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [runwaySetting]);
     return (
@@ -78,7 +74,6 @@ function App() {
                     justifyContent="space-between"
                 >
                     <Form />
-                    {/* <MCDU /> */}
                     {<Mcduv2 />}
 
                     <CrosswindCalc
@@ -86,12 +81,13 @@ function App() {
                         windir={wind}
                         windspeed={windSpeed}
                     />
-
-                    <RunwayVisualizationWidget
-                        mainLength={len}
-                        labels={runwayVisualizationLabels}
-                        runwayHeading={parseInt(heading ? heading : '0') * 10}
-                        distanceUnit={'m'}
+                    <RunwayV2
+                        runwayLength={len}
+                        runwayMarker={
+                            runwaySetting.true ? runwaySetting.true : '???'
+                        }
+                        runwayLengthUnit={'ft'}
+                        ASD={ASD}
                     />
                 </Box>
             </div>

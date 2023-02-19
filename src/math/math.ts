@@ -557,7 +557,7 @@ export class FlexMath {
             a20n.tmaxflex + settings.oat - ISA,
             settings.oat,
         ];
-
+        const minFlex = flexTrendModifierTable[4];
         let AltCorrectionsTable = [2000, 4000, 6000, 8000, 10000];
 
         let perfDistDiffTable = [
@@ -707,6 +707,11 @@ export class FlexMath {
         settings.requiredRunway = settings.toga
             ? settings.togaRequiredRunway
             : TakeoffDistanceTrendTable[4];
-        return { flex: settings.flex, requiredRunway: settings.requiredRunway };
+        return {
+            flex: settings.flex,
+            requiredRunway: settings.requiredRunway,
+            minFlex: minFlex,
+            togaRequiredRunway: settings.togaRequiredRunway,
+        };
     }
 }

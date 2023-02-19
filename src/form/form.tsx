@@ -4,6 +4,7 @@ import { useDispatch, useSelector } from 'react-redux';
 
 import { Metar } from '@flybywiresim/api-client';
 import {
+    AppBar,
     Box,
     Button,
     Checkbox,
@@ -12,6 +13,9 @@ import {
     InputAdornment,
     MenuItem,
     TextField,
+    Toolbar,
+    Typography,
+    useTheme,
 } from '@mui/material';
 
 /* import INOP from '../inop/inop'; */
@@ -24,6 +28,7 @@ import { RootState } from '../store/store';
 
 const Form = () => {
     const disp = useDispatch();
+    const theme = useTheme();
     const icaoRef = useRef<HTMLDivElement | null>(null);
     const mcduSetting = useSelector((state: RootState) => state.mcdu);
     const [runwayStateDispatcher, setRunwayStateDispatcher] = useState<Runway>({
@@ -202,25 +207,24 @@ const Form = () => {
         setRunwayStateDispatcher((state) => {
             return {
                 ...state,
-                heading: settings.runwayHeading,
-                length: FlexMath.parseDist(
-                    settings.availRunway,
-                    settings.isMeters
-                ),
-                asd: settings.requiredRunway,
+                asd:
+                    ret.flex < ret.minFlex
+                        ? ret.togaRequiredRunway
+                        : ret.requiredRunway,
             };
         });
+
         disp(
             setMCDU({
                 ...mcduSetting,
-                flex: ret.flex,
+                flex: ret.flex < ret.minFlex ? 'USE TOGA [ ]' : ret.flex,
                 v1: vSpeeds.v1,
                 vr: vSpeeds.vr,
                 v2: vSpeeds.v2,
                 speedSet: true,
             })
         );
-    }; // todo: calculate takeoff performance and populate context for MCDU
+    };
 
     const handleRunwayChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
         const rw = runways.find((rw) => rw.value === e.target.value);
@@ -233,6 +237,7 @@ const Form = () => {
             return {
                 ...state,
                 true: e.target.value,
+                length: parseInt(rw.length),
             };
         });
         disp(
@@ -369,7 +374,6 @@ const Form = () => {
     }, [runwayStateDispatcher]);
 
     useEffect(() => {
-        //todo: apply metar elements to takeoffInstance settings
         changeSettings('windHeading', metar.wind.degrees);
         changeSettings('windKts', metar.wind.speed);
         changeSettings('oat', metar.temperature);
@@ -381,10 +385,51 @@ const Form = () => {
     return (
         <>
             <Offline />
+            <AppBar
+                position="fixed"
+                sx={{
+                    maxHeight: '2.5rem',
+                    alignContent: 'center',
+                    p: '-2.5rem',
+                }}
+            >
+                <Toolbar>
+                    <Typography
+                        variant="body1"
+                        component="div"
+                        sx={{
+                            flexGrow: 1,
+                            minHeight: '3.0rem',
+                        }}
+                    >
+                        Takeoff Perf
+                    </Typography>
+                </Toolbar>
+            </AppBar>
             <Box
                 component="form"
                 sx={{
-                    '& .MuiTextField-root': { m: 1, width: '25ch' },
+                    '& .MuiTextField-root': {
+                        m: 1,
+                        width: '25ch',
+                    },
+                    /* '& .Mui-disabled': {
+                        '-webkit-text-fill-color': 'rgba(0, 0, 0, 0.77)',
+                    }, */
+
+                    '& .MuiOutlinedInput-root': {
+                        '&.Mui-disabled fieldset': {
+                            borderStyle: 'dashed',
+                            /* borderColor: 'black', */
+                        },
+                        '& fieldset': {
+                            /* borderColor: 'black', */
+                        },
+                        '&:hover:not(.Mui-disabled):not(.Mui-error) fieldset': {
+                            borderColor: theme.palette.primary.dark,
+                            borderWidth: '2px',
+                        },
+                    },
                     mx: '8px',
                     maxWidth: '35ch',
                     pt: '1.5rem',
