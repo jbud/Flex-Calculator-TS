@@ -25,7 +25,7 @@ import Mcduv2 from './mcdu/mcduv2';
 import Offline from './offline/offline';
 import useScreenOrientation from './pwahooks/screenorientation';
 import RunwayV2 from './runway/runwayv2';
-import { debug, setDebugWindow } from './store/masterDebug';
+import { setDebugWindow } from './store/masterDebug';
 import { RootState } from './store/store';
 import CrosswindCalc from './wind/crosswind';
 
