@@ -3,29 +3,22 @@ import React, { useEffect, useRef, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
 import { Metar } from '@flybywiresim/api-client';
-import BugReportIcon from '@mui/icons-material/BugReport';
 import {
-    AppBar,
     Box,
     Button,
     Checkbox,
     FormControlLabel,
     FormGroup,
-    IconButton,
     InputAdornment,
     MenuItem,
     TextField,
-    Toolbar,
-    Typography,
     useTheme,
 } from '@mui/material';
 
-import Debug from '../debug/debug';
 /* import INOP from '../inop/inop'; */
 import { FlexMath, TakeoffInstance } from '../math/math';
-import Offline from '../offline/offline';
 import { setManual } from '../store/manual';
-import { debug, DebugMessage, setDebugWindow } from '../store/masterDebug';
+import { debug, DebugMessage } from '../store/masterDebug';
 import { setMCDU } from '../store/mcdu';
 import { Runway, setRunway } from '../store/runway';
 import { RootState } from '../store/store';
@@ -387,10 +380,6 @@ const Form = () => {
         );
     };
 
-    const handleClickBug = () => {
-        disp(setDebugWindow(true));
-    };
-
     const handleKeyDownICAO = (e: React.KeyboardEvent<HTMLDivElement>) => {
         if (e.key === 'Enter') {
             console.log(e.key);
@@ -423,39 +412,6 @@ const Form = () => {
 
     return (
         <>
-            <Offline />
-            <Debug />
-            <AppBar
-                position="fixed"
-                sx={{
-                    maxHeight: '2.5rem',
-                    alignContent: 'center',
-                    p: '-2.5rem',
-                }}
-            >
-                <Toolbar>
-                    <IconButton
-                        size="large"
-                        edge="start"
-                        color="inherit"
-                        aria-label="debugMode"
-                        sx={{ mr: 2, mt: '-25px' }}
-                        onClick={handleClickBug}
-                    >
-                        <BugReportIcon sx={{ fontSize: '1.5rem' }} />
-                    </IconButton>
-                    <Typography
-                        variant="body1"
-                        component="div"
-                        sx={{
-                            flexGrow: 1,
-                            minHeight: '3.0rem',
-                        }}
-                    >
-                        Takeoff Perf
-                    </Typography>
-                </Toolbar>
-            </AppBar>
             <Box
                 component="form"
                 sx={{
@@ -488,22 +444,16 @@ const Form = () => {
                 autoComplete="off"
             >
                 <Box display="flex" flexDirection="column">
-                    <Box
-                        display="flex"
-                        flexDirection="row"
-                        sx={{ verticalAlign: 'center' }}
-                    >
-                        <TextField
-                            ref={icaoRef}
-                            error={formValidation.ICAO}
-                            required
-                            id="outlined-required-icao"
-                            label="ICAO"
-                            onChange={handleICAOChange}
-                            onBlur={handleApi}
-                            onKeyDown={handleKeyDownICAO}
-                        />
-                    </Box>
+                    <TextField
+                        ref={icaoRef}
+                        error={formValidation.ICAO}
+                        required
+                        id="outlined-required-icao"
+                        label="ICAO"
+                        onChange={handleICAOChange}
+                        onBlur={handleApi}
+                        onKeyDown={handleKeyDownICAO}
+                    />
                     <TextField
                         id="outlined-textarea"
                         label="METAR"
@@ -548,7 +498,6 @@ const Form = () => {
                             ),
                         }}
                     />
-
                     <TextField
                         error={formValidation.CG}
                         required
@@ -583,35 +532,26 @@ const Form = () => {
                             3
                         </MenuItem>
                     </TextField>
-                    <Box
-                        display="flex"
-                        flexDirection="row"
-                        maxHeight="5rem"
-                        sx={{
-                            m: '0',
-                        }}
+                    <TextField
+                        sx={{ minWidth: '20ch' }}
+                        id="outlined-select-rwcond"
+                        select
+                        required
+                        label="Runway Cond"
+                        defaultValue=""
+                        onChange={handleRwCondChange}
                     >
-                        <TextField
-                            sx={{ minWidth: '20ch' }}
-                            id="outlined-select-rwcond"
-                            select
-                            required
-                            label="Runway Cond"
-                            defaultValue=""
-                            onChange={handleRwCondChange}
-                        >
-                            <MenuItem key="1" value="1">
-                                Dry
-                            </MenuItem>
-                            <MenuItem key="2" value="2">
-                                Wet
-                            </MenuItem>
-                        </TextField>
-                        {/* <INOP /> */}
-                    </Box>
+                        <MenuItem key="1" value="1">
+                            Dry
+                        </MenuItem>
+                        <MenuItem key="2" value="2">
+                            Wet
+                        </MenuItem>
+                    </TextField>
                     <FormGroup
                         sx={{
                             pl: '0.5rem',
+                            flexDirection: 'row',
                         }}
                     >
                         <FormControlLabel

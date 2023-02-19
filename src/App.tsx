@@ -3,15 +3,29 @@ import './App.css';
 import './mcdu/mcduv2.css';
 
 import { useEffect, useState } from 'react';
-import { useSelector } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 
+import BugReportIcon from '@mui/icons-material/BugReport';
+import ScreenRotationIcon from '@mui/icons-material/ScreenRotation';
+import {
+    AppBar,
+    Backdrop,
+    Box,
+    Grid,
+    IconButton,
+    Toolbar,
+    Typography,
+} from '@mui/material';
 import CssBaseline from '@mui/material/CssBaseline';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import { Box } from '@mui/system';
 
+import Debug from './debug/debug';
 import Form from './form/form';
 import Mcduv2 from './mcdu/mcduv2';
+import Offline from './offline/offline';
+import useScreenOrientation from './pwahooks/screenorientation';
 import RunwayV2 from './runway/runwayv2';
+import { debug, setDebugWindow } from './store/masterDebug';
 import { RootState } from './store/store';
 import CrosswindCalc from './wind/crosswind';
 
@@ -38,6 +52,23 @@ function App() {
     const [heading, setHeading] = useState('0');
     const [windSpeed, setwindSpeed] = useState(0);
     const [ASD, setASD] = useState(0);
+    const orientation = useScreenOrientation();
+    const [pleaseRotate, setPleaseRotate] = useState(false);
+
+    const disp = useDispatch();
+
+    const handleClickBug = () => {
+        disp(setDebugWindow(true));
+    };
+
+    useEffect(() => {
+        if (orientation === 0 || orientation === 180) {
+            setPleaseRotate(true);
+        } else {
+            setPleaseRotate(false);
+        }
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [orientation]);
 
     useEffect(() => {
         const l = runwaySetting.length ? runwaySetting.length : 0;
@@ -65,13 +96,62 @@ function App() {
         <ThemeProvider theme={darkTheme}>
             <CssBaseline />
             <div className="App">
-                <Box
-                    display="flex"
+                <Backdrop
                     sx={{
-                        height: '95vh',
-                        pt: 2,
+                        color: '#fff',
+                        zIndex: (theme) => theme.zIndex.drawer + 1,
                     }}
-                    justifyContent="space-between"
+                    open={pleaseRotate}
+                    /* onClick={handleClose} */
+                >
+                    <Box
+                        sx={{
+                            display: 'flex',
+                            flexDirection: 'column',
+                            alignItems: 'center',
+                            justifyContent: 'center',
+                        }}
+                    >
+                        <Typography variant="h6" component="div">
+                            Portrait mode is not currently supported on this
+                            device. Please rotate your device.
+                        </Typography>
+                        <ScreenRotationIcon color="inherit" fontSize="large" />
+                    </Box>
+                </Backdrop>
+                <Offline />
+                <Debug />
+                <AppBar position="static">
+                    <Toolbar
+                        sx={{
+                            my: '-9px',
+                        }}
+                    >
+                        <IconButton
+                            size="medium"
+                            edge="start"
+                            color="inherit"
+                            aria-label="debugMode"
+                            onClick={handleClickBug}
+                        >
+                            <BugReportIcon />
+                        </IconButton>
+                        <Typography
+                            variant="h6"
+                            component="div"
+                            sx={{
+                                flexGrow: 1,
+                            }}
+                        >
+                            Takeoff Performance
+                        </Typography>
+                    </Toolbar>
+                </AppBar>
+                <Grid
+                    container
+                    direction="row"
+                    justifyContent="space-evenly"
+                    alignItems="flex-start"
                 >
                     <Form />
                     {<Mcduv2 />}
@@ -89,7 +169,8 @@ function App() {
                         runwayLengthUnit={'ft'}
                         ASD={ASD}
                     />
-                </Box>
+                </Grid>
+                {/* </Box> */}
             </div>
         </ThemeProvider>
     );

@@ -118,8 +118,8 @@ const RunwayV2 = ({
             /> */}
             <Box
                 sx={{
-                    minHeight: '85vh',
-                    maxHeight: '90vh',
+                    height: '100%',
+                    maxHeight: '500px',
                     pt: 4,
                     justifyContent: 'left',
                 }}
@@ -127,9 +127,8 @@ const RunwayV2 = ({
                 <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 200 800"
-                    height="100%"
                     style={{
-                        minWidth: '185.5px',
+                        minWidth: '165px',
                         userSelect: 'none',
                         filter: 'drop-shadow(0px 0px 12px rgb(0 0 0))',
                     }}
