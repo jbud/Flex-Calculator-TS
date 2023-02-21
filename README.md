@@ -14,6 +14,7 @@ Currently there is no method for an invalid takeoff. If you see a flex number lo
 
 In the project directory, you can run:
 #### `npm install`
+#### `git submodule update --init`
 #### `mkdir -p -v ./public/database/runways`
 #### `cp -R ./runways/icao/ ./public/database/runways/`
 #### `npm start`
