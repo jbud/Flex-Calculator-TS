@@ -13,6 +13,7 @@ Currently there is no method for an invalid takeoff. If you see a flex number lo
 ## Available Scripts
 
 In the project directory, you can run:
-
-### `cp runways/icao/* public/database/runways`
-### `npm start`
+#### `npm install`
+#### `mkdir -p -v ./public/database/runways`
+#### `cp -R ./runways/icao/ ./public/database/runways/`
+#### `npm start`
