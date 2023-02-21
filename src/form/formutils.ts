@@ -1,41 +1,36 @@
 import { parseMetar } from 'metar-taf-parser';
-import React, { useEffect, useState } from 'react';
-import { useDispatch } from 'react-redux';
+import { useEffect, useState } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
 
 import { Metar } from '@flybywiresim/api-client';
 
-import { TakeoffInstance } from '../math/math';
+import { FlexMath, TakeoffInstance } from '../math/math';
 import { debug, DebugMessage } from '../store/masterDebug';
+import { setMCDU } from '../store/mcdu';
 import { Runway, setRunway } from '../store/runway';
+import { RootState } from '../store/store';
 import {
     defaultMetarForm,
     defaultRunwaysForm,
     defaultRunwayState,
-    defaultSettingsContent,
     MetarForm,
     RunwaysForm,
 } from './formdefs';
-
-export const useSettings = (): [
-    TakeoffInstance,
-    React.Dispatch<React.SetStateAction<TakeoffInstance>>
-] => {
-    const disp = useDispatch();
-    const [settings, setSettings] = useState<TakeoffInstance>(
-        defaultSettingsContent
-    );
-
-    return [settings, setSettings];
-};
 
 export const useApi = (): [
     MetarForm,
     (icao: string) => Promise<void>,
     RunwaysForm[],
     (icao: string) => Promise<void>,
-    { ICAO: boolean }
+    { ICAO: boolean },
+    (
+        settings: TakeoffInstance,
+        validation: { ICAO: boolean; weight: boolean; CG: boolean }
+    ) => void
 ] => {
     const disp = useDispatch();
+    const mcduSetting = useSelector((state: RootState) => state.mcdu);
+    const runway = useSelector((state: RootState) => state.runway);
     const [metar, setMetar] = useState<MetarForm>(defaultMetarForm);
     const [runways, setRunways] = useState<RunwaysForm[]>([defaultRunwaysForm]);
     const [runwayStateDispatcher, setRunwayStateDispatcher] =
@@ -46,6 +41,57 @@ export const useApi = (): [
 
     const sendDebug = (formattedDebug: DebugMessage) => {
         disp(debug(formattedDebug));
+    };
+
+    const calculate = (
+        settings: TakeoffInstance,
+
+        validation: { ICAO: boolean; weight: boolean; CG: boolean }
+    ) => {
+        if (validation.ICAO || validation.weight || validation.CG) return;
+        const ret = FlexMath.calculateFlexDist(settings);
+        const vSpeeds = FlexMath.CalculateVSpeeds(
+            settings.availRunway,
+            settings.requiredRunway,
+            settings.tow,
+            settings.flaps,
+            settings.runwayAltitude,
+            settings.isMeters,
+            settings.isKG,
+            settings.runwayCondition
+        );
+        sendDebug({
+            title: 'Calculate: INFO',
+            message: JSON.stringify(ret),
+        });
+        sendDebug({
+            title: 'Calculate: INFO',
+            message: JSON.stringify(vSpeeds),
+        });
+        sendDebug({
+            title: 'Calculate: INFO',
+            message: JSON.stringify(settings),
+        });
+        setRunwayStateDispatcher((state) => {
+            return {
+                ...state,
+                asd:
+                    ret.flex < ret.minFlex
+                        ? ret.togaRequiredRunway
+                        : ret.requiredRunway,
+            };
+        });
+
+        disp(
+            setMCDU({
+                ...mcduSetting,
+                flex: ret.flex < ret.minFlex ? 'USE TOGA [ ]' : ret.flex,
+                v1: vSpeeds.v1,
+                vr: vSpeeds.vr,
+                v2: vSpeeds.v2,
+                speedSet: true,
+            })
+        );
     };
 
     const getRunways = async (icao: string) => {
@@ -73,7 +119,6 @@ export const useApi = (): [
                 setRunways(rwList);
             })
             .catch((err) => {
-                //console.log(JSON.stringify(err));
                 sendDebug({
                     title: 'Error',
                     message: JSON.stringify(err),
@@ -145,10 +190,9 @@ export const useApi = (): [
     useEffect(() => {
         disp(
             setRunway({
+                ...runway,
                 heading: runwayStateDispatcher.heading,
-                length: runwayStateDispatcher.length,
                 asd: runwayStateDispatcher.asd,
-                true: runwayStateDispatcher.true,
                 wind: runwayStateDispatcher.wind,
                 windSpeed: runwayStateDispatcher.windSpeed,
             })
@@ -156,7 +200,7 @@ export const useApi = (): [
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [runwayStateDispatcher]);
 
-    return [metar, getMETAR, runways, getRunways, formValidation];
+    return [metar, getMETAR, runways, getRunways, formValidation, calculate];
 };
 
 export const calculateTHS = (gravity: number): [string, boolean] => {
@@ -185,4 +229,16 @@ export const calculateTHS = (gravity: number): [string, boolean] => {
         Trim = Math.abs(CalculatedTrim).toFixed(1) + 'UP';
     }
     return [Trim, error];
+};
+
+export const validateWeight = (weight: number, unit: string): boolean => {
+    const w320 = {
+        // Weight chart for the A320, need to implement for other aircraft
+        MTOW: 79000,
+        EMPTY: 37230,
+    };
+    return unit === 'KG'
+        ? weight < w320.EMPTY || weight > w320.MTOW
+        : FlexMath.parseWeight(weight, false) < w320.EMPTY ||
+              FlexMath.parseWeight(weight, false) > w320.MTOW;
 };

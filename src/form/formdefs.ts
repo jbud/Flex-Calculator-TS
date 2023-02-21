@@ -43,6 +43,7 @@ export const defaultRunwaysForm = {
 
 export type FormContent = {
     icao?: string;
+    metar?: string;
     runway?: string;
     weight?: number;
     weightUnit?: string;
@@ -55,6 +56,7 @@ export type FormContent = {
 
 export const defaultFormContent: FormContent = {
     icao: '',
+    metar: '',
     runway: '',
     weight: 0,
     weightUnit: 'KG',

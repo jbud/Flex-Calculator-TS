@@ -1,4 +1,6 @@
-import { Box, TextField, useTheme } from '@mui/material';
+import { useEffect, useState } from 'react';
+
+import { Box, TextField } from '@mui/material';
 
 // import INOP from '../inop/inop';
 import Windsock from './windsock';
@@ -21,7 +23,7 @@ const CrosswindCalc = ({
     windir = 0,
     windspeed = 0,
 }: Crosswind) => {
-    const theme = useTheme();
+    const [message, setMessage] = useState('');
     /* First determine whether the calculator is using runway name or magnetic heading */
 
     const rwyrad = (rwHeading * Math.PI) / 180;
@@ -51,10 +53,12 @@ const CrosswindCalc = ({
     );
 
     const parallel = thetadeg < 180 ? 'Headwind' : 'Tailwind';
-    const message = `Wind:\n 
+    useEffect(() => {
+        setMessage(`Wind:\n 
     ${windir}° @ ${windspeed}kts\n
     ${parallel}: ${parallel_comp} kts\n
-    Crosswind: ${xwind_comp} kts\n`;
+    Crosswind: ${xwind_comp} kts\n`);
+    }, [windir, windspeed, parallel, parallel_comp, xwind_comp]);
 
     return (
         <Box
@@ -75,23 +79,11 @@ const CrosswindCalc = ({
                     component="form"
                     sx={{
                         '& .MuiTextField-root': { mr: '6rem', width: '20ch' },
-                        /* '& .Mui-disabled': {
-                        '-webkit-text-fill-color': 'rgba(0, 0, 0, 0.77)',
-                    }, */
 
                         '& .MuiOutlinedInput-root': {
                             '&.Mui-disabled fieldset': {
                                 borderStyle: 'dashed',
-                                /* borderColor: 'black', */
                             },
-                            '& fieldset': {
-                                /* borderColor: 'black', */
-                            },
-                            '&:hover:not(.Mui-disabled):not(.Mui-error) fieldset':
-                                {
-                                    borderColor: theme.palette.primary.dark,
-                                    borderWidth: '2px',
-                                },
                         },
                         pt: '0.5rem',
                     }}
