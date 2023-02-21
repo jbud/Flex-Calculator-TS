@@ -20,7 +20,7 @@ import CssBaseline from '@mui/material/CssBaseline';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 
 import Debug from './debug/debug';
-import Form from './form/form';
+import Form from './form/formv2';
 import Mcduv2 from './mcdu/mcduv2';
 import Offline from './offline/offline';
 import useScreenOrientation from './pwahooks/screenorientation';
