@@ -501,7 +501,7 @@ export class FlexMath {
             v2 - a20nTakeoff[f.toString()][FlexMath.round5down(w).toString()]; */
         const V2Speed =
             v2 + /*  Math.ceil((v2diff / 5) * */ FlexMath.distfrom5(w);
-        return V2Speed;
+        return Math.ceil(V2Speed);
     }
 
     static vRSpeed(v2: number) {
