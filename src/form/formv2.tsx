@@ -148,20 +148,16 @@ const Form = () => {
     };
 
     const handleChangeWeightUnit = (e: MouseEvent<HTMLButtonElement>) => {
-        const val = (e.target as HTMLButtonElement).value;
-        changeSettings('isKG', val === 'LBS' ? true : false);
-        setFormContent((form) => {
-            return { ...form, weightUnit: val };
-        });
-
+        const val = formContent.weightUnit === 'KG' ? 'LBS' : 'KG';
+        changeSettings('isKG', val === 'KG');
         setFormValidation((valid) => {
             return {
                 ...valid,
-                weight: validateWeight(
-                    formContent.weight || 0,
-                    val === 'KG' ? 'KG' : 'LBS'
-                ),
+                weight: validateWeight(formContent.weight || 0, val),
             };
+        });
+        setFormContent((form) => {
+            return { ...form, weightUnit: val };
         });
     };
 
@@ -293,6 +289,9 @@ const Form = () => {
                     disabled={rwDisabled}
                     onChange={handleRunwayChange}
                 >
+                    {runways?.length === 0 && (
+                        <MenuItem value="">No Runways</MenuItem>
+                    )}
                     {runways?.map((option) => (
                         <MenuItem key={option.value} value={option.value}>
                             {option.value}

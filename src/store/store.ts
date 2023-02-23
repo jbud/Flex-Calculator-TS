@@ -7,9 +7,9 @@ import runwayReducer from './runway';
 
 export const store = configureStore({
     reducer: {
+        manual: manualReducer,
         mcdu: mcduReducer,
         runway: runwayReducer,
-        manual: manualReducer,
         debug: masterDebugReducer,
     },
 });
