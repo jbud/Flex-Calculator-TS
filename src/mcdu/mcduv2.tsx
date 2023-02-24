@@ -9,9 +9,12 @@ function Mcduv2() {
 
     return (
         <Box
-            sx={{
+            sx={(theme) => ({
                 pt: '1.75rem',
-            }}
+                [theme.breakpoints.down('sm')]: {
+                    maxWidth: '371px',
+                },
+            })}
         >
             <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -20,6 +23,7 @@ function Mcduv2() {
                 height={317}
                 style={{
                     minWidth: '185.5px',
+                    maxWidth: '350px',
                     userSelect: 'none',
                     filter: 'drop-shadow(0px 0px 8px rgb(0 0 0))',
                 }}

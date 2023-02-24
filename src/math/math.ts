@@ -81,40 +81,40 @@ type VSpeedsTable = {
 
 const a20nTakeoff: VSpeedsTable = {
     '1': {
+        '35': 126,
         '40': 126,
         '45': 126,
-        '50': 126,
-        '55': 128,
-        '60': 131,
-        '65': 136,
-        '70': 141,
-        '75': 146,
-        '80': 151,
-        '85': 155,
+        '50': 127,
+        '55': 127,
+        '60': 132,
+        '65': 137,
+        '70': 142,
+        '75': 147,
+        '80': 152,
     },
     '2': {
+        '35': 126,
         '40': 126,
         '45': 126,
         '50': 126,
-        '55': 126,
-        '60': 128,
-        '65': 131,
-        '70': 136,
+        '55': 127,
+        '60': 127,
+        '65': 132,
+        '70': 137,
         '75': 141,
         '80': 146,
-        '85': 151,
     },
     '3': {
+        '35': 125,
         '40': 125,
         '45': 125,
         '50': 125,
         '55': 125,
-        '60': 125,
-        '65': 128,
+        '60': 128,
+        '65': 129,
         '70': 132,
-        '75': 136,
-        '80': 140,
-        '85': 143,
+        '75': 141,
+        '80': 141,
     },
 };
 
@@ -494,13 +494,14 @@ export class FlexMath {
 
     static v2Speed(w: number, f: number, a: any) {
         let v2 = a20nTakeoff[f.toString()][FlexMath.round5down(w).toString()];
-        if (w < 55) {
-            return v2 + FlexMath.f2corr(f, a);
-        }
-        const v2diff =
-            v2 - a20nTakeoff[f.toString()][FlexMath.round5down(w).toString()];
-        const V2Speed = v2 + Math.ceil((v2diff / 5) * FlexMath.distfrom5(w));
-        return V2Speed;
+
+        v2 += FlexMath.f2corr(f, a);
+
+        /* const v2diff =
+            v2 - a20nTakeoff[f.toString()][FlexMath.round5down(w).toString()]; */
+        const V2Speed =
+            v2 + /*  Math.ceil((v2diff / 5) * */ FlexMath.distfrom5(w);
+        return Math.ceil(V2Speed);
     }
 
     static vRSpeed(v2: number) {

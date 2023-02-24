@@ -7,6 +7,8 @@ import { useDispatch, useSelector } from 'react-redux';
 
 import BugReportIcon from '@mui/icons-material/BugReport';
 import ScreenRotationIcon from '@mui/icons-material/ScreenRotation';
+import WifiIcon from '@mui/icons-material/Wifi';
+import WifiOffIcon from '@mui/icons-material/WifiOff';
 import {
     AppBar,
     Backdrop,
@@ -52,6 +54,7 @@ function App() {
     const [heading, setHeading] = useState('0');
     const [windSpeed, setwindSpeed] = useState(0);
     const [ASD, setASD] = useState(0);
+    const [online, setOnline] = useState(true);
     /* const orientation = useScreenOrientation(); */
     const [pleaseRotate] = useState(false);
 
@@ -59,6 +62,9 @@ function App() {
 
     const handleClickBug = () => {
         disp(setDebugWindow(true));
+    };
+    const handleClickWifi = () => {
+        setOnline(!online);
     };
 
     /* useEffect(() => {
@@ -125,6 +131,7 @@ function App() {
                     <Toolbar
                         sx={{
                             my: '-9px',
+                            mx: '0.5em',
                         }}
                     >
                         <IconButton
@@ -133,8 +140,24 @@ function App() {
                             color="inherit"
                             aria-label="debugMode"
                             onClick={handleClickBug}
+                            sx={{
+                                mr: '0.5em',
+                            }}
                         >
                             <BugReportIcon />
+                        </IconButton>
+                        <IconButton
+                            size="medium"
+                            edge="start"
+                            color="inherit"
+                            aria-label="offlineMode"
+                            onClick={handleClickWifi}
+                            sx={{
+                                mr: '0.5em',
+                            }}
+                        >
+                            {online && <WifiIcon />}
+                            {!online && <WifiOffIcon />}
                         </IconButton>
                         <Typography
                             variant="h6"
@@ -158,7 +181,7 @@ function App() {
                             [theme.breakpoints.down('md')]: { order: '1' },
                         })}
                     >
-                        <Form />
+                        <Form useMETAR={online} />
                     </Grid>
                     <Grid
                         sx={(theme) => ({

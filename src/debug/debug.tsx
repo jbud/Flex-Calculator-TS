@@ -125,8 +125,8 @@ const Debug = () => {
 
                 <ListItem>
                     <ListItemText
-                        primary="Default notification ringtone"
-                        secondary="Tethys"
+                        primary="T/Log"
+                        secondary="Offline function is currently INOP."
                     />
                 </ListItem>
             </List>
