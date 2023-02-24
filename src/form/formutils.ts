@@ -11,7 +11,6 @@ import { Runway, setRunway } from '../store/runway';
 import { RootState } from '../store/store';
 import {
     defaultMetarForm,
-    defaultRunwaysForm,
     defaultRunwayState,
     MetarForm,
     RunwaysForm,
@@ -32,7 +31,7 @@ export const useApi = (): [
     const mcduSetting = useSelector((state: RootState) => state.mcdu);
     const runway = useSelector((state: RootState) => state.runway);
     const [metar, setMetar] = useState<MetarForm>(defaultMetarForm);
-    const [runways, setRunways] = useState<RunwaysForm[]>([defaultRunwaysForm]);
+    const [runways, setRunways] = useState<RunwaysForm[]>([]);
     const [runwayStateDispatcher, setRunwayStateDispatcher] =
         useState<Runway>(defaultRunwayState);
     const [formValidation, setFormValidation] = useState({
@@ -99,9 +98,7 @@ export const useApi = (): [
             .then((response) => response.json())
             .then((data) => {
                 const rws = data.runways;
-                const rwList: RunwaysForm[] = [
-                    { value: '', heading: '', elevation: '', length: '' },
-                ];
+                const rwList: RunwaysForm[] = []; //{ value: '', heading: '', elevation: '', length: '' },
                 for (let i = 0; i < rws.length; i++) {
                     rwList.push({
                         value: rws[i].he_ident,

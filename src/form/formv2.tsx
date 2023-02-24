@@ -92,8 +92,11 @@ const Form = (props: Props) => {
 
     useEffect(() => {
         setRunways(apiRunways);
-        setRWDisabled(apiRunways[0].value === ''); // TODO: Refine this check
     }, [apiRunways]);
+
+    useEffect(() => {
+        setRWDisabled(runways?.length ? !(runways.length > 0) : true);
+    }, [runways]);
 
     useEffect(() => {
         setFormValidation({
