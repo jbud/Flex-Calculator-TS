@@ -292,7 +292,7 @@ const RunwayV2 = ({
                             style={{
                                 fill: 'rgb(47, 255, 0)',
                                 fontFamily: 'Arial, sans-serif',
-                                fontSize: '13.5px',
+                                fontSize: '15.5px',
                                 whiteSpace: 'pre',
                             }}
                             x="42.862"
@@ -331,14 +331,17 @@ const RunwayV2 = ({
                             style={{
                                 fill: 'rgb(47, 255, 0)',
                                 fontFamily: 'Arial, sans-serif',
-                                fontSize: '8.6px',
+                                fontSize: '14px',
                                 fontWeight: '700',
                                 whiteSpace: 'pre',
                             }}
                         >
-                            <tspan x="140" y={20 + asdLoc}>
+                            <tspan x="140" y={23 + asdLoc}>
                                 {/** 191.446, 73.944 */}
-                                Stop Margin
+                                STOP
+                            </tspan>
+                            <tspan x="140" dy="1em">
+                                Margin
                             </tspan>
                             <tspan x="140" dy="1em">
                                 {stopMargin}
