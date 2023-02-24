@@ -19,16 +19,17 @@ import {
     useTheme,
 } from '@mui/material';
 
-import INOP from '../inop/inop';
 import { TakeoffInstance } from '../math/math';
 import { setMCDU } from '../store/mcdu';
 import { setRunway } from '../store/runway';
 import { RootState } from '../store/store';
 import {
     defaultFormContent,
+    defaultOfflineFormContent,
     defaultSettingsContent,
     FormContent,
     MetarForm,
+    OfflineFormContent,
     RunwaysForm,
 } from './formdefs';
 import { calculateTHS, useApi, validateWeight } from './formutils';
@@ -46,6 +47,8 @@ const Form = (props: Props) => {
     const [metar, setMetar] = useState<MetarForm>();
     const [formContent, setFormContent] =
         useState<FormContent>(defaultFormContent);
+    const [offlineFormContent, setOfflineFormContent] =
+        useState<OfflineFormContent>(defaultOfflineFormContent);
     const [runways, setRunways] = useState<RunwaysForm[]>();
     const [isOfflineForm, setIsOfflineForm] = useState(
         props ? !props.useMETAR : false
@@ -89,6 +92,19 @@ const Form = (props: Props) => {
                 : false
         );
     }, [apiMetar]);
+
+    useEffect(() => {
+        changeSettings('windHeading', offlineFormContent?.windHeading || 0);
+        changeSettings('windKts', offlineFormContent?.windKts || 0);
+        changeSettings('oat', offlineFormContent.oat || 0);
+        changeSettings('baro', offlineFormContent?.baro || 1013);
+        changeSettings(
+            'isHP',
+            offlineFormContent?.baroUnit
+                ? offlineFormContent.baroUnit === 'hPa'
+                : false
+        );
+    }, [offlineFormContent]);
 
     useEffect(() => {
         setRunways(apiRunways);
@@ -246,6 +262,40 @@ const Form = (props: Props) => {
     const handleCalculate = (e: MouseEvent<HTMLButtonElement>) => {
         calculate(settings, formValidation);
     };
+    //handleOATChange handleAltimiterUnitChange handleAltimeterChange handleWindSpeedChange handleWindDirectionChange
+
+    const handleWindDirectionChange = (e: ChangeEvent<HTMLInputElement>) => {
+        setOfflineFormContent((form) => {
+            return { ...form, windHeading: Number(e.target.value) };
+        });
+    };
+
+    const handleWindSpeedChange = (e: ChangeEvent<HTMLInputElement>) => {
+        setOfflineFormContent((form) => {
+            return { ...form, windKts: Number(e.target.value) };
+        });
+    };
+
+    const handleAltimeterChange = (e: ChangeEvent<HTMLInputElement>) => {
+        setOfflineFormContent((form) => {
+            return { ...form, baro: Number(e.target.value) };
+        });
+    };
+
+    const handleAltimiterUnitChange = (e: MouseEvent<HTMLButtonElement>) => {
+        setOfflineFormContent((form) => {
+            return {
+                ...form,
+                baroUnit: form.baroUnit === 'inHg' ? 'hPa' : 'inHg',
+            };
+        });
+    };
+
+    const handleOATChange = (e: ChangeEvent<HTMLInputElement>) => {
+        setOfflineFormContent((form) => {
+            return { ...form, oat: Number(e.target.value) };
+        });
+    };
 
     return (
         <>
@@ -325,17 +375,6 @@ const Form = (props: Props) => {
                 )}
                 {isOfflineForm && (
                     <>
-                        <Box
-                            sx={{
-                                flex: 'none',
-                                position: 'absolute',
-                                top: '17.5%',
-                                left: '14%',
-                                transform: 'scale(2.5) rotate(-45deg)',
-                            }}
-                        >
-                            <INOP />
-                        </Box>
                         <TextField
                             id="outlined-select-runway"
                             select
@@ -381,6 +420,7 @@ const Form = (props: Props) => {
                                     id="wind"
                                     placeholder="000"
                                     label="Wind"
+                                    onChange={handleWindDirectionChange}
                                     required
                                     InputProps={{
                                         endAdornment: (
@@ -396,6 +436,7 @@ const Form = (props: Props) => {
                                     id="windspeed"
                                     placeholder="0"
                                     label="Wind Speed"
+                                    onChange={handleWindSpeedChange}
                                     required
                                     InputProps={{
                                         startAdornment: (
@@ -416,11 +457,15 @@ const Form = (props: Props) => {
                             required
                             id="outlined-required"
                             label="Altimeter"
+                            onChange={handleAltimeterChange}
                             defaultValue=""
                             InputProps={{
                                 endAdornment: (
                                     <InputAdornment position="end">
-                                        <Button variant="outlined">
+                                        <Button
+                                            onClick={handleAltimiterUnitChange}
+                                            variant="outlined"
+                                        >
                                             {temporaryAltimeter === 'hpa'
                                                 ? 'hpa'
                                                 : 'inHg'}
@@ -433,6 +478,7 @@ const Form = (props: Props) => {
                             id="oat"
                             placeholder="0"
                             label="Outside Air Temp"
+                            onChange={handleOATChange}
                             required
                             InputProps={{
                                 endAdornment: (

@@ -126,7 +126,7 @@ const Debug = () => {
                 <ListItem>
                     <ListItemText
                         primary="T/Log"
-                        secondary="Offline function is currently INOP."
+                        secondary="Offline function in beta."
                     />
                 </ListItem>
             </List>

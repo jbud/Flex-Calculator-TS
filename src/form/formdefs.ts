@@ -41,6 +41,22 @@ export const defaultRunwaysForm = {
     length: '',
 };
 
+export type OfflineFormContent = {
+    windHeading?: number;
+    windKts?: number;
+    oat?: number;
+    baro?: number;
+    baroUnit?: string;
+};
+
+export const defaultOfflineFormContent: OfflineFormContent = {
+    windHeading: 0,
+    windKts: 0,
+    oat: 0,
+    baro: 0,
+    baroUnit: 'hpa',
+};
+
 export type FormContent = {
     icao?: string;
     metar?: string;
