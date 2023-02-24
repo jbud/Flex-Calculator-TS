@@ -19,6 +19,7 @@ import {
     useTheme,
 } from '@mui/material';
 
+import INOP from '../inop/inop';
 import { TakeoffInstance } from '../math/math';
 import { setMCDU } from '../store/mcdu';
 import { setRunway } from '../store/runway';
@@ -32,7 +33,10 @@ import {
 } from './formdefs';
 import { calculateTHS, useApi, validateWeight } from './formutils';
 
-const Form = () => {
+interface Props {
+    useMETAR?: boolean;
+}
+const Form = (props: Props) => {
     const disp = useDispatch();
     const mcduSetting = useSelector((state: RootState) => state.mcdu);
     const runway = useSelector((state: RootState) => state.runway);
@@ -43,6 +47,9 @@ const Form = () => {
     const [formContent, setFormContent] =
         useState<FormContent>(defaultFormContent);
     const [runways, setRunways] = useState<RunwaysForm[]>();
+    const [isOfflineForm, setIsOfflineForm] = useState(
+        props ? !props.useMETAR : false
+    );
 
     const [calculateDisabled, setCalculateDisabled] = useState(true);
     const [rwDisabled, setRWDisabled] = useState(true);
@@ -63,6 +70,12 @@ const Form = () => {
         calculate,
     ] = useApi();
 
+    let temporaryAltimeter = 'hpa'; // TODO: Remove this
+
+    useEffect(() => {
+        setIsOfflineForm(!props.useMETAR);
+    }, [props.useMETAR]);
+
     useEffect(() => {
         setMetar(apiMetar);
         changeSettings('windHeading', apiMetar?.wind?.degrees || 0);
@@ -79,7 +92,7 @@ const Form = () => {
 
     useEffect(() => {
         setRunways(apiRunways);
-        setRWDisabled(false);
+        setRWDisabled(apiRunways[0].value === ''); // TODO: Refine this check
     }, [apiRunways]);
 
     useEffect(() => {
@@ -102,7 +115,9 @@ const Form = () => {
     };
 
     const handleICAOBlur = (e: FocusEvent<HTMLInputElement>) => {
-        getMETAR(e.target.value);
+        if (!isOfflineForm) {
+            getMETAR(e.target.value);
+        }
         getRunways(e.target.value);
     };
 
@@ -148,26 +163,20 @@ const Form = () => {
     };
 
     const handleChangeWeightUnit = (e: MouseEvent<HTMLButtonElement>) => {
-        const val = (e.target as HTMLButtonElement).value;
-        changeSettings('isKG', val === 'LBS' ? true : false);
-        setFormContent((form) => {
-            return { ...form, weightUnit: val };
-        });
-
+        const val = formContent.weightUnit === 'KG' ? 'LBS' : 'KG';
+        changeSettings('isKG', val === 'KG');
         setFormValidation((valid) => {
             return {
                 ...valid,
-                weight: validateWeight(
-                    formContent.weight || 0,
-                    val === 'KG' ? 'KG' : 'LBS'
-                ),
+                weight: validateWeight(formContent.weight || 0, val),
             };
+        });
+        setFormContent((form) => {
+            return { ...form, weightUnit: val };
         });
     };
 
     const handleCGChange = (e: ChangeEvent<HTMLInputElement>) => {
-        const [cg, error] = calculateTHS(parseInt(e.target.value));
-
         if (e.target.value.length > 2) {
             if (e.target.value.includes('.') === false) {
                 e.target.value = (Number(e.target.value) / 10).toFixed(1);
@@ -177,7 +186,7 @@ const Form = () => {
         if (e.target.value.length > 4) {
             e.target.value = e.target.value.substring(0, 4);
         }
-
+        const [cg, error] = calculateTHS(parseInt(e.target.value));
         setFormValidation((valid) => {
             return {
                 ...valid,
@@ -273,32 +282,166 @@ const Form = () => {
                         maxLength: 4,
                     }}
                 />
-                <TextField
-                    id="metar"
-                    label="METAR"
-                    placeholder="Select an ICAO to populate METAR and Runways"
-                    multiline
-                    disabled
-                    value={
-                        metar?.message ||
-                        'Select an ICAO to populate METAR and Runways'
-                    }
-                />
-                <TextField
-                    id="outlined-select-runway"
-                    select
-                    required
-                    label="Select a runway"
-                    defaultValue=""
-                    disabled={rwDisabled}
-                    onChange={handleRunwayChange}
-                >
-                    {runways?.map((option) => (
-                        <MenuItem key={option.value} value={option.value}>
-                            {option.value}
-                        </MenuItem>
-                    ))}
-                </TextField>
+                {!isOfflineForm && (
+                    <>
+                        <TextField
+                            id="metar"
+                            label="METAR"
+                            placeholder="Select an ICAO to populate METAR and Runways"
+                            multiline
+                            disabled
+                            value={
+                                metar?.message ||
+                                'Select an ICAO to populate METAR and Runways'
+                            }
+                        />
+                        <TextField
+                            id="outlined-select-runway"
+                            select
+                            required
+                            label="Select a runway"
+                            defaultValue=""
+                            disabled={rwDisabled}
+                            onChange={handleRunwayChange}
+                        >
+                            {runways?.length === 0 && (
+                                <MenuItem key="-1" value="">
+                                    No Runways
+                                </MenuItem>
+                            )}
+                            {runways?.map((option) => (
+                                <MenuItem
+                                    key={option.value}
+                                    value={option.value}
+                                >
+                                    {option.value}
+                                </MenuItem>
+                            ))}
+                        </TextField>
+                    </>
+                )}
+                {isOfflineForm && (
+                    <>
+                        <Box
+                            sx={{
+                                flex: 'none',
+                                position: 'absolute',
+                                top: '17.5%',
+                                left: '14%',
+                                transform: 'scale(2.5) rotate(-45deg)',
+                            }}
+                        >
+                            <INOP />
+                        </Box>
+                        <TextField
+                            id="outlined-select-runway"
+                            select
+                            required
+                            label="Select a runway"
+                            defaultValue=""
+                            disabled={rwDisabled}
+                            onChange={handleRunwayChange}
+                        >
+                            {runways?.length === 0 && (
+                                <MenuItem key="-1" value="">
+                                    No Runways
+                                </MenuItem>
+                            )}
+                            {runways?.map((option) => (
+                                <MenuItem
+                                    key={option.value}
+                                    value={option.value}
+                                >
+                                    {option.value}
+                                </MenuItem>
+                            ))}
+                        </TextField>
+                        <Box
+                            sx={{
+                                display: 'flex',
+                                flexDirection: 'row',
+                                '& .MuiTextField-root': {
+                                    m: '0.375em',
+                                    width: '14ch',
+                                },
+                            }}
+                        >
+                            <Box
+                                sx={{
+                                    '& .MuiTextField-root': {
+                                        m: '0.375em',
+                                        width: '10ch',
+                                    },
+                                }}
+                            >
+                                <TextField
+                                    id="wind"
+                                    placeholder="000"
+                                    label="Wind"
+                                    required
+                                    InputProps={{
+                                        endAdornment: (
+                                            <InputAdornment position="end">
+                                                °
+                                            </InputAdornment>
+                                        ),
+                                    }}
+                                />
+                            </Box>
+                            <Box>
+                                <TextField
+                                    id="windspeed"
+                                    placeholder="0"
+                                    label="Wind Speed"
+                                    required
+                                    InputProps={{
+                                        startAdornment: (
+                                            <InputAdornment position="start">
+                                                @
+                                            </InputAdornment>
+                                        ),
+                                        endAdornment: (
+                                            <InputAdornment position="end">
+                                                KTS
+                                            </InputAdornment>
+                                        ),
+                                    }}
+                                />
+                            </Box>
+                        </Box>
+                        <TextField
+                            required
+                            id="outlined-required"
+                            label="Altimeter"
+                            defaultValue=""
+                            InputProps={{
+                                endAdornment: (
+                                    <InputAdornment position="end">
+                                        <Button variant="outlined">
+                                            {temporaryAltimeter === 'hpa'
+                                                ? 'hpa'
+                                                : 'inHg'}
+                                        </Button>
+                                    </InputAdornment>
+                                ),
+                            }}
+                        />
+                        <TextField
+                            id="oat"
+                            placeholder="0"
+                            label="Outside Air Temp"
+                            required
+                            InputProps={{
+                                endAdornment: (
+                                    <InputAdornment position="end">
+                                        °C
+                                    </InputAdornment>
+                                ),
+                            }}
+                        />
+                    </>
+                )}
+
                 <TextField
                     error={formValidation.weight}
                     required

@@ -117,18 +117,28 @@ const RunwayV2 = ({
                 onChange={() => setCalculated(!calculated)}
             /> */}
             <Box
-                sx={{
+                sx={(theme) => ({
+                    [theme.breakpoints.down('sm')]: {
+                        minWidth: '145px',
+                    },
+                    [theme.breakpoints.up('sm')]: {
+                        minWidth: '165px',
+                    },
+                    [theme.breakpoints.up('lg')]: {
+                        minWidth: '245px',
+                    },
+                    [theme.breakpoints.up('xl')]: {
+                        minWidth: '265px',
+                    },
                     height: '100%',
-                    maxHeight: '500px',
                     pt: 4,
                     justifyContent: 'left',
-                }}
+                })}
             >
                 <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 200 800"
                     style={{
-                        minWidth: '165px',
                         userSelect: 'none',
                         filter: 'drop-shadow(0px 0px 12px rgb(0 0 0))',
                     }}

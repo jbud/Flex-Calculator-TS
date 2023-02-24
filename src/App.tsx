@@ -7,6 +7,8 @@ import { useDispatch, useSelector } from 'react-redux';
 
 import BugReportIcon from '@mui/icons-material/BugReport';
 import ScreenRotationIcon from '@mui/icons-material/ScreenRotation';
+import WifiIcon from '@mui/icons-material/Wifi';
+import WifiOffIcon from '@mui/icons-material/WifiOff';
 import {
     AppBar,
     Backdrop,
@@ -23,7 +25,7 @@ import Debug from './debug/debug';
 import Form from './form/formv2';
 import Mcduv2 from './mcdu/mcduv2';
 import Offline from './offline/offline';
-import useScreenOrientation from './pwahooks/screenorientation';
+/* import useScreenOrientation from './pwahooks/screenorientation'; */
 import RunwayV2 from './runway/runwayv2';
 import { setDebugWindow } from './store/masterDebug';
 import { RootState } from './store/store';
@@ -52,23 +54,27 @@ function App() {
     const [heading, setHeading] = useState('0');
     const [windSpeed, setwindSpeed] = useState(0);
     const [ASD, setASD] = useState(0);
-    const orientation = useScreenOrientation();
-    const [pleaseRotate, setPleaseRotate] = useState(false);
+    const [online, setOnline] = useState(true);
+    /* const orientation = useScreenOrientation(); */
+    const [pleaseRotate] = useState(false);
 
     const disp = useDispatch();
 
     const handleClickBug = () => {
         disp(setDebugWindow(true));
     };
+    const handleClickWifi = () => {
+        setOnline(!online);
+    };
 
-    useEffect(() => {
-        if (orientation === 0 || orientation === 180) {
-            setPleaseRotate(true);
-        } else {
-            setPleaseRotate(false);
-        }
-        // eslint-disable-next-line react-hooks/exhaustive-deps
-    }, [orientation]);
+    /* useEffect(() => {
+      if (orientation === 0 || orientation === 180) {
+          setPleaseRotate(true);
+      } else {
+          setPleaseRotate(false);
+      }
+      // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [orientation]); */
 
     useEffect(() => {
         const l = runwaySetting.length ? runwaySetting.length : 0;
@@ -125,6 +131,7 @@ function App() {
                     <Toolbar
                         sx={{
                             my: '-9px',
+                            mx: '0.5em',
                         }}
                     >
                         <IconButton
@@ -133,8 +140,24 @@ function App() {
                             color="inherit"
                             aria-label="debugMode"
                             onClick={handleClickBug}
+                            sx={{
+                                mr: '0.5em',
+                            }}
                         >
                             <BugReportIcon />
+                        </IconButton>
+                        <IconButton
+                            size="medium"
+                            edge="start"
+                            color="inherit"
+                            aria-label="offlineMode"
+                            onClick={handleClickWifi}
+                            sx={{
+                                mr: '0.5em',
+                            }}
+                        >
+                            {online && <WifiIcon />}
+                            {!online && <WifiOffIcon />}
                         </IconButton>
                         <Typography
                             variant="h6"
@@ -153,22 +176,49 @@ function App() {
                     justifyContent="space-evenly"
                     alignItems="flex-start"
                 >
-                    <Form />
-                    {<Mcduv2 />}
+                    <Grid
+                        sx={(theme) => ({
+                            [theme.breakpoints.down('md')]: { order: '1' },
+                        })}
+                    >
+                        <Form useMETAR={online} />
+                    </Grid>
+                    <Grid
+                        sx={(theme) => ({
+                            [theme.breakpoints.down('md')]: { order: '3' },
+                            [theme.breakpoints.down('sm')]: { order: '2' },
+                        })}
+                    >
+                        <Mcduv2 />
+                    </Grid>
 
-                    <CrosswindCalc
-                        rwHeading={parseInt(heading ? heading : '0') * 10}
-                        windir={wind}
-                        windspeed={windSpeed}
-                    />
-                    <RunwayV2
-                        runwayLength={len}
-                        runwayMarker={
-                            runwaySetting.true ? runwaySetting.true : '???'
-                        }
-                        runwayLengthUnit={'ft'}
-                        ASD={ASD}
-                    />
+                    <Grid
+                        sx={(theme) => ({
+                            [theme.breakpoints.down('md')]: { order: '4' },
+                            [theme.breakpoints.down('sm')]: { order: '3' },
+                        })}
+                    >
+                        <CrosswindCalc
+                            rwHeading={parseInt(heading ? heading : '0') * 10}
+                            windir={wind}
+                            windspeed={windSpeed}
+                        />
+                    </Grid>
+                    <Grid
+                        sx={(theme) => ({
+                            [theme.breakpoints.down('md')]: { order: '2' },
+                            [theme.breakpoints.down('sm')]: { order: '4' },
+                        })}
+                    >
+                        <RunwayV2
+                            runwayLength={len}
+                            runwayMarker={
+                                runwaySetting.true ? runwaySetting.true : '???'
+                            }
+                            runwayLengthUnit={'ft'}
+                            ASD={ASD}
+                        />
+                    </Grid>
                 </Grid>
                 {/* </Box> */}
             </div>
