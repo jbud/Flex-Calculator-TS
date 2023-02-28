@@ -4,7 +4,8 @@ import { useDispatch, useSelector } from 'react-redux';
 
 import { Metar } from '@flybywiresim/api-client';
 
-import { FlexMath, TakeoffInstance } from '../math/math';
+import { FlexMath } from '../math/math';
+import { TakeoffInstance } from '../math/mathh';
 import { debug, DebugMessage } from '../store/masterDebug';
 import { setMCDU } from '../store/mcdu';
 import { Runway, setRunway } from '../store/runway';
