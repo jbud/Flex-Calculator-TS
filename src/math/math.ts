@@ -472,6 +472,182 @@ export class FlexMath {
         return new_y;
     }
 
+    static knotsToMetersPerSecond(knots: number) {
+        return knots * 0.514444444;
+    }
+
+    static metersPerSecondToKnots(mps: number) {
+        return mps * 1.943844492;
+    }
+
+    static timeFromVelocityAndDistance(
+        metersPerSecond: number,
+        metersTraveled: number
+    ) {
+        return metersTraveled / metersPerSecond;
+    }
+
+    static avergageAcceleration(metersPerSecond: number, time: number) {
+        return ((metersPerSecond - 0) / time) ** 2;
+    }
+
+    static speedAtDistance(metersPerSecond: number, metersTraveled: number) {
+        return metersPerSecond * metersTraveled;
+    }
+
+    static distanceFromAccelerationAndTime(
+        metersPerSecond: number,
+        time: number
+    ) {
+        return (metersPerSecond * time) ** 2;
+    }
+
+    static sumof(array: number[]) {
+        return array.reduce((a, b) => a + b, 0);
+    }
+
+    static AltitudeCorrection(params: any, densityAltitude: number) {
+        const MLAND = 67400;
+        const WeightReferenceISA2 = 60000;
+        const AltitudeCorrectionTable = [2000, 4000, 6000, 8000, 10000];
+        const StopDistanceDiffs = [61, 61, 91, 168, 178];
+
+        const DAADJ = (DA: number, BP: number) =>
+            (DA / 2000 / 100) * (BP / 100);
+
+        const densityCorrectionsTable = [
+            densityAltitude > AltitudeCorrectionTable[0]
+                ? StopDistanceDiffs[0]
+                : DAADJ(densityAltitude, StopDistanceDiffs[0]),
+            densityAltitude > AltitudeCorrectionTable[1]
+                ? StopDistanceDiffs[1]
+                : DAADJ(
+                      densityAltitude - AltitudeCorrectionTable[1],
+                      StopDistanceDiffs[1]
+                  ),
+            densityAltitude > AltitudeCorrectionTable[2]
+                ? StopDistanceDiffs[2]
+                : DAADJ(
+                      densityAltitude - AltitudeCorrectionTable[2],
+                      StopDistanceDiffs[2]
+                  ),
+            densityAltitude > AltitudeCorrectionTable[3]
+                ? StopDistanceDiffs[3]
+                : DAADJ(
+                      densityAltitude - AltitudeCorrectionTable[3],
+                      StopDistanceDiffs[3]
+                  ),
+            densityAltitude < AltitudeCorrectionTable[4]
+                ? 0
+                : DAADJ(
+                      densityAltitude - AltitudeCorrectionTable[4],
+                      StopDistanceDiffs[4]
+                  ),
+        ];
+
+        const densityCorrectionMultiplier =
+            FlexMath.sumof(densityCorrectionsTable) > 0
+                ? FlexMath.sumof(densityCorrectionsTable)
+                : 0;
+        const AltitudeCorrectionStage1 =
+            (densityCorrectionMultiplier / 100) *
+            (params.tow / WeightReferenceISA2 / 100);
+        return (
+            AltitudeCorrectionStage1 -
+            ((AltitudeCorrectionStage1 -
+                (AltitudeCorrectionStage1 / 100) * (params.tow / MLAND / 100)) /
+                100) *
+                1
+        );
+    }
+
+    static calibratedDistance(params: any, densityAltitude: number) {
+        const DistanceRequiredISATable = [1143, 1341, 1621];
+        const WeightReferenceISATable = [50000, 60000, 70000];
+        const diffsTable = [
+            (DistanceRequiredISATable[1] - DistanceRequiredISATable[0]) /
+                (WeightReferenceISATable[1] - WeightReferenceISATable[0]),
+            (DistanceRequiredISATable[2] - DistanceRequiredISATable[1]) /
+                (WeightReferenceISATable[2] - WeightReferenceISATable[1]),
+        ];
+        diffsTable[2] = diffsTable[1] * 1.5;
+
+        const StopDistanceRef1 =
+            params.tow < WeightReferenceISATable[1]
+                ? diffsTable[0] * (params.tow - WeightReferenceISATable[0])
+                : diffsTable[0] *
+                  (WeightReferenceISATable[1] - WeightReferenceISATable[0]);
+        const StopDistanceRef2 =
+            params.tow < WeightReferenceISATable[1]
+                ? 0
+                : params.tow < WeightReferenceISATable[2]
+                ? diffsTable[1] * (params.tow - WeightReferenceISATable[1])
+                : diffsTable[1] *
+                  (WeightReferenceISATable[2] - WeightReferenceISATable[1]);
+        const StopDistanceRef3 =
+            params.tow < WeightReferenceISATable[2]
+                ? 0
+                : diffsTable[2] * (params.tow - WeightReferenceISATable[2]);
+
+        const SumOfSDRefs = this.sumof([
+            StopDistanceRef1,
+            StopDistanceRef2,
+            StopDistanceRef3,
+        ]);
+        const SDRef =
+            SumOfSDRefs >= 0
+                ? SumOfSDRefs + DistanceRequiredISATable[0]
+                : DistanceRequiredISATable[0];
+        return FlexMath.AltitudeCorrection(params, densityAltitude) + SDRef;
+    }
+
+    static calculateStopDistanceReq(params: any) {
+        const flapMultiplier = [1, 1.2, 1.15, 1.1];
+
+        const altitude = params.altitude;
+        const oat = params.oat;
+        const baro = params.baro;
+        const runwayCondition = params.runwayCondition;
+        const headwind = params.headwind;
+        const flaps: number = parseInt(params.flaps);
+        const speed = params.speed;
+
+        let densityAltitude =
+            altitude +
+            (BARO_SEA - baro) * 27 +
+            (oat - (15 - (altitude / 1000) * 2)) * 120;
+        densityAltitude =
+            densityAltitude < 0 ? densityAltitude / 2 : densityAltitude;
+
+        const calibratedDistance = FlexMath.calibratedDistance(
+            params,
+            densityAltitude
+        ); //TODO: BO14
+
+        const FlapAdjusted = calibratedDistance * flapMultiplier[flaps];
+        let windAdjusted: number;
+
+        if (headwind > 0) {
+            windAdjusted =
+                FlapAdjusted -
+                ((FlapAdjusted / 100) * (headwind / (speed / 100))) / 2;
+        } else {
+            windAdjusted =
+                FlapAdjusted -
+                (FlapAdjusted / 100) * (headwind / (speed / 100));
+        }
+        return (
+            windAdjusted +
+            FlexMath.calculateRCAM(windAdjusted, runwayCondition) +
+            FlexMath.knotsToMetersPerSecond(speed) * 5 // 5 second buffer.
+        );
+    }
+
+    static calculateRCAM(distance: number, runwayCondition: number) {
+        const runwayConditions = [0, 0.15]; // dry/wet
+        return distance * runwayConditions[runwayCondition];
+    }
+
     static round5up(x: number) {
         return Math.ceil(x / 5) * 5;
     }
@@ -497,10 +673,7 @@ export class FlexMath {
 
         v2 += FlexMath.f2corr(f, a);
 
-        /* const v2diff =
-            v2 - a20nTakeoff[f.toString()][FlexMath.round5down(w).toString()]; */
-        const V2Speed =
-            v2 + /*  Math.ceil((v2diff / 5) * */ FlexMath.distfrom5(w);
+        const V2Speed = Math.ceil(v2 + FlexMath.distfrom5(w));
         return Math.ceil(V2Speed);
     }
 
