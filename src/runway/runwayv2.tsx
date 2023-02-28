@@ -33,7 +33,6 @@ const RunwayV2 = ({
             const ASDLoc = Math.round(
                 (1 - (ASD * 3.28084) / runwayLength) * 700
             );
-            const stopM = (ASDLoc - 700) * -1;
             setAsdLoc(ASDLoc < 60 ? ASDLoc + 60 : ASDLoc);
             setCalculated(true);
             setStopMargin(Math.round(runwayLength - ASD * 3.28084));
