@@ -16,7 +16,8 @@ import {
 } from '@mui/material';
 
 /* import INOP from '../inop/inop'; */
-import { FlexMath, TakeoffInstance } from '../math/math';
+import { FlexMath } from '../math/math';
+import { TakeoffInstance } from '../math/mathh';
 import { setManual } from '../store/manual';
 import { debug, DebugMessage } from '../store/masterDebug';
 import { setMCDU } from '../store/mcdu';

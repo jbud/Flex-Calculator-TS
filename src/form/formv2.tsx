@@ -19,7 +19,7 @@ import {
     useTheme,
 } from '@mui/material';
 
-import { TakeoffInstance } from '../math/math';
+import { TakeoffInstance } from '../math/mathh';
 import { setMCDU } from '../store/mcdu';
 import { setRunway } from '../store/runway';
 import { RootState } from '../store/store';
