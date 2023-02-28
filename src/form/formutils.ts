@@ -92,8 +92,10 @@ export const useApi = (): [
         VR: number
     )*/
         const temp1 = settings.runwayCondition === 850 ? 0 : 1;
-        FlexMath.outPutV1Speeds(
+        const v1ver2 = FlexMath.V1SpeedVer2(
             settings.runwayAltitude,
+            settings.availRunway,
+            settings.requiredRunway,
             settings.oat,
             settings.baro,
             temp1,
@@ -104,11 +106,15 @@ export const useApi = (): [
             settings.tow,
             vSpeeds.vr
         );
+        sendDebug({
+            title: 'Calculate: INFO',
+            message: 'correctedV1: ' + v1ver2 + '',
+        });
         disp(
             setMCDU({
                 ...mcduSetting,
                 flex: ret.flex < ret.minFlex ? 'USE TOGA [ ]' : ret.flex,
-                v1: vSpeeds.v1,
+                v1: v1ver2,
                 vr: vSpeeds.vr,
                 v2: vSpeeds.v2,
                 speedSet: true,

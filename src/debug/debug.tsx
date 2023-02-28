@@ -126,7 +126,7 @@ const Debug = () => {
                 <ListItem>
                     <ListItemText
                         primary="T/Log"
-                        secondary="Offline function in beta."
+                        secondary={`*Offline function in beta. *V1 version 2 now in beta.`}
                     />
                 </ListItem>
             </List>

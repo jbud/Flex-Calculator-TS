@@ -491,6 +491,10 @@ export class FlexMath {
         return metersPerSecond / time; //////
     }
 
+    static timeFromDistanceAndSpeed(metersTraveled: number, speed: number) {
+        return metersTraveled / speed;
+    }
+
     static speedAtDistance(metersPerSecond: number, metersTraveled: number) {
         return (
             FlexMath.timeFromAccelerationAndDistance(
@@ -498,6 +502,13 @@ export class FlexMath {
                 metersTraveled
             ) * metersPerSecond
         ); //////
+    }
+
+    static distanceFromAccelerationAndSpeed(
+        metersPerSecond: number,
+        speed: number
+    ) {
+        return speed ** 2 / metersPerSecond;
     }
 
     static distanceFromAccelerationAndTime(
@@ -607,8 +618,10 @@ export class FlexMath {
         return FlexMath.AltitudeCorrection(params, densityAltitude) + SDRef;
     }
 
-    static outPutV1Speeds(
+    static V1SpeedVer2(
         runwayAltitude: number,
+        runwayLength: number,
+        runwayRequired: number,
         oat: number,
         baro: number,
         runwayCondition: number,
@@ -633,11 +646,31 @@ export class FlexMath {
             tow: tow,
             speed: 0,
         };
+        let V1Candidate = -1;
         for (let i = VR; i >= 100; i--) {
             params.speed = i;
             let distance = FlexMath.calculateStopDistanceReq(params);
-            console.log(`${i}kts: ${distance}m`);
+            let time = FlexMath.timeFromDistanceAndSpeed(
+                runwayRequired / 2,
+                FlexMath.knotsToMetersPerSecond(VR)
+            );
+            let acc = FlexMath.avergageAcceleration(
+                FlexMath.knotsToMetersPerSecond(VR),
+                time
+            );
+
+            let tDistance = FlexMath.distanceFromAccelerationAndSpeed(
+                acc,
+                FlexMath.knotsToMetersPerSecond(i)
+            );
+            const RemainingRunway =
+                FlexMath.parseDist(runwayLength, false) -
+                (tDistance + distance);
+            if (RemainingRunway >= 0 && i > V1Candidate) {
+                V1Candidate = i;
+            }
         }
+        return V1Candidate;
     }
 
     static calculateStopDistanceReq(params: any) {
