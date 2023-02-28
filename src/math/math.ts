@@ -480,26 +480,32 @@ export class FlexMath {
         return mps * 1.943844492;
     }
 
-    static timeFromVelocityAndDistance(
+    static timeFromAccelerationAndDistance(
         metersPerSecond: number,
         metersTraveled: number
     ) {
-        return metersTraveled / metersPerSecond;
+        return Math.sqrt(metersTraveled / metersPerSecond); //////
     }
 
     static avergageAcceleration(metersPerSecond: number, time: number) {
-        return ((metersPerSecond - 0) / time) ** 2;
+        return metersPerSecond / time; //////
     }
 
     static speedAtDistance(metersPerSecond: number, metersTraveled: number) {
-        return metersPerSecond * metersTraveled;
+        return (
+            FlexMath.timeFromAccelerationAndDistance(
+                metersPerSecond,
+                metersTraveled
+            ) * metersPerSecond
+        ); //////
     }
 
     static distanceFromAccelerationAndTime(
+        //////
         metersPerSecond: number,
         time: number
     ) {
-        return (metersPerSecond * time) ** 2;
+        return metersPerSecond * time ** 2;
     }
 
     static sumof(array: number[]) {
@@ -601,6 +607,39 @@ export class FlexMath {
         return FlexMath.AltitudeCorrection(params, densityAltitude) + SDRef;
     }
 
+    static outPutV1Speeds(
+        runwayAltitude: number,
+        oat: number,
+        baro: number,
+        runwayCondition: number,
+        windHeading: number,
+        windKts: number,
+        runwayHeading: number,
+        flaps: number,
+        tow: number,
+        VR: number
+    ) {
+        const headwind =
+            Math.cos((windHeading - runwayHeading * 10) * (Math.PI / 180)) *
+            windKts;
+
+        const params = {
+            altitude: runwayAltitude,
+            oat: oat,
+            baro: FlexMath.parseQNH(baro, false),
+            runwayCondition: runwayCondition,
+            headwind: headwind,
+            flaps: flaps,
+            tow: tow,
+            speed: 0,
+        };
+        for (let i = VR; i >= 100; i--) {
+            params.speed = i;
+            let distance = FlexMath.calculateStopDistanceReq(params);
+            console.log(`${i}kts: ${distance}m`);
+        }
+    }
+
     static calculateStopDistanceReq(params: any) {
         const flapMultiplier = [1, 1.2, 1.15, 1.1];
 
@@ -622,7 +661,7 @@ export class FlexMath {
         const calibratedDistance = FlexMath.calibratedDistance(
             params,
             densityAltitude
-        ); //TODO: BO14
+        );
 
         const FlapAdjusted = calibratedDistance * flapMultiplier[flaps];
         let windAdjusted: number;

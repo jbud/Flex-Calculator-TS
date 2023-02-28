@@ -80,7 +80,30 @@ export const useApi = (): [
                         : ret.requiredRunway,
             };
         });
-
+        /*outPutV1Speeds(
+        runwayAltitude: number,
+        oat: number,
+        baro: number,
+        runwayCondition: number,
+        windHeading: number,
+        windKts: number,
+        runwayHeading: number,
+        flaps: number,
+        VR: number
+    )*/
+        const temp1 = settings.runwayCondition === 850 ? 0 : 1;
+        FlexMath.outPutV1Speeds(
+            settings.runwayAltitude,
+            settings.oat,
+            settings.baro,
+            temp1,
+            settings.windHeading,
+            settings.windKts,
+            settings.runwayHeading,
+            settings.flaps,
+            settings.tow,
+            vSpeeds.vr
+        );
         disp(
             setMCDU({
                 ...mcduSetting,
