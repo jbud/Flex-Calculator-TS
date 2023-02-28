@@ -36,7 +36,7 @@ const RunwayV2 = ({
             const stopM = (ASDLoc - 700) * -1;
             setAsdLoc(ASDLoc < 60 ? ASDLoc + 60 : ASDLoc);
             setCalculated(true);
-            setStopMargin(Math.round(stopM));
+            setStopMargin(Math.round(runwayLength - ASD * 3.28084));
         }
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [ASD]); // DO NOT DEPEND ON runwayLength
