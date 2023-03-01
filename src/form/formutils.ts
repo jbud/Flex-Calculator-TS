@@ -121,6 +121,12 @@ export const useApi = (): [
         if (v1ver2 === -1) {
             takeoffInvalid = true;
         }
+        if (
+            settings.togaRequiredRunway >
+            FlexMath.parseDist(settings.availRunway, false)
+        ) {
+            takeoffInvalid = true;
+        }
         sendDebug({
             title: 'Calculate: INFO',
             message: 'correctedV1: ' + v1ver2 + '',

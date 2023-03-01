@@ -391,9 +391,10 @@ export class FlexMath {
         let V1Candidate = -1;
         for (let i = VR; i >= 100; i--) {
             params.speed = i;
-            const distance = FlexMath.calculateStopDistanceReq(params);
+            let distance = FlexMath.calculateStopDistanceReq(params);
+            distance /= 3; // Max Manual Braking.
             const time = FlexMath.timeFromDistanceAndSpeed(
-                runwayRequired - 1621,
+                runwayRequired,
                 FlexMath.knotsToMetersPerSecond(VR)
             );
             const acc = FlexMath.avergageAcceleration(
