@@ -2,10 +2,11 @@ import './mcdu/mcdu.css';
 import './App.css';
 import './mcdu/mcduv2.css';
 
-import { useEffect, useState } from 'react';
+import { MouseEvent, useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
 import BugReportIcon from '@mui/icons-material/BugReport';
+import FlightTakeoffIcon from '@mui/icons-material/FlightTakeoff';
 import ScreenRotationIcon from '@mui/icons-material/ScreenRotation';
 import WifiIcon from '@mui/icons-material/Wifi';
 import WifiOffIcon from '@mui/icons-material/WifiOff';
@@ -15,6 +16,8 @@ import {
     Box,
     Grid,
     IconButton,
+    Menu,
+    MenuItem,
     Toolbar,
     Typography,
 } from '@mui/material';
@@ -57,7 +60,12 @@ function App() {
     const [online, setOnline] = useState(true);
     /* const orientation = useScreenOrientation(); */
     const [pleaseRotate] = useState(false);
+    const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
+    const open = Boolean(anchorEl);
 
+    const handleClose = () => {
+        setAnchorEl(null);
+    };
     const disp = useDispatch();
 
     const handleClickBug = () => {
@@ -65,6 +73,9 @@ function App() {
     };
     const handleClickWifi = () => {
         setOnline(!online);
+    };
+    const handleClickAirplane = (e: MouseEvent<HTMLElement>) => {
+        setAnchorEl(e.currentTarget);
     };
 
     /* useEffect(() => {
@@ -159,6 +170,55 @@ function App() {
                             {online && <WifiIcon />}
                             {!online && <WifiOffIcon />}
                         </IconButton>
+                        <IconButton
+                            size="medium"
+                            edge="start"
+                            color="inherit"
+                            aria-label="airframeSelection"
+                            onClick={handleClickAirplane}
+                            sx={{
+                                mr: '0.5em',
+                            }}
+                        >
+                            <FlightTakeoffIcon />
+                        </IconButton>
+                        <Menu
+                            id="basic-menu"
+                            anchorEl={anchorEl}
+                            open={open}
+                            onClose={handleClose}
+                            MenuListProps={{
+                                'aria-labelledby': 'basic-button',
+                            }}
+                        >
+                            <MenuItem disabled onClick={handleClose}>
+                                A318-100
+                            </MenuItem>
+                            <MenuItem disabled onClick={handleClose}>
+                                A319-133
+                            </MenuItem>
+                            <MenuItem onClick={handleClose}>
+                                A320-251 Neo
+                            </MenuItem>
+                            <MenuItem disabled onClick={handleClose}>
+                                A321-251 Neo (LEAP)
+                            </MenuItem>
+                            <MenuItem disabled onClick={handleClose}>
+                                A321-253 Neo (LEAP LR)
+                            </MenuItem>
+                            <MenuItem disabled onClick={handleClose}>
+                                A321-271 Neo (PW)
+                            </MenuItem>
+                            <MenuItem disabled onClick={handleClose}>
+                                A321-273 Neo (PW LR)
+                            </MenuItem>
+                            <MenuItem disabled onClick={handleClose}>
+                                A330-941 Neo
+                            </MenuItem>
+                            <MenuItem disabled onClick={handleClose}>
+                                A380-841
+                            </MenuItem>
+                        </Menu>
                         <Typography
                             variant="h6"
                             component="div"
