@@ -72,15 +72,7 @@ export const useApi = (): [
             title: 'Calculate: INFO',
             message: JSON.stringify(settings),
         });
-        setRunwayStateDispatcher((state) => {
-            return {
-                ...state,
-                asd:
-                    ret.flex < ret.minFlex
-                        ? ret.togaRequiredRunway
-                        : ret.requiredRunway,
-            };
-        });
+
         /*outPutV1Speeds(
         runwayAltitude: number,
         oat: number,
@@ -93,7 +85,9 @@ export const useApi = (): [
         VR: number
     )*/
         const temp1 = settings.runwayCondition === 850 ? 0 : 1;
-        const v1ver2 = FlexMath.V1SpeedVer2(
+        let signal = false;
+        let takeoffInvalid = false;
+        let v1ver2 = FlexMath.V1SpeedVer2(
             settings.runwayAltitude,
             settings.availRunway,
             settings.requiredRunway,
@@ -107,17 +101,51 @@ export const useApi = (): [
             settings.tow,
             vSpeeds.vr
         );
+        if (v1ver2 === -1) {
+            signal = true;
+            v1ver2 = FlexMath.V1SpeedVer2(
+                settings.runwayAltitude,
+                settings.availRunway,
+                settings.togaRequiredRunway, // try with TOGA distance
+                settings.oat,
+                settings.baro,
+                temp1,
+                settings.windHeading,
+                settings.windKts,
+                settings.runwayHeading,
+                settings.flaps,
+                settings.tow,
+                vSpeeds.vr
+            );
+        }
+        if (v1ver2 === -1) {
+            takeoffInvalid = true;
+        }
         sendDebug({
             title: 'Calculate: INFO',
             message: 'correctedV1: ' + v1ver2 + '',
         });
+        setRunwayStateDispatcher((state) => {
+            return {
+                ...state,
+                asd: takeoffInvalid
+                    ? 0
+                    : ret.flex < ret.minFlex || signal
+                    ? ret.togaRequiredRunway
+                    : ret.requiredRunway,
+            };
+        });
         disp(
             setMCDU({
                 ...mcduSetting,
-                flex: ret.flex < ret.minFlex ? 'USE TOGA [ ]' : ret.flex,
-                v1: v1ver2,
-                vr: vSpeeds.vr,
-                v2: vSpeeds.v2,
+                flex: takeoffInvalid
+                    ? 'INVALID TAKEOFF [ ]'
+                    : ret.flex < ret.minFlex || signal
+                    ? 'USE TOGA [ ]'
+                    : ret.flex,
+                v1: takeoffInvalid ? 0 : v1ver2,
+                vr: takeoffInvalid ? 0 : vSpeeds.vr,
+                v2: takeoffInvalid ? 0 : vSpeeds.v2,
                 speedSet: true,
             })
         );

@@ -391,25 +391,26 @@ export class FlexMath {
         let V1Candidate = -1;
         for (let i = VR; i >= 100; i--) {
             params.speed = i;
-            let distance = FlexMath.calculateStopDistanceReq(params);
-            let time = FlexMath.timeFromDistanceAndSpeed(
-                runwayRequired / 2,
+            const distance = FlexMath.calculateStopDistanceReq(params);
+            const time = FlexMath.timeFromDistanceAndSpeed(
+                (runwayRequired - 1621) / 2,
                 FlexMath.knotsToMetersPerSecond(VR)
             );
-            let acc = FlexMath.avergageAcceleration(
+            const acc = FlexMath.avergageAcceleration(
                 FlexMath.knotsToMetersPerSecond(VR),
                 time
             );
 
-            let tDistance = FlexMath.distanceFromAccelerationAndSpeed(
+            const currDistance = FlexMath.distanceFromAccelerationAndSpeed(
                 acc,
                 FlexMath.knotsToMetersPerSecond(i)
             );
             const RemainingRunway =
                 FlexMath.parseDist(runwayLength, false) -
-                (tDistance + distance);
+                (currDistance + distance);
             if (RemainingRunway >= 0 && i > V1Candidate) {
                 V1Candidate = i;
+                //return V1Candidate;
             }
         }
         return V1Candidate;
@@ -453,7 +454,7 @@ export class FlexMath {
         return (
             windAdjusted +
             FlexMath.calculateRCAM(windAdjusted, runwayCondition) +
-            FlexMath.knotsToMetersPerSecond(speed) * 5 // 5 second buffer.
+            FlexMath.knotsToMetersPerSecond(speed) * 3 // 3 second buffer.
         );
     }
 
