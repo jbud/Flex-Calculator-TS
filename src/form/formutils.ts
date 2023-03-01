@@ -98,7 +98,7 @@ export const useApi = (): [
             settings.windKts,
             settings.runwayHeading,
             settings.flaps,
-            settings.tow,
+            FlexMath.parseWeight(settings.tow, settings.isKG),
             vSpeeds.vr
         );
         if (v1ver2 === -1) {
@@ -114,7 +114,7 @@ export const useApi = (): [
                 settings.windKts,
                 settings.runwayHeading,
                 settings.flaps,
-                settings.tow,
+                FlexMath.parseWeight(settings.tow, settings.isKG),
                 vSpeeds.vr
             );
         }

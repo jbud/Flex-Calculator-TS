@@ -362,7 +362,12 @@ function Mcduv2() {
                 </text>
                 <text
                     style={{
-                        fill: 'rgb(46, 204, 250)',
+                        fill:
+                            mcduSettings.flex === 'INVALID TAKEOFF [ ]'
+                                ? 'rgb(255, 0, 0)'
+                                : mcduSettings.flex === 'USE TOGA [ ]'
+                                ? 'rgb(255, 255, 0)'
+                                : 'rgb(46, 204, 250)',
                         fontFamily: 'HoneywellMCDU',
                         fontSize: 17,
                         whiteSpace: 'pre',

@@ -393,7 +393,7 @@ export class FlexMath {
             params.speed = i;
             const distance = FlexMath.calculateStopDistanceReq(params);
             const time = FlexMath.timeFromDistanceAndSpeed(
-                (runwayRequired - 1621) / 2,
+                runwayRequired - 1621,
                 FlexMath.knotsToMetersPerSecond(VR)
             );
             const acc = FlexMath.avergageAcceleration(
