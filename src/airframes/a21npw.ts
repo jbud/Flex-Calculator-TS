@@ -1,7 +1,7 @@
 import { Airframe } from './airframes.h';
 
 export const a21npw: Airframe = {
-    name: 'A21N',
+    name: 'A21NPW',
     Engines: 'PW1000G',
     MTOW: 97000,
     OEW: 50100,

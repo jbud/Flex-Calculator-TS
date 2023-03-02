@@ -1,7 +1,7 @@
 import { Airframe } from './airframes.h';
 
 export const a21nlp: Airframe = {
-    name: 'A21N',
+    name: 'A21NLP',
     Engines: 'LEAP-1A',
     MTOW: 97000,
     OEW: 50100,

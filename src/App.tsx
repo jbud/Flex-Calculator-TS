@@ -24,12 +24,14 @@ import {
 import CssBaseline from '@mui/material/CssBaseline';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 
+import { a20n, a21nlp, a21npw, a339, Airframe } from './airframes/index';
 import Debug from './debug/debug';
 import Form from './form/formv2';
 import Mcduv2 from './mcdu/mcduv2';
 import Offline from './offline/offline';
 /* import useScreenOrientation from './pwahooks/screenorientation'; */
 import RunwayV2 from './runway/runwayv2';
+import { setAirframe } from './store/airframe';
 import { setDebugWindow } from './store/masterDebug';
 import { RootState } from './store/store';
 import CrosswindCalc from './wind/crosswind';
@@ -51,7 +53,9 @@ const darkTheme = createTheme({
 });
 
 function App() {
+    const disp = useDispatch();
     const runwaySetting = useSelector((state: RootState) => state.runway);
+    const airframeSelection = useSelector((state: RootState) => state.airframe);
     const [len, setLen] = useState(0);
     const [wind, setWind] = useState(0);
     const [heading, setHeading] = useState('0');
@@ -61,12 +65,12 @@ function App() {
     /* const orientation = useScreenOrientation(); */
     const [pleaseRotate] = useState(false);
     const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
+    const [selectedAirframe, setSelectedAirframe] = useState('A20N');
     const open = Boolean(anchorEl);
 
     const handleClose = () => {
         setAnchorEl(null);
     };
-    const disp = useDispatch();
 
     const handleClickBug = () => {
         disp(setDebugWindow(true));
@@ -76,6 +80,48 @@ function App() {
     };
     const handleClickAirplane = (e: MouseEvent<HTMLElement>) => {
         setAnchorEl(e.currentTarget);
+    };
+
+    type AFTable = {
+        [key: string]: Airframe;
+    };
+
+    const airframes: AFTable = {
+        a318: a20n,
+        a319: a20n,
+        a320n: a20n,
+        a321nl: a21nlp,
+        a321nxl: a21nlp,
+        a321np: a21npw,
+        a321nxp: a21npw,
+        a339: a339,
+        a380: a20n,
+    };
+
+    const changeAirframe = (selection: string) => {
+        disp(setAirframe(airframes[selection]));
+    };
+
+    type StringsTable = {
+        [key: string]: string;
+    };
+
+    useEffect(() => {
+        const reverseTable: StringsTable = {
+            A20N: 'a320n',
+            A21NPW: 'a321np',
+            A21NLP: 'a321nl',
+            A339: 'a339',
+        };
+        const selection = airframeSelection.name;
+        if (selection) {
+            setSelectedAirframe(reverseTable[selection]);
+        }
+    }, [airframeSelection]);
+
+    const handleChangeAirframe = (e: MouseEvent<HTMLElement>) => {
+        changeAirframe(e.currentTarget.id);
+        handleClose();
     };
 
     /* useEffect(() => {
@@ -191,31 +237,75 @@ function App() {
                                 'aria-labelledby': 'basic-button',
                             }}
                         >
-                            <MenuItem disabled onClick={handleClose}>
+                            <MenuItem
+                                id="a318"
+                                selected={selectedAirframe === 'a318'}
+                                disabled
+                                onClick={handleChangeAirframe}
+                            >
                                 A318-100
                             </MenuItem>
-                            <MenuItem disabled onClick={handleClose}>
+                            <MenuItem
+                                id="a319"
+                                selected={selectedAirframe === 'a319'}
+                                disabled
+                                onClick={handleChangeAirframe}
+                            >
                                 A319-133
                             </MenuItem>
-                            <MenuItem onClick={handleClose}>
+                            <MenuItem
+                                id="a320n"
+                                selected={selectedAirframe === 'a320n'}
+                                onClick={handleChangeAirframe}
+                            >
                                 A320-251 Neo
                             </MenuItem>
-                            <MenuItem disabled onClick={handleClose}>
+                            <MenuItem
+                                id="a321nl"
+                                selected={selectedAirframe === 'a321nl'}
+                                disabled
+                                onClick={handleChangeAirframe}
+                            >
                                 A321-251 Neo (LEAP)
                             </MenuItem>
-                            <MenuItem disabled onClick={handleClose}>
+                            <MenuItem
+                                id="a321nxl"
+                                selected={selectedAirframe === 'a321nxl'}
+                                disabled
+                                onClick={handleChangeAirframe}
+                            >
                                 A321-253 Neo (LEAP LR)
                             </MenuItem>
-                            <MenuItem disabled onClick={handleClose}>
+                            <MenuItem
+                                id="a321np"
+                                selected={selectedAirframe === 'a321np'}
+                                disabled
+                                onClick={handleChangeAirframe}
+                            >
                                 A321-271 Neo (PW)
                             </MenuItem>
-                            <MenuItem disabled onClick={handleClose}>
+                            <MenuItem
+                                id="a321nxp"
+                                selected={selectedAirframe === 'a321nxp'}
+                                disabled
+                                onClick={handleChangeAirframe}
+                            >
                                 A321-273 Neo (PW LR)
                             </MenuItem>
-                            <MenuItem disabled onClick={handleClose}>
+                            <MenuItem
+                                id="a339"
+                                selected={selectedAirframe === 'a339'}
+                                disabled
+                                onClick={handleChangeAirframe}
+                            >
                                 A330-941 Neo
                             </MenuItem>
-                            <MenuItem disabled onClick={handleClose}>
+                            <MenuItem
+                                id="a380"
+                                selected={selectedAirframe === 'a380'}
+                                disabled
+                                onClick={handleChangeAirframe}
+                            >
                                 A380-841
                             </MenuItem>
                         </Menu>

@@ -1,5 +1,6 @@
 import { configureStore } from '@reduxjs/toolkit';
 
+import airframeReducer from './airframe';
 import manualReducer from './manual';
 import masterDebugReducer from './masterDebug';
 import mcduReducer from './mcdu';
@@ -11,6 +12,7 @@ export const store = configureStore({
         mcdu: mcduReducer,
         runway: runwayReducer,
         debug: masterDebugReducer,
+        airframe: airframeReducer,
     },
 });
 
