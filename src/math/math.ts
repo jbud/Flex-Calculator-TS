@@ -419,7 +419,7 @@ export class FlexMath {
 
     static calculateStopDistanceReq(params: any) {
         const flapMultiplier = [1, 1.2, 1.15, 1.1];
-
+        const ISAIncrease = 15;
         const altitude = params.altitude;
         const oat = params.oat;
         const baro = params.baro;
@@ -431,7 +431,7 @@ export class FlexMath {
         let densityAltitude =
             altitude +
             (BARO_SEA - baro) * 27 +
-            (oat - (15 - (altitude / 1000) * 2)) * 120;
+            (oat - (ISAIncrease - (altitude / 1000) * 2)) * 120;
         densityAltitude =
             densityAltitude < 0 ? densityAltitude / 2 : densityAltitude;
 

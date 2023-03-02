@@ -1,0 +1,81 @@
+import { Airframe } from './airframes.h';
+
+export const a20n: Airframe = {
+    name: 'A20N',
+    Engines: 'LEAP-1A',
+    MTOW: 79000,
+    OEW: 42500,
+    MLW: 67400,
+    ISAIncrease: 15,
+    Trim: {
+        MinCG: 17,
+        MaxCG: 40,
+        MinTrim: -2.5,
+        MaxTrim: 3.8,
+    },
+    Takeoff: {
+        RotateISA: 142,
+        WeightReferenceISA: [50000, 75000, 85000],
+        TakeoffDistanceTable: [1000, 1690, 2300],
+        TakeoffDistanceTableISA: [1050, 1750, 2390],
+        AltitudeAdjustment: 100,
+        TMAXFlex: 60,
+        TREFAICE: 30,
+        ThrustMultiplier: 10031,
+        FlapsMultiplier: [10, 1e-7, -5],
+        TakeoffRef2Alt2000: 1770,
+        TakeoffRef2Alt4000: 1920,
+        TakeoffRef2Alt6000: 2050,
+        TakeoffRef2Alt8000: 2330,
+    },
+    Landing: {
+        WeightReferenceISA: [50000, 60000, 70000],
+        DistanceReferenceISA: [1143, 1341, 1621],
+        FlapsMultiplier: [1, 1.2, 1.15, 1.1],
+        RunwayConditionMultiplier: [0, 0.15],
+        AltitudeCorrectionTable: [2000, 4000, 6000, 8000, 10000],
+        StopDistanceDiffs: [61, 61, 91, 168, 178],
+    },
+    VSpeeds: {
+        // VSpeeds[Flaps][Weight] ; FBW A32NX
+        '1': {
+            // Conf 1+F
+            '35': 126,
+            '40': 126,
+            '45': 126,
+            '50': 127,
+            '55': 127,
+            '60': 132,
+            '65': 137,
+            '70': 142,
+            '75': 147,
+            '80': 152,
+        },
+        '2': {
+            // Conf 2
+            '35': 126,
+            '40': 126,
+            '45': 126,
+            '50': 126,
+            '55': 127,
+            '60': 127,
+            '65': 132,
+            '70': 137,
+            '75': 141,
+            '80': 146,
+        },
+        '3': {
+            // Conf 3
+            '35': 125,
+            '40': 125,
+            '45': 125,
+            '50': 125,
+            '55': 125,
+            '60': 128,
+            '65': 129,
+            '70': 132,
+            '75': 141,
+            '80': 141,
+        },
+    },
+};
