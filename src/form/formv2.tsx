@@ -39,6 +39,7 @@ interface Props {
 }
 const Form = (props: Props) => {
     const disp = useDispatch();
+    const airframe = useSelector((state: RootState) => state.airframe);
     const mcduSetting = useSelector((state: RootState) => state.mcdu);
     const runway = useSelector((state: RootState) => state.runway);
     const theme = useTheme();
@@ -175,7 +176,8 @@ const Form = (props: Props) => {
                 ...valid,
                 weight: validateWeight(
                     parseInt(e.target.value),
-                    formContent?.weightUnit!
+                    formContent?.weightUnit!,
+                    airframe
                 ),
             };
         });
@@ -187,7 +189,7 @@ const Form = (props: Props) => {
         setFormValidation((valid) => {
             return {
                 ...valid,
-                weight: validateWeight(formContent.weight || 0, val),
+                weight: validateWeight(formContent.weight || 0, val, airframe),
             };
         });
         setFormContent((form) => {
@@ -205,7 +207,7 @@ const Form = (props: Props) => {
         if (e.target.value.length > 4) {
             e.target.value = e.target.value.substring(0, 4);
         }
-        const [cg, error] = calculateTHS(parseInt(e.target.value));
+        const [cg, error] = calculateTHS(parseInt(e.target.value), airframe);
         setFormValidation((valid) => {
             return {
                 ...valid,
@@ -502,11 +504,13 @@ const Form = (props: Props) => {
                     inputProps={{
                         step: '10',
                         min:
-                            formContent.weightUnit === 'KG' ? '37230' : '82070',
+                            formContent.weightUnit === 'KG'
+                                ? airframe.OEW
+                                : airframe.OEW * 2.20462262185,
                         max:
                             formContent.weightUnit === 'KG'
-                                ? '79000'
-                                : '174160',
+                                ? airframe.MTOW
+                                : airframe.MTOW * 2.20462262185,
                     }}
                     InputProps={{
                         endAdornment: (
@@ -531,8 +535,8 @@ const Form = (props: Props) => {
                     onChange={handleCGChange}
                     inputProps={{
                         step: '0.1',
-                        min: '17',
-                        max: '40',
+                        min: airframe.Trim.MinCG,
+                        max: airframe.Trim.MaxCG,
                     }}
                     InputProps={{
                         endAdornment: (

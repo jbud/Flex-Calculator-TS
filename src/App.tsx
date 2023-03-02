@@ -65,7 +65,9 @@ function App() {
     /* const orientation = useScreenOrientation(); */
     const [pleaseRotate] = useState(false);
     const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
-    const [selectedAirframe, setSelectedAirframe] = useState('A20N');
+    const [selectedAirframeName, setSelectedAirframeName] = useState('A20N');
+    const [selectedAirframe, setSelectedAirframe] =
+        useState<Airframe>(airframeSelection);
     const open = Boolean(anchorEl);
 
     const handleClose = () => {
@@ -99,25 +101,11 @@ function App() {
     };
 
     const changeAirframe = (selection: string) => {
-        disp(setAirframe(airframes[selection]));
+        disp(setAirframe(structuredClone(airframes[selection])));
+        setSelectedAirframe(airframes[selection]);
+        console.log(airframeSelection);
+        setSelectedAirframeName(selection);
     };
-
-    type StringsTable = {
-        [key: string]: string;
-    };
-
-    useEffect(() => {
-        const reverseTable: StringsTable = {
-            A20N: 'a320n',
-            A21NPW: 'a321np',
-            A21NLP: 'a321nl',
-            A339: 'a339',
-        };
-        const selection = airframeSelection.name;
-        if (selection) {
-            setSelectedAirframe(reverseTable[selection]);
-        }
-    }, [airframeSelection]);
 
     const handleChangeAirframe = (e: MouseEvent<HTMLElement>) => {
         changeAirframe(e.currentTarget.id);
@@ -239,7 +227,7 @@ function App() {
                         >
                             <MenuItem
                                 id="a318"
-                                selected={selectedAirframe === 'a318'}
+                                selected={selectedAirframeName === 'a318'}
                                 disabled
                                 onClick={handleChangeAirframe}
                             >
@@ -247,7 +235,7 @@ function App() {
                             </MenuItem>
                             <MenuItem
                                 id="a319"
-                                selected={selectedAirframe === 'a319'}
+                                selected={selectedAirframeName === 'a319'}
                                 disabled
                                 onClick={handleChangeAirframe}
                             >
@@ -255,14 +243,14 @@ function App() {
                             </MenuItem>
                             <MenuItem
                                 id="a320n"
-                                selected={selectedAirframe === 'a320n'}
+                                selected={selectedAirframeName === 'a320n'}
                                 onClick={handleChangeAirframe}
                             >
                                 A320-251 Neo
                             </MenuItem>
                             <MenuItem
                                 id="a321nl"
-                                selected={selectedAirframe === 'a321nl'}
+                                selected={selectedAirframeName === 'a321nl'}
                                 disabled
                                 onClick={handleChangeAirframe}
                             >
@@ -270,7 +258,7 @@ function App() {
                             </MenuItem>
                             <MenuItem
                                 id="a321nxl"
-                                selected={selectedAirframe === 'a321nxl'}
+                                selected={selectedAirframeName === 'a321nxl'}
                                 disabled
                                 onClick={handleChangeAirframe}
                             >
@@ -278,7 +266,7 @@ function App() {
                             </MenuItem>
                             <MenuItem
                                 id="a321np"
-                                selected={selectedAirframe === 'a321np'}
+                                selected={selectedAirframeName === 'a321np'}
                                 disabled
                                 onClick={handleChangeAirframe}
                             >
@@ -286,7 +274,7 @@ function App() {
                             </MenuItem>
                             <MenuItem
                                 id="a321nxp"
-                                selected={selectedAirframe === 'a321nxp'}
+                                selected={selectedAirframeName === 'a321nxp'}
                                 disabled
                                 onClick={handleChangeAirframe}
                             >
@@ -294,15 +282,14 @@ function App() {
                             </MenuItem>
                             <MenuItem
                                 id="a339"
-                                selected={selectedAirframe === 'a339'}
-                                disabled
+                                selected={selectedAirframeName === 'a339'}
                                 onClick={handleChangeAirframe}
                             >
                                 A330-941 Neo
                             </MenuItem>
                             <MenuItem
                                 id="a380"
-                                selected={selectedAirframe === 'a380'}
+                                selected={selectedAirframeName === 'a380'}
                                 disabled
                                 onClick={handleChangeAirframe}
                             >
@@ -316,7 +303,7 @@ function App() {
                                 flexGrow: 1,
                             }}
                         >
-                            Takeoff Performance
+                            {selectedAirframe.name} - Takeoff Performance
                         </Typography>
                     </Toolbar>
                 </AppBar>

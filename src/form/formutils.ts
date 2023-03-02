@@ -4,6 +4,7 @@ import { useDispatch, useSelector } from 'react-redux';
 
 import { Metar } from '@flybywiresim/api-client';
 
+import { Airframe } from '../airframes';
 import { FlexMath } from '../math/math';
 import { TakeoffInstance } from '../math/mathh';
 import { debug, DebugMessage } from '../store/masterDebug';
@@ -29,6 +30,7 @@ export const useApi = (): [
     ) => void
 ] => {
     const disp = useDispatch();
+    const airframe = useSelector((state: RootState) => state.airframe);
     const mcduSetting = useSelector((state: RootState) => state.mcdu);
     const runway = useSelector((state: RootState) => state.runway);
     const [metar, setMetar] = useState<MetarForm>(defaultMetarForm);
@@ -49,7 +51,7 @@ export const useApi = (): [
         validation: { ICAO: boolean; weight: boolean; CG: boolean }
     ) => {
         if (validation.ICAO || validation.weight || validation.CG) return;
-        const ret = FlexMath.calculateFlexDist(settings);
+        const ret = FlexMath.calculateFlexDist(settings, airframe);
         const vSpeeds = FlexMath.CalculateVSpeeds(
             settings.availRunway,
             settings.requiredRunway,
@@ -58,6 +60,7 @@ export const useApi = (): [
             settings.runwayAltitude,
             settings.isMeters,
             settings.isKG,
+            airframe,
             settings.runwayCondition
         );
         sendDebug({
@@ -99,7 +102,8 @@ export const useApi = (): [
             settings.runwayHeading,
             settings.flaps,
             FlexMath.parseWeight(settings.tow, settings.isKG),
-            vSpeeds.vr
+            vSpeeds.vr,
+            airframe
         );
         if (v1ver2 === -1) {
             signal = true;
@@ -115,7 +119,8 @@ export const useApi = (): [
                 settings.runwayHeading,
                 settings.flaps,
                 FlexMath.parseWeight(settings.tow, settings.isKG),
-                vSpeeds.vr
+                vSpeeds.vr,
+                airframe
             );
         }
         if (v1ver2 === -1) {
@@ -264,21 +269,24 @@ export const useApi = (): [
     return [metar, getMETAR, runways, getRunways, formValidation, calculate];
 };
 
-export const calculateTHS = (gravity: number): [string, boolean] => {
-    const cg320 = {
+export const calculateTHS = (
+    gravity: number,
+    airframe: Airframe
+): [string, boolean] => {
+    const Trims = {
         // CG chart for the A320, need to implement for other aircraft
-        CGMin: 17,
-        CGMax: 40,
-        TrimMin: -2.5,
-        TrimMax: 3.8,
+        CGMin: airframe.Trim.MinCG,
+        CGMax: airframe.Trim.MaxCG,
+        TrimMin: airframe.Trim.MinTrim,
+        TrimMax: airframe.Trim.MaxTrim,
     };
     const cg = Number(gravity);
-    const error = cg < cg320.CGMin || cg > cg320.CGMax;
+    const error = cg < Trims.CGMin || cg > Trims.CGMax;
 
     const magic1 =
-        (cg320.TrimMin - cg320.TrimMax) / (cg320.CGMax - cg320.CGMin);
+        (Trims.TrimMin - Trims.TrimMax) / (Trims.CGMax - Trims.CGMin);
 
-    const magic2 = cg320.TrimMax - cg320.CGMin * magic1;
+    const magic2 = Trims.TrimMax - Trims.CGMin * magic1;
     const CalculatedTrim = magic1 * cg + magic2;
     let Trim = '';
     if (isNaN(CalculatedTrim)) {
@@ -292,14 +300,18 @@ export const calculateTHS = (gravity: number): [string, boolean] => {
     return [Trim, error];
 };
 
-export const validateWeight = (weight: number, unit: string): boolean => {
-    const w320 = {
+export const validateWeight = (
+    weight: number,
+    unit: string,
+    airframe: Airframe
+): boolean => {
+    const Weights = {
         // Weight chart for the A320, need to implement for other aircraft
-        MTOW: 79000,
-        EMPTY: 37230,
+        MTOW: airframe.MTOW,
+        EMPTY: airframe.OEW,
     };
     return unit === 'KG'
-        ? weight < w320.EMPTY || weight > w320.MTOW
-        : FlexMath.parseWeight(weight, false) < w320.EMPTY ||
-              FlexMath.parseWeight(weight, false) > w320.MTOW;
+        ? weight < Weights.EMPTY || weight > Weights.MTOW
+        : FlexMath.parseWeight(weight, false) < Weights.EMPTY ||
+              FlexMath.parseWeight(weight, false) > Weights.MTOW;
 };

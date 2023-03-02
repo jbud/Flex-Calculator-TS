@@ -28,6 +28,7 @@ const Form = () => {
     const disp = useDispatch();
     const theme = useTheme();
     const icaoRef = useRef<HTMLDivElement | null>(null);
+    const airframe = useSelector((state: RootState) => state.airframe);
     const mcduSetting = useSelector((state: RootState) => state.mcdu);
     const [runwayStateDispatcher, setRunwayStateDispatcher] = useState<Runway>({
         heading: 0,
@@ -210,7 +211,7 @@ const Form = () => {
     const handleCalculate = () => {
         if (formValidation.ICAO || formValidation.weight || formValidation.CG)
             return;
-        const ret = FlexMath.calculateFlexDist(settings);
+        const ret = FlexMath.calculateFlexDist(settings, airframe);
         const vSpeeds = FlexMath.CalculateVSpeeds(
             settings.availRunway,
             settings.requiredRunway,
@@ -219,6 +220,7 @@ const Form = () => {
             settings.runwayAltitude,
             settings.isMeters,
             settings.isKG,
+            airframe,
             settings.runwayCondition
         );
         sendDebug({

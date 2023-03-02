@@ -1,10 +1,5 @@
-import {
-    a20n,
-    a20nTakeoff,
-    AircraftConfig,
-    BARO_SEA,
-    TakeoffInstance,
-} from './mathh';
+import { Airframe } from '../airframes';
+import { BARO_SEA, TakeoffInstance } from './mathh';
 
 export class FlexMath {
     static parseQNH(qnh: number, ishpa = true) {
@@ -53,50 +48,84 @@ export class FlexMath {
         return densityCorrection >= 0 ? densityCorrection : 0;
     }
 
-    static plantSeeds(perfWeight: number, a: AircraftConfig) {
+    static plantSeeds(perfWeight: number, a: Airframe) {
         let seedModifierstd = 0;
         let seedModifierisa = 0;
 
         let stdSeedTable = [
-            perfWeight < a.towt2isa
-                ? ((a.todist2 - a.todist1) / (a.towt2isa - a.towt1isa)) *
-                  (perfWeight - a.towt1isa)
-                : ((a.todist2 - a.todist1) / (a.towt2isa - a.towt1isa)) *
-                  (a.towt2isa - a.towt1isa),
-            perfWeight < a.towt2isa
+            perfWeight < a.Takeoff.WeightReferenceISA[1]
+                ? ((a.Takeoff.TakeoffDistanceTable[1] -
+                      a.Takeoff.TakeoffDistanceTable[0]) /
+                      (a.Takeoff.WeightReferenceISA[1] -
+                          a.Takeoff.WeightReferenceISA[0])) *
+                  (perfWeight - a.Takeoff.WeightReferenceISA[0])
+                : ((a.Takeoff.TakeoffDistanceTable[1] -
+                      a.Takeoff.TakeoffDistanceTable[0]) /
+                      (a.Takeoff.WeightReferenceISA[1] -
+                          a.Takeoff.WeightReferenceISA[0])) *
+                  (a.Takeoff.WeightReferenceISA[1] -
+                      a.Takeoff.WeightReferenceISA[0]),
+            perfWeight < a.Takeoff.WeightReferenceISA[1]
                 ? 0
-                : perfWeight < a.towt3isa
-                ? ((a.todist3 - a.todist2) / (a.towt3isa - a.towt2isa)) *
-                  (perfWeight - a.towt2isa)
-                : ((a.todist3 - a.todist2) / (a.towt3isa - a.towt2isa)) *
-                  (a.towt3isa - a.towt2isa),
-            perfWeight < a.towt3isa
+                : perfWeight < a.Takeoff.WeightReferenceISA[2]
+                ? ((a.Takeoff.TakeoffDistanceTable[2] -
+                      a.Takeoff.TakeoffDistanceTable[1]) /
+                      (a.Takeoff.WeightReferenceISA[2] -
+                          a.Takeoff.WeightReferenceISA[1])) *
+                  (perfWeight - a.Takeoff.WeightReferenceISA[1])
+                : ((a.Takeoff.TakeoffDistanceTable[2] -
+                      a.Takeoff.TakeoffDistanceTable[1]) /
+                      (a.Takeoff.WeightReferenceISA[2] -
+                          a.Takeoff.WeightReferenceISA[1])) *
+                  (a.Takeoff.WeightReferenceISA[2] -
+                      a.Takeoff.WeightReferenceISA[1]),
+            perfWeight < a.Takeoff.WeightReferenceISA[2]
                 ? 0
-                : ((a.todist3 - a.todist2) / (a.towt3isa - a.towt2isa)) *
+                : ((a.Takeoff.TakeoffDistanceTable[2] -
+                      a.Takeoff.TakeoffDistanceTable[1]) /
+                      (a.Takeoff.WeightReferenceISA[2] -
+                          a.Takeoff.WeightReferenceISA[1])) *
                   1.5 *
-                  (perfWeight - a.towt3isa),
-            a.todist1,
+                  (perfWeight - a.Takeoff.WeightReferenceISA[2]),
+            a.Takeoff.TakeoffDistanceTable[0],
         ];
 
         let isaSeedTable = [
-            perfWeight < a.towt2isa
-                ? ((a.todist2isa - a.todist1isa) / (a.towt2isa - a.towt1isa)) *
-                  (perfWeight - a.towt1isa)
-                : ((a.todist2isa - a.todist1isa) / (a.towt2isa - a.towt1isa)) *
-                  (a.towt2isa - a.towt1isa),
-            perfWeight < a.towt2isa
+            perfWeight < a.Takeoff.WeightReferenceISA[1]
+                ? ((a.Takeoff.TakeoffDistanceTableISA[1] -
+                      a.Takeoff.TakeoffDistanceTableISA[0]) /
+                      (a.Takeoff.WeightReferenceISA[1] -
+                          a.Takeoff.WeightReferenceISA[0])) *
+                  (perfWeight - a.Takeoff.WeightReferenceISA[0])
+                : ((a.Takeoff.TakeoffDistanceTableISA[1] -
+                      a.Takeoff.TakeoffDistanceTableISA[0]) /
+                      (a.Takeoff.WeightReferenceISA[1] -
+                          a.Takeoff.WeightReferenceISA[0])) *
+                  (a.Takeoff.WeightReferenceISA[1] -
+                      a.Takeoff.WeightReferenceISA[0]),
+            perfWeight < a.Takeoff.WeightReferenceISA[1]
                 ? 0
-                : perfWeight < a.towt3isa
-                ? ((a.todist3isa - a.todist2isa) / (a.towt3isa - a.towt2isa)) *
-                  (perfWeight - a.towt2isa)
-                : ((a.todist3isa - a.todist2isa) / (a.towt3isa - a.towt2isa)) *
-                  (a.towt3isa - a.towt2isa),
-            perfWeight < a.towt3isa
+                : perfWeight < a.Takeoff.WeightReferenceISA[2]
+                ? ((a.Takeoff.TakeoffDistanceTableISA[2] -
+                      a.Takeoff.TakeoffDistanceTableISA[1]) /
+                      (a.Takeoff.WeightReferenceISA[2] -
+                          a.Takeoff.WeightReferenceISA[1])) *
+                  (perfWeight - a.Takeoff.WeightReferenceISA[1])
+                : ((a.Takeoff.TakeoffDistanceTableISA[2] -
+                      a.Takeoff.TakeoffDistanceTableISA[1]) /
+                      (a.Takeoff.WeightReferenceISA[2] -
+                          a.Takeoff.WeightReferenceISA[1])) *
+                  (a.Takeoff.WeightReferenceISA[2] -
+                      a.Takeoff.WeightReferenceISA[1]),
+            perfWeight < a.Takeoff.WeightReferenceISA[2]
                 ? 0
-                : ((a.todist3isa - a.todist2isa) / (a.towt3isa - a.towt2isa)) *
+                : ((a.Takeoff.TakeoffDistanceTableISA[2] -
+                      a.Takeoff.TakeoffDistanceTableISA[1]) /
+                      (a.Takeoff.WeightReferenceISA[2] -
+                          a.Takeoff.WeightReferenceISA[1])) *
                   1.5 *
-                  (perfWeight - a.towt3isa),
-            a.todist1isa,
+                  (perfWeight - a.Takeoff.WeightReferenceISA[2]),
+            a.Takeoff.TakeoffDistanceTableISA[0],
         ];
 
         for (let i = 0; i < stdSeedTable.length; i++)
@@ -108,18 +137,18 @@ export class FlexMath {
         return [seedModifierstd, seedModifierisa];
     }
 
-    static calculateFlapEffect(flaps: string | number, a: AircraftConfig) {
+    static calculateFlapEffect(flaps: string | number, a: Airframe) {
         let fe: number = 0;
         switch (flaps) {
             default:
             case 1:
-                fe = a.f1;
+                fe = a.Takeoff.FlapsMultiplier[0];
                 break;
             case 2:
-                fe = a.f2;
+                fe = a.Takeoff.FlapsMultiplier[1];
                 break;
             case 3:
-                fe = a.f3;
+                fe = a.Takeoff.FlapsMultiplier[2];
                 break;
         }
 
@@ -266,10 +295,12 @@ export class FlexMath {
     }
 
     static AltitudeCorrection(params: any, densityAltitude: number) {
-        const MLAND = 67400;
-        const WeightReferenceISA2 = 60000;
-        const AltitudeCorrectionTable = [2000, 4000, 6000, 8000, 10000];
-        const StopDistanceDiffs = [61, 61, 91, 168, 178];
+        const MLAND = params.airframe.MLW;
+        const WeightReferenceISA2 =
+            params.airframe.Landing.WeightReferenceISA[1];
+        const AltitudeCorrectionTable =
+            params.airframe.Landing.AltitudeCorrectionTable;
+        const StopDistanceDiffs = params.airframe.Landing.StopDistanceDiffs;
 
         const DAADJ = (DA: number, BP: number) =>
             (DA / 2000 / 100) * (BP / 100);
@@ -321,8 +352,10 @@ export class FlexMath {
     }
 
     static calibratedDistance(params: any, densityAltitude: number) {
-        const DistanceRequiredISATable = [1143, 1341, 1621];
-        const WeightReferenceISATable = [50000, 60000, 70000];
+        const DistanceRequiredISATable =
+            params.airframe.Landing.DistanceReferenceISA;
+        const WeightReferenceISATable =
+            params.airframe.Landing.WeightReferenceISA;
         const diffsTable = [
             (DistanceRequiredISATable[1] - DistanceRequiredISATable[0]) /
                 (WeightReferenceISATable[1] - WeightReferenceISATable[0]),
@@ -372,7 +405,8 @@ export class FlexMath {
         runwayHeading: number,
         flaps: number,
         tow: number,
-        VR: number
+        VR: number,
+        airframe: Airframe
     ) {
         const headwind =
             Math.cos((windHeading - runwayHeading * 10) * (Math.PI / 180)) *
@@ -387,6 +421,7 @@ export class FlexMath {
             flaps: flaps,
             tow: tow,
             speed: 0,
+            airframe: airframe,
         };
         let V1Candidate = -1;
         for (let i = VR; i >= 100; i--) {
@@ -418,8 +453,8 @@ export class FlexMath {
     }
 
     static calculateStopDistanceReq(params: any) {
-        const flapMultiplier = [1, 1.2, 1.15, 1.1];
-        const ISAIncrease = 15;
+        const flapMultiplier = params.airframe.Landing.FlapsMultiplier;
+        const ISAIncrease = params.airframe.ISAIncrease;
         const altitude = params.altitude;
         const oat = params.oat;
         const baro = params.baro;
@@ -454,13 +489,18 @@ export class FlexMath {
         }
         return (
             windAdjusted +
-            FlexMath.calculateRCAM(windAdjusted, runwayCondition) +
+            FlexMath.calculateRCAM(windAdjusted, runwayCondition, params) +
             FlexMath.knotsToMetersPerSecond(speed) * 3 // 3 second buffer.
         );
     }
 
-    static calculateRCAM(distance: number, runwayCondition: number) {
-        const runwayConditions = [0, 0.15]; // dry/wet
+    static calculateRCAM(
+        distance: number,
+        runwayCondition: number,
+        params: any
+    ) {
+        const runwayConditions =
+            params.airframe.Landing.RunwayConditionMultiplier; // dry/wet
         return distance * runwayConditions[runwayCondition];
     }
 
@@ -470,6 +510,9 @@ export class FlexMath {
 
     static round5down(x: number) {
         return Math.floor(x / 5) * 5;
+    }
+    static round10down(x: number) {
+        return Math.floor(x / 10) * 10;
     }
 
     static distfrom5(x: number) {
@@ -484,9 +527,15 @@ export class FlexMath {
         return f === 2 ? Math.abs(a * 2e-4) : 0;
     }
 
-    static v2Speed(w: number, f: number, a: any) {
-        let v2 = a20nTakeoff[f.toString()][FlexMath.round5down(w).toString()];
-
+    static v2Speed(w: number, f: number, a: any, airframe: Airframe) {
+        let v2 =
+            airframe.VSpeeds[f.toString()][FlexMath.round5down(w).toString()];
+        if (v2 === undefined) {
+            v2 =
+                airframe.VSpeeds[f.toString()][
+                    FlexMath.round10down(w).toString()
+                ];
+        }
         v2 += FlexMath.f2corr(f, a);
 
         const V2Speed = Math.ceil(v2 + FlexMath.distfrom5(w));
@@ -510,10 +559,11 @@ export class FlexMath {
         RunwayAlt: number,
         isMeters: boolean,
         isKG: boolean,
+        airframe: Airframe,
         ASD = 1621
     ) {
         const w = FlexMath.parseWeight(Weight, isKG) / 1000;
-        const v2 = FlexMath.v2Speed(w, Flaps, RunwayAlt);
+        const v2 = FlexMath.v2Speed(w, Flaps, RunwayAlt, airframe);
         const vR = FlexMath.vRSpeed(v2);
         const v1 = FlexMath.v1Speed(
             FlexMath.parseDist(availRunway, isMeters),
@@ -528,34 +578,41 @@ export class FlexMath {
         };
     }
 
-    static calculateFlexDist(settings: TakeoffInstance) {
+    static calculateFlexDist(settings: TakeoffInstance, airframe: Airframe) {
         let density =
             settings.runwayAltitude +
             (BARO_SEA - FlexMath.parseQNH(settings.baro, settings.isHP)) * 27 +
             (settings.oat - (15 - (settings.runwayAltitude / 1000) * 2)) * 120;
 
-        let TREF = a20n.trefaice + (settings.runwayAltitude / 1000) * 2;
+        let TREF =
+            airframe.Takeoff.TREFAICE + (settings.runwayAltitude / 1000) * 2;
         let ISA = settings.oat - 15 + (settings.runwayAltitude / 1000) * 1.98;
 
         let flexTrendModifierTable = [
             settings.oat,
             0 + settings.oat - ISA,
-            a20n.isaInc + settings.oat - ISA,
-            1 + a20n.isaInc + settings.oat - ISA,
+            airframe.ISAIncrease + settings.oat - ISA,
+            1 + airframe.ISAIncrease + settings.oat - ISA,
             TREF > settings.oat ? Math.floor(TREF) : settings.oat + 1,
             33,
-            a20n.tmaxflex + settings.oat - ISA,
+            airframe.Takeoff.TMAXFlex + settings.oat - ISA,
             settings.oat,
         ];
         const minFlex = flexTrendModifierTable[4];
         let AltCorrectionsTable = [2000, 4000, 6000, 8000, 10000];
 
         let perfDistDiffTable = [
-            a20n.to2k - a20n.todist2,
-            a20n.to4k - a20n.to2k,
-            a20n.to6k - a20n.to4k,
-            a20n.to8k - a20n.to6k,
-            (a20n.to8k - a20n.to6k) * 1.53,
+            airframe.Takeoff.TakeoffRef2Alt2000 -
+                airframe.Takeoff.TakeoffDistanceTable[1],
+            airframe.Takeoff.TakeoffRef2Alt4000 -
+                airframe.Takeoff.TakeoffRef2Alt2000,
+            airframe.Takeoff.TakeoffRef2Alt6000 -
+                airframe.Takeoff.TakeoffRef2Alt4000,
+            airframe.Takeoff.TakeoffRef2Alt8000 -
+                airframe.Takeoff.TakeoffRef2Alt6000,
+            (airframe.Takeoff.TakeoffRef2Alt8000 -
+                airframe.Takeoff.TakeoffRef2Alt6000) *
+                1.53,
         ];
 
         let densityCorrection = this.calculateDensityCorrection(
@@ -570,15 +627,18 @@ export class FlexMath {
             densityCorrection -
             ((densityCorrection -
                 (densityCorrection / 100) *
-                    (perfWeight / (a20n.towt2isa / 100))) /
+                    (perfWeight /
+                        (airframe.Takeoff.TakeoffDistanceTable[1] / 100))) /
                 100) *
-                a20n.toaltAdj;
+                airframe.Takeoff.AltitudeAdjustment;
         let altAboveToWt2ISA = altBelowToWt2ISA; // the correction is the same above or below for the currently implemented aircraft
 
         let distanceByDensity =
-            perfWeight < a20n.towt2isa ? altBelowToWt2ISA : altAboveToWt2ISA;
+            perfWeight < airframe.Takeoff.TakeoffDistanceTable[1]
+                ? altBelowToWt2ISA
+                : altAboveToWt2ISA;
 
-        let seedModifiers = this.plantSeeds(perfWeight, a20n);
+        let seedModifiers = this.plantSeeds(perfWeight, airframe);
 
         let seedModStd = seedModifiers[0];
 
@@ -599,7 +659,7 @@ export class FlexMath {
             growthTrend[0],
             growthTrend[1],
             growthTrend[2],
-            Math.pow(growthTrend[3], a20n.engThrust / 10000),
+            Math.pow(growthTrend[3], airframe.Takeoff.ThrustMultiplier / 10000),
         ];
 
         let trendWithModifiers = this.trend(
@@ -616,12 +676,12 @@ export class FlexMath {
         );
 
         let isaCorrection =
-            ISA > a20n.isaInc ? trendWithModifiers[5] : growthTrend[0];
+            ISA > airframe.ISAIncrease ? trendWithModifiers[5] : growthTrend[0];
 
         let flapCorr =
             isaCorrection +
             (isaCorrection / 100) *
-                this.calculateFlapEffect(settings.flaps, a20n);
+                this.calculateFlapEffect(settings.flaps, airframe);
 
         let headwind =
             Math.cos(
@@ -632,8 +692,12 @@ export class FlexMath {
         let windLen =
             headwind > 0
                 ? flapCorr -
-                  ((flapCorr / 100) * (headwind / (a20n.vrisa / 100))) / 2
-                : flapCorr - (flapCorr / 100) * (headwind / (a20n.vrisa / 150));
+                  ((flapCorr / 100) *
+                      (headwind / (airframe.Takeoff.RotateISA / 100))) /
+                      2
+                : flapCorr -
+                  (flapCorr / 100) *
+                      (headwind / (airframe.Takeoff.RotateISA / 150));
 
         let totDist = windLen;
         totDist += settings.antiIce ? (windLen / 100) * 3 : 0;

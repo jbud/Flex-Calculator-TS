@@ -9,7 +9,16 @@ export const airframeSlice = createSlice({
     initialState: defaultState,
     reducers: {
         setAirframe: (state, action: PayloadAction<Airframe>) => {
-            state = action.payload;
+            state.Engines = action.payload.Engines;
+            state.MTOW = action.payload.MTOW;
+            state.OEW = action.payload.OEW;
+            state.MLW = action.payload.MLW;
+            state.Takeoff = action.payload.Takeoff;
+            state.Landing = action.payload.Landing;
+            state.VSpeeds = action.payload.VSpeeds;
+            state.ISAIncrease = action.payload.ISAIncrease;
+            state.Trim = action.payload.Trim;
+            state.name = action.payload.name;
         },
     },
 });
