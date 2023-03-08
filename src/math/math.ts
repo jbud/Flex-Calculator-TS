@@ -3,7 +3,8 @@ import { BARO_SEA, TakeoffInstance } from './mathh';
 
 export class FlexMath {
     static parseQNH(qnh: number, ishpa = true) {
-        // workaround to allow decimal or not
+        // workaround to allow decimal or not,
+        // valid imputs become 29.92 or 2992 (inHg) or 1013 (hPa)
         if (qnh - Math.floor(qnh) !== 0) qnh *= 100;
 
         if (!ishpa) {
@@ -14,14 +15,14 @@ export class FlexMath {
     static parseWeight(w: number, iskg = true) {
         let r = w;
         if (!iskg) {
-            r = w / 2.20462262;
+            r = w / 2.20462262; // convert lbs to kg
         }
         return r;
     }
     static parseDist(d: number, ism = true) {
         let r = d;
         if (!ism) {
-            r = d / 3.2808399;
+            r = d / 3.2808399; // convert ft to m
         }
         return r;
     }
@@ -37,7 +38,8 @@ export class FlexMath {
             densityCorrection +=
                 density > AltCorrectionsTable[i]
                     ? perfDistDiffTable[i]
-                    : (density / 200) * (perfDistDiffTable[i] / 100);
+                    : ((density - AltCorrectionsTable[i - 1]) / 200) *
+                      (perfDistDiffTable[i] / 100);
         }
         densityCorrection +=
             density < AltCorrectionsTable[3]
@@ -138,21 +140,7 @@ export class FlexMath {
     }
 
     static calculateFlapEffect(flaps: string | number, a: Airframe) {
-        let fe: number = 0;
-        switch (flaps) {
-            default:
-            case 1:
-                fe = a.Takeoff.FlapsMultiplier[0];
-                break;
-            case 2:
-                fe = a.Takeoff.FlapsMultiplier[1];
-                break;
-            case 3:
-                fe = a.Takeoff.FlapsMultiplier[2];
-                break;
-        }
-
-        return fe;
+        return a.Takeoff.FlapsMultiplier[parseInt(flaps as string) - 1];
     }
     // ported to js from https://stackoverflow.com/questions/7437660/
     static lsft(known_y: number[], known_x: number[], offset_x = 0) {
@@ -628,10 +616,10 @@ export class FlexMath {
             ((densityCorrection -
                 (densityCorrection / 100) *
                     (perfWeight /
-                        (airframe.Takeoff.TakeoffDistanceTable[1] / 100))) /
+                        (airframe.Takeoff.WeightReferenceISA[1] / 100))) /
                 100) *
                 airframe.Takeoff.AltitudeAdjustment;
-        let altAboveToWt2ISA = altBelowToWt2ISA; // the correction is the same above or below for the currently implemented aircraft
+        let altAboveToWt2ISA = altBelowToWt2ISA; // the correction is the same above or below for the currently implemented airframes
 
         let distanceByDensity =
             perfWeight < airframe.Takeoff.TakeoffDistanceTable[1]
