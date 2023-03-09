@@ -251,7 +251,6 @@ function App() {
                             <MenuItem
                                 id="a321nl"
                                 selected={selectedAirframeName === 'a321nl'}
-                                disabled
                                 onClick={handleChangeAirframe}
                             >
                                 A321-251 Neo (LEAP)
@@ -275,7 +274,6 @@ function App() {
                             <MenuItem
                                 id="a321nxp"
                                 selected={selectedAirframeName === 'a321nxp'}
-                                disabled
                                 onClick={handleChangeAirframe}
                             >
                                 A321-273 Neo (PW LR)

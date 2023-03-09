@@ -1,22 +1,22 @@
-import { parseMetar } from 'metar-taf-parser';
-import { useEffect, useState } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
+import { parseMetar } from "metar-taf-parser";
+import { useEffect, useState } from "react";
+import { useDispatch, useSelector } from "react-redux";
 
-import { Metar } from '@flybywiresim/api-client';
+import { Metar } from "@flybywiresim/api-client";
 
-import { Airframe } from '../airframes';
-import { FlexMath } from '../math/math';
-import { TakeoffInstance } from '../math/mathh';
-import { debug, DebugMessage } from '../store/masterDebug';
-import { setMCDU } from '../store/mcdu';
-import { Runway, setRunway } from '../store/runway';
-import { RootState } from '../store/store';
+import { Airframe } from "../airframes";
+import { FlexMath } from "../math/math";
+import { TakeoffInstance } from "../math/mathh";
+import { debug, DebugMessage } from "../store/masterDebug";
+import { setMCDU } from "../store/mcdu";
+import { Runway, setRunway } from "../store/runway";
+import { RootState } from "../store/store";
 import {
-    defaultMetarForm,
-    defaultRunwayState,
-    MetarForm,
-    RunwaysForm,
-} from './formdefs';
+  defaultMetarForm,
+  defaultRunwayState,
+  MetarForm,
+  RunwaysForm
+} from "./formdefs";
 
 export const useApi = (): [
     MetarForm,
@@ -123,14 +123,20 @@ export const useApi = (): [
                 airframe
             );
         }
+        let m = '';
         if (v1ver2 === -1) {
             takeoffInvalid = true;
+
+            m =
+                'INVALID TAKEOFF CAUSED BY V1 SPEED LOWER THAN 100KTS EVEN WITH TOGA THRUST TRY A HIGHER FLAPS SETTING OR A LONGER RUNWAY';
         }
         if (
             settings.togaRequiredRunway >
             FlexMath.parseDist(settings.availRunway, false)
         ) {
             takeoffInvalid = true;
+            m =
+                'INVALID TAKEOFF CAUSED BY CALCULATED DISTANCE REQUIRED LONGER THAN TORA EVEN WITH TOGA THRUST TRY A HIGHER FLAPS SETTING OR A LONGER RUNWAY';
         }
         sendDebug({
             title: 'Calculate: INFO',
@@ -158,6 +164,7 @@ export const useApi = (): [
                 vr: takeoffInvalid ? 0 : vSpeeds.vr,
                 v2: takeoffInvalid ? 0 : vSpeeds.v2,
                 speedSet: true,
+                message: takeoffInvalid ? m : '',
             })
         );
     };

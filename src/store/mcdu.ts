@@ -1,6 +1,6 @@
-import { decode } from 'html-entities';
+import { decode } from "html-entities";
 
-import { createSlice } from '@reduxjs/toolkit';
+import { createSlice } from "@reduxjs/toolkit";
 
 import type { PayloadAction } from '@reduxjs/toolkit';
 
@@ -13,6 +13,7 @@ export type mcduSettings = {
     flaps: number | string | undefined;
     ths: string | undefined;
     rw: string | undefined;
+    message: string | undefined;
 };
 
 const defaultState: mcduSettings = {
@@ -24,6 +25,7 @@ const defaultState: mcduSettings = {
     flaps: decode('[]'),
     ths: decode('[&nbsp;]'),
     rw: decode(''),
+    message: decode(''),
 };
 
 export const mcduSlice = createSlice({
@@ -39,6 +41,7 @@ export const mcduSlice = createSlice({
             state.flaps = action.payload.flaps;
             state.ths = action.payload.ths;
             state.rw = action.payload.rw;
+            state.message = action.payload.message;
         },
     },
 });

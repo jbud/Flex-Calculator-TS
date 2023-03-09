@@ -46,7 +46,6 @@ export class FlexMath {
                 ? 0
                 : ((density - AltCorrectionsTable[3]) / 200) *
                   (perfDistDiffTable[4] / 100);
-
         return densityCorrection >= 0 ? densityCorrection : 0;
     }
 

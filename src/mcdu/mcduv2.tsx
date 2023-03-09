@@ -1,8 +1,10 @@
-import { useSelector } from 'react-redux';
+import "./mcdu.css";
 
-import { Box } from '@mui/material';
+import { useSelector } from "react-redux";
 
-import { RootState } from '../store/store';
+import { Box, Typography } from "@mui/material";
+
+import { RootState } from "../store/store";
 
 function Mcduv2() {
     const mcduSettings = useSelector((state: RootState) => state.mcdu);
@@ -467,6 +469,21 @@ function Mcduv2() {
                     {'PHASE>'}
                 </text>
             </svg>
+            <Box>
+                <Typography
+                    sx={(theme) => ({
+                        width: '369px',
+                        [theme.breakpoints.down('sm')]: {
+                            maxWidth: '371px',
+                        },
+                        fontFamily: 'fontLarge',
+                    })}
+                    className="orange large"
+                    variant="h6"
+                >
+                    {`${mcduSettings.message}`}
+                </Typography>
+            </Box>
         </Box>
     );
 }
