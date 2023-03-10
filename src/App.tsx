@@ -1,40 +1,40 @@
-import './mcdu/mcdu.css';
-import './App.css';
-import './mcdu/mcduv2.css';
+import "./mcdu/mcdu.css";
+import "./App.css";
+import "./mcdu/mcduv2.css";
 
-import { MouseEvent, useEffect, useState } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
+import { MouseEvent, useEffect, useState } from "react";
+import { useDispatch, useSelector } from "react-redux";
 
-import BugReportIcon from '@mui/icons-material/BugReport';
-import FlightTakeoffIcon from '@mui/icons-material/FlightTakeoff';
-import ScreenRotationIcon from '@mui/icons-material/ScreenRotation';
-import WifiIcon from '@mui/icons-material/Wifi';
-import WifiOffIcon from '@mui/icons-material/WifiOff';
+import BugReportIcon from "@mui/icons-material/BugReport";
+import FlightTakeoffIcon from "@mui/icons-material/FlightTakeoff";
+import ScreenRotationIcon from "@mui/icons-material/ScreenRotation";
+import WifiIcon from "@mui/icons-material/Wifi";
+import WifiOffIcon from "@mui/icons-material/WifiOff";
 import {
-    AppBar,
-    Backdrop,
-    Box,
-    Grid,
-    IconButton,
-    Menu,
-    MenuItem,
-    Toolbar,
-    Typography,
-} from '@mui/material';
-import CssBaseline from '@mui/material/CssBaseline';
-import { createTheme, ThemeProvider } from '@mui/material/styles';
+  AppBar,
+  Backdrop,
+  Box,
+  Grid,
+  IconButton,
+  Menu,
+  MenuItem,
+  Toolbar,
+  Typography
+} from "@mui/material";
+import CssBaseline from "@mui/material/CssBaseline";
+import { createTheme, ThemeProvider } from "@mui/material/styles";
 
-import { a20n, a21nlp, a21npw, a339, Airframe } from './airframes/index';
-import Debug from './debug/debug';
-import Form from './form/formv2';
-import Mcduv2 from './mcdu/mcduv2';
-import Offline from './offline/offline';
+import { a20n, a21nlp, a21npw, a339, Airframe } from "./airframes/index";
+import Debug from "./debug/debug";
+import Form from "./form/formv2";
+import Mcduv2 from "./mcdu/mcduv2";
+import Offline from "./offline/offline";
 /* import useScreenOrientation from './pwahooks/screenorientation'; */
-import RunwayV2 from './runway/runwayv2';
-import { setAirframe } from './store/airframe';
-import { setDebugWindow } from './store/masterDebug';
-import { RootState } from './store/store';
-import CrosswindCalc from './wind/crosswind';
+import RunwayV2 from "./runway/runwayv2";
+import { setAirframe } from "./store/airframe";
+import { setDebugWindow } from "./store/masterDebug";
+import { RootState } from "./store/store";
+import CrosswindCalc from "./wind/crosswind";
 
 const darkTheme = createTheme({
     palette: {
@@ -266,7 +266,6 @@ function App() {
                             <MenuItem
                                 id="a321np"
                                 selected={selectedAirframeName === 'a321np'}
-                                disabled
                                 onClick={handleChangeAirframe}
                             >
                                 A321-271 Neo (PW)
@@ -274,6 +273,7 @@ function App() {
                             <MenuItem
                                 id="a321nxp"
                                 selected={selectedAirframeName === 'a321nxp'}
+                                disabled
                                 onClick={handleChangeAirframe}
                             >
                                 A321-273 Neo (PW LR)
