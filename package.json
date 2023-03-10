@@ -16,6 +16,7 @@
         "@types/react": "^18.0.28",
         "@types/react-dom": "^18.0.11",
         "metar-taf-parser": "^8.0.0",
+        "pwa-asset-generator": "^6.2.1",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
         "react-json-view": "^1.21.3",
