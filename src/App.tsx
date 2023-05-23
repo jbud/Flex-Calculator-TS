@@ -24,7 +24,7 @@ import {
 import CssBaseline from "@mui/material/CssBaseline";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 
-import { a20n, a21nlp, a21npw, a339, Airframe } from "./airframes/index";
+import { a318cfm, a318pw, a319cfm, a319iae, a320cfm, a320iae, a20n, a21nlp, a21npw, a338, a339, a388rr, a388ea, Airframe } from "./airframes/index";
 import Debug from "./debug/debug";
 import Form from "./form/formv2";
 import Mcduv2 from "./mcdu/mcduv2";
@@ -89,15 +89,21 @@ function App() {
     };
 
     const airframes: AFTable = {
-        a318: a20n,
-        a319: a20n,
-        a320n: a20n,
-        a321nl: a21nlp,
-        a321nxl: a21nlp,
-        a321np: a21npw,
-        a321nxp: a21npw,
+        a318c: a318cfm,
+        a318p: a318pw,
+        a319c: a319cfm,
+        a319i: a319iae,
+        a320c: a320cfm,
+        a320i: a320iae,
+        a20n: a20n,
+        a21nl: a21nlp,
+        a21nxl: a21nlp,
+        a21np: a21npw,
+        a21nxp: a21npw,
+        a338: a338,
         a339: a339,
-        a380: a20n,
+        a380r: a388rr,
+        a380e: a388ea,
     };
 
     const changeAirframe = (selection: string) => {
@@ -226,57 +232,90 @@ function App() {
                             }}
                         >
                             <MenuItem
-                                id="a318"
-                                selected={selectedAirframeName === 'a318'}
-                                disabled
+                                id="a318c"
+                                selected={selectedAirframeName === 'a318c'}
                                 onClick={handleChangeAirframe}
                             >
-                                A318-100
+                                A318-100 (CFM)
                             </MenuItem>
                             <MenuItem
-                                id="a319"
-                                selected={selectedAirframeName === 'a319'}
-                                disabled
+                                id="a318p"
+                                selected={selectedAirframeName === 'a318p'}
+                                onClick={handleChangeAirframe}
+                                >
+                                A318-100 (PW)
+                            </MenuItem>
+                            <MenuItem
+                                id="a319c"
+                                selected={selectedAirframeName === 'a319c'}
                                 onClick={handleChangeAirframe}
                             >
-                                A319-133
+                                A319-133 (CFM)
                             </MenuItem>
                             <MenuItem
-                                id="a320n"
-                                selected={selectedAirframeName === 'a320n'}
+                                id="a319i"
+                                selected={selectedAirframeName === 'a319i'}
+                                onClick={handleChangeAirframe}
+                                >
+                                A319-133 (IAE)
+                            </MenuItem>
+                            <MenuItem
+                                id="a320c"
+                                selected={selectedAirframeName === 'a320c'}
+                                onClick={handleChangeAirframe}
+                                >
+                                A320-214 (CFM)
+                            </MenuItem>
+                            <MenuItem
+                                id="a320i"
+                                selected={selectedAirframeName === 'a320i'}
+                                onClick={handleChangeAirframe}
+                                >
+                                A320-232 (IAE)
+                            </MenuItem>
+                            <MenuItem
+                                id="a20n"
+                                selected={selectedAirframeName === 'a20n'}
                                 onClick={handleChangeAirframe}
                             >
                                 A320-251 Neo
                             </MenuItem>
                             <MenuItem
-                                id="a321nl"
-                                selected={selectedAirframeName === 'a321nl'}
+                                id="a21nl"
+                                selected={selectedAirframeName === 'a21nl'}
                                 onClick={handleChangeAirframe}
                             >
                                 A321-251 Neo (LEAP)
                             </MenuItem>
                             <MenuItem
-                                id="a321nxl"
-                                selected={selectedAirframeName === 'a321nxl'}
+                                id="a21nxl"
+                                selected={selectedAirframeName === 'a21nxl'}
                                 disabled
                                 onClick={handleChangeAirframe}
                             >
                                 A321-253 Neo (LEAP LR)
                             </MenuItem>
                             <MenuItem
-                                id="a321np"
-                                selected={selectedAirframeName === 'a321np'}
+                                id="a21np"
+                                selected={selectedAirframeName === 'a21np'}
                                 onClick={handleChangeAirframe}
                             >
                                 A321-271 Neo (PW)
                             </MenuItem>
                             <MenuItem
-                                id="a321nxp"
-                                selected={selectedAirframeName === 'a321nxp'}
+                                id="a21nxp"
+                                selected={selectedAirframeName === 'a21nxp'}
                                 disabled
                                 onClick={handleChangeAirframe}
                             >
                                 A321-273 Neo (PW LR)
+                            </MenuItem>
+                            <MenuItem
+                                id="a338"
+                                selected={selectedAirframeName === 'a338'}
+                                onClick={handleChangeAirframe}
+                                >
+                                A330-800 Neo
                             </MenuItem>
                             <MenuItem
                                 id="a339"
@@ -286,12 +325,20 @@ function App() {
                                 A330-941 Neo
                             </MenuItem>
                             <MenuItem
-                                id="a380"
-                                selected={selectedAirframeName === 'a380'}
+                                id="a380r"
+                                selected={selectedAirframeName === 'a380r'}
                                 disabled
                                 onClick={handleChangeAirframe}
                             >
-                                A380-841
+                                A380-841 (RR)
+                            </MenuItem>
+                            <MenuItem
+                                id="a380e"
+                                selected={selectedAirframeName === 'a380e'}
+                                disabled
+                                onClick={handleChangeAirframe}
+                                >
+                                A380-841 (EA)
                             </MenuItem>
                         </Menu>
                         <Typography
