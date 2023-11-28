@@ -1,22 +1,22 @@
-import { parseMetar } from "metar-taf-parser";
-import { useEffect, useState } from "react";
-import { useDispatch, useSelector } from "react-redux";
+/* import { Metar } from "@flybywiresim/api-client"; */
+import axios from 'axios';
+import { parseMetar } from 'metar-taf-parser';
+import { useEffect, useState } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
 
-import { Metar } from "@flybywiresim/api-client";
-
-import { Airframe } from "../airframes";
-import { FlexMath } from "../math/math";
-import { TakeoffInstance } from "../math/mathh";
-import { debug, DebugMessage } from "../store/masterDebug";
-import { setMCDU } from "../store/mcdu";
-import { Runway, setRunway } from "../store/runway";
-import { RootState } from "../store/store";
+import { Airframe } from '../airframes';
+import { FlexMath } from '../math/math';
+import { TakeoffInstance } from '../math/mathh';
+import { debug, DebugMessage } from '../store/masterDebug';
+import { setMCDU } from '../store/mcdu';
+import { Runway, setRunway } from '../store/runway';
+import { RootState } from '../store/store';
 import {
-  defaultMetarForm,
-  defaultRunwayState,
-  MetarForm,
-  RunwaysForm
-} from "./formdefs";
+    defaultMetarForm,
+    defaultRunwayState,
+    MetarForm,
+    RunwaysForm,
+} from './formdefs';
 
 export const useApi = (): [
     MetarForm,
@@ -200,9 +200,13 @@ export const useApi = (): [
     };
 
     const getMETAR = async (icao: string) => {
-        Metar.get(icao, 'vatsim')
+        /* Metar.get(icao, 'vatsim') */
+        axios
+            .get(
+                'https://aviationweather.gov/cgi-bin/data/metar.php?ids=' + icao
+            )
             .then((data) => {
-                const mtar = parseMetar(data.metar);
+                const mtar = parseMetar(data.data);
                 let windH = 0;
                 let windS = 0;
                 if (mtar.wind !== undefined) {
