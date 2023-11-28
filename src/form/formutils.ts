@@ -206,6 +206,10 @@ export const useApi = (): [
                 'https://aviationweather.gov/cgi-bin/data/metar.php?ids=' + icao
             )
             .then((data) => {
+                sendDebug({
+                    title: 'METAR Resp',
+                    message: JSON.stringify(data.data),
+                });
                 const mtar = parseMetar(data.data);
                 let windH = 0;
                 let windS = 0;
