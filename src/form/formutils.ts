@@ -2,6 +2,7 @@
 import axios from 'axios';
 import { parseMetar } from 'metar-taf-parser';
 import { useEffect, useState } from 'react';
+import env from 'react-dotenv';
 import { useDispatch, useSelector } from 'react-redux';
 
 import { Airframe } from '../airframes';
@@ -200,17 +201,18 @@ export const useApi = (): [
     };
 
     const getMETAR = async (icao: string) => {
-        /* Metar.get(icao, 'vatsim') */
         axios
-            .get(
-                'https://aviationweather.gov/cgi-bin/data/metar.php?ids=' + icao
-            )
+            .get('https://avwx.rest/api/metar/' + icao, {
+                headers: {
+                    Authorization: 'BEARER ' + env.ACCESS_TOKEN,
+                },
+            })
             .then((data) => {
                 sendDebug({
                     title: 'METAR Resp',
                     message: JSON.stringify(data.data),
                 });
-                const mtar = parseMetar(data.data);
+                const mtar = parseMetar(data.data.raw);
                 let windH = 0;
                 let windS = 0;
                 if (mtar.wind !== undefined) {
