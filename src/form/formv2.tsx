@@ -36,6 +36,11 @@ import { calculateTHS, useApi, validateWeight } from './formutils';
 
 interface Props {
     useMETAR?: boolean;
+    simbreif: {
+        icao: string;
+        rw: string;
+        tow: number;
+    };
 }
 const Form = (props: Props) => {
     const disp = useDispatch();
@@ -45,6 +50,7 @@ const Form = (props: Props) => {
     const theme = useTheme();
     const mainForm = useRef<HTMLFormElement | null>(null);
     const icaoRef = useRef<HTMLInputElement | null>(null);
+    const rwRef = useRef<HTMLInputElement | null>(null);
     const [metar, setMetar] = useState<MetarForm>();
     const [formContent, setFormContent] =
         useState<FormContent>(defaultFormContent);
@@ -54,6 +60,14 @@ const Form = (props: Props) => {
     const [isOfflineForm, setIsOfflineForm] = useState(
         props ? !props.useMETAR : false
     );
+    const [simbreifData, setSimbreifData] = useState({
+        icao: '',
+        rw: '',
+        tow: 0,
+    });
+    const [rwManual, setRwManual] = useState<string>('');
+    const [icaoManual, setIcaoManual] = useState<string>('');
+    const [weightManual, setWeightManual] = useState<number>(0);
 
     const [calculateDisabled, setCalculateDisabled] = useState(true);
     const [rwDisabled, setRWDisabled] = useState(true);
@@ -75,6 +89,22 @@ const Form = (props: Props) => {
     ] = useApi();
 
     let temporaryAltimeter = 'hpa'; // TODO: Remove this
+
+    useEffect(() => {
+        setSimbreifData(props.simbreif);
+        console.log(props.simbreif);
+    }, [props.simbreif]);
+
+    useEffect(() => {
+        icaoRef.current!.focus();
+        setIcaoManual(simbreifData.icao);
+        setWeightManual(simbreifData.tow);
+        console.log('hi ' + simbreifData.icao);
+    }, [simbreifData]);
+
+    useEffect(() => {
+        icaoRef.current!.blur();
+    }, [icaoManual]);
 
     useEffect(() => {
         setIsOfflineForm(!props.useMETAR);
@@ -113,6 +143,10 @@ const Form = (props: Props) => {
 
     useEffect(() => {
         setRWDisabled(runways?.length ? !(runways.length > 0) : true);
+        if (simbreifData.rw !== '') {
+            setRwManual(simbreifData.rw);
+        }
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [runways]);
 
     useEffect(() => {
@@ -135,10 +169,14 @@ const Form = (props: Props) => {
     };
 
     const handleICAOBlur = (e: FocusEvent<HTMLInputElement>) => {
-        if (!isOfflineForm) {
-            getMETAR(e.target.value);
+        if (e.target.value !== '') {
+            if (!isOfflineForm) {
+                getMETAR(e.target.value);
+            }
+            getRunways(e.target.value);
+        } else {
+            console.log('BlurError43');
         }
-        getRunways(e.target.value);
     };
 
     const handleKeyDownICAO = (e: React.KeyboardEvent<HTMLDivElement>) => {
@@ -336,6 +374,7 @@ const Form = (props: Props) => {
                     inputProps={{
                         maxLength: 4,
                     }}
+                    value={icaoManual}
                 />
                 {!isOfflineForm && (
                     <>
@@ -352,10 +391,12 @@ const Form = (props: Props) => {
                         />
                         <TextField
                             id="outlined-select-runway"
+                            inputRef={rwRef}
                             select
                             required
                             label="Select a runway"
                             defaultValue=""
+                            value={rwManual}
                             disabled={rwDisabled}
                             onChange={handleRunwayChange}
                         >
@@ -501,6 +542,7 @@ const Form = (props: Props) => {
                     defaultValue=""
                     type="number"
                     onChange={handleWeightChange}
+                    value={weightManual}
                     inputProps={{
                         step: '10',
                         min:

@@ -1,40 +1,42 @@
-import "./mcdu/mcdu.css";
-import "./App.css";
-import "./mcdu/mcduv2.css";
+import './mcdu/mcdu.css';
+import './App.css';
+import './mcdu/mcduv2.css';
 
-import { MouseEvent, useEffect, useState } from "react";
-import { useDispatch, useSelector } from "react-redux";
+import { MouseEvent, useEffect, useState } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
 
-import BugReportIcon from "@mui/icons-material/BugReport";
-import FlightTakeoffIcon from "@mui/icons-material/FlightTakeoff";
-import ScreenRotationIcon from "@mui/icons-material/ScreenRotation";
-import WifiIcon from "@mui/icons-material/Wifi";
-import WifiOffIcon from "@mui/icons-material/WifiOff";
+import BugReportIcon from '@mui/icons-material/BugReport';
+import FlightTakeoffIcon from '@mui/icons-material/FlightTakeoff';
+import PlagiarismIcon from '@mui/icons-material/Plagiarism';
+import ScreenRotationIcon from '@mui/icons-material/ScreenRotation';
+import WifiIcon from '@mui/icons-material/Wifi';
+import WifiOffIcon from '@mui/icons-material/WifiOff';
 import {
-  AppBar,
-  Backdrop,
-  Box,
-  Grid,
-  IconButton,
-  Menu,
-  MenuItem,
-  Toolbar,
-  Typography
-} from "@mui/material";
-import CssBaseline from "@mui/material/CssBaseline";
-import { createTheme, ThemeProvider } from "@mui/material/styles";
+    AppBar,
+    Backdrop,
+    Box,
+    Grid,
+    IconButton,
+    Menu,
+    MenuItem,
+    Toolbar,
+    Typography,
+} from '@mui/material';
+import CssBaseline from '@mui/material/CssBaseline';
+import { createTheme, ThemeProvider } from '@mui/material/styles';
 
-import { a20n, a21nlp, a21npw, a339, Airframe } from "./airframes/index";
-import Debug from "./debug/debug";
-import Form from "./form/formv2";
-import Mcduv2 from "./mcdu/mcduv2";
-import Offline from "./offline/offline";
+import { a20n, a21nlp, a21npw, a339, Airframe } from './airframes/index';
+import Debug from './debug/debug';
+import Form from './form/formv2';
+import { getSimbreif } from './form/simbreif2';
+import Mcduv2 from './mcdu/mcduv2';
+import Offline from './offline/offline';
 /* import useScreenOrientation from './pwahooks/screenorientation'; */
-import RunwayV2 from "./runway/runwayv2";
-import { setAirframe } from "./store/airframe";
-import { setDebugWindow } from "./store/masterDebug";
-import { RootState } from "./store/store";
-import CrosswindCalc from "./wind/crosswind";
+import RunwayV2 from './runway/runwayv2';
+import { setAirframe } from './store/airframe';
+import { debug, DebugMessage, setDebugWindow } from './store/masterDebug';
+import { RootState } from './store/store';
+import CrosswindCalc from './wind/crosswind';
 
 const darkTheme = createTheme({
     palette: {
@@ -69,13 +71,32 @@ function App() {
     const [selectedAirframe, setSelectedAirframe] =
         useState<Airframe>(airframeSelection);
     const open = Boolean(anchorEl);
-
+    const [simbreif, setSimbreif] = useState({
+        icao: '',
+        rw: '',
+        tow: 0,
+    });
+    const sendDebug = (formattedDebug: DebugMessage) => {
+        disp(debug(formattedDebug));
+    };
     const handleClose = () => {
         setAnchorEl(null);
     };
 
     const handleClickBug = () => {
         disp(setDebugWindow(true));
+    };
+    const handleClickSimbreif = async () => {
+        let simbr = await getSimbreif('budzique');
+        setSimbreif({
+            icao: simbr.icao,
+            rw: simbr.rw,
+            tow: simbr.tow,
+        });
+        sendDebug({
+            title: 'Simbreif',
+            message: JSON.stringify(simbr),
+        });
     };
     const handleClickWifi = () => {
         setOnline(!online);
@@ -190,6 +211,18 @@ function App() {
                             }}
                         >
                             <BugReportIcon />
+                        </IconButton>
+                        <IconButton
+                            size="medium"
+                            edge="start"
+                            color="inherit"
+                            aria-label="debugMode"
+                            onClick={handleClickSimbreif}
+                            sx={{
+                                mr: '0.5em',
+                            }}
+                        >
+                            <PlagiarismIcon />
                         </IconButton>
                         <IconButton
                             size="medium"
@@ -316,7 +349,7 @@ function App() {
                             [theme.breakpoints.down('md')]: { order: '1' },
                         })}
                     >
-                        <Form useMETAR={online} />
+                        <Form useMETAR={online} simbreif={simbreif} />
                     </Grid>
                     <Grid
                         sx={(theme) => ({
