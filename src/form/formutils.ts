@@ -1,8 +1,5 @@
-/* import { Metar } from "@flybywiresim/api-client"; */
-import axios from 'axios';
 import { parseMetar } from 'metar-taf-parser';
 import { useEffect, useState } from 'react';
-import env from 'react-dotenv';
 import { useDispatch, useSelector } from 'react-redux';
 
 import { Airframe } from '../airframes';
@@ -18,6 +15,7 @@ import {
     MetarForm,
     RunwaysForm,
 } from './formdefs';
+import { fetchMetar } from './metar';
 
 export const useApi = (): [
     MetarForm,
@@ -201,17 +199,8 @@ export const useApi = (): [
     };
 
     const getMETAR = async (icao: string) => {
-        axios
-            .get('https://avwx.rest/api/metar/' + icao, {
-                headers: {
-                    Authorization: 'BEARER ' + env.ACCESS_TOKEN,
-                },
-            })
+        fetchMetar(icao)
             .then((data) => {
-                sendDebug({
-                    title: 'METAR Resp',
-                    message: JSON.stringify(data.data),
-                });
                 const mtar = parseMetar(data.data.raw);
                 let windH = 0;
                 let windS = 0;
