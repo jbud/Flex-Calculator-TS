@@ -40,6 +40,8 @@ interface Props {
         icao: string;
         rw: string;
         tow: number;
+        wunit: string;
+        raw: string;
     };
 }
 const Form = (props: Props) => {
@@ -64,11 +66,13 @@ const Form = (props: Props) => {
         icao: '',
         rw: '',
         tow: 0,
+        wunit: '',
+        raw: '',
     });
     const [rwManual, setRwManual] = useState<string>('');
     const [icaoManual, setIcaoManual] = useState<string>('');
     const [weightManual, setWeightManual] = useState<number>(0);
-
+    const [weightUnit, setWeightUnit] = useState<string>('KG');
     const [calculateDisabled, setCalculateDisabled] = useState(true);
     const [rwDisabled, setRWDisabled] = useState(true);
     const [formValidation, setFormValidation] = useState({
@@ -99,8 +103,10 @@ const Form = (props: Props) => {
         icaoRef.current!.focus();
         setIcaoManual(simbreifData.icao);
         setWeightManual(simbreifData.tow);
-        handleManualWeight(simbreifData.tow);
-        console.log('hi ' + simbreifData.icao);
+        setWeightUnit(simbreifData.wunit);
+        handleManualWeightUnit(simbreifData.wunit);
+        handleManualWeight(simbreifData.tow, simbreifData.wunit);
+
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [simbreifData]);
 
@@ -228,18 +234,14 @@ const Form = (props: Props) => {
             );
         }
     };
-    const handleManualWeight = (weight: number) => {
+    const handleManualWeight = (weight: number, unit: string) => {
         setFormContent({ ...formContent, weight: weight });
         changeSettings('tow', weight);
         setCalculateDisabled(false);
         setFormValidation((valid) => {
             return {
                 ...valid,
-                weight: validateWeight(
-                    weight,
-                    formContent?.weightUnit!,
-                    airframe
-                ),
+                weight: validateWeight(weight, unit, airframe),
             };
         });
     };
@@ -259,8 +261,8 @@ const Form = (props: Props) => {
         });
     };
 
-    const handleChangeWeightUnit = (e: MouseEvent<HTMLButtonElement>) => {
-        const val = formContent.weightUnit === 'KG' ? 'LBS' : 'KG';
+    const handleManualWeightUnit = (unit: string) => {
+        const val = unit === 'LBS' ? 'LBS' : 'KG';
         changeSettings('isKG', val === 'KG');
         setFormValidation((valid) => {
             return {
@@ -268,6 +270,22 @@ const Form = (props: Props) => {
                 weight: validateWeight(formContent.weight || 0, val, airframe),
             };
         });
+        setWeightUnit(val);
+        setFormContent((form) => {
+            return { ...form, weightUnit: val };
+        });
+    };
+
+    const handleChangeWeightUnit = (e: MouseEvent<HTMLButtonElement>) => {
+        const val = weightUnit === 'KG' ? 'LBS' : 'KG';
+        changeSettings('isKG', val === 'KG');
+        setFormValidation((valid) => {
+            return {
+                ...valid,
+                weight: validateWeight(formContent.weight || 0, val, airframe),
+            };
+        });
+        setWeightUnit(val);
         setFormContent((form) => {
             return { ...form, weightUnit: val };
         });
@@ -599,7 +617,7 @@ const Form = (props: Props) => {
                                     variant="outlined"
                                     onClick={handleChangeWeightUnit}
                                 >
-                                    {formContent?.weightUnit}
+                                    {weightUnit}
                                 </Button>
                             </InputAdornment>
                         ),

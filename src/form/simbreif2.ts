@@ -8,6 +8,8 @@ export const getSimbreif = async (username: string) => {
                 icao: json.origin.icao_code,
                 rw: json.origin.plan_rwy,
                 tow: json.weights.est_tow,
+                wunit: json.api_params.pounds === '1' ? 'LBS' : 'KGS',
+                raw: json,
             };
         });
 };

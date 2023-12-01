@@ -75,6 +75,8 @@ function App() {
         icao: '',
         rw: '',
         tow: 0,
+        wunit: '',
+        raw: '',
     });
     const sendDebug = (formattedDebug: DebugMessage) => {
         disp(debug(formattedDebug));
@@ -92,6 +94,8 @@ function App() {
             icao: simbr.icao,
             rw: simbr.rw,
             tow: simbr.tow,
+            wunit: simbr.wunit,
+            raw: simbr.raw,
         });
         sendDebug({
             title: 'Simbreif',
