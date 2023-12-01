@@ -1,11 +1,11 @@
 import { Airframe } from './airframes.h';
 
-export const a339: Airframe = {
-    name: 'A339',
+export const a338: Airframe = {
+    name: 'A338',
     Engines: 'RR Trent 7000',
     MTOW: 251000,
-    OEW: 137000,
-    MLW: 191000,
+    OEW: 132000,
+    MLW: 186000,
     ISAIncrease: 15,
     Trim: {
         MinCG: 15,
