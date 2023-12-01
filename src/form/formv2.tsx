@@ -99,7 +99,9 @@ const Form = (props: Props) => {
         icaoRef.current!.focus();
         setIcaoManual(simbreifData.icao);
         setWeightManual(simbreifData.tow);
+        handleManualWeight(simbreifData.tow);
         console.log('hi ' + simbreifData.icao);
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [simbreifData]);
 
     useEffect(() => {
@@ -144,7 +146,12 @@ const Form = (props: Props) => {
     useEffect(() => {
         setRWDisabled(runways?.length ? !(runways.length > 0) : true);
         if (simbreifData.rw !== '') {
-            setRwManual(simbreifData.rw);
+            runways!.forEach((r) => {
+                if (r.value === simbreifData.rw) {
+                    setRwManual(simbreifData.rw);
+                    handleRunwayManual(r!.value);
+                }
+            });
         }
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [runways]);
@@ -185,7 +192,24 @@ const Form = (props: Props) => {
             icaoRef.current?.blur();
         }
     };
+    const handleRunwayManual = (rway: string) => {
+        setFormContent({ ...formContent, runway: rway });
+        const rw = runways!.find((rw) => rw.value === rway);
+        if (rw) {
+            changeSettings('runwayAltitude', parseInt(rw.elevation!));
+            changeSettings('runwayHeading', parseInt(rw.heading!));
+            changeSettings('availRunway', parseInt(rw.length!));
+            changeSettings('isMeters', false); // our runway database is in feet
 
+            disp(
+                setRunway({
+                    ...runway,
+                    true: rway,
+                    length: parseInt(rw.length || '0'),
+                })
+            );
+        }
+    };
     const handleRunwayChange = (e: ChangeEvent<HTMLInputElement>) => {
         setFormContent({ ...formContent, runway: e.target.value });
         const rw = runways!.find((rw) => rw.value === e.target.value);
@@ -204,7 +228,21 @@ const Form = (props: Props) => {
             );
         }
     };
-
+    const handleManualWeight = (weight: number) => {
+        setFormContent({ ...formContent, weight: weight });
+        changeSettings('tow', weight);
+        setCalculateDisabled(false);
+        setFormValidation((valid) => {
+            return {
+                ...valid,
+                weight: validateWeight(
+                    weight,
+                    formContent?.weightUnit!,
+                    airframe
+                ),
+            };
+        });
+    };
     const handleWeightChange = (e: ChangeEvent<HTMLInputElement>) => {
         setFormContent({ ...formContent, weight: parseInt(e.target.value) });
         changeSettings('tow', parseInt(e.target.value));
