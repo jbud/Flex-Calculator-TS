@@ -2,7 +2,7 @@ import './mcdu/mcdu.css';
 import './App.css';
 import './mcdu/mcduv2.css';
 
-import { MouseEvent, useEffect, useState } from 'react';
+import { ChangeEvent, MouseEvent, useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
 import BugReportIcon from '@mui/icons-material/BugReport';
@@ -15,10 +15,17 @@ import {
     AppBar,
     Backdrop,
     Box,
+    Button,
+    Dialog,
+    DialogActions,
+    DialogContent,
+    DialogContentText,
+    DialogTitle,
     Grid,
     IconButton,
     Menu,
     MenuItem,
+    TextField,
     Toolbar,
     Typography,
 } from '@mui/material';
@@ -31,6 +38,7 @@ import Form from './form/formv2';
 import { getSimbreif } from './form/simbreif2';
 import Mcduv2 from './mcdu/mcduv2';
 import Offline from './offline/offline';
+import { useLocalStorage } from './pwahooks/localstorage';
 /* import useScreenOrientation from './pwahooks/screenorientation'; */
 import RunwayV2 from './runway/runwayv2';
 import { setAirframe } from './store/airframe';
@@ -78,18 +86,23 @@ function App() {
         wunit: '',
         raw: '',
     });
+    const [openSBDialog, setOpenSBDialog] = useState(false);
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
+    const [simUserName, setSimUsername] = useLocalStorage('SimbreifUserId', '');
     const sendDebug = (formattedDebug: DebugMessage) => {
         disp(debug(formattedDebug));
     };
     const handleClose = () => {
         setAnchorEl(null);
     };
-
-    const handleClickBug = () => {
-        disp(setDebugWindow(true));
+    const handleCloseSBDialog = () => {
+        setOpenSBDialog(false);
     };
-    const handleClickSimbreif = async () => {
-        let simbr = await getSimbreif('budzique');
+
+    const handleSubmitSBDialog = async () => {
+        setOpenSBDialog(false);
+
+        let simbr = await getSimbreif(simUserName);
         setSimbreif({
             icao: simbr.icao,
             rw: simbr.rw,
@@ -101,6 +114,16 @@ function App() {
             title: 'Simbreif',
             message: JSON.stringify(simbr),
         });
+    };
+
+    const handleClickBug = () => {
+        disp(setDebugWindow(true));
+    };
+    const handleSBChangeId = (e: ChangeEvent<HTMLInputElement>) => {
+        setSimUsername(e.target.value);
+    };
+    const handleClickSimbreif = () => {
+        setOpenSBDialog(true);
     };
     const handleClickWifi = () => {
         setOnline(!online);
@@ -348,6 +371,34 @@ function App() {
                     justifyContent="space-evenly"
                     alignItems="flex-start"
                 >
+                    <Dialog open={openSBDialog} onClose={handleCloseSBDialog}>
+                        <DialogTitle>Import From Simbreif</DialogTitle>
+                        <DialogContent>
+                            <DialogContentText>
+                                Enter your simbreif username or ID to import
+                                your current plan
+                            </DialogContentText>
+                            <TextField
+                                autoFocus={true}
+                                margin="dense"
+                                id="name"
+                                label="Username/ID"
+                                type="user"
+                                fullWidth
+                                variant="standard"
+                                onChange={handleSBChangeId}
+                                value={simUserName}
+                            />
+                        </DialogContent>
+                        <DialogActions>
+                            <Button onClick={handleCloseSBDialog}>
+                                Cancel
+                            </Button>
+                            <Button onClick={handleSubmitSBDialog}>
+                                Lookup Breifing
+                            </Button>
+                        </DialogActions>
+                    </Dialog>
                     <Grid
                         sx={(theme) => ({
                             [theme.breakpoints.down('md')]: { order: '1' },
