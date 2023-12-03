@@ -590,13 +590,13 @@ const Form = (props: Props) => {
                 )}
 
                 <TextField
-                    error={formValidation.weight}
+                    error={weightManual === 0 ? false : formValidation.weight}
                     required
                     id="weight"
                     label="Weight"
                     type="number"
                     onChange={handleWeightChange}
-                    value={weightManual}
+                    value={weightManual === 0 ? '' : weightManual}
                     inputProps={{
                         step: '10',
                         min:
