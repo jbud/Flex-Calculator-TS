@@ -27,6 +27,7 @@ import {
     MenuItem,
     TextField,
     Toolbar,
+    Tooltip,
     Typography,
 } from '@mui/material';
 import CssBaseline from '@mui/material/CssBaseline';
@@ -231,55 +232,63 @@ function App() {
                             mx: '0.5em',
                         }}
                     >
-                        <IconButton
-                            size="medium"
-                            edge="start"
-                            color="inherit"
-                            aria-label="debugMode"
-                            onClick={handleClickBug}
-                            sx={{
-                                mr: '0.5em',
-                            }}
-                        >
-                            <BugReportIcon />
-                        </IconButton>
-                        <IconButton
-                            size="medium"
-                            edge="start"
-                            color="inherit"
-                            aria-label="debugMode"
-                            onClick={handleClickSimbreif}
-                            sx={{
-                                mr: '0.5em',
-                            }}
-                        >
-                            <PlagiarismIcon />
-                        </IconButton>
-                        <IconButton
-                            size="medium"
-                            edge="start"
-                            color="inherit"
-                            aria-label="offlineMode"
-                            onClick={handleClickWifi}
-                            sx={{
-                                mr: '0.5em',
-                            }}
-                        >
-                            {online && <WifiIcon />}
-                            {!online && <WifiOffIcon />}
-                        </IconButton>
-                        <IconButton
-                            size="medium"
-                            edge="start"
-                            color="inherit"
-                            aria-label="airframeSelection"
-                            onClick={handleClickAirplane}
-                            sx={{
-                                mr: '0.5em',
-                            }}
-                        >
-                            <FlightTakeoffIcon />
-                        </IconButton>
+                        <Tooltip title="Debug Info" arrow>
+                            <IconButton
+                                size="medium"
+                                edge="start"
+                                color="inherit"
+                                aria-label="debugMode"
+                                onClick={handleClickBug}
+                                sx={{
+                                    mr: '0.5em',
+                                }}
+                            >
+                                <BugReportIcon />
+                            </IconButton>
+                        </Tooltip>
+                        <Tooltip title="Simbreif Import" arrow>
+                            <IconButton
+                                size="medium"
+                                edge="start"
+                                color="inherit"
+                                aria-label="Simbreif Import"
+                                onClick={handleClickSimbreif}
+                                sx={{
+                                    mr: '0.5em',
+                                }}
+                            >
+                                <PlagiarismIcon />
+                            </IconButton>
+                        </Tooltip>
+                        <Tooltip title="Offline Mode (INOP)" arrow>
+                            <IconButton
+                                size="medium"
+                                edge="start"
+                                color="inherit"
+                                aria-label="offlineMode"
+                                onClick={handleClickWifi}
+                                sx={{
+                                    mr: '0.5em',
+                                }}
+                            >
+                                {online && <WifiIcon />}
+                                {!online && <WifiOffIcon />}
+                            </IconButton>
+                        </Tooltip>
+                        <Tooltip title="Airframe Selection" arrow>
+                            <IconButton
+                                size="medium"
+                                edge="start"
+                                color="inherit"
+                                aria-label="airframeSelection"
+                                onClick={handleClickAirplane}
+                                sx={{
+                                    mr: '0.5em',
+                                }}
+                            >
+                                <FlightTakeoffIcon />
+                            </IconButton>
+                        </Tooltip>
                         <Menu
                             id="basic-menu"
                             anchorEl={anchorEl}
