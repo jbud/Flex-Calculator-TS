@@ -110,6 +110,10 @@ function App() {
             wunit: simbr.wunit,
             raw: simbr.raw,
         });
+        const airframe = simbr.raw.aircraft.icao_code;
+        if (airframe === 'A339') {
+            changeAirframe('a339');
+        }
         sendDebug({
             title: 'Simbreif',
             message: JSON.stringify(simbr),

@@ -451,7 +451,6 @@ const Form = (props: Props) => {
                             select
                             required
                             label="Select a runway"
-                            defaultValue=""
                             value={rwManual}
                             disabled={rwDisabled}
                             onChange={handleRunwayChange}
@@ -595,7 +594,6 @@ const Form = (props: Props) => {
                     required
                     id="weight"
                     label="Weight"
-                    defaultValue=""
                     type="number"
                     onChange={handleWeightChange}
                     value={weightManual}
@@ -667,7 +665,6 @@ const Form = (props: Props) => {
                     select
                     required
                     label="Runway Cond"
-                    defaultValue=""
                     value={formContent?.rwCond}
                     onChange={handleRwCondChange}
                 >
