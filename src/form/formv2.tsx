@@ -96,7 +96,6 @@ const Form = (props: Props) => {
 
     useEffect(() => {
         setSimbreifData(props.simbreif);
-        console.log(props.simbreif);
     }, [props.simbreif]);
 
     useEffect(() => {
@@ -187,8 +186,6 @@ const Form = (props: Props) => {
                 getMETAR(e.target.value);
             }
             getRunways(e.target.value);
-        } else {
-            console.log('BlurError43');
         }
     };
 
