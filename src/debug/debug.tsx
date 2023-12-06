@@ -91,34 +91,30 @@ const Debug = () => {
                     };
                     if (isJSON(subjects[keyName].message)) {
                         return (
-                            <>
-                                <ListItem key={subjects[keyName].title + i}>
-                                    <ListItemText
-                                        key={i}
-                                        primary={subjects[keyName].title}
-                                    />
-                                    <ReactJson
-                                        key={subjects[keyName].message + i}
-                                        src={JSON.parse(
-                                            subjects[keyName].message
-                                        )}
-                                        collapsed={true}
-                                        theme="monokai"
-                                    />
-                                </ListItem>
-                            </>
+                            <ListItem key={subjects[keyName].title + 'LIT'}>
+                                <ListItemText
+                                    key={subjects[keyName].title}
+                                    primary={subjects[keyName].title}
+                                />
+                                <ReactJson
+                                    key={subjects[keyName].message + 'RJS'}
+                                    src={JSON.parse(subjects[keyName].message)}
+                                    collapsed={true}
+                                    theme="monokai"
+                                />
+                            </ListItem>
                         );
                     }
                     return (
                         <>
-                            <ListItem key={i}>
+                            <ListItem key={subjects[keyName].title}>
                                 <ListItemText
-                                    key={i + subjects[keyName].title}
+                                    key={subjects[keyName].message}
                                     primary={subjects[keyName].title}
                                     secondary={subjects[keyName].message}
                                 />
                             </ListItem>
-                            <Divider />
+                            <Divider key="div" />
                         </>
                     );
                 })}
@@ -126,7 +122,7 @@ const Debug = () => {
                 <ListItem>
                     <ListItemText
                         primary="T/Log"
-                        secondary={`*Offline function in beta. *V1 version 2 now in beta.`}
+                        secondary={`*Offline function inop. *V1 version 2 now in beta.`}
                     />
                 </ListItem>
             </List>

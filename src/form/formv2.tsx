@@ -36,6 +36,13 @@ import { calculateTHS, useApi, validateWeight } from './formutils';
 
 interface Props {
     useMETAR?: boolean;
+    simbreif: {
+        icao: string;
+        rw: string;
+        tow: number;
+        wunit: string;
+        raw: string;
+    };
 }
 const Form = (props: Props) => {
     const disp = useDispatch();
@@ -45,6 +52,7 @@ const Form = (props: Props) => {
     const theme = useTheme();
     const mainForm = useRef<HTMLFormElement | null>(null);
     const icaoRef = useRef<HTMLInputElement | null>(null);
+    const rwRef = useRef<HTMLInputElement | null>(null);
     const [metar, setMetar] = useState<MetarForm>();
     const [formContent, setFormContent] =
         useState<FormContent>(defaultFormContent);
@@ -54,7 +62,17 @@ const Form = (props: Props) => {
     const [isOfflineForm, setIsOfflineForm] = useState(
         props ? !props.useMETAR : false
     );
-
+    const [simbreifData, setSimbreifData] = useState({
+        icao: '',
+        rw: '',
+        tow: 0,
+        wunit: '',
+        raw: '',
+    });
+    const [rwManual, setRwManual] = useState<string>('');
+    const [icaoManual, setIcaoManual] = useState<string>('');
+    const [weightManual, setWeightManual] = useState<number>(0);
+    const [weightUnit, setWeightUnit] = useState<string>('KG');
     const [calculateDisabled, setCalculateDisabled] = useState(true);
     const [rwDisabled, setRWDisabled] = useState(true);
     const [formValidation, setFormValidation] = useState({
@@ -75,6 +93,25 @@ const Form = (props: Props) => {
     ] = useApi();
 
     let temporaryAltimeter = 'hpa'; // TODO: Remove this
+
+    useEffect(() => {
+        setSimbreifData(props.simbreif);
+    }, [props.simbreif]);
+
+    useEffect(() => {
+        icaoRef.current!.focus();
+        setIcaoManual(simbreifData.icao);
+        setWeightManual(simbreifData.tow);
+        setWeightUnit(simbreifData.wunit);
+        handleManualWeightUnit(simbreifData.wunit);
+        handleManualWeight(simbreifData.tow, simbreifData.wunit);
+
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [simbreifData]);
+
+    useEffect(() => {
+        icaoRef.current!.blur();
+    }, [icaoManual]);
 
     useEffect(() => {
         setIsOfflineForm(!props.useMETAR);
@@ -113,6 +150,15 @@ const Form = (props: Props) => {
 
     useEffect(() => {
         setRWDisabled(runways?.length ? !(runways.length > 0) : true);
+        if (simbreifData.rw !== '') {
+            runways!.forEach((r) => {
+                if (r.value === simbreifData.rw) {
+                    setRwManual(simbreifData.rw);
+                    handleRunwayManual(r!.value);
+                }
+            });
+        }
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [runways]);
 
     useEffect(() => {
@@ -135,10 +181,12 @@ const Form = (props: Props) => {
     };
 
     const handleICAOBlur = (e: FocusEvent<HTMLInputElement>) => {
-        if (!isOfflineForm) {
-            getMETAR(e.target.value);
+        if (e.target.value !== '') {
+            if (!isOfflineForm) {
+                getMETAR(e.target.value);
+            }
+            getRunways(e.target.value);
         }
-        getRunways(e.target.value);
     };
 
     const handleKeyDownICAO = (e: React.KeyboardEvent<HTMLDivElement>) => {
@@ -147,7 +195,24 @@ const Form = (props: Props) => {
             icaoRef.current?.blur();
         }
     };
+    const handleRunwayManual = (rway: string) => {
+        setFormContent({ ...formContent, runway: rway });
+        const rw = runways!.find((rw) => rw.value === rway);
+        if (rw) {
+            changeSettings('runwayAltitude', parseInt(rw.elevation!));
+            changeSettings('runwayHeading', parseInt(rw.heading!));
+            changeSettings('availRunway', parseInt(rw.length!));
+            changeSettings('isMeters', false); // our runway database is in feet
 
+            disp(
+                setRunway({
+                    ...runway,
+                    true: rway,
+                    length: parseInt(rw.length || '0'),
+                })
+            );
+        }
+    };
     const handleRunwayChange = (e: ChangeEvent<HTMLInputElement>) => {
         setFormContent({ ...formContent, runway: e.target.value });
         const rw = runways!.find((rw) => rw.value === e.target.value);
@@ -166,7 +231,17 @@ const Form = (props: Props) => {
             );
         }
     };
-
+    const handleManualWeight = (weight: number, unit: string) => {
+        setFormContent({ ...formContent, weight: weight });
+        changeSettings('tow', weight);
+        setCalculateDisabled(false);
+        setFormValidation((valid) => {
+            return {
+                ...valid,
+                weight: validateWeight(weight, unit, airframe),
+            };
+        });
+    };
     const handleWeightChange = (e: ChangeEvent<HTMLInputElement>) => {
         setFormContent({ ...formContent, weight: parseInt(e.target.value) });
         changeSettings('tow', parseInt(e.target.value));
@@ -183,8 +258,8 @@ const Form = (props: Props) => {
         });
     };
 
-    const handleChangeWeightUnit = (e: MouseEvent<HTMLButtonElement>) => {
-        const val = formContent.weightUnit === 'KG' ? 'LBS' : 'KG';
+    const handleManualWeightUnit = (unit: string) => {
+        const val = unit === 'LBS' ? 'LBS' : 'KG';
         changeSettings('isKG', val === 'KG');
         setFormValidation((valid) => {
             return {
@@ -192,6 +267,22 @@ const Form = (props: Props) => {
                 weight: validateWeight(formContent.weight || 0, val, airframe),
             };
         });
+        setWeightUnit(val);
+        setFormContent((form) => {
+            return { ...form, weightUnit: val };
+        });
+    };
+
+    const handleChangeWeightUnit = (e: MouseEvent<HTMLButtonElement>) => {
+        const val = weightUnit === 'KG' ? 'LBS' : 'KG';
+        changeSettings('isKG', val === 'KG');
+        setFormValidation((valid) => {
+            return {
+                ...valid,
+                weight: validateWeight(formContent.weight || 0, val, airframe),
+            };
+        });
+        setWeightUnit(val);
         setFormContent((form) => {
             return { ...form, weightUnit: val };
         });
@@ -336,6 +427,7 @@ const Form = (props: Props) => {
                     inputProps={{
                         maxLength: 4,
                     }}
+                    value={icaoManual}
                 />
                 {!isOfflineForm && (
                     <>
@@ -352,10 +444,11 @@ const Form = (props: Props) => {
                         />
                         <TextField
                             id="outlined-select-runway"
+                            inputRef={rwRef}
                             select
                             required
                             label="Select a runway"
-                            defaultValue=""
+                            value={rwManual}
                             disabled={rwDisabled}
                             onChange={handleRunwayChange}
                         >
@@ -494,13 +587,13 @@ const Form = (props: Props) => {
                 )}
 
                 <TextField
-                    error={formValidation.weight}
+                    error={weightManual === 0 ? false : formValidation.weight}
                     required
                     id="weight"
                     label="Weight"
-                    defaultValue=""
                     type="number"
                     onChange={handleWeightChange}
+                    value={weightManual === 0 ? '' : weightManual}
                     inputProps={{
                         step: '10',
                         min:
@@ -519,7 +612,7 @@ const Form = (props: Props) => {
                                     variant="outlined"
                                     onClick={handleChangeWeightUnit}
                                 >
-                                    {formContent?.weightUnit}
+                                    {weightUnit}
                                 </Button>
                             </InputAdornment>
                         ),
@@ -569,7 +662,6 @@ const Form = (props: Props) => {
                     select
                     required
                     label="Runway Cond"
-                    defaultValue=""
                     value={formContent?.rwCond}
                     onChange={handleRwCondChange}
                 >
