@@ -110,7 +110,7 @@ const Form = (props: Props) => {
     }, [simbreifData]);
 
     useEffect(() => {
-        icaoRef.current!.blur();
+        if (icaoManual.length === 4) icaoRef.current!.blur();
     }, [icaoManual]);
 
     useEffect(() => {
@@ -177,6 +177,7 @@ const Form = (props: Props) => {
 
     const handleICAOChange = (e: ChangeEvent<HTMLInputElement>) => {
         e.target.value = e.target.value.toUpperCase();
+        setIcaoManual(e.target.value);
         setFormContent({ ...formContent, icao: e.target.value });
     };
 
@@ -215,6 +216,7 @@ const Form = (props: Props) => {
     };
     const handleRunwayChange = (e: ChangeEvent<HTMLInputElement>) => {
         setFormContent({ ...formContent, runway: e.target.value });
+        setRwManual(e.target.value);
         const rw = runways!.find((rw) => rw.value === e.target.value);
         if (rw) {
             changeSettings('runwayAltitude', parseInt(rw.elevation!));
@@ -244,6 +246,7 @@ const Form = (props: Props) => {
     };
     const handleWeightChange = (e: ChangeEvent<HTMLInputElement>) => {
         setFormContent({ ...formContent, weight: parseInt(e.target.value) });
+        setWeightManual(parseInt(e.target.value));
         changeSettings('tow', parseInt(e.target.value));
         setCalculateDisabled(false);
         setFormValidation((valid) => {
