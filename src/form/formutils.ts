@@ -173,25 +173,26 @@ export const useApi = (): [
             .then((response) => response.json())
             .then((data) => {
                 let dataMissing = false;
-                let extrapolatedHeading = '0';
+                let extrapolatedHeadingH,
+                    extrapolatedHeadingL = '0';
                 const rws = data.runways;
                 const rwList: RunwaysForm[] = []; //{ value: '', heading: '', elevation: '', length: '' },
                 for (let i = 0; i < rws.length; i++) {
                     if (rws[i].he_heading_degT === '') {
                         // convert runway ident to heading
-                        extrapolatedHeading =
-                            rws[i].he_ident.substring(0, 2) + 0;
+                        extrapolatedHeadingH =
+                            rws[i].he_ident.substring(0, 2) + '0';
                         dataMissing = true;
                     }
                     if (rws[i].le_heading_degT === '') {
-                        extrapolatedHeading =
-                            rws[i].le_ident.substring(0, 2) + 0;
+                        extrapolatedHeadingL =
+                            rws[i].le_ident.substring(0, 2) + '0';
                         dataMissing = true;
                     }
                     rwList.push({
                         value: rws[i].he_ident,
                         heading: dataMissing
-                            ? extrapolatedHeading
+                            ? extrapolatedHeadingH
                             : rws[i].he_heading_degT,
                         elevation: data.elevation_ft,
                         length: rws[i].length_ft,
@@ -199,7 +200,7 @@ export const useApi = (): [
                     rwList.push({
                         value: rws[i].le_ident,
                         heading: dataMissing
-                            ? extrapolatedHeading
+                            ? extrapolatedHeadingL
                             : rws[i].le_heading_degT,
                         elevation: data.elevation_ft,
                         length: rws[i].length_ft,
