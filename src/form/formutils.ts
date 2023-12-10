@@ -172,18 +172,35 @@ export const useApi = (): [
         fetch('./database/runways/icao/' + icao + '.json')
             .then((response) => response.json())
             .then((data) => {
+                let dataMissing = false;
+                let extrapolatedHeading = '0';
                 const rws = data.runways;
                 const rwList: RunwaysForm[] = []; //{ value: '', heading: '', elevation: '', length: '' },
                 for (let i = 0; i < rws.length; i++) {
+                    if (rws[i].he_heading_degT === '') {
+                        // convert runway ident to heading
+                        extrapolatedHeading =
+                            rws[i].he_ident.substring(0, 2) + 0;
+                        dataMissing = true;
+                    }
+                    if (rws[i].le_heading_degT === '') {
+                        extrapolatedHeading =
+                            rws[i].le_ident.substring(0, 2) + 0;
+                        dataMissing = true;
+                    }
                     rwList.push({
                         value: rws[i].he_ident,
-                        heading: rws[i].he_heading_degT,
+                        heading: dataMissing
+                            ? extrapolatedHeading
+                            : rws[i].he_heading_degT,
                         elevation: data.elevation_ft,
                         length: rws[i].length_ft,
                     });
                     rwList.push({
                         value: rws[i].le_ident,
-                        heading: rws[i].le_heading_degT,
+                        heading: dataMissing
+                            ? extrapolatedHeading
+                            : rws[i].le_heading_degT,
                         elevation: data.elevation_ft,
                         length: rws[i].length_ft,
                     });
