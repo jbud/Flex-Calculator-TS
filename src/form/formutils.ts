@@ -131,7 +131,7 @@ export const useApi = (): [
         }
         if (
             settings.togaRequiredRunway >
-            FlexMath.parseDist(settings.availRunway, false)
+            FlexMath.parseDist(settings.availRunway, true)
         ) {
             takeoffInvalid = true;
             m =
@@ -144,6 +144,8 @@ export const useApi = (): [
         setRunwayStateDispatcher((state) => {
             return {
                 ...state,
+                wind: settings.windHeading,
+                windSpeed: settings.windKts,
                 asd: takeoffInvalid
                     ? 0
                     : ret.flex < ret.minFlex || signal

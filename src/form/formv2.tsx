@@ -73,6 +73,7 @@ const Form = (props: Props) => {
     const [icaoManual, setIcaoManual] = useState<string>('');
     const [weightManual, setWeightManual] = useState<number>(0);
     const [weightUnit, setWeightUnit] = useState<string>('KG');
+    const [baroUnitManual, setBaroUnitManual] = useState<string>('hPa');
     const [calculateDisabled, setCalculateDisabled] = useState(true);
     const [rwDisabled, setRWDisabled] = useState(true);
     const [formValidation, setFormValidation] = useState({
@@ -91,8 +92,6 @@ const Form = (props: Props) => {
         apiFormValidation,
         calculate,
     ] = useApi();
-
-    let temporaryAltimeter = 'hpa'; // TODO: Remove this
 
     useEffect(() => {
         setSimbreifData(props.simbreif);
@@ -142,6 +141,14 @@ const Form = (props: Props) => {
                 ? offlineFormContent.baroUnit === 'hPa'
                 : false
         );
+        disp(
+            setRunway({
+                ...runway,
+                wind: offlineFormContent?.windHeading || 0,
+                windSpeed: offlineFormContent?.windKts || 0,
+            })
+        );
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [offlineFormContent]);
 
     useEffect(() => {
@@ -379,6 +386,7 @@ const Form = (props: Props) => {
     };
 
     const handleAltimiterUnitChange = (e: MouseEvent<HTMLButtonElement>) => {
+        setBaroUnitManual(baroUnitManual === 'inHg' ? 'hPa' : 'inHg');
         setOfflineFormContent((form) => {
             return {
                 ...form,
@@ -564,9 +572,7 @@ const Form = (props: Props) => {
                                             onClick={handleAltimiterUnitChange}
                                             variant="outlined"
                                         >
-                                            {temporaryAltimeter === 'hpa'
-                                                ? 'hpa'
-                                                : 'inHg'}
+                                            {baroUnitManual}
                                         </Button>
                                     </InputAdornment>
                                 ),
