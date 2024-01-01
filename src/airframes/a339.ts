@@ -3,8 +3,8 @@ import { Airframe } from './airframes.h';
 export const a339: Airframe = {
     name: 'A339',
     Engines: 'RR Trent 7000',
-    MTOW: 242000,
-    OEW: 137000,
+    MTOW: 251000,
+    OEW: 127000,
     MLW: 191000,
     ISAIncrease: 15,
     Trim: {
