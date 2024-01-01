@@ -73,7 +73,8 @@
     "homepage": ".",
     "react-dotenv": {
         "whitelist": [
-            "ACCESS_TOKEN"
+            "ACCESS_TOKEN",
+            "API_TOKEN"
         ]
     }
 }
